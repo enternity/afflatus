@@ -13,7 +13,8 @@ class Dog:
 > Thuộc tính lớp dùng cho **tất cả** các đối tượng thuộc cùng một lớp.
 # Instantiating Objects:
 1. Khi bắt đầu bằng khởi tạo ```Dog()```. Tạo ra 2 objects khác nhau.
-# ```super```
+# ```super()``` in Python :
+1. **Để làm gì** : cho bạn truy cập các method trong lớp cha từ lớp con kế thừa nó. ```super()``` return một đối tươn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMDMyMTYyXX0=
+eyJoaXN0b3J5IjpbMTMyNTk5OTY2N119
 -->
