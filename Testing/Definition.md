@@ -17,7 +17,16 @@
 		- Fail.
 		- Ignore.
 		- Pass
-	- 
+	- ***Hiệu quả khi***:
+		- Lặp lại nhiều lần.
+		- Tự động hoàn toàn.
+		- Độc lập các UT khác.
+4. **Thiết kế Unit Test**:
+	- Thiết lập điều kiện cần thiết : khởi tạo đối tượng, xác định nguyên cần thiết ,xây dựng các dữ liệu giả,etc.
+	- Gọi các phương thức kiểm tra.
+	- Kiểm tra sự hoạt động đúng đắn của các phương thức.
+	- Dọn dẹp tài nguyên.
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjA4NjE1NV19
+eyJoaXN0b3J5IjpbLTEwODA2NjU5NTJdfQ==
 -->
