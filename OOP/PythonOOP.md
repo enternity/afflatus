@@ -24,6 +24,10 @@ class Derived2(Derived1):
 ```
 <center><img src="https://cdn.programiz.com/sites/tutorial2program/files/MultilevelInheritance.jpg"></center>
 
+> Gia đình phả hệ, nghĩa là: con kế thừa cha, cha kế thừa từ ông nội,
+
+## Hierarchical Inheritance :
+> Một lớp cha có thể được kế thừa từ nhiều lớp con khác nhau.
 
 # Instance Attributes
 1. Dùng ```__init__(self, *args, **kwargs)``` để khởi tạo.  Khởi tạo bằng ```__init__()``` thì cho để dành riêng cho mỗi đối tượng cùng 1 lớp.
@@ -90,6 +94,6 @@ class Square(Rectangle):
 
 > Dùng function ```__mro__``` hay ```mor()``` để  tìm thứ tự kế thừa.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjEwNjI2NSw4OTM3ODI3ODcsMzI3OT
-A0MTEzXX0=
+eyJoaXN0b3J5IjpbLTE3MTc2NTUwMTAsODkzNzgyNzg3LDMyNz
+kwNDExM119
 -->
