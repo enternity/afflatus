@@ -13,6 +13,8 @@ class Dog:
 > Thuộc tính lớp dùng cho **tất cả** các đối tượng thuộc cùng một lớp.
 # Instantiating Objects:
 1. Khi bắt đầu bằng khởi tạo ```Dog()```. Tạo ra 2 objects khác nhau.
+# Python Object Inheritance:
+1. Dùng cho các lớp con ***extend, overide*** các chức năng.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTE1ODc0OF19
+eyJoaXN0b3J5IjpbMTUyMzY0OTAyN119
 -->
