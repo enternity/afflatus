@@ -10,7 +10,14 @@
 	- ***Test Case*** : tập hợp các test point kiểm tra một chức năng cụ thể.
 	- ***Test Suite***: tập hợp các test case định nghĩa cho từng module hoặc hệ thống con.
 	- ***Regression Testing*** (*Automated Testing*) : Phương pháp kiểm nghiệm tự động . Kết hợp Regression Testing và Unit testing đảm bảo các đoạn mã mới sẽ tốt.
-	- ***Production Code***: 
+	- ***Production Code***: mã nguồn của ứng dụng chuyển giao cho khách hàng.
+	- ***Unit Testing Code***: Không chuyển giao cho khác hàng.
+3. **Vòng đời của Unit Test**:
+	- ***Trạng thái***:
+		- Fail.
+		- Ignore.
+		- Pass
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgyNDI2MDFdfQ==
+eyJoaXN0b3J5IjpbMTQ2MjA4NjE1NV19
 -->
