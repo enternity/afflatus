@@ -15,7 +15,24 @@ class Dog:
 1. Khi bắt đầu bằng khởi tạo ```Dog()```. Tạo ra 2 objects khác nhau.
 # ```super()``` in Python :
 1. **Để làm gì** : cho bạn truy cập các method trong lớp cha từ lớp con kế thừa nó. ```super()``` return một đối tượng tạm của lớp cha cho phép bạn gọi methods lớp cha. Cho phép trao đổi method với số lượng thay đổi code bé nhất.
-2. 
+# ```super()``` in Single Inheritance :
+```python
+class Rectangle:
+    def __init__(self, length, width):
+        self.length = length
+        self.width = width
+
+    def area(self):
+        return self.length * self.width
+
+    def perimeter(self):
+        return 2 * self.length + 2 * self.width
+
+# Here we declare that the Square class inherits from the Rectangle class
+class Square(Rectangle):
+    def __init__(self, length):
+        super().__init__(length, length)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODkxODk2N119
+eyJoaXN0b3J5IjpbMzEzODEwNDMxXX0=
 -->
