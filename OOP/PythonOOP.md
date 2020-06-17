@@ -58,7 +58,9 @@ class Square(Rectangle):
 <center><img src="https://files.realpython.com/media/multiple_inheritance.22fc2c1ac608.png"></center>
 
 # Resolution order in  Python Inheritance:
-<center><img src="https://media.geeksforgeeks.org/wp-content/uploads/220px-diamond_inheritance-svg.png /"></center>
+<center><img src="https://media.geeksforgeeks.org/wp-content/uploads/220px-diamond_inheritance-svg.png"></center>
+<center><i>class D -> class B -> class C -> class A</i></center>
+> Dùng function ```__```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTc3Nzg5OSwzMjc5MDQxMTNdfQ==
+eyJoaXN0b3J5IjpbMTg4NTM4NDY4MywzMjc5MDQxMTNdfQ==
 -->
