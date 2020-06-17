@@ -26,7 +26,11 @@
 	- Gọi các phương thức kiểm tra.
 	- Kiểm tra sự hoạt động đúng đắn của các phương thức.
 	- Dọn dẹp tài nguyên.
-	
+5. **Ứng dụng**:
+	- Kiểm tra các đơn vị nhỏ nhất.
+	- Kiểm tra các trạng thái và ràng buộc của đối tượng ở mức sâu hơn.
+	- Kiểm tra quy trình mở rộng hơn là workflow.
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA2NjU5NTJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODAyMjkwMzZdfQ==
 -->
