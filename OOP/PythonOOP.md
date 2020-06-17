@@ -56,6 +56,9 @@ class Square(Rectangle):
 1. ```super()``` có thể có 2 *params*. Param đầu tiên là lớp con, param thứ hai instance của lớp con
 # ```super()``` trong Đa Kế Thừa :
 <center><img src="https://files.realpython.com/media/multiple_inheritance.22fc2c1ac608.png"></center>
+
+# Resolution order in  Python Inheritance:
+<center><img src="https://media.geeksforgeeks.org/wp-content/uploads/220px-diamond_inheritance-svg.png /"></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3OTA0MTEzXX0=
+eyJoaXN0b3J5IjpbLTI0MTc3Nzg5OSwzMjc5MDQxMTNdfQ==
 -->
