@@ -60,7 +60,8 @@ class Square(Rectangle):
 # Resolution order in  Python Inheritance:
 <center><img src="https://media.geeksforgeeks.org/wp-content/uploads/220px-diamond_inheritance-svg.png"></center>
 <center><i>class D -> class B -> class C -> class A</i></center>
-> Dùng function ```__```
+
+> Dùng function ```__mro__``` hay ```mor()``` để  tìm thứ tự kế thừa.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTM4NDY4MywzMjc5MDQxMTNdfQ==
+eyJoaXN0b3J5IjpbODkzNzgyNzg3LDMyNzkwNDExM119
 -->
