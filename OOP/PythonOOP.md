@@ -54,6 +54,8 @@ class Square(Rectangle):
 > Nói dễ hiểu là tính toán từ lớp cha, xong rồi lấy kết quả đấy để tính toán tiếp.
 # A ```super()``` Deep Live :
 1. ```super()``` có thể có 2 *params*. Param đầu tiên là lớp con, param thứ hai instance của lớp con
+# ```super()``` trong Đa Kế Thừa :
+<center><img src=""></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzgxMDExNzBdfQ==
+eyJoaXN0b3J5IjpbLTE5OTc0NDI5OTFdfQ==
 -->
