@@ -12,7 +12,7 @@ class Dog:
 ```
 > Thuộc tính lớp dùng cho **tất cả** các đối tượng thuộc cùng một lớp.
 # Instantiating Objects:
-1. Khi bă
+1. Khi bắt đầu bằng khởi tạo ```Dog()```. Tạo ra 2 objects khác nhau.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzAxNDYwNjldfQ==
+eyJoaXN0b3J5IjpbMTUxNTE1ODc0OF19
 -->
