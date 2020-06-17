@@ -51,6 +51,9 @@ class Square(Rectangle):
     def __init__(self, length):
         super().__init__(length, length)
 ```
+> Nói dễ hiểu là tính toán từ lớp cha, xong rồi lấy kết quả đấy để tính toán tiếp.
+# A ```super()``` Deep Live :
+1. ```super()``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDI0OTQ3NV19
+eyJoaXN0b3J5IjpbODk0NDU0MzUwXX0=
 -->
