@@ -11,6 +11,8 @@ class MultiDerived(Base1, Base2):
 ```
 <center><img src="https://cdn.programiz.com/sites/tutorial2program/files/MultipleInheritance.jpg"></center>
 
+> Một lúc kế thừa từ nhiều thằng (always phức tạp).
+
 # Multi-level inhertance :
 ```python
 class Base:
@@ -94,6 +96,6 @@ class Square(Rectangle):
 
 > Dùng function ```__mro__``` hay ```mor()``` để  tìm thứ tự kế thừa.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc2NTUwMTAsODkzNzgyNzg3LDMyNz
+eyJoaXN0b3J5IjpbLTE0NjM1Nzc0OTAsODkzNzgyNzg3LDMyNz
 kwNDExM119
 -->
