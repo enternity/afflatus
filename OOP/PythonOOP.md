@@ -1,3 +1,16 @@
+# Multiple Inheritance :
+```python
+class Base1:
+    pass
+
+class Base2:
+    pass
+
+class MultiDerived(Base1, Base2):
+    pass
+```
+<center><img src="https://cdn.programiz.com/sites/tutorial2program/files/MultipleInheritance.jpg"></center>
+
 # Instance Attributes
 1. Dùng ```__init__(self, *args, **kwargs)``` để khởi tạo.  Khởi tạo bằng ```__init__()``` thì cho để dành riêng cho mỗi đối tượng cùng 1 lớp.
 # Class Attributes:
@@ -63,5 +76,6 @@ class Square(Rectangle):
 
 > Dùng function ```__mro__``` hay ```mor()``` để  tìm thứ tự kế thừa.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNzgyNzg3LDMyNzkwNDExM119
+eyJoaXN0b3J5IjpbMTQ1NDQ4OTI0OSw4OTM3ODI3ODcsMzI3OT
+A0MTEzXX0=
 -->
