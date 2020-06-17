@@ -4,8 +4,15 @@
 1. Khai báo ngoài ```__init__()``` . Ví dụ :
 ```python
 class Dog:
-	#
+	# Class Attribute
+	legs = 4
+	def __init__(self, name, age):
+		self.name = name
+		self.age  = age
 ```
+> Thuộc tính lớp dùng cho **tất cả** các đối tượng thuộc cùng một lớp.
+# Instantiating Objects:
+1. Khi bă
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTQ3MjM1MF19
+eyJoaXN0b3J5IjpbLTE5NzAxNDYwNjldfQ==
 -->
