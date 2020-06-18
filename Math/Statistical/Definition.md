@@ -15,8 +15,9 @@ $\bar{x_k} = \frac{1}{n}\sum_{j=1}^{n}x_{jk}~~~,k=1,2,\cdots,p$
 2. **Độ lệch chuẩn**
 - Ví dụ :
 $$s_1^2 = \frac{1}{n}\sum_{j=1}^n(x_{j1} - \bar{x}_1)^2$$
-- Với b
+- Với biến $p$ :
+$$s_{k}^2 = \frac{1}{n}\sum{j=1}^{n}(x_{jk} - \bar{x}_k)^2 ~~~~,k = 1,2,\cdots,p$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MzcxMDM4LC03ODMzOTkwNSw0MzI1Mz
+eyJoaXN0b3J5IjpbNjI2MjgxNzY5LC03ODMzOTkwNSw0MzI1Mz
 MxODRdfQ==
 -->
