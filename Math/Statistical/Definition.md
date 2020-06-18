@@ -29,8 +29,10 @@ $r_{ik} = \frac{s_{ik}}{\sqrt{s_{ii}}\sqrt{s_{kk}}} = \frac{\sum_{j=1}^{n}(x_{ji
 
 > $r \in [-1,1]$
 > $r = 0$ : Hai biến không liên quan nhau.
-> $r < 0$ : hai 
+> $r < 0$ : hai biến nghịch biến.
+> $r > 0$ : đồng biến 
+> *Cho dễ hiểu thôi.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ1Njg3NzEsLTc4MzM5OTA1LDQzMj
-UzMzE4NF19
+eyJoaXN0b3J5IjpbLTczNDA1MDY2NCwtNzgzMzk5MDUsNDMyNT
+MzMTg0XX0=
 -->
