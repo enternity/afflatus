@@ -70,9 +70,11 @@ $$a_{11}(x_1-y_1)^2 + 2a_{12}(x_1-y_1)(x_2-y_2) + a_{22}(x_2-y_2)^2 = c^2$$
 
 <center><img src="https://i.imgur.com/C8cFFoa.png"/></center>
 
-> Với $Q = ()$
+> Với $Q = (y_1,y_2,\cdots,y_p)$, $P=(x_1,x_2,\cdots,x_p)$ thì khoảng cách là :
+
+<center><img src="https://i.imgur.com/e3zw0s6.png"/></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzQ0NTgzMiwyMTEwMjQyMDIzLDkxMj
+eyJoaXN0b3J5IjpbMTA5OTUxMTc1MywyMTEwMjQyMDIzLDkxMj
 M2NDU5MCwtODY5NTUyMTcyLDE5OTk0ODE1NjksLTc4MzM5OTA1
 LDQzMjUzMzE4NF19
 -->
