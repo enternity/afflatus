@@ -59,9 +59,10 @@ $$d(O,P) = \sqrt{a_{11}x_1^2 + 2a_{12}x_1x_2 + a_{22}x_2^2}$$
 
 > Khoảng cách từ $P(x_1,x_2)$ đến $Q(y_1,y_2)$ :
 
-$$d(P,Q) = \sqrt{a_{11}(x_1-y_1)^2 + 2a_{12}(x_1-)}$$
+$$d(P,Q) = \sqrt{a_{11}(x_1-y_1)^2 + 2a_{12}(x_1-y_1)(x_2-y_2) + a_{22}(x_2-y_2)^2}$$
+> $a_{11},a_{12}, a_{22}$ đã biết. Trường hợp đặc biệt, $a_{11} = \1$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODIxNDI2OSw5MTIzNjQ1OTAsLTg2OT
+eyJoaXN0b3J5IjpbMjAxODI3MTIyMiw5MTIzNjQ1OTAsLTg2OT
 U1MjE3MiwxOTk5NDgxNTY5LC03ODMzOTkwNSw0MzI1MzMxODRd
 fQ==
 -->
