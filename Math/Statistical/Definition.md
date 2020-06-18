@@ -44,8 +44,9 @@ $d(O,P) = \sqrt{(x_1^{*})^2 + (x_2^{*})^2} = \sqrt{\frac{x_1^2}{s_{11}} + \frac{
 
 $$d(P,Q) = \sqrt{\frac{(x_1-y_1)^2}{s_{11}} + \frac{(x_2-y_2)^2}{s_{22}} + \frac{(x_3-y_3)^2}{s_{33}} + \cdots + \frac{(x_p-y_p)^2}{s_{pp}}}$$
 
-> 
+> Khoảng cách từ $P$ đến tâm được tính bằng cách gán $y_1=y_2=\cdots = y_p=0$
+> Nếu $s_{11} = s_{22} = \cdots = s_{pp}$, là như khoảng cách Euclid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU1Mjc0MTEsMTk5OTQ4MTU2OSwtNz
-gzMzk5MDUsNDMyNTMzMTg0XX0=
+eyJoaXN0b3J5IjpbLTg2OTU1MjE3MiwxOTk5NDgxNTY5LC03OD
+MzOTkwNSw0MzI1MzMxODRdfQ==
 -->
