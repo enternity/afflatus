@@ -28,8 +28,9 @@ $$s_{ik} = \frac{1}{n}\sum_{j=1}^n(x_{ji} - \bar{x}_i)(x_{jk} - \bar{x}_k) ~~~~i
 $r_{ik} = \frac{s_{ik}}{\sqrt{s_{ii}}\sqrt{s_{kk}}} = \frac{\sum_{j=1}^{n}(x_{ji} - \bar{x}_i)(x_{jk} -\bar{x}_k)}{\sqrt{\sum_{j=1}^{n}(x_{ji} - \bar{x}_i)^2}\sqrt{\sum_{j=1}^{n}(x_{jk} -\bar{x}_k)^2}}$
 
 > $r \in [-1,1]$
-> $r = 0$ : Hệ s
+> $r = 0$ : Hai biến không liên quan nhau.
+> $r < 0$ : hai 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTk0NDc4MywtNzgzMzk5MDUsNDMyNT
-MzMTg0XX0=
+eyJoaXN0b3J5IjpbLTE1MDQ1Njg3NzEsLTc4MzM5OTA1LDQzMj
+UzMzE4NF19
 -->
