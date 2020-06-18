@@ -55,9 +55,9 @@ $$d(O,P)  = \sqrt{\frac{\tilde{x}_1^2}{\tilde{s}_{11}} + \frac{\tilde{x}_2^2}{\t
 > Từ đó :
 
 $$d(O,P) = \sqrt{a_{11}x_1^2 + 2a_{12}x_1x_2 + a_{22}x_2^2}$$
-> Với $a$ là số sao cho khoảng các là **không âm** cho tất cả các giá trị của $x_1$ và $x_2$. Ở đây $a_{11}, a_{12}, a_{22}$ được xác định bằng góc $\theta$, $s_{11}$
+> Với $a$ là số sao cho khoảng các là **không âm** cho tất cả các giá trị của $x_1$ và $x_2$. Ở đây $a_{11}, a_{12}, a_{22}$ được xác định bằng góc $\theta$ và $s_{11},s_{12},s_{22}$ được tính từ dữ liệu. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3Mzk5MDI4LDkxMjM2NDU5MCwtODY5NT
-UyMTcyLDE5OTk0ODE1NjksLTc4MzM5OTA1LDQzMjUzMzE4NF19
-
+eyJoaXN0b3J5IjpbLTUyOTYyMzE4OCw5MTIzNjQ1OTAsLTg2OT
+U1MjE3MiwxOTk5NDgxNTY5LC03ODMzOTkwNSw0MzI1MzMxODRd
+fQ==
 -->
