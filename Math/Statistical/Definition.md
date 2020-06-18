@@ -40,8 +40,8 @@ $d(O,P) = \sqrt{(x_1^{*})^2 + (x_2^{*})^2} = \sqrt{\frac{x_1^2}{s_{11}} + \frac{
 > $\frac{x_1^2}{s_{11}} + \frac{x_2^2}{s_{22}} = c^2$
 <center><img src="https://i.imgur.com/fMgKnkC.png"/></center>
 
-### Khoảng cách thống 
+### Khoảng cách thống kê với hơn 2 nhiều. Cho $P,Q$ có $p$ chiều. $P=(x_1,x_2,\cdots,x_p)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgxMzQwMjAsLTc4MzM5OTA1LDQzMj
-UzMzE4NF19
+eyJoaXN0b3J5IjpbMTk5OTQ4MTU2OSwtNzgzMzk5MDUsNDMyNT
+MzMTg0XX0=
 -->
