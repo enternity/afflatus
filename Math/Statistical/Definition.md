@@ -47,8 +47,8 @@ $$d(P,Q) = \sqrt{\frac{(x_1-y_1)^2}{s_{11}} + \frac{(x_2-y_2)^2}{s_{22}} + \frac
 > Khoảng cách từ $P$ đến tâm được tính bằng cách gán $y_1=y_2=\cdots = y_p=0$
 > Nếu $s_{11} = s_{22} = \cdots = s_{pp}$, là như khoảng cách Euclid.
 > Có một thực tế cần thấy rằng, đôi khi thằng $x_1$ có phương (direction) lớn hơn rất nhiều thằng $x_2$. Vì thế ta cần chuẩn hóa về lại sao cho 2 thằng giá trị đóng góp là như nhau.
-> Khi
+> Khi đó, $P=(\tilde{x}_1,\tilde{x}_2)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTMzMzg4LC04Njk1NTIxNzIsMTk5OT
-Q4MTU2OSwtNzgzMzk5MDUsNDMyNTMzMTg0XX0=
+eyJoaXN0b3J5IjpbLTEzODIyNzQxNTksLTg2OTU1MjE3MiwxOT
+k5NDgxNTY5LC03ODMzOTkwNSw0MzI1MzMxODRdfQ==
 -->
