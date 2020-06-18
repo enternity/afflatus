@@ -5,7 +5,7 @@
 <center><img src="https://i.imgur.com/Kdz0E9n.png"/></center>
 
 > Ta có các công thức sau :
-> 
+> Cho $x_{11},$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyNTMzMTg0XX0=
+eyJoaXN0b3J5IjpbMTg1OTgwNjUzMyw0MzI1MzMxODRdfQ==
 -->
