@@ -36,8 +36,8 @@ $r_{ik} = \frac{s_{ik}}{\sqrt{s_{ii}}\sqrt{s_{kk}}} = \frac{\sum_{j=1}^{n}(x_{ji
 <center><img src="https://i.imgur.com/ugGhY9g.png"/></center>
 
 # Khoảng cách thống kê.
-$d(O,P) = \sqrt{(x_1^{*})^2 + (x_2^{*})^2} = \sqrt{\frac{x_1^2}{s_{1}}}$
+$d(O,P) = \sqrt{(x_1^{*})^2 + (x_2^{*})^2} = \sqrt{\frac{x_1^2}{s_{11}} + \frac{x_2^2}{s_{22}}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIwMzEwMDksLTc4MzM5OTA1LDQzMj
-UzMzE4NF19
+eyJoaXN0b3J5IjpbLTUzODYyMjMyNCwtNzgzMzk5MDUsNDMyNT
+MzMTg0XX0=
 -->
