@@ -60,9 +60,9 @@ $$d(O,P) = \sqrt{a_{11}x_1^2 + 2a_{12}x_1x_2 + a_{22}x_2^2}$$
 > Khoảng cách từ $P(x_1,x_2)$ đến $Q(y_1,y_2)$ :
 
 $$d(P,Q) = \sqrt{a_{11}(x_1-y_1)^2 + 2a_{12}(x_1-y_1)(x_2-y_2) + a_{22}(x_2-y_2)^2}$$
-> $a_{11},a_{12}, a_{22}$ đã biết. Trường hợp đặc biệt, $a_{11} = \1$
+> $a_{11},a_{12}, a_{22}$ đã biết. Trường hợp đặc biệt, $a_{11} = ^1/_{s_{11}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODI3MTIyMiw5MTIzNjQ1OTAsLTg2OT
-U1MjE3MiwxOTk5NDgxNTY5LC03ODMzOTkwNSw0MzI1MzMxODRd
-fQ==
+eyJoaXN0b3J5IjpbLTE4ODA3MjQyNTgsOTEyMzY0NTkwLC04Nj
+k1NTIxNzIsMTk5OTQ4MTU2OSwtNzgzMzk5MDUsNDMyNTMzMTg0
+XX0=
 -->
