@@ -13,7 +13,10 @@ $\bar{x_1} = \frac{1}{n}\sum_{j=1}^{n}x_{j1}~~~,k=1,2,\cdots,p$
 $\bar{x_k} = \frac{1}{n}\sum_{j=1}^{n}x_{jk}~~~,k=1,2,\cdots,p$
 
 2. **Độ lệch chuẩn**
+- Ví dụ :
+$$s_1^2 = \frac{1}{n}\sum_{j=1}^n(x_{j1} - \bar{x}_1)^2$$
+- Với b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODkwMzc5NiwtNzgzMzk5MDUsNDMyNT
-MzMTg0XX0=
+eyJoaXN0b3J5IjpbOTI2MzcxMDM4LC03ODMzOTkwNSw0MzI1Mz
+MxODRdfQ==
 -->
