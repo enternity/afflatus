@@ -4,7 +4,8 @@
 
 3. ```__repr__(self)``` : built-in function và tạo ra 1 chuỗi để mô tả về đối tượng. Nó *"official"* cho các đối tương thuộc cùng một lớp
 
-4. ```__str__(self)``` :  cũng như 
+4. ```__str__(self)``` :  cũng như ```__repr__()``` tuy nhiên nó không có *"offical"*. Hiểu đơn giản hơn nó định nghĩa cho từng đối tượng trong cùng 1 lớp.
+5. ```___cmp__(self,other)``` : So sánh tất nhiên rồi, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTcwMzgxMywtOTU0NjY0NjIyXX0=
+eyJoaXN0b3J5IjpbMTI3NzEyODUwNywtOTU0NjY0NjIyXX0=
 -->
