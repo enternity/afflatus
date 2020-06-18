@@ -32,7 +32,9 @@ $r_{ik} = \frac{s_{ik}}{\sqrt{s_{ii}}\sqrt{s_{kk}}} = \frac{\sum_{j=1}^{n}(x_{ji
 > $r < 0$ : hai biến nghịch biến.
 > $r > 0$ : đồng biến 
 > *Cho dễ hiểu thôi.*
+
+<center><img src="https://i.imgur.com/ugGhY9g.png"/></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDA1MDY2NCwtNzgzMzk5MDUsNDMyNT
-MzMTg0XX0=
+eyJoaXN0b3J5IjpbLTE1NDU1NzM0NTMsLTc4MzM5OTA1LDQzMj
+UzMzE4NF19
 -->
