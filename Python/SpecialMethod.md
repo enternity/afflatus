@@ -6,7 +6,10 @@
 
 4. ```__str__(self)``` :  cũng như ```__repr__()``` tuy nhiên nó không có *"offical"*. Hiểu đơn giản hơn nó định nghĩa cho từng đối tượng trong cùng 1 lớp.
 5. ```___cmp__(self,other)``` : So sánh tất nhiên rồi. Trả về số âm nếu ```self < other```. Số dương nếu ```self > other```. 0 nếu ```self == other```. Nếu không định nghĩa ```__cmp__()``` thì sẽ so sánh *object identity*(id - aka địa chỉ)  của đối tượng.
-6. ```__hash__(self)``` : 
+6. ```__hash__(self)``` :  hash ra 32-bit interger thôi. Hay dùng cho các toán tử trên dictionay (key,value)
+7. ```__nonzero__(self)``` : 
+> continue...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzE2MTMwMSwtOTU0NjY0NjIyXX0=
+eyJoaXN0b3J5IjpbLTEzMDAyMzg0MzMsMTI5NzE2MTMwMSwtOT
+U0NjY0NjIyXX0=
 -->
