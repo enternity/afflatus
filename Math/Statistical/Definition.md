@@ -21,8 +21,10 @@ $$s_{k}^2 = s_{kk} =\frac{1}{n}\sum{j=1}^{n}(x_{jk} - \bar{x}_k)^2 ~~~~,k = 1,2,
 - Ví dụ tương quan giữa 2 biến $1,2$ :
 $$s_{12} = \frac{1}{n}\sum_{j=1}^n(x_{j1} - \bar{x}_1)(x_{j2} - \bar{x}_2)$$
 - Với tương quan giữa 2 biến $i,k$
-$$s_{ik} = \frac{1}{n}\sum_{j=1}^n(x_{j1} - \bar{x}_1)(x_{j2} - \bar{x}_2)$$
+$$s_{ik} = \frac{1}{n}\sum_{j=1}^n(x_{ji} - \bar{x}_i)(x_{jk} - \bar{x}_k) ~~~~i=1,2,\cdots,p,~~~k=1,2,\cdots,p$$
+
+> Ma trận tương quan là ma trận đối xứng qua đường chéo chính.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE1OTk0NDUsLTc4MzM5OTA1LDQzMj
-UzMzE4NF19
+eyJoaXN0b3J5IjpbNzYyODk2NjkwLC03ODMzOTkwNSw0MzI1Mz
+MxODRdfQ==
 -->
