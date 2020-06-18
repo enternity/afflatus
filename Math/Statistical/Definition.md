@@ -17,14 +17,16 @@ $\bar{x_k} = \frac{1}{n}\sum_{j=1}^{n}x_{jk}~~~,k=1,2,\cdots,p$
 $$s_1^2 = \frac{1}{n}\sum_{j=1}^n(x_{j1} - \bar{x}_1)^2$$
 - Với biến $p$ :
 $$s_{k}^2 = s_{kk} =\frac{1}{n}\sum{j=1}^{n}(x_{jk} - \bar{x}_k)^2 ~~~~,k = 1,2,\cdots,p$$
-3. **Hệ số tương quan** :
+3. **Hiệp phương sai** :
 - Ví dụ tương quan giữa 2 biến $1,2$ :
 $$s_{12} = \frac{1}{n}\sum_{j=1}^n(x_{j1} - \bar{x}_1)(x_{j2} - \bar{x}_2)$$
 - Với tương quan giữa 2 biến $i,k$
 $$s_{ik} = \frac{1}{n}\sum_{j=1}^n(x_{ji} - \bar{x}_i)(x_{jk} - \bar{x}_k) ~~~~i=1,2,\cdots,p,~~~k=1,2,\cdots,p$$
 
-> Ma trận tương quan là ma trận đối xứng qua đường chéo chính.
+> Ma trận hiệp phương sai là ma trận đối xứng qua đường chéo chính.
+4. **Hệ số tương quan** :
+$r_{ik} $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyODk2NjkwLC03ODMzOTkwNSw0MzI1Mz
+eyJoaXN0b3J5IjpbNzI3MDgwOTI0LC03ODMzOTkwNSw0MzI1Mz
 MxODRdfQ==
 -->
