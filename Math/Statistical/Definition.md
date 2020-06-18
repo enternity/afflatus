@@ -19,8 +19,10 @@ $$s_1^2 = \frac{1}{n}\sum_{j=1}^n(x_{j1} - \bar{x}_1)^2$$
 $$s_{k}^2 = s_{kk} =\frac{1}{n}\sum{j=1}^{n}(x_{jk} - \bar{x}_k)^2 ~~~~,k = 1,2,\cdots,p$$
 3. **Hệ số tương quan** :
 - Ví dụ tương quan giữa 2 biến $1,2$ :
-$$s_{12} = \frac{1}{n}\sum_{j}$$
+$$s_{12} = \frac{1}{n}\sum_{j=1}^n(x_{j1} - \bar{x}_1)(x_{j2} - \bar{x}_2)$$
+- Với tương quan giữa 2 biến $i,k$
+$$s_{ik} = \frac{1}{n}\sum_{j=1}^n(x_{j1} - \bar{x}_1)(x_{j2} - \bar{x}_2)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Mzk5NjU2OSwtNzgzMzk5MDUsNDMyNT
-MzMTg0XX0=
+eyJoaXN0b3J5IjpbLTE1MTE1OTk0NDUsLTc4MzM5OTA1LDQzMj
+UzMzE4NF19
 -->
