@@ -25,8 +25,11 @@ $$s_{ik} = \frac{1}{n}\sum_{j=1}^n(x_{ji} - \bar{x}_i)(x_{jk} - \bar{x}_k) ~~~~i
 
 > Ma trận hiệp phương sai là ma trận đối xứng qua đường chéo chính.
 4. **Hệ số tương quan** :
-$r_{ik} = \frac{s_{ik}}{\sqrt{s_{ii}}\sqrt{s_{kk}}} = \frac{\sum_{j=1}^{n}(x_{ji} - \bar{x}_i)(x_{jk} -\bar{x}_k)}{\sqrt{\frac{\sum_{j=1}^{n}()}}}$
+$r_{ik} = \frac{s_{ik}}{\sqrt{s_{ii}}\sqrt{s_{kk}}} = \frac{\sum_{j=1}^{n}(x_{ji} - \bar{x}_i)(x_{jk} -\bar{x}_k)}{\sqrt{\sum_{j=1}^{n}(x_{ji} - \bar{x}_i)^2}\sqrt{\sum_{j=1}^{n}(x_{jk} -\bar{x}_k)^2}}$
+
+> $r \in [-1,1]$
+> $r = 0$ : Hệ s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTY5MDYxNTcsLTc4MzM5OTA1LDQzMj
-UzMzE4NF19
+eyJoaXN0b3J5IjpbLTI4MTk0NDc4MywtNzgzMzk5MDUsNDMyNT
+MzMTg0XX0=
 -->
