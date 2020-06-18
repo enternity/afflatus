@@ -16,8 +16,11 @@ $\bar{x_k} = \frac{1}{n}\sum_{j=1}^{n}x_{jk}~~~,k=1,2,\cdots,p$
 - Ví dụ :
 $$s_1^2 = \frac{1}{n}\sum_{j=1}^n(x_{j1} - \bar{x}_1)^2$$
 - Với biến $p$ :
-$$s_{k}^2 = \frac{1}{n}\sum{j=1}^{n}(x_{jk} - \bar{x}_k)^2 ~~~~,k = 1,2,\cdots,p$$
+$$s_{k}^2 = s_{kk} =\frac{1}{n}\sum{j=1}^{n}(x_{jk} - \bar{x}_k)^2 ~~~~,k = 1,2,\cdots,p$$
+3. **Hệ số tương quan** :
+- Ví dụ tương quan giữa 2 biến $1,2$ :
+$$s_{12} = \frac{1}{n}\sum_{j}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2MjgxNzY5LC03ODMzOTkwNSw0MzI1Mz
-MxODRdfQ==
+eyJoaXN0b3J5IjpbLTc5Mzk5NjU2OSwtNzgzMzk5MDUsNDMyNT
+MzMTg0XX0=
 -->
