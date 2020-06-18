@@ -73,8 +73,12 @@ $$a_{11}(x_1-y_1)^2 + 2a_{12}(x_1-y_1)(x_2-y_2) + a_{22}(x_2-y_2)^2 = c^2$$
 > Với $Q = (y_1,y_2,\cdots,y_p)$, $P=(x_1,x_2,\cdots,x_p)$ thì khoảng cách là :
 
 <center><img src="https://i.imgur.com/e3zw0s6.png"/></center>
+
+> Chú ý rằng khoảng cách ở trên được xác định bởi hệ số (trọng số) $a_{ik}, i = 1, 2, \cdots, p$, $k=1,2,\cdots,p$.  
+
+$$\begin{bmatrix}\end{bmatrix}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTUxMTc1MywyMTEwMjQyMDIzLDkxMj
-M2NDU5MCwtODY5NTUyMTcyLDE5OTk0ODE1NjksLTc4MzM5OTA1
-LDQzMjUzMzE4NF19
+eyJoaXN0b3J5IjpbMTE3MDIzMzYsMTA5OTUxMTc1MywyMTEwMj
+QyMDIzLDkxMjM2NDU5MCwtODY5NTUyMTcyLDE5OTk0ODE1Njks
+LTc4MzM5OTA1LDQzMjUzMzE4NF19
 -->
