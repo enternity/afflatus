@@ -7,11 +7,13 @@
 > Ta có các công thức sau :
 > Cho $x_{11},x_{21},\cdots,x_{n1}$ là giá trị của biến $\text{Variable 1}$. Trung bình của biến là: 
 
-$\bar{x_1} = \frac{1}{n}\sum_{j=1}^{n}x_{j1}$
-> Từ đó suy ra trung bình của biến thứ $k$ là 
+$\bar{x_1} = \frac{1}{n}\sum_{j=1}^{n}x_{j1}~~~,k=1,2,\cdots,p$
+1. **Trung bình** của biến thứ $k$ là 
 
-$\bar{x_1} = \frac{1}{n}\sum_{j=1}^{n}x_{j1}$
+$\bar{x_k} = \frac{1}{n}\sum_{j=1}^{n}x_{jk}~~~,k=1,2,\cdots,p$
+
+2. **Độ lệch chuẩn**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MjMwOTE2LC03ODMzOTkwNSw0MzI1Mz
-MxODRdfQ==
+eyJoaXN0b3J5IjpbMTk4ODkwMzc5NiwtNzgzMzk5MDUsNDMyNT
+MzMTg0XX0=
 -->
