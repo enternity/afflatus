@@ -50,8 +50,9 @@ $$d(P,Q) = \sqrt{\frac{(x_1-y_1)^2}{s_{11}} + \frac{(x_2-y_2)^2}{s_{22}} + \frac
 > Khi đó,  khoảng cách từ $P=(\tilde{x}_1,\tilde{x}_2)$ đến tâm $O=(0,0)$ là 
 
 $$d(O,P)  = \sqrt{\frac{\tilde{x}_1^2}{\tilde{s}_{11}} + \frac{\tilde{x}_2^2}{\tilde{s}_{22}}}$$
-> Với $\tilde{x}_1 = x_1\cos{($
+> Với $\tilde{x}_1 = x_1\cos(\theta) + x_2\sin(\theta)$
+> Với $\tilde{x}_2 = -x_1\sin(\theta) + x_2\cos(\theta)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA5MDE4NzEsLTg2OTU1MjE3MiwxOT
-k5NDgxNTY5LC03ODMzOTkwNSw0MzI1MzMxODRdfQ==
+eyJoaXN0b3J5IjpbMTMyMzU5NDEwLC04Njk1NTIxNzIsMTk5OT
+Q4MTU2OSwtNzgzMzk5MDUsNDMyNTMzMTg0XX0=
 -->
