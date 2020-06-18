@@ -52,7 +52,11 @@ $$d(P,Q) = \sqrt{\frac{(x_1-y_1)^2}{s_{11}} + \frac{(x_2-y_2)^2}{s_{22}} + \frac
 $$d(O,P)  = \sqrt{\frac{\tilde{x}_1^2}{\tilde{s}_{11}} + \frac{\tilde{x}_2^2}{\tilde{s}_{22}}}$$
 > Với $\tilde{x}_1 = x_1\cos(\theta) + x_2\sin(\theta)$
 > Với $\tilde{x}_2 = -x_1\sin(\theta) + x_2\cos(\theta)$
+> Từ đó :
+
+$$d(O,P) = \sqrt{a_{11}x_1^2 + 2a_{12}x_1x_2 + a_{22}x_2^2}$$
+> Với 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzU5NDEwLC04Njk1NTIxNzIsMTk5OT
-Q4MTU2OSwtNzgzMzk5MDUsNDMyNTMzMTg0XX0=
+eyJoaXN0b3J5IjpbLTI3ODM3MzEwMSwtODY5NTUyMTcyLDE5OT
+k0ODE1NjksLTc4MzM5OTA1LDQzMjUzMzE4NF19
 -->
