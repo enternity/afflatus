@@ -76,9 +76,9 @@ $$a_{11}(x_1-y_1)^2 + 2a_{12}(x_1-y_1)(x_2-y_2) + a_{22}(x_2-y_2)^2 = c^2$$
 
 > Chú ý rằng khoảng cách ở trên được xác định bởi hệ số (trọng số) $a_{ik}, i = 1, 2, \cdots, p$, $k=1,2,\cdots,p$.  
 
-$$\begin{bmatrix}a_{11} & a_{12} & \cdots a_{1p} \\a_{12} & a_{22} & \cdots a_{2p} \\ \vdots & \vdots & \ddots & \vdots \\ a_{1p} & a_{2p} & \cdots a_{pp} \\ \end{bmatrix}$$
+$$\begin{bmatrix}a_{11} & a_{12} & \cdots & a_{1p} \\a_{12} & a_{22} & \cdots & a_{2p} \\ \vdots & \vdots & \ddots & \vdots \\ a_{1p} & a_{2p} & \cdots & a_{pp} \\ \end{bmatrix}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzUwODIyMjcsMTE3MDIzMzYsMTA5OT
-UxMTc1MywyMTEwMjQyMDIzLDkxMjM2NDU5MCwtODY5NTUyMTcy
-LDE5OTk0ODE1NjksLTc4MzM5OTA1LDQzMjUzMzE4NF19
+eyJoaXN0b3J5IjpbMTMxNzYxNjE5LDExNzAyMzM2LDEwOTk1MT
+E3NTMsMjExMDI0MjAyMyw5MTIzNjQ1OTAsLTg2OTU1MjE3Miwx
+OTk5NDgxNTY5LC03ODMzOTkwNSw0MzI1MzMxODRdfQ==
 -->
