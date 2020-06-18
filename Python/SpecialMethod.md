@@ -1,5 +1,8 @@
 1. ```__init__(self)```  : được gọi khi instance được tạo.
 2. ```__del__(self)``` : gọi khi instance phải bị huyr. Hay gọi là *destructor*. Nếu lớp cha có method ```__del__()``` thì lớp con phải định nghĩa rõ ràng để chắc chắn xóa đúng.
+> continue ... Vì hơi khó hiểu.
+
+3. ```__repr__(self)``` : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDY2NDYyMl19
+eyJoaXN0b3J5IjpbMTQ1ODQ3OTQxLC05NTQ2NjQ2MjJdfQ==
 -->
