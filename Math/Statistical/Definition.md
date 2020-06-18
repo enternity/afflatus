@@ -69,8 +69,10 @@ $$a_{11}(x_1-y_1)^2 + 2a_{12}(x_1-y_1)(x_2-y_2) + a_{22}(x_2-y_2)^2 = c^2$$
 > Các trường hợp đặc biệt khác :
 
 <center><img src="https://i.imgur.com/C8cFFoa.png"/></center>
+
+> Với $Q = ()$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDI0MjAyMyw5MTIzNjQ1OTAsLTg2OT
-U1MjE3MiwxOTk5NDgxNTY5LC03ODMzOTkwNSw0MzI1MzMxODRd
-fQ==
+eyJoaXN0b3J5IjpbLTYxNzQ0NTgzMiwyMTEwMjQyMDIzLDkxMj
+M2NDU5MCwtODY5NTUyMTcyLDE5OTk0ODE1NjksLTc4MzM5OTA1
+LDQzMjUzMzE4NF19
 -->
