@@ -42,8 +42,10 @@ $d(O,P) = \sqrt{(x_1^{*})^2 + (x_2^{*})^2} = \sqrt{\frac{x_1^2}{s_{11}} + \frac{
 
 ### Khoảng cách thống kê với hơn 2 nhiều. Cho $P,Q$ có $p$ chiều. $P=(x_1,x_2,\cdots,x_p), Q=(x_1,x_2,\cdots,x_p)$. 
 
-$$d(P,Q) = \sqrt{\frac{(x_1-y_1)^2}{s_{11}} + \frac{(x_2-y_2)^2}{s_{22}} + \frac{(x_3-y_3)^2}{s_{33}}} + \cdots + \frac{(x_p-y_p)^2}{s_{pp}}$$
+$$d(P,Q) = \sqrt{\frac{(x_1-y_1)^2}{s_{11}} + \frac{(x_2-y_2)^2}{s_{22}} + \frac{(x_3-y_3)^2}{s_{33}} + \cdots + \frac{(x_p-y_p)^2}{s_{pp}}}$$
+
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNTU0OTU5LDE5OTk0ODE1NjksLTc4Mz
-M5OTA1LDQzMjUzMzE4NF19
+eyJoaXN0b3J5IjpbLTEyMzU1Mjc0MTEsMTk5OTQ4MTU2OSwtNz
+gzMzk5MDUsNDMyNTMzMTg0XX0=
 -->
