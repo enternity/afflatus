@@ -161,7 +161,9 @@ $$\sum_{j=1}^{n}(x_j - \mu)(x_j - \mu)^T = n\Sigma^T$$
 
 $$\Sigma = \frac{\sum_{j=1}^{n}(x_j - \mu)(x_j - \mu)^T }{n}$$
 
+4. Ứng dụng của Maximum LikeLihood :
+	- 
 *_ Link tính đạo hàm ma trận : https://goo.gl/JKg631_*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzE5MDczMl19
+eyJoaXN0b3J5IjpbMjAzMTgyMTE2NywxMDMzMTkwNzMyXX0=
 -->
