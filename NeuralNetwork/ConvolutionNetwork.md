@@ -8,7 +8,10 @@
 5. Output: $y=f(a)=\sigma\left(\sum_{i=1}^n x_iw_i+b\right)$
 6. Thông thường *bias* $b=1$
 # Non-linearities: Sigmoid
-1. $\sigma(\mathbf{z}) = \frac{1}{1+\exp(-\mathbf{z})}$
+1. $\sigma(\mathbf{z}) = \frac{1}{1+\exp(-\mathbf{z})}$.
+2. Nằm trong đoạn từ $[0,1]$.
+3. Đạo hàm tiến về không.
+4. Không được dùng trong 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzU0MDMzMCwxNDk2MTQ3ODU2XX0=
+eyJoaXN0b3J5IjpbMjEyODgxODQwOSwxNDk2MTQ3ODU2XX0=
 -->
