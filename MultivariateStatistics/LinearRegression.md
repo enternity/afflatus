@@ -17,6 +17,8 @@
 # Hệ số xác định hiệu chỉnh.
 1. Đưa thêm biến vào mô hình $\Rightarrow k ~tăng$
 2. $TSS$ không phu thuộc vào $k$ (tổng bình phương độ lỗi) vì : 
+3. $\bar{R}^2=$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTMzOTE0LC0xMDM1NzQyMzg1XX0=
+eyJoaXN0b3J5IjpbLTE4NjI0NTY5MDEsMTczMTMzOTE0LC0xMD
+M1NzQyMzg1XX0=
 -->
