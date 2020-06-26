@@ -10,7 +10,9 @@
 
 # Phương pháp giải
 1. **Chuẩn hóa** : để cho mỗi biến đóng vai trò như nhau đối với việc phân tích.
+2. **Tính ma trận hiệp phương sai**
+3. **Tính eigen-value, eigen-vector**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzQxNDIwLDEyMTI4MzA4MjBdfQ==
+eyJoaXN0b3J5IjpbLTg5MDc5NDQ3MSwxMjEyODMwODIwXX0=
 -->
