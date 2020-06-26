@@ -8,9 +8,9 @@
 1. Cực đại hóa $Var(\mathbf{Y}_i)$
 2. Hệ số tương quan = 0
 
-# Phuowng phaáp giải
-1. **Ch
+# Phương pháp giải
+1. **Chuẩn hóa** : để cho mỗi biến đóng vai trò như nhau đối với việc phân tích.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjE2MjA4OSwxMjEyODMwODIwXX0=
+eyJoaXN0b3J5IjpbLTI2MzQxNDIwLDEyMTI4MzA4MjBdfQ==
 -->
