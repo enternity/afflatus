@@ -42,8 +42,13 @@
 
 # Multiple Layers.
 1. Neural Networks bao gồm nhiều lớp neuron. Cấu trúc tuần hoàn. Các model cơ bản giả sử là *full-connections* giữa mỗi lớp.
-2. Các lớp giữa input, output được goi là *hidden-;a*
+2. Các lớp giữa input, output được goi là *hidden layers*
+3. Các tên cúng cơm khác :
+	- *Artificial Neural Nets (ANN)*
+	- *Multi-layer Perceptron (MLP)*
+	- *Full-connected Network*
+4. Các neurons thường được gọi là các đơn vị
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTQ0NTcwMSw2NDk0MTYwMTUsMTQ5Nj
+eyJoaXN0b3J5IjpbMTkxNjA4Mjc2NSw2NDk0MTYwMTUsMTQ5Nj
 E0Nzg1Nl19
 -->
