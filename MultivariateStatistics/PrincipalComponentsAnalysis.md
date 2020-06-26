@@ -8,6 +8,9 @@
 1. Cực đại hóa $Var(\mathbf{Y}_i)$
 2. Hệ số tương quan = 0
 
+# Phuowng phaáp giải
+1. **Ch
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjgzMDgyMF19
+eyJoaXN0b3J5IjpbMTkwMjE2MjA4OSwxMjEyODMwODIwXX0=
 -->
