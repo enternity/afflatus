@@ -26,7 +26,9 @@
 ## Rectified Linear (ReLU)
 1. $\sigma(\mathbf{z}) = \max(\mathbf{z},0)$.
 2. Nằm trong khoảng $[0,+\inf]$
-3. Dễ để implement: $\frac{}{}$
+3. Dễ để implement: $\frac{\partial \sigma(\mathbf{z})}{\partial \mathbf{z}} = \{0,1\}$
+4. Tăng nhanh việc hội tụ (nhanh hơn 6 lần so với $\$)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5NDE2MDE1LDE0OTYxNDc4NTZdfQ==
+eyJoaXN0b3J5IjpbLTE1ODk2MzkwMTAsNjQ5NDE2MDE1LDE0OT
+YxNDc4NTZdfQ==
 -->
