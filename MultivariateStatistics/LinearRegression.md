@@ -21,8 +21,8 @@
 4. Comment :
 	- Thêm biến có ý nghĩa $k$(số mẫu) tăng. $RSS$(sai số) giảm.
 	- Thêm biến ko có ý nghĩa $k$. $RSS$ không bị giảm hoặc tăng ít
-	> Có nghĩa là $RSS$ sẽ ít bị ảnh hưởng bởi $k$
+	> Có nghĩa là $RSS$ sẽ ít bị ảnh hưởng bởi $k$. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg0NjAyNjYsMTczMTMzOTE0LC0xMD
+eyJoaXN0b3J5IjpbLTEwMjY0MDQ3MDAsMTczMTMzOTE0LC0xMD
 M1NzQyMzg1XX0=
 -->
