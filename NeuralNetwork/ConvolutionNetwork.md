@@ -52,8 +52,10 @@
 <center><img src="https://i.imgur.com/JqJ5IoN.png" /></center>
 
 # Mô hình 3 lớp MLP
-1. Quy ước, số *hidden lay*
+1. Quy ước, số *hidden layers* = *hidden* + *output* (không bao gồm input).
+2. Mô hình 3-layer có 2 hidden layers.
+3. Params : ma trận trọng số $\mathbf{W}^1,\mathbf{W}^2,\mathbf{W}^3$, và vecotr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDI0MjIzNyw2NDk0MTYwMTUsMTQ5Nj
+eyJoaXN0b3J5IjpbMTMzMjcxMjQyNCw2NDk0MTYwMTUsMTQ5Nj
 E0Nzg1Nl19
 -->
