@@ -48,7 +48,12 @@
 	- *Multi-layer Perceptron (MLP)*
 	- *Full-connected Network*
 4. Các neurons thường được gọi là các đơn vị
+
+<center><img src="https://i.imgur.com/JqJ5IoN.png" /></center>
+
+# Mô hình 3 lớp MLP
+1. Quy ước, số *hidden lay*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjA4Mjc2NSw2NDk0MTYwMTUsMTQ5Nj
+eyJoaXN0b3J5IjpbMTc1NDI0MjIzNyw2NDk0MTYwMTUsMTQ5Nj
 E0Nzg1Nl19
 -->
