@@ -70,8 +70,8 @@ Dựa theo tỉ lệ $units/layers$ :
 2. Forward-pass (f-prop) thông qua mô hình để dự đoán.
 3. Tính sai số dựa trên *cost function* C để so sánh sự đoán với target $y$
 4. Dùng back-propagation (b-prop) để truyền lỗi thông qua model, điều chỉnh tham số và cực tiểu hóa lỗi $E$.
-5. Mỗi lớp là khác nhau. 
+5. Dùng **Stochastic Gradient Descent (SGD)** để cập nhật trọng số.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU1MTc0MDgsNjQ5NDE2MDE1LDE0OT
-YxNDc4NTZdfQ==
+eyJoaXN0b3J5IjpbMTAyNjUzNzM0OCw2NDk0MTYwMTUsMTQ5Nj
+E0Nzg1Nl19
 -->
