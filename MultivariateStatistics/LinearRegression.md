@@ -15,7 +15,7 @@
 
 > **Chú ý** : Cần phải tìm mẫu phù hợp với giả thuyết
 # Hệ số xác định hiệu chỉnh.
-
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ2NjI5MTBdfQ==
+eyJoaXN0b3J5IjpbLTEwMzU3NDIzODVdfQ==
 -->
