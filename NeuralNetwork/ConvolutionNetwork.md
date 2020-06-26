@@ -27,8 +27,13 @@
 1. $\sigma(\mathbf{z}) = \max(\mathbf{z},0)$.
 2. Nằm trong khoảng $[0,+\inf]$
 3. Dễ để implement: $\frac{\partial \sigma(\mathbf{z})}{\partial \mathbf{z}} = \{0,1\}$
-4. Tăng nhanh việc hội tụ (nhanh hơn 6 lần so với $\$)
+4. Tăng nhanh việc hội tụ (nhanh hơn 6 lần so với $\tanh$).
+5. Tuy nhiên nếu có phần âm lớn, đạo hàm luôn bằng 0,
+6. Thường được dùng trong các model hiện tại.
+7. Thông tin thêm tại đây : [tại đây](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
+
+## Leaky ReLU.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk2MzkwMTAsNjQ5NDE2MDE1LDE0OT
-YxNDc4NTZdfQ==
+eyJoaXN0b3J5IjpbNjQ3NjY2OTYyLDY0OTQxNjAxNSwxNDk2MT
+Q3ODU2XX0=
 -->
