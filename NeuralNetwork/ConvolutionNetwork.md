@@ -17,7 +17,10 @@
 6. Thông tin thêm : [tại đây](https://vi.wikipedia.org/wiki/H%C3%A0m_sigmoid)
 
 ## Tanh Function
-1. $\sigma(\mathbf{z})=\tanh(\mat)$
+1. $\sigma(\mathbf{z})=\tanh(\mathbf{z})$
+2. Nằm trong khoảng $[+1,-1]$
+3. Trung tâm tại $0$
+4. Ưu tiên hơn ***sigmoid***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA1MTUwODAsMTQ5NjE0Nzg1Nl19
+eyJoaXN0b3J5IjpbLTEzMTA0Mjc3MTAsMTQ5NjE0Nzg1Nl19
 -->
