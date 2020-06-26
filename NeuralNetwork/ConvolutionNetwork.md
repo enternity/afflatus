@@ -39,7 +39,11 @@
 4. $\alpha$ có thể học được..
 
 > Tìm hiểu thêm các ***Non-linearities*** tại đây : [https://medium.com/@himanshuxd/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e](https://medium.com/@himanshuxd/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e)
+
+# Multiple Layers.
+1. Neural Networks bao gồm nhiều lớp neuron. Cấu trúc tuần hoàn. Các model cơ bản giả sử là *full-connections* giữa mỗi lớp.
+2. Các lớp giữa input, output được goi là *hidden-;a*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTAyMjczMSw2NDk0MTYwMTUsMTQ5Nj
+eyJoaXN0b3J5IjpbMjAxOTQ0NTcwMSw2NDk0MTYwMTUsMTQ5Nj
 E0Nzg1Nl19
 -->
