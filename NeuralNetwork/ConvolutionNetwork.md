@@ -24,7 +24,9 @@
 5. Thông tin thêm về các hàm *hyperbolic*: [tại đây](https://vi.wikipedia.org/wiki/H%C3%A0m_hyperbolic)
 
 ## Rectified Linear (ReLU)
-1. $\sigma(\mathbf{z}) = \max(\mathbf{z},0)$
+1. $\sigma(\mathbf{z}) = \max(\mathbf{z},0)$.
+2. Nằm trong khoảng $[0,+\inf]$
+3. Dễ để implement: $\frac{}{}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA3MjYwODYsMTQ5NjE0Nzg1Nl19
+eyJoaXN0b3J5IjpbNjQ5NDE2MDE1LDE0OTYxNDc4NTZdfQ==
 -->
