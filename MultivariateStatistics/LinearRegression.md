@@ -3,7 +3,10 @@
 
 # Oridinary Least Square
 1. Hệ số xác định $\mathbf{Y}_i = \hat{\mathbf{Y}}_i + \epsilon_i$
-2. $ESS=\sum_{i=1}^{n}()$
+2. $ESS=\sum_{i=1}^{n}\left(\hat{\mathbf{Y}}_i - \bar{\mathbf{Y}}\right)^2$
+> 
+3. $RSS= \sum_{i=1}^n\epsilon_i^2$
+> Tổng độ lỗi của mẫu với 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjIxODk1NV19
+eyJoaXN0b3J5IjpbLTU5NDgzNDY4MF19
 -->
