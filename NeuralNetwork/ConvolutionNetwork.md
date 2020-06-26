@@ -32,8 +32,10 @@
 6. Thường được dùng trong các model hiện tại.
 7. Thông tin thêm tại đây : [tại đây](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
 
-## Leaky ReLU.
+## Leaky ReLU
+1. $\sigma(\mathbf{z}) = 1[z>0]\max(0,x) + 1[z<0]\max(0,\alpha \mathbf{z})$,  với $\alpha$ nhỏ.
+2. Hay còn gọi là *probabilistic ReLU* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NjY2OTYyLDY0OTQxNjAxNSwxNDk2MT
-Q3ODU2XX0=
+eyJoaXN0b3J5IjpbODkwNzYxNjMsNjQ5NDE2MDE1LDE0OTYxND
+c4NTZdfQ==
 -->
