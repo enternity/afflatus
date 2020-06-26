@@ -12,6 +12,10 @@
 > Độ lệch phương sai. Độ lệch so với giá trị trung bình.
 6. $R^2=\frac{ESS}{TSS} = 1 - \frac{RSS}{TSS}, 0 \leq R^2 \leq 1$
 > $R^2$ càng lớn, mô hình càng tốt.
+
+> **Chú ý** : Cần phải tìm mẫu phù hợp với giả thuyết
+# Hệ số xác định hiệu chỉnh.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODYxMjU0N119
+eyJoaXN0b3J5IjpbLTE4MDQ2NjI5MTBdfQ==
 -->
