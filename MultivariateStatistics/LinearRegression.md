@@ -16,7 +16,7 @@
 > **Chú ý** : Cần phải tìm mẫu phù hợp với giả thuyết
 # Hệ số xác định hiệu chỉnh.
 1. Đưa thêm biến vào mô hình $\Rightarrow k ~tăng$
-2. $TSS$ không phu thuộc vào $k$ vì : 
+2. $TSS$ không phu thuộc vào $k$ (tổng bình phương độ lỗi) vì : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODI3NDA4MywtMTAzNTc0MjM4NV19
+eyJoaXN0b3J5IjpbMTczMTMzOTE0LC0xMDM1NzQyMzg1XX0=
 -->
