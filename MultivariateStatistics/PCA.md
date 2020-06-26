@@ -5,7 +5,8 @@
 2. Giữa lại những thành phần độc lập với nhau.
 3. Thành phần chính : là các thành phần có độ biến thiên dữ liệu lớn nhất.
 # Nguyên lý :
-1. 
+1. Cực đại hóa $Var(\mathbf{Y}_i)$
+2. $Cov()$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNDI4NzQsLTE1NTQyMDEwOTRdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQzNDY4OCwtMTU1NDIwMTA5NF19
 -->
