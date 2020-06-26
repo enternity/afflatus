@@ -62,8 +62,11 @@ Dựa theo tỉ lệ $units/layers$ :
 2. Với $units/layers$ dễ bị *overfit*
 > Tìm hiểu thêm về *overfit* : [https://machinelearningcoban.com/2017/03/04/overfitting/](https://machinelearningcoban.com/2017/03/04/overfitting/)
 
-3. 
+3. Với bài toán phân lớp, dễ dàng mở rộng hướng đầu ra (phân lớp nhiều thứ)
+
+# Training a model :
+1. Cho một dataset $\{$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODI3MjAwMSw2NDk0MTYwMTUsMTQ5Nj
+eyJoaXN0b3J5IjpbMTY5MTA1MDk2OCw2NDk0MTYwMTUsMTQ5Nj
 E0Nzg1Nl19
 -->
