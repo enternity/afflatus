@@ -57,8 +57,10 @@
 3. Params : ma trận trọng số $\mathbf{W}^1,\mathbf{W}^2,\mathbf{W}^3$, và vector bias là $\mathbf{b}^1,\mathbf{b}^2,\mathbf{b}^3$
 
 # Architecture Selection for MLPs.
-Dựa theo 
+Dựa theo tỉ lệ $units/layers$ :
+1. Parameters tăng với tỉ lệ $(unit/layers)^2$.
+2. Với $units/layers$ dễ bị 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM0MDg5MjAsNjQ5NDE2MDE1LDE0OT
-YxNDc4NTZdfQ==
+eyJoaXN0b3J5IjpbLTU1MDY1NzM5Nyw2NDk0MTYwMTUsMTQ5Nj
+E0Nzg1Nl19
 -->
