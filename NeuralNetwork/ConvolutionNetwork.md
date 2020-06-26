@@ -34,8 +34,12 @@
 
 ## Leaky ReLU
 1. $\sigma(\mathbf{z}) = 1[z>0]\max(0,x) + 1[z<0]\max(0,\alpha \mathbf{z})$,  với $\alpha$ nhỏ.
-2. Hay còn gọi là *probabilistic ReLU* 
+2. Hay còn gọi là *probabilistic ReLU* (PReLU).
+3. Luôn có đạo hàm tại mọi vị trí.
+4. $\alpha$ có thể học được..
+
+> Tìm hiểu thêm các ***Non-linearities*** tại đây : [https://medium.com/@himanshuxd/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e](https://medium.com/@himanshuxd/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNzYxNjMsNjQ5NDE2MDE1LDE0OTYxND
-c4NTZdfQ==
+eyJoaXN0b3J5IjpbMjA0NTAyMjczMSw2NDk0MTYwMTUsMTQ5Nj
+E0Nzg1Nl19
 -->
