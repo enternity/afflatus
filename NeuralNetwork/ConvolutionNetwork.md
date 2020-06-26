@@ -59,8 +59,11 @@
 # Architecture Selection for MLPs.
 Dựa theo tỉ lệ $units/layers$ :
 1. Parameters tăng với tỉ lệ $(unit/layers)^2$.
-2. Với $units/layers$ dễ bị 
+2. Với $units/layers$ dễ bị *overfit*
+> Tìm hiểu thêm về *overfit* : [https://machinelearningcoban.com/2017/03/04/overfitting/](https://machinelearningcoban.com/2017/03/04/overfitting/)
+
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDY1NzM5Nyw2NDk0MTYwMTUsMTQ5Nj
+eyJoaXN0b3J5IjpbLTkzODI3MjAwMSw2NDk0MTYwMTUsMTQ5Nj
 E0Nzg1Nl19
 -->
