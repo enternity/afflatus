@@ -65,8 +65,10 @@ Dựa theo tỉ lệ $units/layers$ :
 3. Với bài toán phân lớp, dễ dàng mở rộng hướng đầu ra (phân lớp nhiều thứ)
 
 # Training a model :
-1. Cho một dataset $\{$
+1. Cho một dataset $\{x,y\}$. Lựa chọn một *cost function* C một cách thích hợp
+> Tìm hiểu thêm về *cost function* : https://towardsdatascience.com/coding-deep-learning-for-beginners-linear-regression-part-2-cost-function-49545303d29f
+2. Forward-pass (f-prop) thông qua mô hình để dự đoán
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTA1MDk2OCw2NDk0MTYwMTUsMTQ5Nj
+eyJoaXN0b3J5IjpbLTQ3NjQ5OTg1Miw2NDk0MTYwMTUsMTQ5Nj
 E0Nzg1Nl19
 -->
