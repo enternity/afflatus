@@ -19,9 +19,10 @@
 2. $TSS$ không phu thuộc vào $k$ (tổng bình phương độ lỗi) vì : 
 3. $\bar{R}^2=1- \frac{\frac{RSS}{n-k}}{\frac{TSS}{n-1}}=1- \frac{n-1}{n-k}(1-R^2)$
 4. Comment :
-	- Thêm biến có ý nghĩa $k$(số mẫu) tăng.
-	- 
+	- Thêm biến có ý nghĩa $k$(số mẫu) tăng. $RSS$(sai số) giảm.
+	- Thêm biến ko có ý nghĩa $k$. $RSS$ không bị giảm hoặc tăng ít
+	> Có nghĩa là $RSS$ sẽ ít bị ảnh hưởng bởi $k$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzMwNzQwNiwxNzMxMzM5MTQsLTEwMz
-U3NDIzODVdfQ==
+eyJoaXN0b3J5IjpbLTIwMDg0NjAyNjYsMTczMTMzOTE0LC0xMD
+M1NzQyMzg1XX0=
 -->
