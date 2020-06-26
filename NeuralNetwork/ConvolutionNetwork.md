@@ -67,8 +67,11 @@ Dựa theo tỉ lệ $units/layers$ :
 # Training a model :
 1. Cho một dataset $\{x,y\}$. Lựa chọn một *cost function* C một cách thích hợp
 > Tìm hiểu thêm về *cost function* : https://towardsdatascience.com/coding-deep-learning-for-beginners-linear-regression-part-2-cost-function-49545303d29f
-2. Forward-pass (f-prop) thông qua mô hình để dự đoán
+2. Forward-pass (f-prop) thông qua mô hình để dự đoán.
+3. Tính sai số dựa trên *cost function* C để so sánh sự đoán với target $y$
+4. Dùng back-propagation (b-prop) để truyền lỗi thông qua model, điều chỉnh tham số và cực tiểu hóa lỗi $E$.
+5. Mỗi lớp là khác nhau. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjQ5OTg1Miw2NDk0MTYwMTUsMTQ5Nj
-E0Nzg1Nl19
+eyJoaXN0b3J5IjpbLTE3NzU1MTc0MDgsNjQ5NDE2MDE1LDE0OT
+YxNDc4NTZdfQ==
 -->
