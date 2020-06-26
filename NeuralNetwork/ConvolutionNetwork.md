@@ -6,8 +6,9 @@
 3. Activation: $a=\sum_{i=1}^n x_iw_i+b$. Chú ý rằng $a$ là một số vô hướng.
 4. Point-wise non-linear function : $\sigma(.), ex: \sigma(.)=\tanh(.)$
 5. Output: $y=f(a)=\sigma\left(\sum_{i=1}^n x_iw_i+b\right)$
-6. Thông thường 
-
+6. Thông thường *bias* $b=1$
+# Non-linearities: Sigmoid
+1. $\sigma(\mathbf{z}) = \frac{1}{1+\exp(-\mathbf{z})}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1MDA5NjQ3LDE0OTYxNDc4NTZdfQ==
+eyJoaXN0b3J5IjpbMTU0MzU0MDMzMCwxNDk2MTQ3ODU2XX0=
 -->
