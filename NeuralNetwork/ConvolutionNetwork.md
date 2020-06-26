@@ -54,8 +54,11 @@
 # Mô hình 3 lớp MLP
 1. Quy ước, số *hidden layers* = *hidden* + *output* (không bao gồm input).
 2. Mô hình 3-layer có 2 hidden layers.
-3. Params : ma trận trọng số $\mathbf{W}^1,\mathbf{W}^2,\mathbf{W}^3$, và vecotr
+3. Params : ma trận trọng số $\mathbf{W}^1,\mathbf{W}^2,\mathbf{W}^3$, và vector bias là $\mathbf{b}^1,\mathbf{b}^2,\mathbf{b}^3$
+
+# Architecture Selection for MLPs.
+Dựa theo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjcxMjQyNCw2NDk0MTYwMTUsMTQ5Nj
-E0Nzg1Nl19
+eyJoaXN0b3J5IjpbLTIwOTM0MDg5MjAsNjQ5NDE2MDE1LDE0OT
+YxNDc4NTZdfQ==
 -->
