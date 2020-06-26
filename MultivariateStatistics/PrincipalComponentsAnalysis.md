@@ -12,7 +12,8 @@
 1. **Chuẩn hóa** : để cho mỗi biến đóng vai trò như nhau đối với việc phân tích.
 2. **Tính ma trận hiệp phương sai**
 3. **Tính eigen-value, eigen-vector**.
-
+4. **Nhận xét từ các giá trị tính toán, rút ra các thành phần chính**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDc5NDQ3MSwxMjEyODMwODIwXX0=
+eyJoaXN0b3J5IjpbMTMyMDQ5ODEwMSwtODkwNzk0NDcxLDEyMT
+I4MzA4MjBdfQ==
 -->
