@@ -9,8 +9,12 @@ $$\frac{\partial \mathbf{y}}{\partial \mathbf{x}} = \begin{bmatrix}\frac{\partia
 $$\frac{\partial y}{\partial A} = \begin{bmatrix}\frac{\partial y}{\partial A_{11}} & \frac{\partial y}{\partial A_{12}} & \cdots & \frac{\partial y}{\partial A_{1n}} \\ \frac{\partial y}{\partial A_{21}} & \frac{\partial y}{\partial A_{22}} & \cdots & \frac{\partial y}{\partial A_{2n}} \\ \vdots &\vdots & \ddots & \vdots \\ \frac{\partial y}{\partial A_{m1}} &\frac{\partial y}{\partial A_{m2}} & \cdots &\frac{\partial y}{\partial A_{mn}}\end{bmatrix}$$
 4. **Vector-By-Matrix**
 > Đầu tiên từ công thức thứ 3, ta có $\frac{\partial y}{\partial A_{ij}} = \frac{\partial y}{\partial \mathbf{z}} \cdot \frac{\partial \mathbf{z}}{\partial A_{ij}} \text{(chain rule)}$
+
+> Cho $\mathbf{z} = A\mathbf{x}$
+
+>  Khi đó : $\frac{\partial \mathbf{z}}{\partial A_{ij}} = \begin{bmatrix} 0 \\ \vdots \end{bmatrix}$
 # Motivation :
 > Đơn giản là cực tiểu hóa hàm lỗi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MzM5MzA5LC05NDM1MDM1OTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NTE5MTMwOTEsLTk0MzUwMzU5Nl19
 -->
