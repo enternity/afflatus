@@ -1,7 +1,9 @@
 <script type="text/javascript"  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">  
 </script>
 
-> 
+> Quy định về màu : 
+> #000000 : các công thức cần thiết, nhưng không quan trọng trong ngữ cảnh.
+> #21CBD6 : các công thức
 # Đạo hàm ma trận :
 1. **Scalar-By-Vector**
 $$\frac{\partial y}{\partial \mathbf{x}} = \left[\frac{\partial y}{\partial x_1} \\ \frac{\partial y}{\partial x_2} \cdots \frac{\partial y}{\partial x_n}\right]$$
@@ -38,5 +40,5 @@ $$\frac{\partial z}{\partial x} = I$$
 # Motivation :
 > Đơn giản là cực tiểu hóa hàm lỗi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzUzMDYwMywtOTQzNTAzNTk2XX0=
+eyJoaXN0b3J5IjpbLTg2MTgxNjk2MywtOTQzNTAzNTk2XX0=
 -->
