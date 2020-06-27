@@ -1,5 +1,7 @@
 <script type="text/javascript"  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">  
 </script>
+
+> 
 # Đạo hàm ma trận :
 1. **Scalar-By-Vector**
 $$\frac{\partial y}{\partial \mathbf{x}} = \left[\frac{\partial y}{\partial x_1} \\ \frac{\partial y}{\partial x_2} \cdots \frac{\partial y}{\partial x_n}\right]$$
@@ -31,9 +33,10 @@ $$\frac{\partial z}{\partial x} = I$$
 3. $z=xW$
 	3.1
 	$$\frac{\partial z}{\partial x} = W^T$$
-	3.2 Voi
+	3.2 Với: $\delta=\frac{\partial J}{\partial z}$ 
+	$$\frac{\partial J}{\partial W} = x^T\delta$$
 # Motivation :
 > Đơn giản là cực tiểu hóa hàm lỗi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjczNzU3MCwtOTQzNTAzNTk2XX0=
+eyJoaXN0b3J5IjpbMTc5NzUzMDYwMywtOTQzNTAzNTk2XX0=
 -->
