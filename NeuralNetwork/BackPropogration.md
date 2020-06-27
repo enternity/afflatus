@@ -39,8 +39,10 @@ $$\color{#0B47F3}\frac{\partial z}{\partial x} = I$$
 	3.2 Với: $\delta=\frac{\partial J}{\partial z}$ 
 	$$\color{#0B47F3}\frac{\partial J}{\partial W} = x^T\delta$$
 # Định nghĩa Neural Network : 
-<cente><img>
+<center><img src="https://miro.medium.com/max/1400/1*sSIeU-WhsuHCQlOA00IBXg.jpeg" /></center>
+
+> Ở đây ta thấy có 4 layers, 4 neuron cho hidden layers, 1 neuron cho output layer.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTg0MTE1NiwtOTQzNTAzNTk2XX0=
+eyJoaXN0b3J5IjpbLTE5Njg5MTM2NDYsLTk0MzUwMzU5Nl19
 -->
