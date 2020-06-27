@@ -16,9 +16,9 @@ $$\frac{\partial y}{\partial A} = \begin{bmatrix}\frac{\partial y}{\partial A_{1
 
 > Cho nên theo công thức: $\frac{\partial J}{\partial A_{ij}} = \frac{\partial J}{\partial \mathbf{z}} \cdot \frac{\partial \mathbf{z}}{\partial A_{ij}}$
 
-> Ta sẽ có: $\frac{}{}$
+> Ta sẽ có: $\frac{\partial J}{\partial A_{ij}} = \delta . \mathbf{x}_j \Rightarrow$
 # Motivation :
 > Đơn giản là cực tiểu hóa hàm lỗi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzQ4OTg0OSwtOTQzNTAzNTk2XX0=
+eyJoaXN0b3J5IjpbMTk5OTA2NjI2OSwtOTQzNTAzNTk2XX0=
 -->
