@@ -23,23 +23,23 @@ $$\frac{\partial y}{\partial A} = \begin{bmatrix}\frac{\partial y}{\partial A_{1
 
 > Ta sẽ có: 
 > 
-$$\frac{\partial J}{\partial A_{ij}} = \delta . \mathbf{x}_j \Rightarrow \frac{\partial J}{\partial A}=\delta^T.\mathbf{x}$$
+$$\color{#0B47F3}\frac{\partial J}{\partial A_{ij}} = \delta . \mathbf{x}_j \Rightarrow \frac{\partial J}{\partial A}=\delta^T.\mathbf{x}$$
 
 ## Công thức tổng quát dùng trong NN:
 1. $z=Wx$
 	1.1 
-	$$\frac{\partial z}{\partial x} = W$$
+	$$\color{#0B47F3}\frac{\partial z}{\partial x} = W$$
 	1.2 Với:  $\delta=\frac{\partial J}{\partial z}$ 
-	$$\frac{\partial J}{\partial W}= \delta^Tx$$
+	$$\color{#0B47F3}\frac{\partial J}{\partial W}= \delta^Tx$$
 2. $z=x$
-$$\frac{\partial z}{\partial x} = I$$
+$$\color{#0B47F3}\frac{\partial z}{\partial x} = I$$
 3. $z=xW$
 	3.1
-	$$\frac{\partial z}{\partial x} = W^T$$
+	$$\color{#0B47F3}\frac{\partial z}{\partial x} = W^T$$
 	3.2 Với: $\delta=\frac{\partial J}{\partial z}$ 
-	$$\frac{\partial J}{\partial W} = x^T\delta$$
+	$$\color{#0B47F3}\frac{\partial J}{\partial W} = x^T\delta$$
 # Motivation :
 > Đơn giản là cực tiểu hóa hàm lỗi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODgyMDM3NCwtOTQzNTAzNTk2XX0=
+eyJoaXN0b3J5IjpbNjEzMDYwNzc4LC05NDM1MDM1OTZdfQ==
 -->
