@@ -20,9 +20,14 @@ $$\frac{\partial y}{\partial A} = \begin{bmatrix}\frac{\partial y}{\partial A_{1
 > 
 $$\frac{\partial J}{\partial A_{ij}} = \delta . \mathbf{x}_j \Rightarrow \frac{\partial J}{\partial A}=\delta^T.\mathbf{x}$$
 
-## Công thức tổng quan 
+## Công thức tổng quát dùng trong NN:
+1. $z=Wx$
+$$\frac{\partial z}{\partial x} = W$$
+2. $z=x$
+$$\frac{\partial z}{\partial x} = I$$
+3. 
 # Motivation :
 > Đơn giản là cực tiểu hóa hàm lỗi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE2NjMxNiwtOTQzNTAzNTk2XX0=
+eyJoaXN0b3J5IjpbLTE3NTg0MzU4NzEsLTk0MzUwMzU5Nl19
 -->
