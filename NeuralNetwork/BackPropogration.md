@@ -24,14 +24,16 @@ $$\frac{\partial J}{\partial A_{ij}} = \delta . \mathbf{x}_j \Rightarrow \frac{\
 1. $z=Wx$
 	1.1 
 	$$\frac{\partial z}{\partial x} = W$$
-	1.2 
+	1.2 Với:  $\delta=\frac{\partial J}{\partial z}$ 
+	$$\frac{\partial J}{\partial W}= \delta^Tx$$
 2. $z=x$
 $$\frac{\partial z}{\partial x} = I$$
 3. $z=xW$
-$$\frac{\partial z}{\partial x} = W^T$$
-4. 
+	3.1
+	$$\frac{\partial z}{\partial x} = W^T$$
+	3.2 Voi
 # Motivation :
 > Đơn giản là cực tiểu hóa hàm lỗi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjEyMzM5MDYsLTk0MzUwMzU5Nl19
+eyJoaXN0b3J5IjpbLTkyNjczNzU3MCwtOTQzNTAzNTk2XX0=
 -->
