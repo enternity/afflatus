@@ -38,8 +38,9 @@ $$\color{#0B47F3}\frac{\partial z}{\partial x} = I$$
 	$$\color{#0B47F3}\frac{\partial z}{\partial x} = W^T$$
 	3.2 Với: $\delta=\frac{\partial J}{\partial z}$ 
 	$$\color{#0B47F3}\frac{\partial J}{\partial W} = x^T\delta$$
-# Motivation :
-> Đơn giản là cực tiểu hóa hàm lỗi. 
+# Định nghĩa Neural Network : 
+<cente><img>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzMDYwNzc4LC05NDM1MDM1OTZdfQ==
+eyJoaXN0b3J5IjpbMTkzNTg0MTE1NiwtOTQzNTAzNTk2XX0=
 -->
