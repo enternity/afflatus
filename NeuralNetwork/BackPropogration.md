@@ -22,12 +22,16 @@ $$\frac{\partial J}{\partial A_{ij}} = \delta . \mathbf{x}_j \Rightarrow \frac{\
 
 ## Công thức tổng quát dùng trong NN:
 1. $z=Wx$
-$$\frac{\partial z}{\partial x} = W$$
+	1.1 
+	$$\frac{\partial z}{\partial x} = W$$
+	1.2 
 2. $z=x$
 $$\frac{\partial z}{\partial x} = I$$
-3. 
+3. $z=xW$
+$$\frac{\partial z}{\partial x} = W^T$$
+4. 
 # Motivation :
 > Đơn giản là cực tiểu hóa hàm lỗi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg0MzU4NzEsLTk0MzUwMzU5Nl19
+eyJoaXN0b3J5IjpbLTEyNjEyMzM5MDYsLTk0MzUwMzU5Nl19
 -->
