@@ -14,9 +14,10 @@ $$\frac{\partial y}{\partial A} = \begin{bmatrix}\frac{\partial y}{\partial A_{1
 
 >  Khi đó : $\frac{\partial \mathbf{z}}{\partial A_{ij}} = \begin{bmatrix} 0 \\ \vdots \\ 0 \\ x_j \\ 0 \\ \vdots \\0 \end{bmatrix} \leftarrow \text{Vị trí thứ }i$
 
-> Cho nên: 
+> Cho nên: $\frac{\partial J}{\partial A_{ij}} = \frac{\partial J}{\partial \mathbf{z}} \cdot \frac{\partial \mathbf{z}}{\partial A_{ij}}$
+
 # Motivation :
 > Đơn giản là cực tiểu hóa hàm lỗi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4OTUyMzM5LC05NDM1MDM1OTZdfQ==
+eyJoaXN0b3J5IjpbLTI0OTA2NDU2NiwtOTQzNTAzNTk2XX0=
 -->
