@@ -1,7 +1,7 @@
 <script type="text/javascript"  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">  
 </script>
 # Motivation :
-<p style="font-size=2>Cực tiểu hóa hàm lỗi</p>
+> Đơn giản là cực tiểu hóa hàm lỗi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDU1NTgyNV19
+eyJoaXN0b3J5IjpbLTk0MzUwMzU5Nl19
 -->
