@@ -250,9 +250,24 @@ class Foo:
 x = Foo()
 y = Foo()
 z = Foo()
-x.attr
+x.attr, y.attr, z.attr
+#(100,100,100)
+```
+2. Class Factory
+```python
+class Meta(type):
+	def __init__(cls, name, bases, dct):
+		cls.attr = 100
+class X(metaclass=Meta):
+	pass
+X.attr
+# 100
+class Y(metaclass=Meta):
+	pass
+Y.attr
+# 100
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTgzNDcyMzMsMTc5MzM2NTkzMiwtMT
+eyJoaXN0b3J5IjpbLTIwNjA4MTA0MjIsMTc5MzM2NTkzMiwtMT
 Q2MzU3NzQ5MCw4OTM3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
