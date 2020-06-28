@@ -267,7 +267,9 @@ class Y(metaclass=Meta):
 Y.attr
 # 100
 ```
+3. Class Decorator :
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA4MTA0MjIsMTc5MzM2NTkzMiwtMT
-Q2MzU3NzQ5MCw4OTM3ODI3ODcsMzI3OTA0MTEzXX0=
+eyJoaXN0b3J5IjpbLTM3MDQyMjg1OCwxNzkzMzY1OTMyLC0xND
+YzNTc3NDkwLDg5Mzc4Mjc4NywzMjc5MDQxMTNdfQ==
 -->
