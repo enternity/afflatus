@@ -102,9 +102,11 @@ $$\color{#21CBD6}\frac{\partial C}{\partial w_{jk}^l}=\frac{\partial C}{\partial
 
 > Tương tự tính toán với $b_j^l$
 
-$$\color{#21CBD6}\frac{\partial C}{\partial b_j^l}=\frac{\partial C}{\partial z_j^l}\cdot \frac{\partial z_j^l}{\partial b_j^}$$
+$$\color{#21CBD6}\frac{\partial C}{\partial b_j^l}=\frac{\partial C}{\partial z_j^l}\cdot \frac{\partial z_j^l}{\partial b_j^l}$$
+$$\color{#21CBD6}\frac{\partial z_j^l}{\partial b_j^l}=1$$
+$$\color{#21CBD6}\frac{\partial C}{\partial b_j^l}=\frac{\partial C}{\partial z_j^l}\cdot 1$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ4ODMwOTcsLTE4NDc5ODM5MDMsMz
-QzODA4NDQ1LDM2OTE0NzU4MiwtMTk2ODkxMzY0NiwtOTQzNTAz
-NTk2XX0=
+eyJoaXN0b3J5IjpbMTU3OTE5MTAwMywtMTg0Nzk4MzkwMywzND
+M4MDg0NDUsMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1
+OTZdfQ==
 -->
