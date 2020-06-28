@@ -71,8 +71,12 @@ $$\color{#21CBD6}W^{(1)}=\begin{bmatrix}W^{(1)}_{11} & W^{(1)}_{12} & W^{(1)}_{1
 $$\color{#21CBD6}\mathbf{x}=\begin{bmatrix}x_1 \\ x_2 \\x_3 \\x_4\end{bmatrix}$$
 - $b^1$ là *bias vector* có shape $(n,1)$ với $n$ là số neurons tại lớp hiện tại, ở đây là $n=2$
 
-$$\color{#21CBD6}b^{(1)}=\begin{bmatrix}\end{bm}$$
+$$\color{#21CBD6}b^{(1)}=\begin{bmatrix}b^{(1)}_1 \\ b^{(1)}_2\end{bmatrix}$$
+
+> Từ các công thức tính $W^1,x,b^1$ ta suy ra được $z^{(2)}$
+
+$$\color{#21CBD6}W$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDE0MzIwNiwzNDM4MDg0NDUsMzY5MT
+eyJoaXN0b3J5IjpbLTEwNjk1NzI5MywzNDM4MDg0NDUsMzY5MT
 Q3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1OTZdfQ==
 -->
