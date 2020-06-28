@@ -202,8 +202,10 @@ Khi tạo ra instance của lớp ```Foo``. Trình tự khởi tạo sẽ là :
 - Phương thức ```__call__()``` lớp cha của ```Foo``` được gọi. Lúc này Foo là new-style class. Lớp cha của nó là metaclass, nên type của phương thức```__class__()``` được viện dẫn.
 - Phương thức ```__call__()```  viện dẫn theo kiểu :
 	- ```__new__()```
-	- ```__call__()
+	- ```__call__()```
+Nếu Foo không định nghĩa ```__new__(),__init__()```, thì nó sẽ được kế thừa từ lớp cha của nó. Tuy nhiên nếu Foo có định nghĩa thì nó sẽ override.
+``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NTc2OTQ3LC0xNDYzNTc3NDkwLDg5Mz
+eyJoaXN0b3J5IjpbLTc1ODQ5NDUzLC0xNDYzNTc3NDkwLDg5Mz
 c4Mjc4NywzMjc5MDQxMTNdfQ==
 -->
