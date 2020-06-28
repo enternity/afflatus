@@ -130,9 +130,9 @@ end
 
 Trọng số $w_{22}^{(2)}$ liên kết với $a_2^2$ và $z_2^2$. Tính toán đạo hàm yêu cầu chain rule thông qua $z_2^3, a_2^3$
 
-$$\color{#21CBD6}\frac{\partial C}{\partial w_{22}^{(2)}}=\frac{\partial C}{\partial z_2^{(3)}}\cdot \frac{\partial z_2^{(3)}}{\partial w_{22}^{(2)}} = \frac{\partial C}{\partial}\frac{}{}$$
+$$\color{#21CBD6}\frac{\partial C}{\partial w_{22}^{(2)}}=\frac{\partial C}{\partial z_2^{(3)}}\cdot \frac{\partial z_2^{(3)}}{\partial w_{22}^{(2)}} = \frac{\partial C}{\partial a_2^{(3)}}\cdot\frac{\partial a_2^{(3)}}{\partial z_2^{(3)}}\cdot a_2^{(2)}=\frac{\partial C}{\partial a_2^{(3)}}\cdot f'(z_2^{(3)})\cdot a_2^$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTc2NTQ5NCwtMTg0Nzk4MzkwMywzND
+eyJoaXN0b3J5IjpbLTUwOTg4NzgyNSwtMTg0Nzk4MzkwMywzND
 M4MDg0NDUsMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1
 OTZdfQ==
 -->
