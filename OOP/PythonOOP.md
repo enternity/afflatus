@@ -157,8 +157,15 @@ Type của x là lớp ```Foo```.  Type của ```Foo``` cũng chính là nó lu�
 type(type)
 # <class 'type'>
 ```
-:lol:
+:joy::joy::joy::joy::joy::joy::joy::joy::joy:
+
+<center><img src="https://files.realpython.com/media/class-chain.5cb031a299fe.png"></center>
+
+Đại khái là :
+- x là instance của class Foo.
+- Foo là instance của type metaclass
+- type cũng chính là c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTIwMzcyNiwtMTQ2MzU3NzQ5MCw4OT
+eyJoaXN0b3J5IjpbLTY4NjM0MzM5MSwtMTQ2MzU3NzQ5MCw4OT
 M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
