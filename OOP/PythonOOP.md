@@ -97,7 +97,11 @@ class Square(Rectangle):
 > Dùng function ```__mro__``` hay ```mor()``` để  tìm thứ tự kế thừa.
 
 # Metaclasses 
+## MetaPrograming
+[https://stackoverflow.com/questions/514644/what-exactly-is-metaprogramming](https://stackoverflow.com/questions/514644/what-exactly-is-metaprogramming)
+
+> Python hỗ trợ một form của metaprogram
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjkxMDg2LC0xNDYzNTc3NDkwLDg5Mz
-c4Mjc4NywzMjc5MDQxMTNdfQ==
+eyJoaXN0b3J5IjpbMjA2NTk5NDY3NiwtMTQ2MzU3NzQ5MCw4OT
+M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
