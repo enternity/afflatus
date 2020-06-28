@@ -108,9 +108,15 @@ $$\color{#21CBD6}\frac{\partial C}{\partial b_j^l}=\frac{\partial C}{\partial z_
 
 > Phần thường thấy trong cả hai công thức được gọi là *"local gradient"* :
 
-$$\color{#21CBD6} \delta_$$
+$$\color{#21CBD6} \delta_j^l=\frac{\partial C}{\partial z_j^l}$$
+
+Đạo hàm cho phép ta tối ưu hóa tham số :
+
+---
+****
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTI4ODM5MiwtMTg0Nzk4MzkwMywzND
-M4MDg0NDUsMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1
-OTZdfQ==
+eyJoaXN0b3J5IjpbNDUwMDkwNzA5LC0xODQ3OTgzOTAzLDM0Mz
+gwODQ0NSwzNjkxNDc1ODIsLTE5Njg5MTM2NDYsLTk0MzUwMzU5
+Nl19
 -->
