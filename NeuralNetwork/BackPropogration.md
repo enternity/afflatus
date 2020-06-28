@@ -59,7 +59,10 @@ $$\color{#21CBD6}a^{(3)}=f(z^{(3)})$$
 
 > Activations $a^2,a^3$ được tính toán dựa trên hàm activation $f$. Hàm $f$ là một hàm non-linear ($\text{sigmoid},\text{ReLU},\tanh$)
 > Chúng ta kết hợp tất cả các giá trị tham số vào trong ma trận, nhóm theo layer.
+
+>  Lấy ví dụ tại layer2 và tham số của nó làm ví dụ. 
+>  $W^{(1)}$ là ma trận trọng số có shape là $(n,m)$  trong đó $n$ là số lượng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05ND
-M1MDM1OTZdfQ==
+eyJoaXN0b3J5IjpbMTMzODMxOTU5NywzNjkxNDc1ODIsLTE5Nj
+g5MTM2NDYsLTk0MzUwMzU5Nl19
 -->
