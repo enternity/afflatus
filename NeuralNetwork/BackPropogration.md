@@ -78,7 +78,11 @@ $$\color{#21CBD6}b^{(1)}=\begin{bmatrix}b^{(1)}_1 \\ b^{(1)}_2\end{bmatrix}$$
 $$\color{#21CBD6}z^{(2)}=\begin{bmatrix}W^{(1)}_{11}x_1 + W^{(1)}_{12}x_1 + W^{(1)}_{13}x_3 + W^{(1)}_{14}x_4 \\ W^{(1)}_{21}x_1 + W^{(1)}_{22}x_2 + W^{(1)}_{23}x_3 + W^{(1)}_{24}x_4 \end{bmatrix} + \begin{bmatrix}b^{(1)}_1 \\ b^{(1)}_2\end{bmatrix}$$
 
 <center><img src="https://miro.medium.com/max/1400/1*02zF6C6PYzGBbiah4-5fTQ.jpeg"></center>
+
+## Output Layer
+Dự đoán giá trị. Trong ví dụ này, là một ner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc5ODM5MDMsMzQzODA4NDQ1LDM2OT
-E0NzU4MiwtMTk2ODkxMzY0NiwtOTQzNTAzNTk2XX0=
+eyJoaXN0b3J5IjpbNjQ1MDIzNzg1LC0xODQ3OTgzOTAzLDM0Mz
+gwODQ0NSwzNjkxNDc1ODIsLTE5Njg5MTM2NDYsLTk0MzUwMzU5
+Nl19
 -->
