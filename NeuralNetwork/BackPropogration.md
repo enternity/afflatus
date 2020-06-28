@@ -75,8 +75,10 @@ $$\color{#21CBD6}b^{(1)}=\begin{bmatrix}b^{(1)}_1 \\ b^{(1)}_2\end{bmatrix}$$
 
 > Từ các công thức tính $W^1,x,b^1$ ta suy ra được $z^{(2)}$
 
-$$\color{#21CBD6}W^{(1)}_{11}x_1 + W^{(1)}_{12}x_1 + W^{(1)}_{13}x_3 + W^{(1)}_{14}x_4 \\ W^{(1)}_{21}x_1 + W^{(1)}_{22}x_2 + W^{(1)}_{23}x_3 + W^{(1)}_{24}x_4 \$$
+$$\color{#21CBD6}z^{(2)}=\begin{bmatrix}W^{(1)}_{11}x_1 + W^{(1)}_{12}x_1 + W^{(1)}_{13}x_3 + W^{(1)}_{14}x_4 \\ W^{(1)}_{21}x_1 + W^{(1)}_{22}x_2 + W^{(1)}_{23}x_3 + W^{(1)}_{24}x_4 \end{bmatrix} + \begin{bmatrix}b^{(1)}_1 \\ b^{(1)}_2\end{bmatrix}$$
+
+<center><img src="https://miro.medium.com/max/1400/1*02zF6C6PYzGBbiah4-5fTQ.jpeg"></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTM2MDQ4NywzNDM4MDg0NDUsMzY5MT
-Q3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1OTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NDc5ODM5MDMsMzQzODA4NDQ1LDM2OT
+E0NzU4MiwtMTk2ODkxMzY0NiwtOTQzNTAzNTk2XX0=
 -->
