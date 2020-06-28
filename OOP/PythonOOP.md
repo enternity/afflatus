@@ -114,8 +114,18 @@ type(x)
 # <type 'instance'>
 ```
 ## New-style Classes
-Với new-style classes thống nhâts concepts của class
+Với new-style classes thống nhâts concepts của class và type. Nếu đối tượng là 1 instance của new-style class, ```type(obj)``` sẽ như ```obj.__class__```
+```python
+class Foo:
+	pass
+obj = Foo()
+obj.__class__
+# <class '__main__.Foo'>
+type(obj)
+# <class '__main__.Foo'>
+obj.
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMTcxNzQzLC0xNDYzNTc3NDkwLDg5Mz
-c4Mjc4NywzMjc5MDQxMTNdfQ==
+eyJoaXN0b3J5IjpbLTE4MTk4MTQ5ODYsLTE0NjM1Nzc0OTAsOD
+kzNzgyNzg3LDMyNzkwNDExM119
 -->
