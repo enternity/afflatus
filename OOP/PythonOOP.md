@@ -193,7 +193,14 @@ x.__class__.__bases__
 # (<class '__main__.Foo'>,)
 ```
 ## Custom Metaclasses
+```python
+class Foo:
+	pass
+f = Foo()
+```
+Khi tạo ra instance của lớp ```Foo``. Trình tự khởi tạo sẽ là :
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzA2ODQ2NSwtMTQ2MzU3NzQ5MCw4OT
-M3ODI3ODcsMzI3OTA0MTEzXX0=
+eyJoaXN0b3J5IjpbODgxODAzNzIwLC0xNDYzNTc3NDkwLDg5Mz
+c4Mjc4NywzMjc5MDQxMTNdfQ==
 -->
