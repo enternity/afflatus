@@ -204,8 +204,20 @@ Khi tạo ra instance của lớp ```Foo``. Trình tự khởi tạo sẽ là :
 	- ```__new__()```
 	- ```__call__()```
 Nếu Foo không định nghĩa ```__new__(),__init__()```, thì nó sẽ được kế thừa từ lớp cha của nó. Tuy nhiên nếu Foo có định nghĩa thì nó sẽ override.
-``
+```python
+def new(cls):
+	x = object.__new__(cls)
+	x.attr = 100
+	return x
+Foo.__new__ = new
+f = Foo()
+f.attr
+# 100
+g = Foo()
+g.attr
+# 100
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODQ5NDUzLC0xNDYzNTc3NDkwLDg5Mz
-c4Mjc4NywzMjc5MDQxMTNdfQ==
+eyJoaXN0b3J5IjpbMTc5MzM2NTkzMiwtMTQ2MzU3NzQ5MCw4OT
+M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
