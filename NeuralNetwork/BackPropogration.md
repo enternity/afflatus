@@ -61,10 +61,13 @@ $$\color{#21CBD6}a^{(3)}=f(z^{(3)})$$
 > Chúng ta kết hợp tất cả các giá trị tham số vào trong ma trận, nhóm theo layer.
 
 >  Lấy ví dụ tại layer2 và tham số của nó làm ví dụ. 
->  $W^{(1)}$ là ma trận trọng số có shape là $(n,m)$  trong đó $n$ là số lượng output neuron (neurons lớp tiếp theo) và $m$ là số lượng input neuron (neurons ở lớp trước). Trong ví dụ này là $n=2,m=4$
+
+-  $W^{(1)}$ là ma trận trọng số có shape là $(n,m)$  trong đó $n$ là số lượng output neuron (neurons lớp tiếp theo) và $m$ là số lượng input neuron (neurons ở lớp trước). Trong ví dụ này là $n=2,m=4$
 
 $$\color{#21CBD6}W^{(1)}=\begin{bmatrix}W^{(1)}_{11} & W^{(1)}_{12} & W^{(1)}_{13} & W^{(1)}_{14} \\ W^{(1)}_{21} & W^{(1)}_{22} & W^{(1)}_{23} & W^{(1)}_{24}\end{bmatrix}$$
+
+- $x$ là input vector có dạng $(m,1)$ với $m$ là số lượng input neurons, ở đây $m=4$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDA0MzczOCwzNjkxNDc1ODIsLTE5Nj
-g5MTM2NDYsLTk0MzUwMzU5Nl19
+eyJoaXN0b3J5IjpbLTEyNDI4NjA1ODQsMzY5MTQ3NTgyLC0xOT
+Y4OTEzNjQ2LC05NDM1MDM1OTZdfQ==
 -->
