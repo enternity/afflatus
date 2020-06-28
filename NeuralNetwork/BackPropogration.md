@@ -124,9 +124,11 @@ end
 - Khởi tạo $w,b$ random.
 - $\epsilon$ là learning rate. 
 - $w,b$ là ma trận đại diện cho trọng số và biases. Tính toán đạo hàm $C$ trên $w,b$.
-- 
+- Dừng điều kiện khi gặp 1 *cost-function* là cực tiểu.
+
+<center><img src="https://miro.medium.com/max/1400/1*CxdjKFrE-Vww0KmI-3Z5sA.png"><br><i>Visualize backpropagation in Neuron Network</i></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjAwODMzNzMsLTE4NDc5ODM5MDMsMz
-QzODA4NDQ1LDM2OTE0NzU4MiwtMTk2ODkxMzY0NiwtOTQzNTAz
-NTk2XX0=
+eyJoaXN0b3J5IjpbLTg2MDgyODE4LC0xODQ3OTgzOTAzLDM0Mz
+gwODQ0NSwzNjkxNDc1ODIsLTE5Njg5MTM2NDYsLTk0MzUwMzU5
+Nl19
 -->
