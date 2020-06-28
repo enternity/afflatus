@@ -113,10 +113,16 @@ $$\color{#21CBD6} \delta_j^l=\frac{\partial C}{\partial z_j^l}$$
 Đạo hàm cho phép ta tối ưu hóa tham số :
 
 ---
-****
+**Các step**
+
+while (không gặp điều kiện dừng)
+	$$w:=w-\epsilon \frac{\partial C}{\partial w}$$
+	$$b := b-\epsilon \frac{\partial C}{\partial b}$$
+end
+
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwMDkwNzA5LC0xODQ3OTgzOTAzLDM0Mz
-gwODQ0NSwzNjkxNDc1ODIsLTE5Njg5MTM2NDYsLTk0MzUwMzU5
-Nl19
+eyJoaXN0b3J5IjpbLTExMzc1OTQ1MTEsLTE4NDc5ODM5MDMsMz
+QzODA4NDQ1LDM2OTE0NzU4MiwtMTk2ODkxMzY0NiwtOTQzNTAz
+NTk2XX0=
 -->
