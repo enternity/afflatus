@@ -58,7 +58,8 @@ $$\color{#21CBD6}a^{(3)}=f(z^{(3)})$$
 > Với $W^2,W^3$ là trọng số tại layer2 và layer3, $b^2,b^3$ là bias tại các lớp ấy.
 
 > Activations $a^2,a^3$ được tính toán dựa trên hàm activation $f$. Hàm $f$ là một hàm non-linear ($\text{sigmoid},\text{ReLU},\tanh$)
+> Chúng ta kết hợp tất cả các giá trị tham số vào trong ma trận, nhóm theo layer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTkxOTMxMywtMTk2ODkxMzY0NiwtOT
-QzNTAzNTk2XX0=
+eyJoaXN0b3J5IjpbMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05ND
+M1MDM1OTZdfQ==
 -->
