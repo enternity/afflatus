@@ -105,8 +105,12 @@ $$\color{#21CBD6}\frac{\partial C}{\partial w_{jk}^l}=\frac{\partial C}{\partial
 $$\color{#21CBD6}\frac{\partial C}{\partial b_j^l}=\frac{\partial C}{\partial z_j^l}\cdot \frac{\partial z_j^l}{\partial b_j^l}$$
 $$\color{#21CBD6}\frac{\partial z_j^l}{\partial b_j^l}=1$$
 $$\color{#21CBD6}\frac{\partial C}{\partial b_j^l}=\frac{\partial C}{\partial z_j^l}\cdot 1$$
+
+> Phần thường thấy trong cả hai công thức được gọi là *"local gradient"* :
+
+$$\color{#21CBD6} \delta_$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTE5MTAwMywtMTg0Nzk4MzkwMywzND
+eyJoaXN0b3J5IjpbLTMxNTI4ODM5MiwtMTg0Nzk4MzkwMywzND
 M4MDg0NDUsMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1
 OTZdfQ==
 -->
