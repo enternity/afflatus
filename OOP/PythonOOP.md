@@ -199,8 +199,11 @@ class Foo:
 f = Foo()
 ```
 Khi tạo ra instance của lớp ```Foo``. Trình tự khởi tạo sẽ là :
-- Phương thức ```__call__()``` lớp cha của ```Foo``` được gọi. Lúc này Foo là new-style class. Lớp cha của nó là metaclass, nên type của phương thức```__class__()```
+- Phương thức ```__call__()``` lớp cha của ```Foo``` được gọi. Lúc này Foo là new-style class. Lớp cha của nó là metaclass, nên type của phương thức```__class__()``` được viện dẫn.
+- Phương thức ```__call__()```  viện dẫn theo kiểu :
+	- ```__new__()```
+	- ```__call__()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjI0OTg0MiwtMTQ2MzU3NzQ5MCw4OT
-M3ODI3ODcsMzI3OTA0MTEzXX0=
+eyJoaXN0b3J5IjpbNzc3NTc2OTQ3LC0xNDYzNTc3NDkwLDg5Mz
+c4Mjc4NywzMjc5MDQxMTNdfQ==
 -->
