@@ -67,7 +67,9 @@ $$\color{#21CBD6}a^{(3)}=f(z^{(3)})$$
 $$\color{#21CBD6}W^{(1)}=\begin{bmatrix}W^{(1)}_{11} & W^{(1)}_{12} & W^{(1)}_{13} & W^{(1)}_{14} \\ W^{(1)}_{21} & W^{(1)}_{22} & W^{(1)}_{23} & W^{(1)}_{24}\end{bmatrix}$$
 
 - $x$ là input vector có dạng $(m,1)$ với $m$ là số lượng input neurons, ở đây $m=4$
+
+$$\color{#21CBD6}\mathbf{x}=\begin{bmatrix}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI4NjA1ODQsMzY5MTQ3NTgyLC0xOT
-Y4OTEzNjQ2LC05NDM1MDM1OTZdfQ==
+eyJoaXN0b3J5IjpbMzQzODA4NDQ1LDM2OTE0NzU4MiwtMTk2OD
+kxMzY0NiwtOTQzNTAzNTk2XX0=
 -->
