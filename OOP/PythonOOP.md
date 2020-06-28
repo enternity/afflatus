@@ -173,7 +173,15 @@ Có thể gọi ```type()``` với 3 tham số. ```(<name>,<bases>,<dct>)``` :
 - ```<dct>``` : định nghĩa class body. Nó sẽ trở thành thuộc tính ```__dict__``` của lớp.
 
 Khi gọi ```type()``` đơn giản nó sẽ tạo ra một lớp mới theo các chỉ định như ở trên.
+
+1. Ví dụ 1:
+```python
+Foo = type('Foo',(),{})
+x = Foo()
+x
+# <__main>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTcyNDI4MywtMTQ2MzU3NzQ5MCw4OT
+eyJoaXN0b3J5IjpbLTU4NjA1MTkzOCwtMTQ2MzU3NzQ5MCw4OT
 M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
