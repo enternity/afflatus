@@ -121,8 +121,12 @@ while (không gặp điều kiện dừng)
 end
 
 ---
+- Khởi tạo $w,b$ random.
+- $\epsilon$ là learning rate. 
+- $w,b$ là ma trận đại diện cho trọng số và biases. Tính toán đạo hàm $C$ trên $w,b$.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc1OTQ1MTEsLTE4NDc5ODM5MDMsMz
+eyJoaXN0b3J5IjpbLTE0NjAwODMzNzMsLTE4NDc5ODM5MDMsMz
 QzODA4NDQ1LDM2OTE0NzU4MiwtMTk2ODkxMzY0NiwtOTQzNTAz
 NTk2XX0=
 -->
