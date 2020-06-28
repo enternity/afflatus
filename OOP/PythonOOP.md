@@ -152,8 +152,13 @@ type(x)
 type(Foo)
 # <class 'type'>
 ```
-Type của x là lớp ```Foo```.  Type của ```Foo``` cũng chính là nó luôn. Nhìn chung, type của bất kì new-style class là type.
+Type của x là lớp ```Foo```.  Type của ```Foo``` cũng chính là nó luôn. Nhìn chung, type của bất kì new-style class là type. :smile:
+```python
+type(type)
+# <class 'type'>
+```
+:lol:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQxNDEzNywtMTQ2MzU3NzQ5MCw4OT
+eyJoaXN0b3J5IjpbMTc3OTIwMzcyNiwtMTQ2MzU3NzQ5MCw4OT
 M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
