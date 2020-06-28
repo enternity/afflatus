@@ -147,10 +147,13 @@ Nên nhớ, tất cả mọi thứ trong Python đều là object. Class cũng l
 class Foo:
 	pass
 x = Foo()
-type(x
-)
+type(x)
+# <class '__main__.Foo'>
+type(Foo)
+# <class 'type'>
 ```
+Type của x là lớp ```Foo```.  Type của ```Foo``` cũng chính là nó luôn. Nhìn chung, type của bất kì new-style class là type.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTAzODYxNywtMTQ2MzU3NzQ5MCw4OT
+eyJoaXN0b3J5IjpbLTE5NjQxNDEzNywtMTQ2MzU3NzQ5MCw4OT
 M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
