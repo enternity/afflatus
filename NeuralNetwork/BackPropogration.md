@@ -90,8 +90,11 @@ $$\color{#21CBD6}s=W^{(3)}a^{(3)}$$
 $$C = cost(s,y)$$
 Dựa trên giá trị $C$, mô hình dùng để điều chỉnh tham số của chính nó để tiến gần hơn tới giá trị mong muốn $y$. Dùng trong thuậ toán backpropagation .
 ## Backpropagation and Computing Gradients
+Mục tiêu đơn giản là cực tiểu hóa *cost fucntion* bằng các điều chỉnh giá trị trọng số và biases. 
+
+Tính toán đạo hàm để cho chúng ta xem tham số $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Mzg3NTAyMiwtMTg0Nzk4MzkwMywzND
-M4MDg0NDUsMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTIxNDE1ODIxMzMsLTE4NDc5ODM5MDMsMz
+QzODA4NDQ1LDM2OTE0NzU4MiwtMTk2ODkxMzY0NiwtOTQzNTAz
+NTk2XX0=
 -->
