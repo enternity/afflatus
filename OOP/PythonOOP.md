@@ -240,7 +240,19 @@ class Qux(metaclass=Meta):
 Bar.attr, Qux,attr
 # (100,100)
 ```
+**Metaclasses thường được giới thiệu như class factories**
+
+1. Object Factory :
+```python
+class Foo:
+	def __init__(self):
+		self.attr=100
+x = Foo()
+y = Foo()
+z = Foo()
+x.attr
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE3NTY3MSwxNzkzMzY1OTMyLC0xND
-YzNTc3NDkwLDg5Mzc4Mjc4NywzMjc5MDQxMTNdfQ==
+eyJoaXN0b3J5IjpbLTE5MTgzNDcyMzMsMTc5MzM2NTkzMiwtMT
+Q2MzU3NzQ5MCw4OTM3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
