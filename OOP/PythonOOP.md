@@ -172,8 +172,8 @@ Có thể gọi ```type()``` với 3 tham số. ```(<name>,<bases>,<dct>)``` :
 - ```<bases>``` : một tuple class mà nó sẽ kế thừa.
 - ```<dct>``` : định nghĩa class body. Nó sẽ trở thành thuộc tính ```__dict__``` của lớp.
 
-Khi gọi ```type()```. đơ
+Khi gọi ```type()``` đơn giản nó sẽ tạo ra một lớp mới theo các chỉ định như ở trên.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNjI3NjYsLTE0NjM1Nzc0OTAsODkzNz
-gyNzg3LDMyNzkwNDExM119
+eyJoaXN0b3J5IjpbLTUyMTcyNDI4MywtMTQ2MzU3NzQ5MCw4OT
+M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
