@@ -50,9 +50,13 @@ $$x_j = a_j^{(1)}, i \in \{1,2,3,4\}$$
 Giá trị cuối cùng của các hidden neurons có màu xanh, được tính toán dựa trên $z^l$ - trọng số input tại lớp $l$ và $a^l$ - activations tại lớp $l$. Tại layer2, layer3, ta có công thức.
 - $l=2$
 $$\color{#21CBD6}z^{(2)} = W^{(1)}x + b^{(1)}$$
-$$\a^{(2)}=f(z^{(2)})$$
+$$\color{#21CBD6}a^{(2)}=f(z^{(2)})$$
 
+- $l=3$ 
+$$\color{#21CBD6}z^{(3)}=W^{(2)}a^{(2)} + b^{(2)}$$
+$$\color{#21CBD6}a^{(3)}=f(z^{(3)})$$
+> Với $W^2,W^3$ là trọng số tại layer2 và layer3, $b$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODcwNTI2MCwtMTk2ODkxMzY0NiwtOT
+eyJoaXN0b3J5IjpbMTIyODk3NTA2NywtMTk2ODkxMzY0NiwtOT
 QzNTAzNTk2XX0=
 -->
