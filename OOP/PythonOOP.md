@@ -217,7 +217,15 @@ g = Foo()
 g.attr
 # 100
 ```
+Định nghĩa metaclass xuất phát từ type.
+```python
+class Meta(type):
+	def __new__(cls, name, bases, dct):
+		x = super().__new__(cls, name, bases, dct)
+		x.attr = 100
+		return x
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzM2NTkzMiwtMTQ2MzU3NzQ5MCw4OT
-M3ODI3ODcsMzI3OTA0MTEzXX0=
+eyJoaXN0b3J5IjpbLTEyODM1MTcwNjIsMTc5MzM2NTkzMiwtMT
+Q2MzU3NzQ5MCw4OTM3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
