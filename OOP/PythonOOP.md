@@ -225,7 +225,22 @@ class Meta(type):
 		x.attr = 100
 		return x
 ```
+Bây giờ định nghĩa một lớp thông thường.
+```python
+class Foo(metaclass=Meta):
+	pass
+Foo.attr
+# 100
+```
+```python
+class Bar(metaclass=Meta):
+	pass
+class Qux(metaclass=Meta):
+	pass
+Bar.attr, Qux,attr
+# (100,100)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM1MTcwNjIsMTc5MzM2NTkzMiwtMT
-Q2MzU3NzQ5MCw4OTM3ODI3ODcsMzI3OTA0MTEzXX0=
+eyJoaXN0b3J5IjpbLTE2ODE3NTY3MSwxNzkzMzY1OTMyLC0xND
+YzNTc3NDkwLDg5Mzc4Mjc4NywzMjc5MDQxMTNdfQ==
 -->
