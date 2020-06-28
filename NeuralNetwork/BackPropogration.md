@@ -63,8 +63,8 @@ $$\color{#21CBD6}a^{(3)}=f(z^{(3)})$$
 >  Lấy ví dụ tại layer2 và tham số của nó làm ví dụ. 
 >  $W^{(1)}$ là ma trận trọng số có shape là $(n,m)$  trong đó $n$ là số lượng output neuron (neurons lớp tiếp theo) và $m$ là số lượng input neuron (neurons ở lớp trước). Trong ví dụ này là $n=2,m=4$
 
-$$\color{#21CBD6}W^{(1)}=\begin{bmatrix}\end{b}$$
+$$\color{#21CBD6}W^{(1)}=\begin{bmatrix}W^{(1)}_{11} & W^{(1)}_{12} & W^{(1)}_{13} & W^{(1)}_{14} \\ W^{(1)}_{21} & W^{(1)}_{22} & W^{(1)}_{23} & W^{(1)}_{24}\end{bmatrix}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTIxMDIwMSwzNjkxNDc1ODIsLTE5Nj
+eyJoaXN0b3J5IjpbMTU5NDA0MzczOCwzNjkxNDc1ODIsLTE5Nj
 g5MTM2NDYsLTk0MzUwMzU5Nl19
 -->
