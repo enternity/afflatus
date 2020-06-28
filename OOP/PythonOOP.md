@@ -188,9 +188,12 @@ x = Bar()
 x.attr
 # 100
 x.__class__
-# class '__main__.Bar'
+# <class '__main__.Bar'>
+x.__class__.__bases__
+# (<class '__main__.Foo'>,)
 ```
+## Custom Metaclasses
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQxNzcxMjgsLTE0NjM1Nzc0OTAsOD
-kzNzgyNzg3LDMyNzkwNDExM119
+eyJoaXN0b3J5IjpbMTkxNzA2ODQ2NSwtMTQ2MzU3NzQ5MCw4OT
+M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
