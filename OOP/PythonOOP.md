@@ -105,9 +105,17 @@ class Square(Rectangle):
 ## Old-Style Classes
 Với old-style classes, class và type không phải là 1 thứ giống nhau. Instance của old-style class luôn được implemented từ *built-in* được gọi là *instance*. Nếu đối tượng là một instance của old-style class, ```obj.__class__``` được chỉ định bởi lớp, tuy nhiên ```type(obj)``` luôn là một instance. Python2.7 :
 ```python
-class 
+class Foo:
+	pass
+x = Foo()
+x.__class__
+# <class __main__.Foo at 0x00000abcd>
+type(x)
+# <type 'instance'>
 ```
+## New-style Classes
+Với new-style classes thống nhâts concepts của class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTczNzI1OSwtMTQ2MzU3NzQ5MCw4OT
-M3ODI3ODcsMzI3OTA0MTEzXX0=
+eyJoaXN0b3J5IjpbNTgwMTcxNzQzLC0xNDYzNTc3NDkwLDg5Mz
+c4Mjc4NywzMjc5MDQxMTNdfQ==
 -->
