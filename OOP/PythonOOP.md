@@ -167,7 +167,9 @@ type(type)
 - type cũng chính là instance của type metaclass, vậy nên gọi là instance của chính nó.
 
 ## Định nghĩa Class một các linh động hơn.
+Có thể gọi ```type()``` với 3 tham số. ```(<name>,<bases>,<dct>)``` :
+- ```<name>``` : tên của class. Nó sẽ trở thành ```__name__``` t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY1NzIwNTEsLTE0NjM1Nzc0OTAsOD
-kzNzgyNzg3LDMyNzkwNDExM119
+eyJoaXN0b3J5IjpbLTcwMTcyNzc4NiwtMTQ2MzU3NzQ5MCw4OT
+M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
