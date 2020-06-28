@@ -87,10 +87,11 @@ $$\color{#21CBD6}s=W^{(3)}a^{(3)}$$
 <center><img src="https://miro.medium.com/max/1400/1*51X_xj8p-jO8-plMfsyajg.png"></center>
 
 Đánh giá giữa $s$ và $y$ dựa vào ***cost function***. Có thể đơn ginả như *MSE* hay phức tạp như *cross-entropy*.
-
-Dựa trên 
+$$C = cost(s,y)$$
+Dựa trên giá trị $C$, mô hình dùng để điều chỉnh tham số của chính nó để tiến gần hơn tới giá trị mong muốn $y$. Dùng trong thuậ toán backpropagation .
+## Backpropagation and Computing Gradients
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDc3NjUwNCwtMTg0Nzk4MzkwMywzND
+eyJoaXN0b3J5IjpbLTY2Mzg3NTAyMiwtMTg0Nzk4MzkwMywzND
 M4MDg0NDUsMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1
 OTZdfQ==
 -->
