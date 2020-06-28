@@ -92,9 +92,12 @@ Dựa trên giá trị $C$, mô hình dùng để điều chỉnh tham số củ
 ## Backpropagation and Computing Gradients
 Mục tiêu đơn giản là cực tiểu hóa *cost fucntion* bằng các điều chỉnh giá trị trọng số và biases. 
 
-Tính toán đạo hàm để cho chúng ta xem tham số $$
+Tính toán đạo hàm để cho chúng ta xem tham số $x$ cần thay đổi bao nhiêu (trừ hay cộng bao nhiêu) để cực tiểu hóa $C$
+
+Tại một $w_{jk}^l$, đạo hàm sẽ là :
+$$\color{#21CBD6} \fra$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE1ODIxMzMsLTE4NDc5ODM5MDMsMz
+eyJoaXN0b3J5IjpbLTE5OTczODk4OTgsLTE4NDc5ODM5MDMsMz
 QzODA4NDQ1LDM2OTE0NzU4MiwtMTk2ODkxMzY0NiwtOTQzNTAz
 NTk2XX0=
 -->
