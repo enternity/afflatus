@@ -68,8 +68,11 @@ $$\color{#21CBD6}W^{(1)}=\begin{bmatrix}W^{(1)}_{11} & W^{(1)}_{12} & W^{(1)}_{1
 
 - $x$ là input vector có dạng $(m,1)$ với $m$ là số lượng input neurons, ở đây $m=4$
 
-$$\color{#21CBD6}\mathbf{x}=\begin{bmatrix}$$
+$$\color{#21CBD6}\mathbf{x}=\begin{bmatrix}x_1 \\ x_2 \\x_3 \\x_4\end{bmatrix}$$
+- $b^1$ là *bias vector* có shape $(n,1)$ với $n$ là số neurons tại lớp hiện tại, ở đây là $n=2$
+
+$$\color{#21CBD6}b^{(1)}=\begin{bmatrix}\end{bm}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzODA4NDQ1LDM2OTE0NzU4MiwtMTk2OD
-kxMzY0NiwtOTQzNTAzNTk2XX0=
+eyJoaXN0b3J5IjpbMTEwMDE0MzIwNiwzNDM4MDg0NDUsMzY5MT
+Q3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1OTZdfQ==
 -->
