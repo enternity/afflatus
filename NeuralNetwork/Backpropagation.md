@@ -58,7 +58,7 @@ $$\color{#21CBD6}z^{(3)}=W^{(2)}a^{(2)} + b^{(2)}$$
 $$\color{#21CBD6}a^{(3)}=f(z^{(3)})$$
 > Với $W^2,W^3$ là trọng số tại layer2 và layer3, $b^2,b^3$ là bias tại các lớp ấy.
 
-> Activations $a^2,a^3$ được tính toán dựa trên hàm activation $f$. Hàm $f$ là một hàm non-linear ($\text{sigmoid},\text{ReLU},\tanh$)
+> Activations $a^2,a^3$ được tính toán dựa trên hàm activation $f$. Hàm $f$ là một hàm non-linear ($\text{sigmoid},\text{ReLU},\tanh,...$)
 > Chúng ta kết hợp tất cả các giá trị tham số vào trong ma trận, nhóm theo layer.
 
 >  Lấy ví dụ tại layer2 và tham số của nó làm ví dụ. 
@@ -133,5 +133,5 @@ Trọng số $w_{22}^{(2)}$ liên kết với $a_2^2$ và $z_2^2$. Tính toán �
 
 $$\color{#21CBD6}\frac{\partial C}{\partial w_{22}^{(2)}}=\frac{\partial C}{\partial z_2^{(3)}}\cdot \frac{\partial z_2^{(3)}}{\partial w_{22}^{(2)}} = \frac{\partial C}{\partial a_2^{(3)}}\cdot\frac{\partial a_2^{(3)}}{\partial z_2^{(3)}}\cdot a_2^{(2)}=\frac{\partial C}{\partial a_2^{(3)}}\cdot f'(z_2^{(3)})\cdot a_2^{(2)}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjMxODI3M119
+eyJoaXN0b3J5IjpbMTM4NzA5NTA3LDEzMzIzMTgyNzNdfQ==
 -->
