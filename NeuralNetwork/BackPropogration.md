@@ -95,9 +95,10 @@ Mục tiêu đơn giản là cực tiểu hóa *cost fucntion* bằng các đi�
 Tính toán đạo hàm để cho chúng ta xem tham số $x$ cần thay đổi bao nhiêu (trừ hay cộng bao nhiêu) để cực tiểu hóa $C$
 
 Tại một $w_{jk}^l$, đạo hàm sẽ là :
-$$\color{#21CBD6} \fra$$
+$$\color{#21CBD6} \frac{\partial C}{\partial w_{jk}^l}= \frac{\partial C}{\partial z_j^l}\cdot \frac{\partial z_j^l}{\partial w_{jk}^l} \text{ (chain rule)}$$
+$$\color{#21CBD6} z_j^l $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTczODk4OTgsLTE4NDc5ODM5MDMsMz
-QzODA4NDQ1LDM2OTE0NzU4MiwtMTk2ODkxMzY0NiwtOTQzNTAz
-NTk2XX0=
+eyJoaXN0b3J5IjpbMTIwMTkyMjQ0OCwtMTg0Nzk4MzkwMywzND
+M4MDg0NDUsMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1
+OTZdfQ==
 -->
