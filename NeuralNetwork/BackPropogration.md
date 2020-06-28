@@ -80,9 +80,13 @@ $$\color{#21CBD6}z^{(2)}=\begin{bmatrix}W^{(1)}_{11}x_1 + W^{(1)}_{12}x_1 + W^{(
 <center><img src="https://miro.medium.com/max/1400/1*02zF6C6PYzGBbiah4-5fTQ.jpeg"></center>
 
 ## Output Layer
-Dự đoán giá trị. Trong ví dụ này, là một ner
+Dự đoán giá trị. Trong ví dụ này, là một neuron màu blue và tính toán dựa theo :
+$$\color{#21CBD6}s=W^{(3)}a^{(3)}$$
+## Forward Propagation and Evaluation 
+
+<center><img src="https://miro.medium.com/max/1400/1*51X_xj8p-jO8-plMfsyajg.png"></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1MDIzNzg1LC0xODQ3OTgzOTAzLDM0Mz
-gwODQ0NSwzNjkxNDc1ODIsLTE5Njg5MTM2NDYsLTk0MzUwMzU5
-Nl19
+eyJoaXN0b3J5IjpbMTg0MzgwMTIxNiwtMTg0Nzk4MzkwMywzND
+M4MDg0NDUsMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1
+OTZdfQ==
 -->
