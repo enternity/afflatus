@@ -127,8 +127,11 @@ end
 - Dừng điều kiện khi gặp 1 *cost-function* là cực tiểu.
 
 <center><img src="https://miro.medium.com/max/1400/1*CxdjKFrE-Vww0KmI-3Z5sA.png"><br><i>Visualize backpropagation in Neuron Network</i></center>
+
+Trọng số $w_{22}^{(2)}$ liên kết với $a_2^2$ và $z_2^2$. Tính toán đạo hàm yêu cầu chain rule thông qua $z_2^3, a_2^3$
+$$\color{}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDgyODE4LC0xODQ3OTgzOTAzLDM0Mz
-gwODQ0NSwzNjkxNDc1ODIsLTE5Njg5MTM2NDYsLTk0MzUwMzU5
-Nl19
+eyJoaXN0b3J5IjpbMTgyNzQ4MDQxNCwtMTg0Nzk4MzkwMywzND
+M4MDg0NDUsMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1
+OTZdfQ==
 -->
