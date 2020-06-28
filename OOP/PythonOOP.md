@@ -268,8 +268,21 @@ Y.attr
 # 100
 ```
 3. Class Decorator :
+```python
+def decorator(cls):
+	class NewClass(cls):
+		attr = 100
+	return NewClass
+@decorator
+class X:
+	pass
+@decorator
+class Y:
+	pass
+X.attr = Y.attr
+# True (100=100)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDQyMjg1OCwxNzkzMzY1OTMyLC0xND
-YzNTc3NDkwLDg5Mzc4Mjc4NywzMjc5MDQxMTNdfQ==
+eyJoaXN0b3J5IjpbMjk2MDg0MDYzLDE3OTMzNjU5MzIsLTE0Nj
+M1Nzc0OTAsODkzNzgyNzg3LDMyNzkwNDExM119
 -->
