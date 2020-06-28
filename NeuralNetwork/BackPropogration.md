@@ -43,6 +43,10 @@ $$\color{#0B47F3}\frac{\partial z}{\partial x} = I$$
 
 > Ở đây ta thấy có 4 layers, 4 neuron cho hidden layers, 1 neuron cho output layer.
 
+## Input Layer
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg5MTM2NDYsLTk0MzUwMzU5Nl19
+eyJoaXN0b3J5IjpbLTEwMTEwMjAyODcsLTE5Njg5MTM2NDYsLT
+k0MzUwMzU5Nl19
 -->
