@@ -98,9 +98,13 @@ Tại một $w_{jk}^l$, đạo hàm sẽ là :
 $$\color{#21CBD6} \frac{\partial C}{\partial w_{jk}^l}= \frac{\partial C}{\partial z_j^l}\cdot \frac{\partial z_j^l}{\partial w_{jk}^l} \text{ (chain rule)}$$
 $$\color{#21CBD6} z_j^l = \sum_{k=1}^mw_{jk}^la_k^{l-1} + b_k^l \text{ (định nghĩa)} \\ m-number ~of ~neurons ~in ~l-1~ layer$$
 $$\color{#21CBD6}\frac{\partial z_j^l}{\partial w_{jk}^l}=a_k^{l-1} \text{ (tính đạo hàm)}$$
-$$\color{#21CBD6}\frac{\partial C}{\partial w_{jk}^l}=\frac{\partial C}{\partial z_j^l}$$
+$$\color{#21CBD6}\frac{\partial C}{\partial w_{jk}^l}=\frac{\partial C}{\partial z_j^l}a_k^{l-1} \text{ (giá trị cuối cùng)}$$
+
+> Tương tự tính toán với $b_j^l$
+
+$$\color{#21CBD6}\frac{\partial C}{\partial b_j^l}=\frac{\partial C}{\partial z_j^l}\cdot \frac{\partial z_j^l}{\partial b_j^}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwOTU5NzQ3LC0xODQ3OTgzOTAzLDM0Mz
-gwODQ0NSwzNjkxNDc1ODIsLTE5Njg5MTM2NDYsLTk0MzUwMzU5
-Nl19
+eyJoaXN0b3J5IjpbLTE3NDQ4ODMwOTcsLTE4NDc5ODM5MDMsMz
+QzODA4NDQ1LDM2OTE0NzU4MiwtMTk2ODkxMzY0NiwtOTQzNTAz
+NTk2XX0=
 -->
