@@ -140,8 +140,17 @@ for obj in (n,d,x):
 # True
 ```
 ## Type and Class
-Trong Python3, tất cả các class đều là new-style classes. Do đó, trong python3 
+Trong Python3, tất cả các class đều là new-style classes. Do đó, trong python3 objects'type và lớp của object đó có thể hoán đổi cho nhau.
+
+Nên nhớ, tất cả mọi thứ trong Python đều là object. Class cũng là object. Vì thế, class cũng phải có type. Vậy type của class là gì ?
+```python
+class Foo:
+	pass
+x = Foo()
+type(x
+)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTI5MzA0MCwtMTQ2MzU3NzQ5MCw4OT
+eyJoaXN0b3J5IjpbLTUyOTAzODYxNywtMTQ2MzU3NzQ5MCw4OT
 M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
