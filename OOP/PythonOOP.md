@@ -95,7 +95,9 @@ class Square(Rectangle):
 <center><i>class D -> class B -> class C -> class A</i></center>
 
 > Dùng function ```__mro__``` hay ```mor()``` để  tìm thứ tự kế thừa.
+
+# Metaclasses 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM1Nzc0OTAsODkzNzgyNzg3LDMyNz
-kwNDExM119
+eyJoaXN0b3J5IjpbMTkyMjkxMDg2LC0xNDYzNTc3NDkwLDg5Mz
+c4Mjc4NywzMjc5MDQxMTNdfQ==
 -->
