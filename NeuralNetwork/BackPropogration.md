@@ -44,9 +44,11 @@ $$\color{#0B47F3}\frac{\partial z}{\partial x} = I$$
 > Ở đây ta thấy có 4 layers, 4 neuron cho hidden layers, 1 neuron cho output layer.
 
 ## Input Layer
-
+Neuron màu tím. Đại diện cho input data. Nó có thể đơn giản là scalar hay là vector hoặc là một ma trận nhiều chiều.
+$$x_j = a_j^{(1)}, i \in \{1,2,3,4\}$$
+## Hidden Layers
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTEwMjAyODcsLTE5Njg5MTM2NDYsLT
-k0MzUwMzU5Nl19
+eyJoaXN0b3J5IjpbLTU2MzUyNzQ5NSwtMTk2ODkxMzY0NiwtOT
+QzNTAzNTk2XX0=
 -->
