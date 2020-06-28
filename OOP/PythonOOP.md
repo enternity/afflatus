@@ -100,8 +100,10 @@ class Square(Rectangle):
 ## MetaPrograming
 [https://stackoverflow.com/questions/514644/what-exactly-is-metaprogramming](https://stackoverflow.com/questions/514644/what-exactly-is-metaprogramming)
 
-> Python hỗ trợ một form của metaprogram
+> Python hỗ trợ một form của metaprogramming cho classes gọi là **metaclasses**
+
+## Old-Style Classes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTk5NDY3NiwtMTQ2MzU3NzQ5MCw4OT
+eyJoaXN0b3J5IjpbLTcxMTUyOTkyMiwtMTQ2MzU3NzQ5MCw4OT
 M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
