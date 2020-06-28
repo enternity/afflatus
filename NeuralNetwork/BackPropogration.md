@@ -96,9 +96,10 @@ Tính toán đạo hàm để cho chúng ta xem tham số $x$ cần thay đổi 
 
 Tại một $w_{jk}^l$, đạo hàm sẽ là :
 $$\color{#21CBD6} \frac{\partial C}{\partial w_{jk}^l}= \frac{\partial C}{\partial z_j^l}\cdot \frac{\partial z_j^l}{\partial w_{jk}^l} \text{ (chain rule)}$$
-$$\color{#21CBD6} z_j^l $$
+$$\color{#21CBD6} z_j^l = \sum_{k=1}^mw_{jk}^la_k^{l-1} + b_k^l \text{ (định nghĩa)} \\ m-number ~of ~neurons ~in ~l-1~ layer$$
+$$\color{#21CBD6}\frac{}{}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTkyMjQ0OCwtMTg0Nzk4MzkwMywzND
-M4MDg0NDUsMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTE2MTkzOTEzMzksLTE4NDc5ODM5MDMsMz
+QzODA4NDQ1LDM2OTE0NzU4MiwtMTk2ODkxMzY0NiwtOTQzNTAz
+NTk2XX0=
 -->
