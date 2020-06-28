@@ -103,7 +103,8 @@ class Square(Rectangle):
 > Python hỗ trợ một form của metaprogramming cho classes gọi là **metaclasses**
 
 ## Old-Style Classes
+Với old-style classes, class và type không phải là 1 thứ giống nhau. Instance của old-style class luôn được implemented từ *built-in* được gọi là *instance*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTUyOTkyMiwtMTQ2MzU3NzQ5MCw4OT
-M3ODI3ODcsMzI3OTA0MTEzXX0=
+eyJoaXN0b3J5IjpbLTE5NjU4MjgwODgsLTE0NjM1Nzc0OTAsOD
+kzNzgyNzg3LDMyNzkwNDExM119
 -->
