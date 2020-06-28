@@ -139,7 +139,9 @@ for obj in (n,d,x):
 # True
 # True
 ```
+## Type and Class
+Trong Python3, tất cả các class đều là new-style classes. Do đó, trong python3 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzE3MTQwMywtMTQ2MzU3NzQ5MCw4OT
+eyJoaXN0b3J5IjpbMjA3MTI5MzA0MCwtMTQ2MzU3NzQ5MCw4OT
 M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
