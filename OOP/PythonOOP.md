@@ -164,8 +164,10 @@ type(type)
 Đại khái là :
 - x là instance của class Foo.
 - Foo là instance của type metaclass
-- type cũng chính là c
+- type cũng chính là instance của type metaclass, vậy nên gọi là instance của chính nó.
+
+## Định nghĩa Class một các linh động hơn.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjM0MzM5MSwtMTQ2MzU3NzQ5MCw4OT
-M3ODI3ODcsMzI3OTA0MTEzXX0=
+eyJoaXN0b3J5IjpbLTE5NTY1NzIwNTEsLTE0NjM1Nzc0OTAsOD
+kzNzgyNzg3LDMyNzkwNDExM119
 -->
