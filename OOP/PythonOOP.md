@@ -168,8 +168,12 @@ type(type)
 
 ## Định nghĩa Class một các linh động hơn.
 Có thể gọi ```type()``` với 3 tham số. ```(<name>,<bases>,<dct>)``` :
-- ```<name>``` : tên của class. Nó sẽ trở thành ```__name__``` t
+- ```<name>``` : tên của class. Nó sẽ trở thành thuộc tính ```__name__```  của lớp.
+- ```<bases>``` : một tuple class mà nó sẽ kế thừa.
+- ```<dct>``` : định nghĩa class body. Nó sẽ trở thành thuộc tính ```__dict__``` của lớp.
+
+Khi gọi ```type()```. đơ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTcyNzc4NiwtMTQ2MzU3NzQ5MCw4OT
-M3ODI3ODcsMzI3OTA0MTEzXX0=
+eyJoaXN0b3J5IjpbMzIwNjI3NjYsLTE0NjM1Nzc0OTAsODkzNz
+gyNzg3LDMyNzkwNDExM119
 -->
