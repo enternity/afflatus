@@ -129,9 +129,10 @@ end
 <center><img src="https://miro.medium.com/max/1400/1*CxdjKFrE-Vww0KmI-3Z5sA.png"><br><i>Visualize backpropagation in Neuron Network</i></center>
 
 Trọng số $w_{22}^{(2)}$ liên kết với $a_2^2$ và $z_2^2$. Tính toán đạo hàm yêu cầu chain rule thông qua $z_2^3, a_2^3$
-$$\color{}$$
+
+$$\color{#21CBD6}\frac{\partial C}{\partial w_{22}^{(2)}}=\frac{\partial C}{\partial z_2^{(3)}}\cdot \frac{\partial z_2^{(3)}}{\partial w_{22}^{(2)}} = \frac{\partial C}{\partial}\frac{}{}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzQ4MDQxNCwtMTg0Nzk4MzkwMywzND
+eyJoaXN0b3J5IjpbMTE2MTc2NTQ5NCwtMTg0Nzk4MzkwMywzND
 M4MDg0NDUsMzY5MTQ3NTgyLC0xOTY4OTEzNjQ2LC05NDM1MDM1
 OTZdfQ==
 -->
