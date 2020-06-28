@@ -179,9 +179,18 @@ Khi gọi ```type()``` đơn giản nó sẽ tạo ra một lớp mới theo cá
 Foo = type('Foo',(),{})
 x = Foo()
 x
-# <__main>
+# <__main__.Foo object at 0x04ABCD>
+```
+2. Ví dụ 2:
+```python
+Bar = type('Bar',(Foo,), dict(attr=100))
+x = Bar()
+x.attr
+# 100
+x.__class__
+# class '__main__.Bar'
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjA1MTkzOCwtMTQ2MzU3NzQ5MCw4OT
-M3ODI3ODcsMzI3OTA0MTEzXX0=
+eyJoaXN0b3J5IjpbLTE4NTQxNzcxMjgsLTE0NjM1Nzc0OTAsOD
+kzNzgyNzg3LDMyNzkwNDExM119
 -->
