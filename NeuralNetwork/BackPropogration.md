@@ -47,8 +47,11 @@ $$\color{#0B47F3}\frac{\partial z}{\partial x} = I$$
 Neuron màu tím. Đại diện cho input data. Nó có thể đơn giản là scalar hay là vector hoặc là một ma trận nhiều chiều.
 $$x_j = a_j^{(1)}, i \in \{1,2,3,4\}$$
 ## Hidden Layers
+Giá trị cuối cùng của các hidden neurons có màu xanh, được tính toán dựa trên $z^l$ - trọng số input tại lớp $l$ và $a^l$ - activations tại lớp $l$. Tại layer2, layer3, ta có công thức.
+- $l=2$
+$$$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzUyNzQ5NSwtMTk2ODkxMzY0NiwtOT
+eyJoaXN0b3J5IjpbMTQ1MDA3NjU5NSwtMTk2ODkxMzY0NiwtOT
 QzNTAzNTk2XX0=
 -->
