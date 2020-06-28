@@ -123,9 +123,23 @@ obj.__class__
 # <class '__main__.Foo'>
 type(obj)
 # <class '__main__.Foo'>
-obj.
+obj.__class__ is type(obj)
+# True
+```
+```python
+n = 5
+d = {'x':1, 'y'"2}
+class Foo:
+	pass
+x = Foo()
+for obj in (n,d,x):
+	print(type(obj) is obj.__class__)
+
+# True
+# True
+# True
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk4MTQ5ODYsLTE0NjM1Nzc0OTAsOD
-kzNzgyNzg3LDMyNzkwNDExM119
+eyJoaXN0b3J5IjpbLTcxNzE3MTQwMywtMTQ2MzU3NzQ5MCw4OT
+M3ODI3ODcsMzI3OTA0MTEzXX0=
 -->
