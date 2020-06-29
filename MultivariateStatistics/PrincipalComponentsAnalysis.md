@@ -4,6 +4,7 @@
 1. Nếu phụ thuộc tuyến tính. Lưu thì phí,
 2. Giữa lại những thành phần độc lập với nhau.
 3. Thành phần chính : là các thành phần có độ biến thiên dữ liệu lớn nhất.
+
 # Nguyên lý :
 1. Cực đại hóa $Var(\mathbf{Y}_i)$
 2. Hệ số tương quan = 0
@@ -14,6 +15,6 @@
 3. **Tính eigen-value, eigen-vector**.
 4. **Nhận xét từ các giá trị tính toán, rút ra các thành phần chính**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDQ5ODEwMSwtODkwNzk0NDcxLDEyMT
-I4MzA4MjBdfQ==
+eyJoaXN0b3J5IjpbLTM4NTkxMzUyOSwxMzIwNDk4MTAxLC04OT
+A3OTQ0NzEsMTIxMjgzMDgyMF19
 -->
