@@ -11,7 +11,7 @@
 > Giả sử tại một layer. giá trị neuron:
 $$\mathbf{Y}=\sum(\text{weight} \times \text{input}) + \text{bias}$$
 
-Mục đích đơn giản của *Activation Function* để kiểm tra giá trị của $\mathbf{Y}$  bởi các neuron
+Mục đích đơn giản của *Activation Function* để kiểm tra giá trị của $\mathbf{Y}$  bởi các neuron và xem xét neuron này có *"fired"* hay không. Chúng ta thay nó bằng có *"activated"* hay không.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzNjMyMjg5XX0=
+eyJoaXN0b3J5IjpbLTgzMDgzNDcwM119
 -->
