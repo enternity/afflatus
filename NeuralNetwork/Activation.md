@@ -7,7 +7,9 @@
 > #0B47F3 : các công thức chính, cần nhớ.
 > Bài viết được dịch trên : [https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
 
-# Activ
+# Activations Function
+> Giả sử tại một layer. giá trị neuron:
+$$\mathbf{Y}=\sum(\text{weight} \times \text{input}) + \text{bias}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDMwOTI2OF19
+eyJoaXN0b3J5IjpbMTA5MTk2Njg3MF19
 -->
