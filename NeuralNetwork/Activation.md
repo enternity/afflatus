@@ -10,6 +10,8 @@
 # Activations Function
 > Giả sử tại một layer. giá trị neuron:
 $$\mathbf{Y}=\sum(\text{weight} \times \text{input}) + \text{bias}$$
+
+Mục đích đơn giản của *Activation Function* để kiểm tra giá trị của $\mathbf{Y}$  bởi các neuron
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTk2Njg3MF19
+eyJoaXN0b3J5IjpbMzIzNjMyMjg5XX0=
 -->
