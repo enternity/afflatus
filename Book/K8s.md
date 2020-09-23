@@ -56,8 +56,10 @@ Ta có thể gặp những vấn đề như :
 - Với trường hợp thành phần mới tương thích với thành phần cũ, upgrade sẽ rất dễ. 
 - Từ phiên bản 1.2 việc deployment resource sẽ dễ dàng hơn. 
 ### Complexity Deployment
-Giả sử service A phụ thuộc vào service B. Giờ service B cần thay đổi. v1 pods service A không thể giao tiếp được với v2 pods service B. 
+Giả sử service A phụ thuộc vào service B. Giờ service B cần thay đổi. v1 pods service A không thể giao tiếp được với v2 pods service B. Nên ta cần implement v1 API cho service B. Tuy nhiên sẽ phức tạp hơn khúc deployment và yêu cầu nhiều bước. 
+### Blue-green upgrades.
+Chuẩn bị một bản copy hoàn thiện trên production env
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3NTE1MzcyLDQwNzk4OTIxOCwxODk0MT
+eyJoaXN0b3J5IjpbNTY5Nzc0ODkxLDQwNzk4OTIxOCwxODk0MT
 M4MzgxLDE4MTE3NzQwODcsLTE5MjY5OTY4ODJdfQ==
 -->
