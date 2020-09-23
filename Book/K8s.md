@@ -50,6 +50,8 @@ Ta có thể gặp những vấn đề như :
 ```etcd``` phải được deployed như một cluster (thường là 3 - 5 nodes, tại sao lại là 3 và 5 thì google :smile:). . Hiểu nôm na thì deployed càng nhiều node thì xác suất available của service càng tăng lên :smile: _kind of makesense, right?_
 
 ![](https://i.imgur.com/JdFseST.png)
+## Leader Electio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTc3NDA4NywtMTkyNjk5Njg4Ml19
+eyJoaXN0b3J5IjpbLTMzMDY0NzUxOSwxODExNzc0MDg3LC0xOT
+I2OTk2ODgyXX0=
 -->
