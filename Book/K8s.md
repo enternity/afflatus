@@ -73,8 +73,13 @@ Data contracts diễn tả cách data được tổ chức.
 ## Node challenges
 - Kubelet là nơi để talk với API server. Nếu replace Kubelet bởi một bản khác, thì có thể truy cập vào vùng dùng chung.
 - Resource drain.
+- Các kiểu có thể bị tấn công :
+	- Chiếm quyền kiểm soát host.
+	- Replace kubelet
+	- Run master components (API server, scheduler, controller manager)
+	- Drains resources
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0MTU4NTYxLC0xOTgyMzcxMTAsNDI2Mj
+eyJoaXN0b3J5IjpbNjQyMDY4NzMwLC0xOTgyMzcxMTAsNDI2Mj
 Y1Mzk2LDQwNzk4OTIxOCwxODk0MTM4MzgxLDE4MTE3NzQwODcs
 LTE5MjY5OTY4ODJdfQ==
 -->
