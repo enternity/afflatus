@@ -51,8 +51,11 @@ Ta có thể gặp những vấn đề như :
 
 ![](https://i.imgur.com/JdFseST.png)
 ## Leader Election for Application
-Google có support một _leader-elector_ container.  Về cơ bản là dùng các Kube endpoints kết hợp với _Resource Version_ và _Annotation_
+Google có support một _leader-elector_ container.  Về cơ bản là dùng các Kube endpoints kết hợp với _Resource Version_ và _Annotations.
+```
+kubectl run leader-elector --image=gcr.io/google_containers/leaderelector:0.4 --replicas=3 -- --election=election –http=0.0.0.0:4040
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDYyOTM0MDEsMTgxMTc3NDA4NywtMT
-kyNjk5Njg4Ml19
+eyJoaXN0b3J5IjpbMTg5NDEzODM4MSwxODExNzc0MDg3LC0xOT
+I2OTk2ODgyXX0=
 -->
