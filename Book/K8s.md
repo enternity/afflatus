@@ -69,9 +69,9 @@ Data contracts diễn tả cách data được tổ chức.
 Để hi vọng hệ thống của mình là một hệ thống zero-downtime :smile:
 - Dự phòng ở mọi cấp độ. Không có điểm nào down làm cho toàn bộ system down.
 - Tự động hot swapping cả thành phần lỗi. 
-
+# Understander
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIzNzExMCw0MjYyNjUzOTYsNDA3OT
-g5MjE4LDE4OTQxMzgzODEsMTgxMTc3NDA4NywtMTkyNjk5Njg4
-Ml19
+eyJoaXN0b3J5IjpbLTE1MTc2OTI2LC0xOTgyMzcxMTAsNDI2Mj
+Y1Mzk2LDQwNzk4OTIxOCwxODk0MTM4MzgxLDE4MTE3NzQwODcs
+LTE5MjY5OTY4ODJdfQ==
 -->
