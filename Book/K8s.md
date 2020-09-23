@@ -86,8 +86,11 @@ Data contracts diễn tả cách data được tổ chức.
 - Authentication and authorization
 - Firewalls rules
 - Network policy
+- Key management and exchange
+## Image challenges 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MTYxOTU5LC0xOTgyMzcxMTAsNDI2Mj
-Y1Mzk2LDQwNzk4OTIxOCwxODk0MTM4MzgxLDE4MTE3NzQwODcs
-LTE5MjY5OTY4ODJdfQ==
+eyJoaXN0b3J5IjpbMjA3MDQ2ODg1OSwtMTk4MjM3MTEwLDQyNj
+I2NTM5Niw0MDc5ODkyMTgsMTg5NDEzODM4MSwxODExNzc0MDg3
+LC0xOTI2OTk2ODgyXX0=
 -->
