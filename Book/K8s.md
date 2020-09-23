@@ -48,7 +48,7 @@ Ta có thể gặp những vấn đề như :
 ## Creating highly available clusters
 ```etcd``` phải được deployed như một cluster (thường là 3 - 5 nodes, tại sao lại là 3 và 5 thì google :smile:). . Hiểu nôm na thì deployed càng nhiều node thì xác suất available của service càng tăng lên :smile: _kind of makesense, right?_
 
-<center>
+<center><img src="https://i.imgur.com/JdFseST.png"/></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjAzMDIzMiwtMTkyNjk5Njg4Ml19
+eyJoaXN0b3J5IjpbLTEyNjQ3MjI5MSwtMTkyNjk5Njg4Ml19
 -->
