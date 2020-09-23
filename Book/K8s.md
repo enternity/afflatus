@@ -45,7 +45,8 @@ Ta có thể gặp những vấn đề như :
 > Túm váy lại là nên kiểm tra trên dashboard để xem pod có đang dùng lãng phí cái nào không rồi config lại. That's it. Every one know what is waste :smile:
 
 # High Availability and Reliability
-## Cre
+## Creating highly available clusters
+```etcd``` phải được deployed như một cluster (thường là 3 - 5 nodes, tại sao lại là 3 và 5 thì google :smile:). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTY1ODcwOSwtMTkyNjk5Njg4Ml19
+eyJoaXN0b3J5IjpbNzQ3MzEwODc5LC0xOTI2OTk2ODgyXX0=
 -->
