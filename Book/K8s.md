@@ -58,8 +58,8 @@ Ta có thể gặp những vấn đề như :
 ### Complexity Deployment
 Giả sử service A phụ thuộc vào service B. Giờ service B cần thay đổi. v1 pods service A không thể giao tiếp được với v2 pods service B. Nên ta cần implement v1 API cho service B. Tuy nhiên sẽ phức tạp hơn khúc deployment và yêu cầu nhiều bước. 
 ### Blue-green upgrades.
-Chuẩn bị một bản copy hoàn thiện trên production env
+Chuẩn bị một bản copy hoàn thiện trên production env. Bây giờ có 2 bản. Hiện tại giả sử, blue(bản cũ) đang hoạt động và service các requests. Và có thể test trên bản còn lại. Một khi bản green(bản mới) okelah rồi. thì chuyển từ blue(cũ) sang green(mới)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5Nzc0ODkxLDQwNzk4OTIxOCwxODk0MT
-M4MzgxLDE4MTE3NzQwODcsLTE5MjY5OTY4ODJdfQ==
+eyJoaXN0b3J5IjpbLTEwNTYzODUxNzcsNDA3OTg5MjE4LDE4OT
+QxMzgzODEsMTgxMTc3NDA4NywtMTkyNjk5Njg4Ml19
 -->
