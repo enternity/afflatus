@@ -6,11 +6,11 @@
 	- Dễ dùng : không cần lo việc chạy một process quản lý , các signal và exit-code.
 	- Tối ưu : Bởi vì infra của k8s chịu nhiều trách nhiệm hơn, nên container càng nhẹ hơn.
 ## Deployment 
-Quản lý những stateless services đang chạy trên cluster. Mục đích là giữ định danh các pods đang chạy và upgrade theo cách có kiểm soát được. Ví dụ : định nghĩa bao nhiêu pod replicas đang chạy trên các node. 
+Quản lý những stateless services đang chạy trên cluster. Mục đích là giữ định danh các pods đang chạy và upgrade theo cách có kiểm soát được. Ví dụ : định nghĩa bao nhiêu pod replicas đang chạy trên các node. Mỗi thằng replica sẽ mount một Volume khác có cùng kích thước như thằng chính (nhân bản hoàn toàn)
 ## DaemonSet
 Quản lý những group các replicas Pods. DaemonSet cố gắng trên mỗi node chỉ có 1 pod và không có pod replicated chạy trên cùng một node. Nếu add node to cluster thì Daemonset sẽ tự động xuất hiện pod trên node đó, deployment không làm được vụ này.
 ## StatefulSet
-Mỗi replica của pods sẽ dùng chính Volume của 
+Mỗi replica của pods sẽ dùng chính Volume của nó, có chính state của nó. (Một nhân bản dùng ổ cứng của chính thằng thiệt, gần như khó biết thằng nào replica hơn :imp:)
 ## Label :
 - Là một key/value được gắn vào các đối tượng, như pods. Labels được dự định dùng để xác thực một số các thuộc tính đặc biệt của đối tượng, có nghĩa và  phù hợp với người dùng nhưng không ngụ ý trực tiếp ngữ nghĩa của lõi của hệ thống. Có t hể dùng để tổ chức và lựa chọn object trong 1 list objects.
 ## Service : 
@@ -111,8 +111,8 @@ Các kiểu support network policies của Kube :
 - Canal
 - Romana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5MzY3MzgzLC0xMjE5MzUzNDUxLDExMT
-QzNjY4NDEsNzY2OTQ5ODkwLC0xOTgyMzcxMTAsNDI2MjY1Mzk2
-LDQwNzk4OTIxOCwxODk0MTM4MzgxLDE4MTE3NzQwODcsLTE5Mj
-Y5OTY4ODJdfQ==
+eyJoaXN0b3J5IjpbLTE3NzM5MDE2MzMsLTEyMTkzNTM0NTEsMT
+ExNDM2Njg0MSw3NjY5NDk4OTAsLTE5ODIzNzExMCw0MjYyNjUz
+OTYsNDA3OTg5MjE4LDE4OTQxMzgzODEsMTgxMTc3NDA4NywtMT
+kyNjk5Njg4Ml19
 -->
