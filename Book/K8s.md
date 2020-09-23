@@ -63,8 +63,8 @@ Chuẩn bị một bản copy hoàn thiện trên production env. Bây giờ có
 ![](https://i.imgur.com/38OSJAO.png)
 
 ### Managing data contract changes
-Data contrac
+Data contracts diễn tả cách data được tổ chức. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODU2MjY1MSw0MDc5ODkyMTgsMTg5ND
+eyJoaXN0b3J5IjpbMTc0MTcwMjgyMyw0MDc5ODkyMTgsMTg5ND
 EzODM4MSwxODExNzc0MDg3LC0xOTI2OTk2ODgyXX0=
 -->
