@@ -5,6 +5,8 @@
 - Các lợi ích :
 	- Dễ dùng : không cần lo việc chạy một process quản lý , các signal và exit-code.
 	- Tối ưu : Bởi vì infra của k8s chịu nhiều trách nhiệm hơn, nên container càng nhẹ hơn.
+## Deployment 
+Qua
 ## Label :
 - Là một key/value được gắn vào các đối tượng, như pods. Labels được dự định dùng để xác thực một số các thuộc tính đặc biệt của đối tượng, có nghĩa và  phù hợp với người dùng nhưng không ngụ ý trực tiếp ngữ nghĩa của lõi của hệ thống. Có t hể dùng để tổ chức và lựa chọn object trong 1 list objects.
 ## Service : 
@@ -106,7 +108,7 @@ Các kiểu support network policies của Kube :
 - Canal
 - Romana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDM2Njg0MSw3NjY5NDk4OTAsLTE5OD
-IzNzExMCw0MjYyNjUzOTYsNDA3OTg5MjE4LDE4OTQxMzgzODEs
-MTgxMTc3NDA4NywtMTkyNjk5Njg4Ml19
+eyJoaXN0b3J5IjpbOTYxMjEyMzMzLDExMTQzNjY4NDEsNzY2OT
+Q5ODkwLC0xOTgyMzcxMTAsNDI2MjY1Mzk2LDQwNzk4OTIxOCwx
+ODk0MTM4MzgxLDE4MTE3NzQwODcsLTE5MjY5OTY4ODJdfQ==
 -->
