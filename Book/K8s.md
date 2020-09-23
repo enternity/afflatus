@@ -44,7 +44,7 @@ Ta có thể gặp những vấn đề như :
 - Khai báo sai : Just the same way :smile:
 > Túm váy lại là nên kiểm tra trên dashboard để xem pod có đang dùng lãng phí cái nào không rồi config lại. That's it. Every one know what is waste :smile:
 
-
+# High Availability and Reliability
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTAzMDU4MiwtMTkyNjk5Njg4Ml19
+eyJoaXN0b3J5IjpbLTg2NDY5MzI4MywtMTkyNjk5Njg4Ml19
 -->
