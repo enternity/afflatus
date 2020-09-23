@@ -79,9 +79,15 @@ Data contracts diễn tả cách data được tổ chức.
 	- Run master components (API server, scheduler, controller manager)
 	- Drains resources
 ## Network Challenges :
-- 
+- Connect được thiết lập ra sao, planning như thế nào.
+- Chọn các thành phần, giao thức, ports.
+- Dynamic discovery service
+- Public or private access
+- Authentication and authorization
+- Firewalls rules
+- Network policy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MzU2MjAzLC0xOTgyMzcxMTAsNDI2Mj
+eyJoaXN0b3J5IjpbNzI3MTYxOTU5LC0xOTgyMzcxMTAsNDI2Mj
 Y1Mzk2LDQwNzk4OTIxOCwxODk0MTM4MzgxLDE4MTE3NzQwODcs
 LTE5MjY5OTY4ODJdfQ==
 -->
