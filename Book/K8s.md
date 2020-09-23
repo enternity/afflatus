@@ -64,8 +64,11 @@ Chuẩn bị một bản copy hoàn thiện trên production env. Bây giờ có
 
 ### Managing data contract changes
 Data contracts diễn tả cách data được tổ chức. 
-###
+
+### Zero-downtime
+Để hi vọng hệ thống của mình là một hệ thống zero-downtime :smile:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTc4NzU2LDQwNzk4OTIxOCwxODk0MT
+eyJoaXN0b3J5IjpbNDI2MjY1Mzk2LDQwNzk4OTIxOCwxODk0MT
 M4MzgxLDE4MTE3NzQwODcsLTE5MjY5OTY4ODJdfQ==
 -->
