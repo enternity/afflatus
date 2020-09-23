@@ -102,9 +102,11 @@ More info : [https://kubernetes.io/docs/reference/access-authn-authz/service-acc
 ### Choosing a supported networking solution 
 Các kiểu support network policies của Kube :
 - Calico
-- 
+- WaeveNet
+- Canal
+- Romana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMDA5NDg3LDc2Njk0OTg5MCwtMTk4Mj
-M3MTEwLDQyNjI2NTM5Niw0MDc5ODkyMTgsMTg5NDEzODM4MSwx
-ODExNzc0MDg3LC0xOTI2OTk2ODgyXX0=
+eyJoaXN0b3J5IjpbMTExNDM2Njg0MSw3NjY5NDk4OTAsLTE5OD
+IzNzExMCw0MjYyNjUzOTYsNDA3OTg5MjE4LDE4OTQxMzgzODEs
+MTgxMTc3NDA4NywtMTkyNjk5Njg4Ml19
 -->
