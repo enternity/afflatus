@@ -42,7 +42,7 @@ Ta có thể gặp những vấn đề như :
 - Thiếu nguồn lực : nếu một pod cần nhiều hơn một node đang available thì pod không đc chạy :cry:
 - Sử dụng dưới mức : dùng ít hơn nhiều so với khai báo. Lãng phí (Thất thoát kinh phí nhà nước)
 - Khai báo sai : Just the same way :smile:
-> Túm váy lại là nên kiểm tra trên dashboard để xem pod có đang dùng lãng phí cái nào không rồi config lại. That's it. 
+> Túm váy lại là nên kiểm tra trên dashboard để xem pod có đang dùng lãng phí cái nào không rồi config lại. That's it. Every one know what is waste :smile:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDc2MjA4NF19
+eyJoaXN0b3J5IjpbLTE5MjY5OTY4ODJdfQ==
 -->
