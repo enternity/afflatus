@@ -93,8 +93,11 @@ Data contracts diễn tả cách data được tổ chức.
 - Bảo vệ images 
 - Tốc độ development và deployment
 - Image chứa OS hết hạn
+## Pod and Container challenge :
+- Cùng một pod, container chia sẻ localhost network.
+- Chia sẻ volume được mount, trên file host system.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM5NzEzNTgsLTE5ODIzNzExMCw0Mj
+eyJoaXN0b3J5IjpbLTE4NzU0MTE2OTcsLTE5ODIzNzExMCw0Mj
 YyNjUzOTYsNDA3OTg5MjE4LDE4OTQxMzgzODEsMTgxMTc3NDA4
 NywtMTkyNjk5Njg4Ml19
 -->
