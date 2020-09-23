@@ -7,7 +7,8 @@
 	- Tối ưu : Bởi vì infra của k8s chịu nhiều trách nhiệm hơn, nên container càng nhẹ hơn.
 ## Deployment 
 Quản lý những stateless services đang chạy trên cluster. Mục đích là giữ định danh các pods đang chạy và upgrade theo cách có kiểm soát được. Ví dụ : định nghĩa bao nhiêu pod replicas đang chạy trên các node. 
-## Daemon
+## DaemonSet
+Quản lý những group các replicas Pods. DaemonSet cố gắng trên mỗi node chỉ có 1 pod và không có pod replicated chạy trên cùng một node.
 ## Label :
 - Là một key/value được gắn vào các đối tượng, như pods. Labels được dự định dùng để xác thực một số các thuộc tính đặc biệt của đối tượng, có nghĩa và  phù hợp với người dùng nhưng không ngụ ý trực tiếp ngữ nghĩa của lõi của hệ thống. Có t hể dùng để tổ chức và lựa chọn object trong 1 list objects.
 ## Service : 
@@ -109,7 +110,7 @@ Các kiểu support network policies của Kube :
 - Canal
 - Romana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjQ5MTg4NCwxMTE0MzY2ODQxLDc2Nj
-k0OTg5MCwtMTk4MjM3MTEwLDQyNjI2NTM5Niw0MDc5ODkyMTgs
-MTg5NDEzODM4MSwxODExNzc0MDg3LC0xOTI2OTk2ODgyXX0=
+eyJoaXN0b3J5IjpbNDk5MTA5NzAzLDExMTQzNjY4NDEsNzY2OT
+Q5ODkwLC0xOTgyMzcxMTAsNDI2MjY1Mzk2LDQwNzk4OTIxOCwx
+ODk0MTM4MzgxLDE4MTE3NzQwODcsLTE5MjY5OTY4ODJdfQ==
 -->
