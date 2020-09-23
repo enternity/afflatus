@@ -55,8 +55,9 @@ Ta có thể gặp những vấn đề như :
 - Cluster sẽ chạy cả 2 phiên bản mới và cũ tại cùng một thời điểm. Tuy nhiên cần sẽ quan tâm tới trường hợp : thành phần mới tương thích với thành phần cũ và ngược lại.
 - Với trường hợp thành phần mới tương thích với thành phần cũ, upgrade sẽ rất dễ. 
 - Từ phiên bản 1.2 việc deployment resource sẽ dễ dàng hơn. 
-### Com
+### Complexity Deployment
+Giả sử service A phụ thuộc vào service B. Giờ service B cần thay đổi. v1 pods service A không thể giao tiếp được với v2 pods service B. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc3NjA1NzYsNDA3OTg5MjE4LDE4OT
-QxMzgzODEsMTgxMTc3NDA4NywtMTkyNjk5Njg4Ml19
+eyJoaXN0b3J5IjpbOTE3NTE1MzcyLDQwNzk4OTIxOCwxODk0MT
+M4MzgxLDE4MTE3NzQwODcsLTE5MjY5OTY4ODJdfQ==
 -->
