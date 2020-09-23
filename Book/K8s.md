@@ -1,3 +1,4 @@
+> Bài viết được dịch trên cuốn Mastering Kubernetes - GigiSayfan, hình ảnh cung
 # Concepts
 ## Clusters
 - Tập hợp các host lưu trữ và networking resources 
@@ -48,7 +49,7 @@ Ta có thể gặp những vấn đề như :
 ## Creating highly available clusters
 ```etcd``` phải được deployed như một cluster (thường là 3 - 5 nodes, tại sao lại là 3 và 5 thì google :smile:). . Hiểu nôm na thì deployed càng nhiều node thì xác suất available của service càng tăng lên :smile: _kind of makesense, right?_
 
-<center><img src="https://i.imgur.com/JdFseST.png"/></center>
+![](https://i.imgur.com/JdFseST.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ3MjI5MSwtMTkyNjk5Njg4Ml19
+eyJoaXN0b3J5IjpbLTYyMTk0Mjg2MywtMTkyNjk5Njg4Ml19
 -->
