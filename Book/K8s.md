@@ -88,10 +88,12 @@ Data contracts diễn tả cách data được tổ chức.
 - Network policy
 - Key management and exchange
 ## Image challenges 
-1. Malicious images :
-2. Vulnerable images
+- Kube không biết images đang làm cái gì.
+- Kube phải cung cấp cách thức truy cập resources
+- Bảo vệ images 
+- Tốc độ developmen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODI4NzQyMCwtMTk4MjM3MTEwLDQyNj
+eyJoaXN0b3J5IjpbLTE5NzE2NDYwNiwtMTk4MjM3MTEwLDQyNj
 I2NTM5Niw0MDc5ODkyMTgsMTg5NDEzODM4MSwxODExNzc0MDg3
 LC0xOTI2OTk2ODgyXX0=
 -->
