@@ -69,9 +69,11 @@ Data contracts diễn tả cách data được tổ chức.
 Để hi vọng hệ thống của mình là một hệ thống zero-downtime :smile:
 - Dự phòng ở mọi cấp độ. Không có điểm nào down làm cho toàn bộ system down.
 - Tự động hot swapping cả thành phần lỗi. 
-# Understander
+# Understander Kube Security
+## Node challenges
+Kube 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc2OTI2LC0xOTgyMzcxMTAsNDI2Mj
-Y1Mzk2LDQwNzk4OTIxOCwxODk0MTM4MzgxLDE4MTE3NzQwODcs
-LTE5MjY5OTY4ODJdfQ==
+eyJoaXN0b3J5IjpbMTcwMjAyOTYwNCwtMTk4MjM3MTEwLDQyNj
+I2NTM5Niw0MDc5ODkyMTgsMTg5NDEzODM4MSwxODExNzc0MDg3
+LC0xOTI2OTk2ODgyXX0=
 -->
