@@ -9,14 +9,15 @@
 Quản lý những stateless services đang chạy trên cluster. Mục đích là giữ định danh các pods đang chạy và upgrade theo cách có kiểm soát được. Ví dụ : định nghĩa bao nhiêu pod replicas đang chạy trên các node. 
 ## DaemonSet
 Quản lý những group các replicas Pods. DaemonSet cố gắng trên mỗi node chỉ có 1 pod và không có pod replicated chạy trên cùng một node. Nếu add node to cluster thì Daemonset sẽ tự động xuất hiện pod trên node đó, deployment không làm được vụ này.
+## StatefulSet
+Mỗi replica của pods sẽ dùng chính Volume của 
 ## Label :
 - Là một key/value được gắn vào các đối tượng, như pods. Labels được dự định dùng để xác thực một số các thuộc tính đặc biệt của đối tượng, có nghĩa và  phù hợp với người dùng nhưng không ngụ ý trực tiếp ngữ nghĩa của lõi của hệ thống. Có t hể dùng để tổ chức và lựa chọn object trong 1 list objects.
 ## Service : 
 Thường được cung cấp các function cho user hoặc service khác. Nó thường bao gồm một group pds, Thường được định danh bởi label. Service được công khai hoặc được phát hiện bởi 1 trong 2 cơ chế : DNS hoặc biến môi trường. Service có thể được cân bằng tải bởi Kubernetes. Tuy nhiên, dev có thể chọn tự quản lý việc loadbalance trong những trường hợp dùng resources bên ngoài hoặc các yêu cầu loadbalance đặc biệt mà Kube không cung cấp. 
 ## Volume 
 Thời gian lưu trữ đi cùng với thời gian sống của pod. Tuy nhiên đôi khi cũng cần lưu lại data khi pod chết, hoặc sync data giữa các node với nhau.Nói chung Kube có support khúc này luôn ([rkt] cái này nè)(https://coreos.com/rkt/docs/latest/using-rkt-with-kubernetes.html). Có nhiều kiểu volume trên cloud  : network file systems, git repo.. Và phần vui nhất là [[https://kubernetes.io/docs/concepts/storage/persistent-volumes/](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)]
-## Statfulset
-Nếu quan tâm tới tính toàn vẹn của data. Đôi khi cần Kube quản lý việc distributed data như MySQL Galera.
+MySQL Galera.
 ## Secret
 Chưa các thông tin nhạy cảm như access token. Lưu dưới dạng text trong [etcd](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/). Được truy cập thông qua API. Chứ các thông tin để truy cập vào pod. Mục đích khác khi dùng secret đó là coi như biến môi trường :smile:. Và luôn được lưu trong memory. 
 ## Name 
@@ -110,7 +111,8 @@ Các kiểu support network policies của Kube :
 - Canal
 - Romana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkzNTM0NTEsMTExNDM2Njg0MSw3Nj
-Y5NDk4OTAsLTE5ODIzNzExMCw0MjYyNjUzOTYsNDA3OTg5MjE4
-LDE4OTQxMzgzODEsMTgxMTc3NDA4NywtMTkyNjk5Njg4Ml19
+eyJoaXN0b3J5IjpbNTk5MzY3MzgzLC0xMjE5MzUzNDUxLDExMT
+QzNjY4NDEsNzY2OTQ5ODkwLC0xOTgyMzcxMTAsNDI2MjY1Mzk2
+LDQwNzk4OTIxOCwxODk0MTM4MzgxLDE4MTE3NzQwODcsLTE5Mj
+Y5OTY4ODJdfQ==
 -->
