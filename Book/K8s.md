@@ -91,9 +91,10 @@ Data contracts diễn tả cách data được tổ chức.
 - Kube không biết images đang làm cái gì.
 - Kube phải cung cấp cách thức truy cập resources
 - Bảo vệ images 
-- Tốc độ developmen
+- Tốc độ development và deployment
+- Image chứa OS hết hạn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzE2NDYwNiwtMTk4MjM3MTEwLDQyNj
-I2NTM5Niw0MDc5ODkyMTgsMTg5NDEzODM4MSwxODExNzc0MDg3
-LC0xOTI2OTk2ODgyXX0=
+eyJoaXN0b3J5IjpbLTEwNTM5NzEzNTgsLTE5ODIzNzExMCw0Mj
+YyNjUzOTYsNDA3OTg5MjE4LDE4OTQxMzgzODEsMTgxMTc3NDA4
+NywtMTkyNjk5Njg4Ml19
 -->
