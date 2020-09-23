@@ -97,8 +97,14 @@ Data contracts diễn tả cách data được tổ chức.
 - Cùng một pod, container chia sẻ localhost network.
 - Chia sẻ volume được mount, trên file host system.
 ## Understanding service accounts in Kube
+More info : [https://kubernetes.io/docs/reference/access-authn-authz/service-accounts-admin/](https://kubernetes.io/docs/reference/access-authn-authz/service-accounts-admin/)
+## Manageing network policies
+### Choosing a supported networking solution 
+Các kiểu support network policies của Kube :
+- Calico
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2OTQ5ODkwLC0xOTgyMzcxMTAsNDI2Mj
-Y1Mzk2LDQwNzk4OTIxOCwxODk0MTM4MzgxLDE4MTE3NzQwODcs
-LTE5MjY5OTY4ODJdfQ==
+eyJoaXN0b3J5IjpbNjIwMDA5NDg3LDc2Njk0OTg5MCwtMTk4Mj
+M3MTEwLDQyNjI2NTM5Niw0MDc5ODkyMTgsMTg5NDEzODM4MSwx
+ODExNzc0MDg3LC0xOTI2OTk2ODgyXX0=
 -->
