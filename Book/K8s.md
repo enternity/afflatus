@@ -52,8 +52,9 @@ Ta có thể gặp những vấn đề như :
 ![](https://i.imgur.com/JdFseST.png)
 ## Live cluster upgrades
 ### Rolling upgrades
-- Cluster sẽ chạy cả 
+- Cluster sẽ chạy cả 2 phiên bản mới và cũ tại cùng một thời điểm. Tuy nhiên cần sẽ quan tâm tới trường hợp : thành phần mới tương thích với thành phần cũ và ngược lại.
+- Với trường hợp thành phần mới tương thích với thành phần cũ, upgrade sẽ rất dễ. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDU2MTMwMywxODk0MTM4MzgxLDE4MT
+eyJoaXN0b3J5IjpbLTI0NDQ2Nzc0MiwxODk0MTM4MzgxLDE4MT
 E3NzQwODcsLTE5MjY5OTY4ODJdfQ==
 -->
