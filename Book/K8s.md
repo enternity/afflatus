@@ -78,8 +78,10 @@ Data contracts diễn tả cách data được tổ chức.
 	- Replace kubelet
 	- Run master components (API server, scheduler, controller manager)
 	- Drains resources
+## Network Challenges :
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMDY4NzMwLC0xOTgyMzcxMTAsNDI2Mj
-Y1Mzk2LDQwNzk4OTIxOCwxODk0MTM4MzgxLDE4MTE3NzQwODcs
-LTE5MjY5OTY4ODJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODg0ODA4NjYsLTE5ODIzNzExMCw0Mj
+YyNjUzOTYsNDA3OTg5MjE4LDE4OTQxMzgzODEsMTgxMTc3NDA4
+NywtMTkyNjk5Njg4Ml19
 -->
