@@ -67,8 +67,10 @@ Data contracts diễn tả cách data được tổ chức.
 
 ### Zero-downtime
 Để hi vọng hệ thống của mình là một hệ thống zero-downtime :smile:
+- Dự po
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2MjY1Mzk2LDQwNzk4OTIxOCwxODk0MT
-M4MzgxLDE4MTE3NzQwODcsLTE5MjY5OTY4ODJdfQ==
+eyJoaXN0b3J5IjpbMTQ3NDk5NjgxNSw0MjYyNjUzOTYsNDA3OT
+g5MjE4LDE4OTQxMzgzODEsMTgxMTc3NDA4NywtMTkyNjk5Njg4
+Ml19
 -->
