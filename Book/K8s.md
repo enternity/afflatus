@@ -1,4 +1,4 @@
-> Bài viết được dịch trên cuốn Mastering Kubernetes - GigiSayfan, hình ảnh cung
+> Bài viết được dịch trên cuốn Mastering Kubernetes - GigiSayfan, hình ảnh cũng được dịch trên cuốn này luôn. Hiểu nôm na chỉ là google trans
 # Concepts
 ## Clusters
 - Tập hợp các host lưu trữ và networking resources 
@@ -51,5 +51,5 @@ Ta có thể gặp những vấn đề như :
 
 ![](https://i.imgur.com/JdFseST.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTk0Mjg2MywtMTkyNjk5Njg4Ml19
+eyJoaXN0b3J5IjpbMTgxMTc3NDA4NywtMTkyNjk5Njg4Ml19
 -->
