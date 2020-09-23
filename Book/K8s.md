@@ -50,12 +50,9 @@ Ta có thể gặp những vấn đề như :
 ```etcd``` phải được deployed như một cluster (thường là 3 - 5 nodes, tại sao lại là 3 và 5 thì google :smile:). . Hiểu nôm na thì deployed càng nhiều node thì xác suất available của service càng tăng lên :smile: _kind of makesense, right?_
 
 ![](https://i.imgur.com/JdFseST.png)
-## Leader Election for Application
-Google có support một _leader-elector_ container.  Về cơ bản là dùng các Kube endpoints kết hợp với _Resource Version_ và _Annotations.
-```
-kubectl run leader-elector --image=gcr.io/google_containers/leaderelector:0.4 --replicas=3 -- --election=election –http=0.0.0.0:4040
+## 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDEzODM4MSwxODExNzc0MDg3LC0xOT
-I2OTk2ODgyXX0=
+eyJoaXN0b3J5IjpbLTE2MDk3NjE1NjEsMTg5NDEzODM4MSwxOD
+ExNzc0MDg3LC0xOTI2OTk2ODgyXX0=
 -->
