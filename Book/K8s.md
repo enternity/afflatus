@@ -55,7 +55,8 @@ Ta có thể gặp những vấn đề như :
 - Cluster sẽ chạy cả 2 phiên bản mới và cũ tại cùng một thời điểm. Tuy nhiên cần sẽ quan tâm tới trường hợp : thành phần mới tương thích với thành phần cũ và ngược lại.
 - Với trường hợp thành phần mới tương thích với thành phần cũ, upgrade sẽ rất dễ. 
 - Từ phiên bản 1.2 việc deployment resource sẽ dễ dàng hơn. 
+### Com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3OTg5MjE4LDE4OTQxMzgzODEsMTgxMT
-c3NDA4NywtMTkyNjk5Njg4Ml19
+eyJoaXN0b3J5IjpbLTEyNjc3NjA1NzYsNDA3OTg5MjE4LDE4OT
+QxMzgzODEsMTgxMTc3NDA4NywtMTkyNjk5Njg4Ml19
 -->
