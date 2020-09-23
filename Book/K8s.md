@@ -8,7 +8,7 @@
 ## Deployment 
 Quản lý những stateless services đang chạy trên cluster. Mục đích là giữ định danh các pods đang chạy và upgrade theo cách có kiểm soát được. Ví dụ : định nghĩa bao nhiêu pod replicas đang chạy trên các node. 
 ## DaemonSet
-Quản lý những group các replicas Pods. DaemonSet cố gắng trên mỗi node chỉ có 1 pod và không có pod replicated chạy trên cùng một node.
+Quản lý những group các replicas Pods. DaemonSet cố gắng trên mỗi node chỉ có 1 pod và không có pod replicated chạy trên cùng một node. Nếu add node to cluster thì Daemonset sẽ tự động xuất hiện pod trên node đó, deployment không làm được vụ này.
 ## Label :
 - Là một key/value được gắn vào các đối tượng, như pods. Labels được dự định dùng để xác thực một số các thuộc tính đặc biệt của đối tượng, có nghĩa và  phù hợp với người dùng nhưng không ngụ ý trực tiếp ngữ nghĩa của lõi của hệ thống. Có t hể dùng để tổ chức và lựa chọn object trong 1 list objects.
 ## Service : 
@@ -110,7 +110,7 @@ Các kiểu support network policies của Kube :
 - Canal
 - Romana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5MTA5NzAzLDExMTQzNjY4NDEsNzY2OT
-Q5ODkwLC0xOTgyMzcxMTAsNDI2MjY1Mzk2LDQwNzk4OTIxOCwx
-ODk0MTM4MzgxLDE4MTE3NzQwODcsLTE5MjY5OTY4ODJdfQ==
+eyJoaXN0b3J5IjpbLTEyMTkzNTM0NTEsMTExNDM2Njg0MSw3Nj
+Y5NDk4OTAsLTE5ODIzNzExMCw0MjYyNjUzOTYsNDA3OTg5MjE4
+LDE4OTQxMzgzODEsMTgxMTc3NDA4NywtMTkyNjk5Njg4Ml19
 -->
