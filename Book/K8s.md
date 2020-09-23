@@ -88,9 +88,10 @@ Data contracts diễn tả cách data được tổ chức.
 - Network policy
 - Key management and exchange
 ## Image challenges 
-
+1. Malicious images :
+2. Vulnerable images
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDQ2ODg1OSwtMTk4MjM3MTEwLDQyNj
+eyJoaXN0b3J5IjpbMTI4ODI4NzQyMCwtMTk4MjM3MTEwLDQyNj
 I2NTM5Niw0MDc5ODkyMTgsMTg5NDEzODM4MSwxODExNzc0MDg3
 LC0xOTI2OTk2ODgyXX0=
 -->
