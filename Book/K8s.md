@@ -71,9 +71,10 @@ Data contracts diễn tả cách data được tổ chức.
 - Tự động hot swapping cả thành phần lỗi. 
 # Understander Kube Security
 ## Node challenges
-Kubelet là nơi để talk với API server. Nếu replace Kubelet bởi một bản khác, thì có thể truy cập vào vùng
+- Kubelet là nơi để talk với API server. Nếu replace Kubelet bởi một bản khác, thì có thể truy cập vào vùng dùng chung.
+- Resource drain.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDI1NTMxNiwtMTk4MjM3MTEwLDQyNj
-I2NTM5Niw0MDc5ODkyMTgsMTg5NDEzODM4MSwxODExNzc0MDg3
-LC0xOTI2OTk2ODgyXX0=
+eyJoaXN0b3J5IjpbNzI0MTU4NTYxLC0xOTgyMzcxMTAsNDI2Mj
+Y1Mzk2LDQwNzk4OTIxOCwxODk0MTM4MzgxLDE4MTE3NzQwODcs
+LTE5MjY5OTY4ODJdfQ==
 -->
