@@ -7,7 +7,7 @@
 
 ![iptables rules for three Pods](https://learnk8s.io/a/851d04da950f1e7db3e460ba902c0ede.svg)
 
-**IPTables** dùng statistic mode
+**IPTables** dùng [statistic module]([http://ipset.netfilter.org/iptables-extensions.man.html#lbCD](http://ipset.netfilter.org/iptables-extensions.man.html#lbCD)) nên load balance ở đây là random
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYxMjY4MTldfQ==
+eyJoaXN0b3J5IjpbMTk2Nzc3NDMyNF19
 -->
