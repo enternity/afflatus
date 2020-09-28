@@ -6,7 +6,9 @@
 - Containers trong K8s cluster nhìn thấy cùng 1 địa chỉ IP cho chính chúng như các pods khác (và node) để tiếp cận container đó.
 - Nếu không có network policies, tất cả các pods và node có thể giao tiếp với từng loại một cách thoại mái, without NAT
 ## Network Policy
-
+# Note
+[https://medium.com/@AADota/kubernetes-liveness-and-readiness-probes-difference-1b659c369e17#:~:text=Summary,our%20application%20from%20serving%20traffic.](https://medium.com/@AADota/kubernetes-liveness-and-readiness-probes-difference-1b659c369e17#:~:text=Summary,our%20application%20from%20serving%20traffic.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY5NTcwMDYsMTMxODM3MTMzMV19
+eyJoaXN0b3J5IjpbMjA2OTgxMDQ1NiwtMTU1Njk1NzAwNiwxMz
+E4MzcxMzMxXX0=
 -->
