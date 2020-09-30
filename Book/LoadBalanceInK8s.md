@@ -11,7 +11,12 @@
 ![iptables rules for three Pods](https://learnk8s.io/a/851d04da950f1e7db3e460ba902c0ede.svg)
 
 **IPTables** dùng [statistic module]([http://ipset.netfilter.org/iptables-extensions.man.html#lbCD](http://ipset.netfilter.org/iptables-extensions.man.html#lbCD)) nên load balance ở đây là random
+
+
+[https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
+
+[https://medium.com/google-cloud/kubernetes-autoscaling-with-istio-metrics-76442253a45a](https://medium.com/google-cloud/kubernetes-autoscaling-with-istio-metrics-76442253a45a)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxNDYyOTM3LC0xODE5MDA2MDIsMTk2Nz
-c3NDMyNF19
+eyJoaXN0b3J5IjpbLTE3MTY0OTMxNDksMzUxNDYyOTM3LC0xOD
+E5MDA2MDIsMTk2Nzc3NDMyNF19
 -->
