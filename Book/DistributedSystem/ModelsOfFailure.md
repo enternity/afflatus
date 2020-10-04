@@ -4,7 +4,7 @@ Vâng, một lỗi cực kì hiển nhiên và dễ hiểu. Network deplay, xử
 > Apache Kafka thực sự là một giải pháp tuyệt vời cho message queue.
 
 # Omission failure
-Là một lỗi khi process không 
+Là một lỗi khi process không bao giờ trả response cho request.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzcwMDM2NF19
+eyJoaXN0b3J5IjpbLTE1NDQ0NTk5NDBdfQ==
 -->
