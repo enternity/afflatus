@@ -6,10 +6,12 @@
 - Nếu ta biết sự kiện _a_ xảy ra trước sự kiện _b_ thì ta có thể nói là _a->b_. Nếu _a_ xảy ra trước _b_, _b_ xảy ra trước _c_ thì ta có thể ghi là _a->b->c_. Kind of makesense, right? :grinning: :grinning:
 
 ![image](https://miro.medium.com/max/2048/1*jBl56kdG5zmTewcyt1J6Vg.jpeg)
+![Image for post](https://miro.medium.com/max/2432/1*RpmP-aPCiqMfvrGB81puJg.jpeg)
 > Nguồn ảnh :  [https://medium.com/baseds/logical-time-and-lamport-clocks-part-1-d0317e407112](https://medium.com/baseds/logical-time-and-lamport-clocks-part-1-d0317e407112)
 
+> **Quan trọng :** nếu sự kiện _a,b_ xảy ra độc lập với nhau, thì gọi chúng là 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MDU3NzIzLDg3OTE1Mjg5OSwyMDg5OT
-IxNTMxXX0=
+eyJoaXN0b3J5IjpbMTgwOTg1ODUzNCw1NDUwNTc3MjMsODc5MT
+UyODk5LDIwODk5MjE1MzFdfQ==
 -->
