@@ -11,9 +11,22 @@
 
 ## Service
 Example:
-``````
-
+```yaml
+apiVersion: v1
+kind: Service
+metadata:
+  name: my-service
+spec:
+  selector:
+    app: MyApp
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 9376
+```
+- Tạo một service object gọi là _my-serivce_
+- Kube cấp cho Service đó một địa chỉ IP(ClusterIP), được dùng bởi Service proxies.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTU2MjQ3MSwzMzgxNDEyMjksLTE1NT
+eyJoaXN0b3J5IjpbLTEwNDM1NTM5NSwzMzgxNDEyMjksLTE1NT
 Y5NTcwMDYsMTMxODM3MTMzMV19
 -->
