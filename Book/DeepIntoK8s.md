@@ -10,8 +10,10 @@
 [https://medium.com/@AADota/kubernetes-liveness-and-readiness-probes-difference-1b659c369e17#:~:text=Summary,our%20application%20from%20serving%20traffic.](https://medium.com/@AADota/kubernetes-liveness-and-readiness-probes-difference-1b659c369e17#:~:text=Summary,our%20application%20from%20serving%20traffic.)
 
 ## Service
+Example:
+``````
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MTQxMjI5LC0xNTU2OTU3MDA2LDEzMT
-gzNzEzMzFdfQ==
+eyJoaXN0b3J5IjpbLTU2MTU2MjQ3MSwzMzgxNDEyMjksLTE1NT
+Y5NTcwMDYsMTMxODM3MTMzMV19
 -->
