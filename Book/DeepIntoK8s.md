@@ -8,7 +8,10 @@
 ## Network Policy
 # Note
 [https://medium.com/@AADota/kubernetes-liveness-and-readiness-probes-difference-1b659c369e17#:~:text=Summary,our%20application%20from%20serving%20traffic.](https://medium.com/@AADota/kubernetes-liveness-and-readiness-probes-difference-1b659c369e17#:~:text=Summary,our%20application%20from%20serving%20traffic.)
+
+## Service
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTgxMDQ1NiwtMTU1Njk1NzAwNiwxMz
-E4MzcxMzMxXX0=
+eyJoaXN0b3J5IjpbMzM4MTQxMjI5LC0xNTU2OTU3MDA2LDEzMT
+gzNzEzMzFdfQ==
 -->
