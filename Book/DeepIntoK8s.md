@@ -27,7 +27,9 @@ spec:
 - Tạo một service object gọi là _my-serivce_
 - Kube cấp cho Service đó một địa chỉ IP(ClusterIP), được dùng bởi Service proxies.
 - **Note:** A Service can map _any_ incoming `port` to a `targetPort`. By default and for convenience, the `targetPort` is set to the same value as the `port` field.
+
+####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM5OTA2ODYsMzM4MTQxMjI5LC0xNT
-U2OTU3MDA2LDEzMTgzNzEzMzFdfQ==
+eyJoaXN0b3J5IjpbNjE1MTgyNTkwLC0xNTUzOTkwNjg2LDMzOD
+E0MTIyOSwtMTU1Njk1NzAwNiwxMzE4MzcxMzMxXX0=
 -->
