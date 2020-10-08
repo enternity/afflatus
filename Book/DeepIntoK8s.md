@@ -28,8 +28,21 @@ spec:
 - Kube cấp cho Service đó một địa chỉ IP(ClusterIP), được dùng bởi Service proxies.
 - **Note:** A Service can map _any_ incoming `port` to a `targetPort`. By default and for convenience, the `targetPort` is set to the same value as the `port` field.
 
-####
+#### Type ExternalName
+Mapping a Service tới DNS name, 
+
+```yaml
+apiVersion: v1
+kind: Service
+metadata:
+  name: my-service
+  namespace: prod
+spec:
+  type: ExternalName
+  externalName: my.database.example.com
+```
+**Note:** ExternalName accepts an IPv4 address string, but as a DNS names comprised of digits, not as an IP address. ExternalNames that resemble IPv4 addresses are not resolved by CoreDNS or ingress-nginx because ExternalName is intended to specify a canonical DNS name. To hardcode an IP address, consider using [headless Services](https://kubernetes.io/docs/concepts/services-networking/service/#headless-services).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1MTgyNTkwLC0xNTUzOTkwNjg2LDMzOD
-E0MTIyOSwtMTU1Njk1NzAwNiwxMzE4MzcxMzMxXX0=
+eyJoaXN0b3J5IjpbLTY0MTcwODcyNSwtMTU1Mzk5MDY4NiwzMz
+gxNDEyMjksLTE1NTY5NTcwMDYsMTMxODM3MTMzMV19
 -->
