@@ -42,7 +42,10 @@ spec:
   externalName: my.database.example.com
 ```
 **Note:** ExternalName accepts an IPv4 address string, but as a DNS names comprised of digits, not as an IP address. ExternalNames that resemble IPv4 addresses are not resolved by CoreDNS or ingress-nginx because ExternalName is intended to specify a canonical DNS name. To hardcode an IP address, consider using [headless Services](https://kubernetes.io/docs/concepts/services-networking/service/#headless-services).
+# Kube client
+[https://github.com/kubernetes-client/java](https://github.com/kubernetes-client/java)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTcwODcyNSwtMTU1Mzk5MDY4NiwzMz
-gxNDEyMjksLTE1NTY5NTcwMDYsMTMxODM3MTMzMV19
+eyJoaXN0b3J5IjpbLTE5MzE2NDc2OTcsLTY0MTcwODcyNSwtMT
+U1Mzk5MDY4NiwzMzgxNDEyMjksLTE1NTY5NTcwMDYsMTMxODM3
+MTMzMV19
 -->
