@@ -6,8 +6,10 @@
 istioctl x create-remote-secret --context=${REMOTE_CLUSTER_CTX} --name ${REMOTE_CLUSTER_NAME} | kubectl apply -f - --context=${MAIN_CLUSTER_CTX}
 ```
 # Traffic management
+## Virtual Services
+Config cách request được route tới service.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDc5OTA2MiwyMDAwNTcwNDYxLDExOT
-E0NDA1MSw2OTk0NzA1NzQsLTE4NjIyMzA5ODRdfQ==
+eyJoaXN0b3J5IjpbLTIwMDI0NTM0OTQsMjAwMDU3MDQ2MSwxMT
+kxNDQwNTEsNjk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
 -->
