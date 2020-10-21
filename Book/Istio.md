@@ -7,9 +7,9 @@ istioctl x create-remote-secret --context=${REMOTE_CLUSTER_CTX} --name ${REMOTE_
 ```
 # Traffic management
 ## Virtual Services
-Config cách request được route tới service.
+- Nếu không xài virtual services thì **Envoy distributed** rou
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI0NTM0OTQsMjAwMDU3MDQ2MSwxMT
+eyJoaXN0b3J5IjpbLTIwMjU4MzE4NjAsMjAwMDU3MDQ2MSwxMT
 kxNDQwNTEsNjk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
 -->
