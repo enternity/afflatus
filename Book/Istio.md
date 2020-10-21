@@ -5,7 +5,9 @@
 ```
 istioctl x create-remote-secret --context=${REMOTE_CLUSTER_CTX} --name ${REMOTE_CLUSTER_NAME} | kubectl apply -f - --context=${MAIN_CLUSTER_CTX}
 ```
+# Traffic management
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDU3MDQ2MSwxMTkxNDQwNTEsNjk5ND
-cwNTc0LC0xODYyMjMwOTg0XX0=
+eyJoaXN0b3J5IjpbMTcwNDc5OTA2MiwyMDAwNTcwNDYxLDExOT
+E0NDA1MSw2OTk0NzA1NzQsLTE4NjIyMzA5ODRdfQ==
 -->
