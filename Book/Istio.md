@@ -31,9 +31,10 @@ Là một group logic giống nhau mà upstream host mà Envoy connect tới. En
  A group of hosts that coordinate to provide a consistent network topology. In this documentation, an “Envoy mesh” is a group of Envoy proxies that form a message passing substrate for a distributed system comprised of many different services and application platforms.
 ## Runtime configuration
  Out of band realtime configuration system deployed alongside Envoy. Configuration settings can be altered that will affect operation without needing to restart Envoy or change the primary configuration.
-
+# Architecture overview
+## Listener
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NjIyNTI1LDg5NTgwMDkwMywxNTg3Nz
+eyJoaXN0b3J5IjpbMTczODIwNjEyLDg5NTgwMDkwMywxNTg3Nz
 M4NTg4LDM0NDIyODczMiwyMDAwNTcwNDYxLDExOTE0NDA1MSw2
 OTk0NzA1NzQsLTE4NjIyMzA5ODRdfQ==
 -->
