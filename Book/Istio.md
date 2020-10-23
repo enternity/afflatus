@@ -19,10 +19,10 @@ A typical use case is to send traffic to different versions of a service, specif
 ## Host :
 Host là một logical network application
 ## Downstream :
-
+Host connect tới Envoy, gửi reuqest
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDgyODU1LDM0NDIyODczMiwyMDAwNT
-cwNDYxLDExOTE0NDA1MSw2OTk0NzA1NzQsLTE4NjIyMzA5ODRd
-fQ==
+eyJoaXN0b3J5IjpbMTU4NzczODU4OCwzNDQyMjg3MzIsMjAwMD
+U3MDQ2MSwxMTkxNDQwNTEsNjk5NDcwNTc0LC0xODYyMjMwOTg0
+XX0=
 -->
