@@ -25,10 +25,15 @@ Nhận connections và request từ Envoy và return response.
 ## Listener :
 Tên network location(port, unix domain socket, etc) có thể được connected bởi downstream clients. Envoy expose một hoặc nhiều listener để cho downstream host connect tới.
 ## Cluster :
-Là một group logic giống nhau mà upstream host mà Envoy connect tới. Envoy discovers member c
+Là một group logic giống nhau mà upstream host mà Envoy connect tới. Envoy discovers member của cluster thông qua serivce discovery.
+
+## Mesh
+ A group of hosts that coordinate to provide a consistent network topology. In this documentation, an “Envoy mesh” is a group of Envoy proxies that form a message passing substrate for a distributed system comprised of many different services and application platforms.
+## Runtime configuration
+ Out of band realtime configuration system deployed alongside Envoy. Configuration settings can be altered that will affect operation without needing to restart Envoy or change the primary configuration.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ3MDIzNDAsODk1ODAwOTAzLDE1OD
-c3Mzg1ODgsMzQ0MjI4NzMyLDIwMDA1NzA0NjEsMTE5MTQ0MDUx
-LDY5OTQ3MDU3NCwtMTg2MjIzMDk4NF19
+eyJoaXN0b3J5IjpbODA4NjIyNTI1LDg5NTgwMDkwMywxNTg3Nz
+M4NTg4LDM0NDIyODczMiwyMDAwNTcwNDYxLDExOTE0NDA1MSw2
+OTk0NzA1NzQsLTE4NjIyMzA5ODRdfQ==
 -->
