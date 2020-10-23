@@ -23,10 +23,10 @@ Host connect tới Envoy, gửi request, nhận response.
 ## Upstream :
 Nhận connections và request từ Envoy và return response.
 ## Listener :
-
+Tên network location
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1ODAwOTAzLDE1ODc3Mzg1ODgsMzQ0Mj
-I4NzMyLDIwMDA1NzA0NjEsMTE5MTQ0MDUxLDY5OTQ3MDU3NCwt
-MTg2MjIzMDk4NF19
+eyJoaXN0b3J5IjpbOTY4OTI3OTIsODk1ODAwOTAzLDE1ODc3Mz
+g1ODgsMzQ0MjI4NzMyLDIwMDA1NzA0NjEsMTE5MTQ0MDUxLDY5
+OTQ3MDU3NCwtMTg2MjIzMDk4NF19
 -->
