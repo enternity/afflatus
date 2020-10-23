@@ -19,10 +19,14 @@ A typical use case is to send traffic to different versions of a service, specif
 ## Host :
 Host là một logical network application
 ## Downstream :
-Host connect tới Envoy, gửi reuqest
+Host connect tới Envoy, gửi request, nhận response.
+## Upstream :
+Nhận connections và request từ Envoy và return response.
+## Listener :
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzczODU4OCwzNDQyMjg3MzIsMjAwMD
-U3MDQ2MSwxMTkxNDQwNTEsNjk5NDcwNTc0LC0xODYyMjMwOTg0
-XX0=
+eyJoaXN0b3J5IjpbODk1ODAwOTAzLDE1ODc3Mzg1ODgsMzQ0Mj
+I4NzMyLDIwMDA1NzA0NjEsMTE5MTQ0MDUxLDY5OTQ3MDU3NCwt
+MTg2MjIzMDk4NF19
 -->
