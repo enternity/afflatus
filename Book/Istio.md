@@ -14,7 +14,15 @@ A typical use case is to send traffic to different versions of a service, specif
 
 - Benefit of Virtual services:
 	-  địa chỉ nhiều service thông qua duy nhất một virtual serivce
+
+# Terminology
+## Host :
+Host là một logical network application
+## Downstream :
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MjI4NzMyLDIwMDA1NzA0NjEsMTE5MT
-Q0MDUxLDY5OTQ3MDU3NCwtMTg2MjIzMDk4NF19
+eyJoaXN0b3J5IjpbLTQxNDgyODU1LDM0NDIyODczMiwyMDAwNT
+cwNDYxLDExOTE0NDA1MSw2OTk0NzA1NzQsLTE4NjIyMzA5ODRd
+fQ==
 -->
