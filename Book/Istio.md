@@ -33,8 +33,10 @@ Là một group logic giống nhau mà upstream host mà Envoy connect tới. En
  Out of band realtime configuration system deployed alongside Envoy. Configuration settings can be altered that will affect operation without needing to restart Envoy or change the primary configuration.
 # Architecture overview
 ## Listener
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODIwNjEyLDg5NTgwMDkwMywxNTg3Nz
-M4NTg4LDM0NDIyODczMiwyMDAwNTcwNDYxLDExOTE0NDA1MSw2
-OTk0NzA1NzQsLTE4NjIyMzA5ODRdfQ==
+eyJoaXN0b3J5IjpbMzg3MDkyODk2LDE3MzgyMDYxMiw4OTU4MD
+A5MDMsMTU4NzczODU4OCwzNDQyMjg3MzIsMjAwMDU3MDQ2MSwx
+MTkxNDQwNTEsNjk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
 -->
