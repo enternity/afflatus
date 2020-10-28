@@ -92,11 +92,11 @@ spec:
 ```
 ## Gateways
 Để quản lý inbound và outbound traffic cho service mesh. Để specify traffic nào đưa ra vô mesh. Gateways config được apply độc lập với Envoy proxies nằm ở ingress or egress chứ không phải các Envoy đang nằm cùng các services.
-- Thường được dùng để quản lý ingress traffic, tuy nhiên cũng có thể quản lý egress gateway. Egress gateway cho phép config một chỗ để cho traffic rời khỏi mesh. Giới hạn các services có thể hoặc nên truy cập bên ngoài external network, cho cho phé security 
+- Thường được dùng để quản lý ingress traffic, tuy nhiên cũng có thể quản lý egress gateway. Egress gateway cho phép config một chỗ để cho traffic rời khỏi mesh. Giới hạn các services có thể hoặc nên truy cập bên ngoài external network. Có thể dùng gateway để config hoàn toàn môtj internal proxy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDA1ODg3Nyw3ODA3NjQwMjUsMTcwNT
-kyMDM4MSwtMjY4OTUzNTIzLC00NjEwMjUyNTgsMTcxMTIxNTY0
-NSw4MjYyMzIyNDYsMTczODIwNjEyLDg5NTgwMDkwMywxNTg3Nz
-M4NTg4LDM0NDIyODczMiwyMDAwNTcwNDYxLDExOTE0NDA1MSw2
-OTk0NzA1NzQsLTE4NjIyMzA5ODRdfQ==
+eyJoaXN0b3J5IjpbLTE5ODExODUxNDEsNzgwNzY0MDI1LDE3MD
+U5MjAzODEsLTI2ODk1MzUyMywtNDYxMDI1MjU4LDE3MTEyMTU2
+NDUsODI2MjMyMjQ2LDE3MzgyMDYxMiw4OTU4MDA5MDMsMTU4Nz
+czODU4OCwzNDQyMjg3MzIsMjAwMDU3MDQ2MSwxMTkxNDQwNTEs
+Njk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
 -->
