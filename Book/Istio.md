@@ -133,9 +133,25 @@ Sau đos config virtual service với routing rule cho external traffic.
 	- Redirect và forward cho external destinations, như APIs consumed từ web, hoặc traffic tới services trong legacy infra.
 	- Định nghĩa ```retry, timeout, fault injection``` policies cho các external destinations.
 > Mặc định, Istio config cho Envoy proxies passthrough requests tớ các unknown services. Tuy nhiên, không thể dùng services entríe để điều khiển traffice tới các destinations không được registered trong mesh.
-> 
+
+- Ví dụ:
+```yaml
+apiVersion: networking.istio.io/v1alpha3
+kind: ServiceEntry
+metadata:
+  name: svc-entry
+spec:
+  hosts:
+  - ext-svc.example.com
+  ports:
+  - number: 443
+    name: https
+    protocol: HTTPS
+  location: MESH_EXTERNAL
+  resolution: DNS
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzU5OTg4NCwtMTA3ODg3NTA5NiwtMT
+eyJoaXN0b3J5IjpbMTQyNzkxOTc0OCwtMTA3ODg3NTA5NiwtMT
 M4NDYyMjI3Nyw3ODA3NjQwMjUsMTcwNTkyMDM4MSwtMjY4OTUz
 NTIzLC00NjEwMjUyNTgsMTcxMTIxNTY0NSw4MjYyMzIyNDYsMT
 czODIwNjEyLDg5NTgwMDkwMywxNTg3NzM4NTg4LDM0NDIyODcz
