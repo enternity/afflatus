@@ -36,9 +36,10 @@ Là một group logic giống nhau mà upstream host mà Envoy connect tới. En
 
 # Traffice Management
 ## Virtual Services
+Nếu không xài thằng này, Envoy sẽ phân phối traffic bằng cách dùng round-robin loadbalancing g
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTIxNTY0NSw4MjYyMzIyNDYsMTczOD
-IwNjEyLDg5NTgwMDkwMywxNTg3NzM4NTg4LDM0NDIyODczMiwy
-MDAwNTcwNDYxLDExOTE0NDA1MSw2OTk0NzA1NzQsLTE4NjIyMz
-A5ODRdfQ==
+eyJoaXN0b3J5IjpbLTgyODI4Mzk1LDE3MTEyMTU2NDUsODI2Mj
+MyMjQ2LDE3MzgyMDYxMiw4OTU4MDA5MDMsMTU4NzczODU4OCwz
+NDQyMjg3MzIsMjAwMDU3MDQ2MSwxMTkxNDQwNTEsNjk5NDcwNT
+c0LC0xODYyMjMwOTg0XX0=
 -->
