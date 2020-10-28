@@ -131,11 +131,12 @@ Sau đos config virtual service với routing rule cho external traffic.
 ## Service entries
 - Để add một entry vào service registry, ISTIO quản lý một cách internally. Sau khi add một service entry, Envoy proxies có thể gửi traffic tới service. Config service entries cho phép quản lí traffic cho services chạy bên ngoài mesh, bao gồm :
 	- Redirect và forward cho external destinations, như APIs consumed từ web, hoặc traffic tới services trong legacy infra.
-	- Định nghĩa ```retry, timeout, fault injection``` policies cho các external dé
+	- Định nghĩa ```retry, timeout, fault injection``` policies cho các external destinations.
+> Mặc định, Istio config cho Envoy proxies passthrough requests tớ các unknown services. Tuy nhiên, không thể dùng services entríe để điều khiển traffice tới các destinations không được registered trong mesh.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjkzNzU1NCwtMTM4NDYyMjI3Nyw3OD
-A3NjQwMjUsMTcwNTkyMDM4MSwtMjY4OTUzNTIzLC00NjEwMjUy
-NTgsMTcxMTIxNTY0NSw4MjYyMzIyNDYsMTczODIwNjEyLDg5NT
-gwMDkwMywxNTg3NzM4NTg4LDM0NDIyODczMiwyMDAwNTcwNDYx
-LDExOTE0NDA1MSw2OTk0NzA1NzQsLTE4NjIyMzA5ODRdfQ==
+eyJoaXN0b3J5IjpbLTEwNzg4NzUwOTYsLTEzODQ2MjIyNzcsNz
+gwNzY0MDI1LDE3MDU5MjAzODEsLTI2ODk1MzUyMywtNDYxMDI1
+MjU4LDE3MTEyMTU2NDUsODI2MjMyMjQ2LDE3MzgyMDYxMiw4OT
+U4MDA5MDMsMTU4NzczODU4OCwzNDQyMjg3MzIsMjAwMDU3MDQ2
+MSwxMTkxNDQwNTEsNjk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
 -->
