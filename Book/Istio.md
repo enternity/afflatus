@@ -35,11 +35,10 @@ Là một group logic giống nhau mà upstream host mà Envoy connect tới. En
 ## Listener
 
 # Traffice Management
-## Destination Rule
-Sau khi traffice tới service, khúc này là quyết định traffice đi vô endpoints nào.
-
+## Virtual Services
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MjMyMjQ2LDE3MzgyMDYxMiw4OTU4MD
-A5MDMsMTU4NzczODU4OCwzNDQyMjg3MzIsMjAwMDU3MDQ2MSwx
-MTkxNDQwNTEsNjk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
+eyJoaXN0b3J5IjpbMTcxMTIxNTY0NSw4MjYyMzIyNDYsMTczOD
+IwNjEyLDg5NTgwMDkwMywxNTg3NzM4NTg4LDM0NDIyODczMiwy
+MDAwNTcwNDYxLDExOTE0NDA1MSw2OTk0NzA1NzQsLTE4NjIyMz
+A5ODRdfQ==
 -->
