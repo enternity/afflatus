@@ -62,10 +62,14 @@ spec:
         host: reviews
         subset: v3
 ```
+> Còn một số config nữa tuy nhiên hiểu nôm na nó là thế là được rồi :wink: :wink:
 
+## Destination Rule
+Nếu virtual services là cách mà chúng ta route traffic, thì destination rule là config để chuyện gì sẽ xảy ra tại destination.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODk1MzUyMywtNDYxMDI1MjU4LDE3MT
-EyMTU2NDUsODI2MjMyMjQ2LDE3MzgyMDYxMiw4OTU4MDA5MDMs
-MTU4NzczODU4OCwzNDQyMjg3MzIsMjAwMDU3MDQ2MSwxMTkxND
-QwNTEsNjk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
+eyJoaXN0b3J5IjpbMTcwNTkyMDM4MSwtMjY4OTUzNTIzLC00Nj
+EwMjUyNTgsMTcxMTIxNTY0NSw4MjYyMzIyNDYsMTczODIwNjEy
+LDg5NTgwMDkwMywxNTg3NzM4NTg4LDM0NDIyODczMiwyMDAwNT
+cwNDYxLDExOTE0NDA1MSw2OTk0NzA1NzQsLTE4NjIyMzA5ODRd
+fQ==
 -->
