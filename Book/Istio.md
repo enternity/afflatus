@@ -40,11 +40,32 @@ Nếu không xài thằng này, Envoy sẽ phân phối traffic bằng cách dù
 Túm cái váy lại Virtual Services cho phép chúng ta:
 - Giải quyết nhiều services thông qua duy nhất một virtual services. Ví dụ, chúng ta có thể config virtual service để handle tất cả các services trong một namespace. 
 - Config luật traffic với **GateWay** để control ingress và egress.
-
+```yaml
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: reviews
+spec:
+  hosts:
+  - reviews
+  http:
+  - match:
+    - headers:
+        end-user:
+          exact: jason
+    route:
+    - destination:
+        host: reviews
+        subset: v2
+  - route:
+    - destination:
+        host: reviews
+        subset: v3
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDAzMDIsLTQ2MTAyNTI1OCwxNzExMj
-E1NjQ1LDgyNjIzMjI0NiwxNzM4MjA2MTIsODk1ODAwOTAzLDE1
-ODc3Mzg1ODgsMzQ0MjI4NzMyLDIwMDA1NzA0NjEsMTE5MTQ0MD
-UxLDY5OTQ3MDU3NCwtMTg2MjIzMDk4NF19
+eyJoaXN0b3J5IjpbLTI2ODk1MzUyMywtNDYxMDI1MjU4LDE3MT
+EyMTU2NDUsODI2MjMyMjQ2LDE3MzgyMDYxMiw4OTU4MDA5MDMs
+MTU4NzczODU4OCwzNDQyMjg3MzIsMjAwMDU3MDQ2MSwxMTkxND
+QwNTEsNjk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
 -->
