@@ -129,11 +129,11 @@ spec:
 ```
 Sau đos config virtual service với routing rule cho external traffic.
 ## Service entries
-
+- Để add một entry vào service registry, ISTIO quản lý một cách internall
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQ2MjIyNzcsNzgwNzY0MDI1LDE3MD
-U5MjAzODEsLTI2ODk1MzUyMywtNDYxMDI1MjU4LDE3MTEyMTU2
-NDUsODI2MjMyMjQ2LDE3MzgyMDYxMiw4OTU4MDA5MDMsMTU4Nz
-czODU4OCwzNDQyMjg3MzIsMjAwMDU3MDQ2MSwxMTkxNDQwNTEs
-Njk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
+eyJoaXN0b3J5IjpbLTE2OTc3NjQyMTMsLTEzODQ2MjIyNzcsNz
+gwNzY0MDI1LDE3MDU5MjAzODEsLTI2ODk1MzUyMywtNDYxMDI1
+MjU4LDE3MTEyMTU2NDUsODI2MjMyMjQ2LDE3MzgyMDYxMiw4OT
+U4MDA5MDMsMTU4NzczODU4OCwzNDQyMjg3MzIsMjAwMDU3MDQ2
+MSwxMTkxNDQwNTEsNjk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
 -->
