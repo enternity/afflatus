@@ -129,11 +129,11 @@ spec:
 ```
 Sau đos config virtual service với routing rule cho external traffic.
 ## Service entries
-- Để add một entry vào service registry, ISTIO quản lý một cách internall
+- Để add một entry vào service registry, ISTIO quản lý một cách internally. Sau khi add một service entry, Envoy proxies có thể gửi traffic tới service. Config service entries cho phép quản lí traffic cho services chạy bên ngoài mesh bà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc3NjQyMTMsLTEzODQ2MjIyNzcsNz
-gwNzY0MDI1LDE3MDU5MjAzODEsLTI2ODk1MzUyMywtNDYxMDI1
-MjU4LDE3MTEyMTU2NDUsODI2MjMyMjQ2LDE3MzgyMDYxMiw4OT
-U4MDA5MDMsMTU4NzczODU4OCwzNDQyMjg3MzIsMjAwMDU3MDQ2
-MSwxMTkxNDQwNTEsNjk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
+eyJoaXN0b3J5IjpbLTUyODYwNTMxNCwtMTM4NDYyMjI3Nyw3OD
+A3NjQwMjUsMTcwNTkyMDM4MSwtMjY4OTUzNTIzLC00NjEwMjUy
+NTgsMTcxMTIxNTY0NSw4MjYyMzIyNDYsMTczODIwNjEyLDg5NT
+gwMDkwMywxNTg3NzM4NTg4LDM0NDIyODczMiwyMDAwNTcwNDYx
+LDExOTE0NDA1MSw2OTk0NzA1NzQsLTE4NjIyMzA5ODRdfQ==
 -->
