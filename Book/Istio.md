@@ -114,11 +114,23 @@ spec:
       serverCertificate: /tmp/tls.crt
       privateKey: /tmp/tls.key
 ```
-Config này cho phép HTTPS traffic từ ```ext-host.ẽ```
+Config này cho phép HTTPS traffic từ ```ext-host.example.com``` đi vào mesh trên port 443, tuy nhiên không biết routing đi đâu.
+Để routing và gateway work như dự định, ta cần bind gateway vào virtual service.
+```yaml
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: virtual-svc
+spec:
+  hosts:
+  - ext-host.example.com
+  gateways:
+  - ext-host-gwy
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc5NTEyNTksNzgwNzY0MDI1LDE3MD
-U5MjAzODEsLTI2ODk1MzUyMywtNDYxMDI1MjU4LDE3MTEyMTU2
-NDUsODI2MjMyMjQ2LDE3MzgyMDYxMiw4OTU4MDA5MDMsMTU4Nz
-czODU4OCwzNDQyMjg3MzIsMjAwMDU3MDQ2MSwxMTkxNDQwNTEs
-Njk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
+eyJoaXN0b3J5IjpbMTkyMjQwMzI2LDc4MDc2NDAyNSwxNzA1OT
+IwMzgxLC0yNjg5NTM1MjMsLTQ2MTAyNTI1OCwxNzExMjE1NjQ1
+LDgyNjIzMjI0NiwxNzM4MjA2MTIsODk1ODAwOTAzLDE1ODc3Mz
+g1ODgsMzQ0MjI4NzMyLDIwMDA1NzA0NjEsMTE5MTQ0MDUxLDY5
+OTQ3MDU3NCwtMTg2MjIzMDk4NF19
 -->
