@@ -66,10 +66,34 @@ spec:
 
 ## Destination Rule
 Nếu virtual services là cách mà chúng ta route traffic, thì destination rule là config để chuyện gì sẽ xảy ra tại destination.
+```yaml
+apiVersion: networking.istio.io/v1alpha3
+kind: DestinationRule
+metadata:
+  name: my-destination-rule
+spec:
+  host: my-svc
+  trafficPolicy:
+    loadBalancer:
+      simple: RANDOM
+  subsets:
+  - name: v1
+    labels:
+      version: v1
+  - name: v2
+    labels:
+      version: v2
+    trafficPolicy:
+      loadBalancer:
+        simple: ROUND_ROBIN
+  - name: v3
+    labels:
+      version: v3
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTkyMDM4MSwtMjY4OTUzNTIzLC00Nj
-EwMjUyNTgsMTcxMTIxNTY0NSw4MjYyMzIyNDYsMTczODIwNjEy
-LDg5NTgwMDkwMywxNTg3NzM4NTg4LDM0NDIyODczMiwyMDAwNT
-cwNDYxLDExOTE0NDA1MSw2OTk0NzA1NzQsLTE4NjIyMzA5ODRd
-fQ==
+eyJoaXN0b3J5IjpbNzgwNzY0MDI1LDE3MDU5MjAzODEsLTI2OD
+k1MzUyMywtNDYxMDI1MjU4LDE3MTEyMTU2NDUsODI2MjMyMjQ2
+LDE3MzgyMDYxMiw4OTU4MDA5MDMsMTU4NzczODU4OCwzNDQyMj
+g3MzIsMjAwMDU3MDQ2MSwxMTkxNDQwNTEsNjk5NDcwNTc0LC0x
+ODYyMjMwOTg0XX0=
 -->
