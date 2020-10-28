@@ -38,9 +38,10 @@ Là một group logic giống nhau mà upstream host mà Envoy connect tới. En
 ## Virtual Services
 Nếu không xài thằng này, Envoy sẽ phân phối traffic bằng cách dùng round-robin loadbalancing giữa các endpoints của services. Bạn có thể routing traffice nếu các deployment có phiên bản khác nhau.
 Túm cái váy lại Virtual Services cho phép chúng ta:
-- Giải quyết nhiều services thông qua duy nhất một virtual services. Ví dụ, chúng ta có thể config virtual service để handle tất cả các services trong một namespace
+- Giải quyết nhiều services thông qua duy nhất một virtual services. Ví dụ, chúng ta có thể config virtual service để handle tất cả các services trong một namespace. 
+- Config luật traffic với **GateWay** để control ingress và egress.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTU0MzU0OSwxNzExMjE1NjQ1LDgyNj
+eyJoaXN0b3J5IjpbLTQ2MTAyNTI1OCwxNzExMjE1NjQ1LDgyNj
 IzMjI0NiwxNzM4MjA2MTIsODk1ODAwOTAzLDE1ODc3Mzg1ODgs
 MzQ0MjI4NzMyLDIwMDA1NzA0NjEsMTE5MTQ0MDUxLDY5OTQ3MD
 U3NCwtMTg2MjIzMDk4NF19
