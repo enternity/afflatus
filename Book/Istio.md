@@ -91,11 +91,11 @@ spec:
       version: v3
 ```
 ## Gateways
-Để quản lý inbound và outbound traffic cho service mesh. Để specify traffic nào đưa ra vô mesh. Gateways config được app
+Để quản lý inbound và outbound traffic cho service mesh. Để specify traffic nào đưa ra vô mesh. Gateways config được apply độc lập với Envoy proxies nằm ở ingress or egress chứ không phải các Envoy đang nằm cùng các services.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Nzk2NDk4LDc4MDc2NDAyNSwxNzA1OT
-IwMzgxLC0yNjg5NTM1MjMsLTQ2MTAyNTI1OCwxNzExMjE1NjQ1
-LDgyNjIzMjI0NiwxNzM4MjA2MTIsODk1ODAwOTAzLDE1ODc3Mz
-g1ODgsMzQ0MjI4NzMyLDIwMDA1NzA0NjEsMTE5MTQ0MDUxLDY5
-OTQ3MDU3NCwtMTg2MjIzMDk4NF19
+eyJoaXN0b3J5IjpbLTE2OTEzODQyMjcsNzgwNzY0MDI1LDE3MD
+U5MjAzODEsLTI2ODk1MzUyMywtNDYxMDI1MjU4LDE3MTEyMTU2
+NDUsODI2MjMyMjQ2LDE3MzgyMDYxMiw4OTU4MDA5MDMsMTU4Nz
+czODU4OCwzNDQyMjg3MzIsMjAwMDU3MDQ2MSwxMTkxNDQwNTEs
+Njk5NDcwNTc0LC0xODYyMjMwOTg0XX0=
 -->
