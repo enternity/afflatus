@@ -20,8 +20,8 @@
 ```mvn clean package -DskipTests```
 
 ## Work follow
-- Tại mỗi node, với các node bình thường 
+- Tại mỗi node, với các node bình thường thì sau khoảng thời gian [fixRated]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc5OTkwMjBdfQ==
+eyJoaXN0b3J5IjpbMTU5OTMzNTEwNiwtMTU5Nzk5OTAyMF19
 -->
