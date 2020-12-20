@@ -29,8 +29,9 @@
 2. Làm việc với multithreads. 
 3. Chạy asynchronous.
 # Hạn chế :
-1. Config cứng. Số lượng node được config cứng trong file [pr]
+1. Config cứng. Số lượng node được config cứng trong file [properties](https://github.com/tdnhduc/consensus-gRPC/blob/ad603b4758c0fdab724424fcc965ef56cecd70a3/consensus/src/main/resources/application.properties#L8) nên một node mới mà không xuất hiện trong config thì cũng không được validate.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyNDY5NzE5LDU3NTYxNTM2MiwtMTU5Nz
-k5OTAyMF19
+eyJoaXN0b3J5IjpbLTcxNDA2NTc0MCw1NzU2MTUzNjIsLTE1OT
+c5OTkwMjBdfQ==
 -->
