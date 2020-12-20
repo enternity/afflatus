@@ -20,8 +20,8 @@
 ```mvn clean package -DskipTests```
 
 ## Work follow
-- Tại 
+- Tại mỗi node, với các node bình thường 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNjExMTcwXX0=
+eyJoaXN0b3J5IjpbLTE1OTc5OTkwMjBdfQ==
 -->
