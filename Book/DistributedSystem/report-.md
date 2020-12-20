@@ -25,8 +25,10 @@
 <center><img src="https://i.imgur.com/OGWsXbP.png" /></center>
 
 ## Ưu điểm :
-1. Có log file, còn
+1. Có log file, config dễ dàng.
+2. Làm việc với multithreads. 
+3. Chạy asynchonized 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTcwMTM2NTgsNTc1NjE1MzYyLC0xNT
-k3OTk5MDIwXX0=
+eyJoaXN0b3J5IjpbODY2NDI1MjI0LDU3NTYxNTM2MiwtMTU5Nz
+k5OTAyMF19
 -->
