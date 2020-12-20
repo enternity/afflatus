@@ -21,8 +21,9 @@
 
 ## Work follow
 - Tại mỗi node, với các node bình thường thì sau khoảng thời gian [fixRated](https://github.com/tdnhduc/consensus-gRPC/blob/ad603b4758c0fdab724424fcc965ef56cecd70a3/consensus/src/main/resources/application.properties#L16) thì sẽ gửi cho tất cả các node.
-- Sau đó các node sẽ _**validate**_ 
+- Sau đó các node sẽ _**validate**_ node đó có hợp lệ hay không. Sau đó tiến hành broadcast lại cho tất cả các node. Và sau đó trả về ```ack``` cho node đã gửi trước đó.
+-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTMwNDczMiwtMTU5Nzk5OTAyMF19
+eyJoaXN0b3J5IjpbNTc1NjE1MzYyLC0xNTk3OTk5MDIwXX0=
 -->
