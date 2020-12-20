@@ -20,8 +20,9 @@
 ```mvn clean package -DskipTests```
 
 ## Work follow
-- Tại mỗi node, với các node bình thường thì sau khoảng thời gian [fixRated]()
+- Tại mỗi node, với các node bình thường thì sau khoảng thời gian [fixRated](https://github.com/tdnhduc/consensus-gRPC/blob/ad603b4758c0fdab724424fcc965ef56cecd70a3/consensus/src/main/resources/application.properties#L16) thì sẽ gửi cho tất cả các node.
+- Sau đó các node sẽ _**validate**_ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTMzNTEwNiwtMTU5Nzk5OTAyMF19
+eyJoaXN0b3J5IjpbMTc4OTMwNDczMiwtMTU5Nzk5OTAyMF19
 -->
