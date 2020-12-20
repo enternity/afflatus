@@ -27,8 +27,10 @@
 ## Ưu điểm :
 1. Có log file, config dễ dàng.
 2. Làm việc với multithreads. 
-3. Chạy asynchonized 
+3. Chạy asynchronous.
+# Hạn chế :
+1. Config cứng. Số lượng node được config cứng trong file [pr]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2NDI1MjI0LDU3NTYxNTM2MiwtMTU5Nz
+eyJoaXN0b3J5IjpbMzkyNDY5NzE5LDU3NTYxNTM2MiwtMTU5Nz
 k5OTAyMF19
 -->
