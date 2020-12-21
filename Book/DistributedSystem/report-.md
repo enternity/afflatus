@@ -8,7 +8,7 @@
 > 1712357 : Nguyễn Huỳnh Đức
 > 1712405 : Nguyễn Trường Giang
 
-> Mã nguồn : [https://github.com/tdnhduc/consensus-gRPC/tree/master](https://github.com/tdnhduc/consensus-gRPC/tree/master)
+> Mã nguồn của nhóm : [https://github.com/tdnhduc/consensus-gRPC/tree/master](https://github.com/tdnhduc/consensus-gRPC/tree/master)
 
 ## Yêu cầu chung và môi trường cài đặt.
 1. Ngôn ngữ lập trình: ```Java8```
@@ -62,7 +62,10 @@
 ## Hạn chế :
 1. Config cứng. Số lượng node được config cứng trong file [properties](https://github.com/tdnhduc/consensus-gRPC/blob/ad603b4758c0fdab724424fcc965ef56cecd70a3/consensus/src/main/resources/application.properties#L8) nên một node mới mà không xuất hiện trong config thì cũng không được validate.
 
+## Tham khảo :
+1. https://grpc.io/docs/guides/
+2. https://stackoverflow.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzA1ODI0MSwtNzE0MDY1NzQwLDU3NT
-YxNTM2MiwtMTU5Nzk5OTAyMF19
+eyJoaXN0b3J5IjpbLTEzOTc3MDE1NzksMTEyMzA1ODI0MSwtNz
+E0MDY1NzQwLDU3NTYxNTM2MiwtMTU5Nzk5OTAyMF19
 -->
