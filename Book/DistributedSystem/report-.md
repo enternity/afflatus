@@ -45,7 +45,13 @@
 - 5 nodes byzantine là: node 0, node 1, node 3, node 5, node 6.
 - Log file của 2 node trung thực :
 
+- Node 2:
 
+<center><img src="https://i.imgur.com/7ln8WY2.png"/></center>
+
+- Node 4:
+
+<center><img src = ></center>
 
 ## Ưu điểm :
 1. Có log file, config dễ dàng.
@@ -55,6 +61,6 @@
 1. Config cứng. Số lượng node được config cứng trong file [properties](https://github.com/tdnhduc/consensus-gRPC/blob/ad603b4758c0fdab724424fcc965ef56cecd70a3/consensus/src/main/resources/application.properties#L8) nên một node mới mà không xuất hiện trong config thì cũng không được validate.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE5MDYxMTYsLTcxNDA2NTc0MCw1Nz
-U2MTUzNjIsLTE1OTc5OTkwMjBdfQ==
+eyJoaXN0b3J5IjpbLTI2Nzc5OTE2MSwtNzE0MDY1NzQwLDU3NT
+YxNTM2MiwtMTU5Nzk5OTAyMF19
 -->
