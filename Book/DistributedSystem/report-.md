@@ -41,7 +41,11 @@
 > Từ đây ta rút ra kết luận là: kết quả 5 node trung thực kia không có gì khác nhau.
 
 2. **Trường hợp thứ 2** : 5 nodes là byzantine.
-3. 
+
+- 5 nodes byzantine là: node 0, node 1, node 3, node 5, node 6.
+- Log file của 2 node trung thực :
+
+
 
 ## Ưu điểm :
 1. Có log file, config dễ dàng.
@@ -51,6 +55,6 @@
 1. Config cứng. Số lượng node được config cứng trong file [properties](https://github.com/tdnhduc/consensus-gRPC/blob/ad603b4758c0fdab724424fcc965ef56cecd70a3/consensus/src/main/resources/application.properties#L8) nên một node mới mà không xuất hiện trong config thì cũng không được validate.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Mjc1NDM3OSwtNzE0MDY1NzQwLDU3NT
-YxNTM2MiwtMTU5Nzk5OTAyMF19
+eyJoaXN0b3J5IjpbLTE4NTE5MDYxMTYsLTcxNDA2NTc0MCw1Nz
+U2MTUzNjIsLTE1OTc5OTkwMjBdfQ==
 -->
