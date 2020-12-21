@@ -31,7 +31,11 @@
 	- Node 1 :
 <center><img src= "https://i.imgur.com/eNHojkd.png"></center>
 
-	- Node 2: 
+	- Node 3: 
+<center><img src="https://i.imgur.com/jGZNJmJ.png"></center>
+
+	- Các node còn lại :
+
 ## Ưu điểm :
 1. Có log file, config dễ dàng.
 2. Làm việc với multithreads. 
@@ -40,6 +44,6 @@
 1. Config cứng. Số lượng node được config cứng trong file [properties](https://github.com/tdnhduc/consensus-gRPC/blob/ad603b4758c0fdab724424fcc965ef56cecd70a3/consensus/src/main/resources/application.properties#L8) nên một node mới mà không xuất hiện trong config thì cũng không được validate.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNjkxOTg0LC03MTQwNjU3NDAsNTc1Nj
+eyJoaXN0b3J5IjpbLTE5MjA3NzEwLC03MTQwNjU3NDAsNTc1Nj
 E1MzYyLC0xNTk3OTk5MDIwXX0=
 -->
