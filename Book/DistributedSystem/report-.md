@@ -24,14 +24,18 @@
 - Sau đó các node sẽ _**validate**_ node đó có hợp lệ hay không. Sau đó tiến hành broadcast lại cho tất cả các node. Và sau đó trả về ```ack``` cho node đã gửi trước đó.
 <center><img src="https://i.imgur.com/OGWsXbP.png" /></center>
 
+## Kết quả
+1. **Trường hợp đầu tiên** : 2 nodes là byzantine. 
+- Theo thứ tự nhận tin là node 1 và node 3.
+- Log file của 2 node byzantine lần lượt d
 ## Ưu điểm :
 1. Có log file, config dễ dàng.
 2. Làm việc với multithreads. 
 3. Chạy asynchronous.
-# Hạn chế :
+## Hạn chế :
 1. Config cứng. Số lượng node được config cứng trong file [properties](https://github.com/tdnhduc/consensus-gRPC/blob/ad603b4758c0fdab724424fcc965ef56cecd70a3/consensus/src/main/resources/application.properties#L8) nên một node mới mà không xuất hiện trong config thì cũng không được validate.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDA2NTc0MCw1NzU2MTUzNjIsLTE1OT
-c5OTkwMjBdfQ==
+eyJoaXN0b3J5IjpbLTE1OTAwNTkyOTYsLTcxNDA2NTc0MCw1Nz
+U2MTUzNjIsLTE1OTc5OTkwMjBdfQ==
 -->
