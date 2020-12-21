@@ -51,7 +51,9 @@
 
 - Node 4:
 
-<center><img src = ></center>
+<center><img src="https://i.imgur.com/i2Jduzs.png"></center>
+
+> Có thể thấy kết quả 2 file log này là khác nhau. Sự khác nhau nằm ở sự kiện thứ 4 của Node 2. Tại sự kiện thứ 4, Node 2 đã tiến hành lưu vào file log khi Node 6 đạt đủ điều kiện gửi đúng thời điểm, đúng pid của mình và nhận được >= 4 trả lời “true”. Nhưng ở Node 4 lại không tiến hành ghi nhận điều này vào file log của mình.
 
 ## Ưu điểm :
 1. Có log file, config dễ dàng.
@@ -61,6 +63,6 @@
 1. Config cứng. Số lượng node được config cứng trong file [properties](https://github.com/tdnhduc/consensus-gRPC/blob/ad603b4758c0fdab724424fcc965ef56cecd70a3/consensus/src/main/resources/application.properties#L8) nên một node mới mà không xuất hiện trong config thì cũng không được validate.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Nzc5OTE2MSwtNzE0MDY1NzQwLDU3NT
+eyJoaXN0b3J5IjpbMTEyMzA1ODI0MSwtNzE0MDY1NzQwLDU3NT
 YxNTM2MiwtMTU5Nzk5OTAyMF19
 -->
