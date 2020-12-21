@@ -5,8 +5,8 @@
 ## <center>CHUYÊN ĐỀ HỆ THỐNG PHÂN TÁN</center>
 
 > ### Thành viên : 
-> 1712357 : Nguyễn Huỳnh Đức
-> 1712405 : Nguyễn Trường Giang
+> **1712357 : Nguyễn Huỳnh Đức**
+> **1712405 : Nguyễn Trường Giang**
 
 > Mã nguồn của nhóm : [https://github.com/tdnhduc/consensus-gRPC/tree/master](https://github.com/tdnhduc/consensus-gRPC/tree/master)
 
@@ -66,6 +66,6 @@
 1. https://grpc.io/docs/guides/
 2. https://stackoverflow.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc3MDE1NzksMTEyMzA1ODI0MSwtNz
-E0MDY1NzQwLDU3NTYxNTM2MiwtMTU5Nzk5OTAyMF19
+eyJoaXN0b3J5IjpbLTU0NDYzNjM2MywxMTIzMDU4MjQxLC03MT
+QwNjU3NDAsNTc1NjE1MzYyLC0xNTk3OTk5MDIwXX0=
 -->
