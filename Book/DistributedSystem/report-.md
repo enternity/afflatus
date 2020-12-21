@@ -28,16 +28,21 @@
 1. **Trường hợp đầu tiên** : 2 nodes là byzantine. 
 - Theo thứ tự nhận tin là node 1 và node 3.
 - Log file của 2 node byzantine lần lượt được ghi nhận sau 5 phút. 
-	- Node 1 :
+
+- Node 1 :
 <center><img src= "https://i.imgur.com/eNHojkd.png"></center>
 
 	- Node 3: 
 <center><img src="https://i.imgur.com/jGZNJmJ.png"></center>
 
-	- Các node còn lại :
+- Các node còn lại :
 <center><img src="https://i.imgur.com/QrupovP.png"/></center>
 
-> Từ đây ta rút ra kết luận là: kết quả 5 fil kia không có gì khác nhau và không có 
+> Từ đây ta rút ra kết luận là: kết quả 5 node trung thực kia không có gì khác nhau.
+
+2. **Trường hợp thứ 2** : 5 nodes là byzantine.
+3. 
+
 ## Ưu điểm :
 1. Có log file, config dễ dàng.
 2. Làm việc với multithreads. 
@@ -46,6 +51,6 @@
 1. Config cứng. Số lượng node được config cứng trong file [properties](https://github.com/tdnhduc/consensus-gRPC/blob/ad603b4758c0fdab724424fcc965ef56cecd70a3/consensus/src/main/resources/application.properties#L8) nên một node mới mà không xuất hiện trong config thì cũng không được validate.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjM2NjcyNywtNzE0MDY1NzQwLDU3NT
+eyJoaXN0b3J5IjpbMTI0Mjc1NDM3OSwtNzE0MDY1NzQwLDU3NT
 YxNTM2MiwtMTU5Nzk5OTAyMF19
 -->
