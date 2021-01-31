@@ -6,8 +6,10 @@
 ## Thị trường chứng khoán sơ cấp 
 - Nơi công ty phats hành chứng khoán ra thị trường để thu hút vốn đầu tư.
 - Đa phần người mua trên thị trường sơ cấp là các quỹ đầu tư hay tổ chức lớn.
-## Thị trường chứng khoa
+## Thị trường chứng khoán thứ cấp :
+- Diễn ra các hoạt động mua bán, trao đổi các loại chứng khoán đã được phát hành trên thị trường sơ cấp.
+- Người mua tại thị trường 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYyMzMwNF19
+eyJoaXN0b3J5IjpbODM0NTEyOTg3XX0=
 -->
