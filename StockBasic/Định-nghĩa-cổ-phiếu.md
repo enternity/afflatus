@@ -18,7 +18,7 @@
 2. Cổ tức không ổn định
 3. Giá cổ phiếu biến động mạnh 
 4. Thanh khoản cao
-5. Tính rủi
+5. Tính rủi ro cao
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMDA2NTY5XX0=
+eyJoaXN0b3J5IjpbLTEzNDY3NTA3NV19
 -->
