@@ -20,8 +20,9 @@
 # Các loại lệnh giao dịch chứng khoán thường gặp.
 - **ATO(Giá mở cửa)** : là lệnh mua bán cổ phiếu khi mở cửa sàn giao dịch. Lệnh này ưu tiên trước lệnh giới hạn (LO),...
 - **LO (lệnh giới hạn)** : là lệnh mua bán cổ phiếu ở mức giá xác định.
-- ****
+- **ATC (giá đóng cửa)** : lệnh mua bán cổ phiếu tại mức giá đóng cửa sàn giao dịch. Tương tự lệnh ATO, lệnh ATC được ưu tiên trước LO.
+- **MP**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDA0NTUyMSwtOTQxNjc3MDU0LDQ0MT
+eyJoaXN0b3J5IjpbMTUwODY5Mzc2MywtOTQxNjc3MDU0LDQ0MT
 I0MzAyNl19
 -->
