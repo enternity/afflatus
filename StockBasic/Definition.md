@@ -28,7 +28,8 @@
 ## Cách thức hoạt động của sàn chứng khoán.
 - Khi một công ty phát hành cổ phiếu ra thị trường lần đầu (IPO - Initial Public Offering) nhiều tổ chức sẽ tiến hành mua cổ phiếu đó với số lượng lớn.
 - Khi công ty niêm yết trên sàn chứng khoán, những người sở hữu cổ phần công ty sẽ được sở hữu một lượng cổ phiếu nhất định tuỳ theo cổ phần của họ trong công ty.
+- Thực chất thời điểm này không có sự gia tăng vốn ở công ty, mà chỉ có việc chuyển đổi chủ sở hữu giữa các nhà đầu tư.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTAxOTA0OV19
+eyJoaXN0b3J5IjpbLTEzOTc5NTUwMDJdfQ==
 -->
