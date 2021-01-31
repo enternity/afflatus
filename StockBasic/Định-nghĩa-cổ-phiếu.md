@@ -14,7 +14,11 @@
 
 - Đảm bảo mức cổ tức cố định bất chất tình hình lãi lỗ của công ty. Nếu công ty phá sản vẫn được thanh toán tiền cổ phiếu phổ thông chỉ sau các loại nợ.
 ## 5 đặc điểm khi sở hữu cổ phiếu 
-1. Không có 
+1. Không có kỳ hạn và không hoàn vốn.
+2. Cổ tức không ổn định
+3. Giá cổ phiếu biến động mạnh 
+4. Thanh khoản cao
+5. Tính rủi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjkzMTk1OTZdfQ==
+eyJoaXN0b3J5IjpbODQzMDA2NTY5XX0=
 -->
