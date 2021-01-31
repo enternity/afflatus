@@ -14,7 +14,8 @@
 ## Ưu tiên về giá :
 - Lệnh mua với mức giá cao hơn được ưu tiên thực hiện trước.
 - Lệnh bán với mức giá thấp được ưu tiên thực hiện trước.
-## Ưu tiên v
+## Ưu tiên về thời gian
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU0Njk4MjRdfQ==
+eyJoaXN0b3J5IjpbNDQxMjQzMDI2XX0=
 -->
