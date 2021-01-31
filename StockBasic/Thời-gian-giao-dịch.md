@@ -15,7 +15,7 @@
 - Lệnh mua với mức giá cao hơn được ưu tiên thực hiện trước.
 - Lệnh bán với mức giá thấp được ưu tiên thực hiện trước.
 ## Ưu tiên về thời gian
-
+- Trường hợp các lệnh mua hoặc lệnh bán có cùng mức giá thì lệnh nhập vào hệ thống giao dịch trước được ưu tiên thực hie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMjQzMDI2XX0=
+eyJoaXN0b3J5IjpbLTIwMDAwOTk4MzIsNDQxMjQzMDI2XX0=
 -->
