@@ -8,8 +8,12 @@
 - Đa phần người mua trên thị trường sơ cấp là các quỹ đầu tư hay tổ chức lớn.
 ## Thị trường chứng khoán thứ cấp :
 - Diễn ra các hoạt động mua bán, trao đổi các loại chứng khoán đã được phát hành trên thị trường sơ cấp.
-- Người mua tại thị trường 
+- Người mua tại thị trường sơ cấp sẽ tiến hành mua bán chứng khoán đối với các nhà đầu tư khác trên thị trường.
+- Là nơi các nhà đầu tư các nhân có thể tham gia.
+# Các thành phần tham gia thị trương chứng khoán
+## Nhà phát hành :
+- Tổ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NTEyOTg3XX0=
+eyJoaXN0b3J5IjpbLTE4MTUxOTc1NTBdfQ==
 -->
