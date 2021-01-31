@@ -22,8 +22,8 @@
 - **LO (lệnh giới hạn)** : là lệnh mua bán cổ phiếu ở mức giá xác định.
 - **ATC (giá đóng cửa)** : lệnh mua bán cổ phiếu tại mức giá đóng cửa sàn giao dịch. Tương tự lệnh ATO, lệnh ATC được ưu tiên trước LO.
 - **MP** : lệnh mua bán tại mức giá bán thấp nhất / giá mua cao nhất hiện có trên thị trường sàn HSX.
-- **MAK/MOK/MTL** : lệnh mua/bán tại mức giá bán thấp nhất / mua cao 
+- **MAK/MOK/MTL** : lệnh mua/bán tại mức giá bán thấp nhất / mua cao nhất hiện có trên thi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzQyMDM1NSwtOTQxNjc3MDU0LDQ0MT
-I0MzAyNl19
+eyJoaXN0b3J5IjpbLTc2NDQ4OTgxLC05NDE2NzcwNTQsNDQxMj
+QzMDI2XX0=
 -->
