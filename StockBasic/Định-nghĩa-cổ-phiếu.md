@@ -13,6 +13,8 @@
 <center><img src="https://dautuhanghoa.com.vn/wp-content/uploads/2020/02/phan-loai-cho-phieu-pho-thong-va-uu-dai.jpg" /></center>
 
 - Đảm bảo mức cổ tức cố định bất chất tình hình lãi lỗ của công ty. Nếu công ty phá sản vẫn được thanh toán tiền cổ phiếu phổ thông chỉ sau các loại nợ.
+## 5 đặc điểm khi sở hữu cổ phiếu 
+1. Không có 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzkzOTQ2XX0=
+eyJoaXN0b3J5IjpbLTEwNjkzMTk1OTZdfQ==
 -->
