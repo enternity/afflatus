@@ -26,7 +26,8 @@
 - Sở giao dịch chứng khoán.
 - Trung tâm lưu ký.
 ## Cách thức hoạt động của sàn chứng khoán.
+= Khi một công t
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE0ODQ0NjVdfQ==
+eyJoaXN0b3J5IjpbMTA5NDQ3MDQ4MF19
 -->
