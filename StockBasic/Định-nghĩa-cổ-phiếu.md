@@ -8,7 +8,11 @@
 1. **Cổ phiếu phổ thông** :
 - Được giao dịch trực tiếp trên sàn giao dịch tương ứng với một phiếu biểu quyết trong đại hội cổ đông. Khi sở hữu cổ phiếu này thì được hưởng cổ tức. Có quyền bầu lãnh đạo.
 2. **Cổ phiếu ưu đãi**
-- Kết hợp giữa cổ phiếu và trái phiếu. Giá trị c
+- Kết hợp giữa cổ phiếu và trái phiếu. Giá trị của cổ phiếu ưu đãi khá cao. Tuy nhiên không có quyền biểu quyết và không được đưa lên sàn giao dịch chứng khoán.
+
+<center><img src="https://dautuhanghoa.com.vn/wp-content/uploads/2020/02/phan-loai-cho-phieu-pho-thong-va-uu-dai.jpg" /></center>
+
+- Đảm bảo mức cổ tức cố định bất chất tình hình lãi lỗ của công ty. Nếu công ty phá sản vẫn được thanh toán tiền cổ phiếu pho
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTIyMTYxOTNdfQ==
+eyJoaXN0b3J5IjpbMTcxMTEyMTE4OV19
 -->
