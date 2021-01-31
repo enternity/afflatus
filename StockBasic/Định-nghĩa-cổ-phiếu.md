@@ -6,7 +6,9 @@
 - Cổ phiếu vô danh : Không ghi danh chủ sở hữu, thủ tục chuyển nhượng rất đơn giản.
 ## Phân loại theo quyền lợi nắm giữ :
 1. **Cổ phiếu phổ thông** :
-- Được giao dịch trực tie
+- Được giao dịch trực tiếp trên sàn giao dịch tương ứng với một phiếu biểu quyết trong đại hội cổ đông. Khi sở hữu cổ phiếu này thì được hưởng cổ tức. Có quyền bầu lãnh đạo.
+2. **Cổ phiếu ưu đãi**
+- Kết hợp giữa cổ phiếu và trái phiếu. Giá trị c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3OTQ4NTE2XX0=
+eyJoaXN0b3J5IjpbLTE2MTIyMTYxOTNdfQ==
 -->
