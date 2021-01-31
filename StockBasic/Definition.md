@@ -4,8 +4,10 @@
 - Chứng khoán bao gồm các loại : cổ phiếu, trái phiếu, chứng chỉ quỹ đầu tư, chứng khoán phái sinh. Nó là một loại hàng hoá đặc biệt.
 # Có 2 loại thị trường chứng khoán
 ## Thị trường chứng khoán sơ cấp 
-- Nơi công ty phats hành chứng khoán ra thị trường 
+- Nơi công ty phats hành chứng khoán ra thị trường để thu hút vốn đầu tư.
+- Đa phần người mua trên thị trường sơ cấp là các quỹ đầu tư hay tổ chức lớn.
+## Thị trường chứng khoa
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjU4NjYwMTJdfQ==
+eyJoaXN0b3J5IjpbLTIwMTYyMzMwNF19
 -->
