@@ -18,7 +18,8 @@
 - Trường hợp các lệnh mua hoặc lệnh bán có cùng mức giá thì lệnh nhập vào hệ thống giao dịch trước được ưu tiên thực hiện trước.
 
 # Các loại lệnh giao dịch chứng khoán thường gặp.
-- **ATO(Giá mở cửa)** : 
+- **ATO(Giá mở cửa)** : là lệnh mua bán cổ phiếu khi mở cửa sàn giao dịch. Lệnh này ưu tiên trước lệnh giới hạn (LO)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTY3NzA1NCw0NDEyNDMwMjZdfQ==
+eyJoaXN0b3J5IjpbMjczNTg1MjQyLC05NDE2NzcwNTQsNDQxMj
+QzMDI2XX0=
 -->
