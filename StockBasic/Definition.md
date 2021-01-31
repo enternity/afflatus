@@ -26,8 +26,9 @@
 - Sở giao dịch chứng khoán.
 - Trung tâm lưu ký.
 ## Cách thức hoạt động của sàn chứng khoán.
-- Khi một công ty phát hà
+- Khi một công ty phát hành cổ phiếu ra thị trường lần đầu (IPO - Initial Public Offering) nhiều tổ chức sẽ tiến hành mua cổ phiếu đó với số lượng lớn.
+- Khi công ty niêm yết trên sàn chứng khoán, những người sở hữu cổ phần công ty sẽ được sở hữu một lượng cổ phiếu nhất định tuỳ theo cổ phần của họ trong công ty.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTk2NTA2Nl19
+eyJoaXN0b3J5IjpbMjA1OTAxOTA0OV19
 -->
