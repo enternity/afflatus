@@ -19,8 +19,14 @@
 - 2 loại nhà đầu tư : đầu tư các nhân và đầu tư có tổ chức.
 ## Các tổ chức kinh doanh trên thị trường chứng khoán.
 - Công ty chứng khoán.
-- Quỹ d
+- Quỹ đầu tư chứng khoán.
+- Các trung gian tài chính.
+## Các tổ chức quản lý thị trường chứng khoán.
+- Cơ quan quản lý Nhà nước.
+- Sở giao dịch chứng khoán.
+- Trung tâm lưu ký.
+## Cách thức hoạt động của sàn chứng khoán.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjEzOTAzOThdfQ==
+eyJoaXN0b3J5IjpbLTEwMDE0ODQ0NjVdfQ==
 -->
