@@ -12,8 +12,15 @@
 - Là nơi các nhà đầu tư các nhân có thể tham gia.
 # Các thành phần tham gia thị trương chứng khoán
 ## Nhà phát hành :
-- Tổ 
+- Tổ chức thực hiện huy động vốn thông qua thị trướng chứng khoán sơ cấp.
+- Người cung cấp các chứng khoán - hàng hoá của thị trường chứng khoán.
+## Nhà đầu tư :
+- Người thực sự mua và bán chứng khoán trên thị trường chứng khoán. 
+- 2 loại nhà đầu tư : đầu tư các nhân và đầu tư có tổ chức.
+## Các tổ chức kinh doanh trên thị trường chứng khoán.
+- Công ty chứng khoán.
+- Quỹ d
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTUxOTc1NTBdfQ==
+eyJoaXN0b3J5IjpbLTE3NjEzOTAzOThdfQ==
 -->
