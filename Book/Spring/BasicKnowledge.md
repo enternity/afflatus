@@ -27,7 +27,19 @@ Dependency Lookup được chia thành hai kiểu khác nhau đó là:
 
 -   Dependency Pull
 -   Contextualized Dependency Lookup (CDL)
+
 Với **Dependency Pull**, các đối tượng phụ thuộc sẽ được lấy ra từ một nơi mà các đối tượng phụ thuộc đã được đăng ký chứ không phải lấy trực tiếp từ khung chứa.
+<img src="http://huongdanjava.com/wp-content/uploads/2016/06/ioc-1.png">
+
+Còn **Contextualized Dependency Lookup** thì việc lấy đối tượng phụ thuộc xảy ra trực tiếp với khung chứa luôn chứ không thông qua nơi mà đối tượng phụ thuộc đã đăng ký.
+
+<img src="http://huongdanjava.com/wp-content/uploads/2016/06/ioc-2.png">
+
+### Dependency Injection
+
+**Dependency Injection**  cho chúng ta hai cách phổ biến để đưa đối tượng phụ thuộc vào đối tượng bị phụ thuộc đó là:  **Constructor Injection**  và  **Setter Injection**.
+
+Với  **Constructor Injection**, việc đưa đối tượng phụ thuộc vào đối tượng bị phụ thuộc sẽ thông qua các constructor của đối tượng bị phụ thuộc. Khi đó đối tượng phụ thuộc sẽ là một tham số trong những constructor đó.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjY5OTQ4NF19
+eyJoaXN0b3J5IjpbLTg2NTMwNDE3N119
 -->
