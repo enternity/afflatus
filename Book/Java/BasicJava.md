@@ -7,32 +7,30 @@
 5. Ensure exclusive access to any mutable components
 
 ```java
-/ Immutable complex number class public final class Complex {
+// Immutable complex number 
+class public final class Complex {
 
-private final double re; private final double im;
+	private final double re; private final double im;
+	public Complex(double re, double im) { 
+		this.re = re;  
+		this.im = im;
+	}
 
-public Complex(double re, double im) { this.re = re;  
-this.im = im;
+	public double realPart() { return re; } 
+	public double imaginaryPart() { return im; }
 
-}
+	public Complex plus(Complex c) {  
+	return new Complex(re + c.re, im + c.im);
+	}
 
-public double realPart() { return re; } public double imaginaryPart() { return im; }
+	public Complex minus(Complex c) { 
+	return new Complex(re - c.re, im - c.im);
+	}
 
-public Complex plus(Complex c) {  
-return new Complex(re + c.re, im + c.im);
-
-}
-
-public Complex minus(Complex c) { return new Complex(re - c.re, im - c.im);
-
-}
-
-public Complex times(Complex c) {  
-return new Complex(re * c.re - im * c.im,
-
-re * c.im + im * c.re); public Complex dividedBy(Complex c) {
-
-}
+	public Complex times(Complex c) {  
+		return new Complex(re * c.re - im * c.im,re * c.im + im * c.re); 
+	public Complex dividedBy(Complex c) {
+	}
 
 }
 
@@ -63,5 +61,5 @@ return 31 * Double.hashCode(re) + Double.hashCode(im);
 } }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjQxODU5Ml19
+eyJoaXN0b3J5IjpbMTAwODAyMDAwMV19
 -->
