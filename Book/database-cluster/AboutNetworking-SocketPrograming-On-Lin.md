@@ -59,10 +59,8 @@ PSQL_FE_MESSAGES = {
 # Setup connection 
 > This is include notice request + authenticate request.
 
-```plantuml
 
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjQxMjI1Miw1ODI5NTQ4NDcsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTUxMTI1NzQxNywtMzA2NDEyMjUyLDU4Mj
+k1NDg0Nyw3MzA5OTgxMTZdfQ==
 -->
