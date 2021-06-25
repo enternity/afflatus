@@ -59,8 +59,8 @@ PSQL_FE_MESSAGES = {
 # Setup connection 
 > This is include notice request + authenticate request.
 
-<img src="http://www.plantuml.com/plantuml/png/VOx12i8m44Jl_OeHBnKH12yYA4KzU-WVX7QjmIHRiXk_tvHYJiNBNlRDcsb4JTJaNNLpbe9YTy7zYXEy3Fa-K0TMsn4yYPY1DbN-PcQcCn59KmpuK1JB0MDavOuTjh_4ihWz7b2Rf2yAMM_qNu6C78GmqKLgd6BTKe_L6MDTc28ffKKqvv_6Ekeh2lt2hcdMVfu5ViCNMvFvvDqN">
+<img src="https://i.imgur.com/vCp28Nb.png">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTUzODUwOSwtMzA2NDEyMjUyLDU4Mj
-k1NDg0Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NTY5NzM5LC0zMDY0MTIyNTIsNTgyOT
+U0ODQ3LDczMDk5ODExNl19
 -->
