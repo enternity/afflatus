@@ -57,10 +57,19 @@ PSQL_FE_MESSAGES = {
 ```
 
 # Setup connection 
+
+# reference :
+- [https://www.pgcon.org/2014/schedule/attachments/330_postgres-for-the-wire.pdf](https://www.pgcon.org/2014/schedule/attachments/330_postgres-for-the-wire.pdf)
+
 > This is include notice request + authenticate request.
 
 <img src="https://i.imgur.com/vCp28Nb.png">
+
+
+> Simple query  (select  query)
+
+<img src="https://i.imgur.com/PNAIY0l.png" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY5NzM5LC0zMDY0MTIyNTIsNTgyOT
-U0ODQ3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTg5MjM1NzM5NSwtMTc1Njk3MzksLTMwNj
+QxMjI1Miw1ODI5NTQ4NDcsNzMwOTk4MTE2XX0=
 -->
