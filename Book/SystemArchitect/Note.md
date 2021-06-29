@@ -6,6 +6,8 @@
 
 ## SRP : The Single Responsibility Principle
 
+1. A Module should be responsible to one, and only one, actor.
+
 ## OCP : The Open-Closed Principle
 
 ## LSP : The Liskov Substitution Principle
@@ -14,5 +16,5 @@
 
 ## DIP : The Dependency Inversion Principle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTk0MTMwOCwyMTEwOTQ1MjY1XX0=
+eyJoaXN0b3J5IjpbMTc1MjMyNDUyOSwyMTEwOTQ1MjY1XX0=
 -->
