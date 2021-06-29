@@ -1,3 +1,4 @@
+> Read Clean Architecture (68/364)
 # Event Sourcing
 > Definition [here](https://martinfowler.com/eaaDev/EventSourcing.html)
 - A strategy wherein we store the transactions, but not the state. When state is required, we simply apply all the transactions from the beginning of time.
@@ -16,5 +17,6 @@
 
 ## DIP : The Dependency Inversion Principle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjMyNDUyOSwyMTEwOTQ1MjY1XX0=
+eyJoaXN0b3J5IjpbLTEwNTU1Nzg1NDAsMTc1MjMyNDUyOSwyMT
+EwOTQ1MjY1XX0=
 -->
