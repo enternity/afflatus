@@ -82,6 +82,7 @@ PSQL_FE_MESSAGES = {
 
 - The ReadyForQuery message includes transaction status.
 
+
 # Setup connection 
 
 # reference :
@@ -97,8 +98,11 @@ PSQL_FE_MESSAGES = {
 <img src="https://i.imgur.com/PNAIY0l.png" />
 
 
+# Simple query protocol flow
+
+<img src="https://i.imgur.com/25YOkrs.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzE3ODI2MCwtMTgxODA4NjM4OCwyMD
+eyJoaXN0b3J5IjpbLTQwNDkzNzg4NCwtMTgxODA4NjM4OCwyMD
 UyMjQwMDMyLDE3NDYzMzQzMDksMTg5MjM1NzM5NSwtMTc1Njk3
 MzksLTMwNjQxMjI1Miw1ODI5NTQ4NDcsNzMwOTk4MTE2XX0=
 -->
