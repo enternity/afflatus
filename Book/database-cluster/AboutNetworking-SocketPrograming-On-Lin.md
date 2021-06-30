@@ -78,6 +78,10 @@ PSQL_FE_MESSAGES = {
 |  int32 len| int32 cancel code  |  int32 pid |  int32 secret|
 |---|---|---|---|
 
+# Detecting transaction status
+
+- The ReadyForQuery message includes transaction status.
+
 # Setup connection 
 
 # reference :
@@ -94,7 +98,7 @@ PSQL_FE_MESSAGES = {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTgwODYzODgsMjA1MjI0MDAzMiwxNz
-Q2MzM0MzA5LDE4OTIzNTczOTUsLTE3NTY5NzM5LC0zMDY0MTIy
-NTIsNTgyOTU0ODQ3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTg0NzE3ODI2MCwtMTgxODA4NjM4OCwyMD
+UyMjQwMDMyLDE3NDYzMzQzMDksMTg5MjM1NzM5NSwtMTc1Njk3
+MzksLTMwNjQxMjI1Miw1ODI5NTQ4NDcsNzMwOTk4MTE2XX0=
 -->
