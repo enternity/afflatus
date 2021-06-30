@@ -64,7 +64,12 @@ PSQL_FE_MESSAGES = {
 |---|---|---|---|---|
 
 > The exception is the startup package, which starts with the length followed
-> 
+
+|  int32 len| int32 protocol  |  payload |
+|---|---|---|
+
+> Cancellation
+
 |  int32 len| int32 protocol  |  payload |
 |---|---|---|
 # Setup connection 
@@ -80,8 +85,10 @@ PSQL_FE_MESSAGES = {
 > Simple query  (select  query)
 > In simple query mode, the format of retrieved values is always text
 <img src="https://i.imgur.com/PNAIY0l.png" />
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjI0MDAzMiwxNzQ2MzM0MzA5LDE4OT
-IzNTczOTUsLTE3NTY5NzM5LC0zMDY0MTIyNTIsNTgyOTU0ODQ3
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE4NDQwODE2NzUsMjA1MjI0MDAzMiwxNz
+Q2MzM0MzA5LDE4OTIzNTczOTUsLTE3NTY5NzM5LC0zMDY0MTIy
+NTIsNTgyOTU0ODQ3LDczMDk5ODExNl19
 -->
