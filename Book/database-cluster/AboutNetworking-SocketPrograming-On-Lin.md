@@ -78,10 +78,10 @@ PSQL_FE_MESSAGES = {
 
 
 > Simple query  (select  query)
-
+> In simple query mode, the format of retrieved values is always text
 <img src="https://i.imgur.com/PNAIY0l.png" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjMzNDMwOSwxODkyMzU3Mzk1LC0xNz
-U2OTczOSwtMzA2NDEyMjUyLDU4Mjk1NDg0Nyw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbMjA1MjI0MDAzMiwxNzQ2MzM0MzA5LDE4OT
+IzNTczOTUsLTE3NTY5NzM5LC0zMDY0MTIyNTIsNTgyOTU0ODQ3
+LDczMDk5ODExNl19
 -->
