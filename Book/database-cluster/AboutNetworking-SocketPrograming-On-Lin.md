@@ -57,7 +57,12 @@ PSQL_FE_MESSAGES = {
 ```
 # Regular package :
 
-| 
+|  char tag | int32 len  |  payload |
+|---|---|---|---|---|
+
+> The exception is the startup package, which starts with the length followed
+|  int32 len| int32 len  |  payload |
+|---|---|---|---|---|
 # Setup connection 
 
 # reference :
@@ -72,7 +77,7 @@ PSQL_FE_MESSAGES = {
 
 <img src="https://i.imgur.com/PNAIY0l.png" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjA1Njg5NiwxODkyMzU3Mzk1LC0xNz
+eyJoaXN0b3J5IjpbMTkwMjY3OTY1OCwxODkyMzU3Mzk1LC0xNz
 U2OTczOSwtMzA2NDEyMjUyLDU4Mjk1NDg0Nyw3MzA5OTgxMTZd
 fQ==
 -->
