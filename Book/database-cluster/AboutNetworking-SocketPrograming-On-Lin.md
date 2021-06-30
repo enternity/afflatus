@@ -55,7 +55,9 @@ PSQL_FE_MESSAGES = {
 
 }
 ```
+# Regular package :
 
+| 
 # Setup connection 
 
 # reference :
@@ -70,6 +72,7 @@ PSQL_FE_MESSAGES = {
 
 <img src="https://i.imgur.com/PNAIY0l.png" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjM1NzM5NSwtMTc1Njk3MzksLTMwNj
-QxMjI1Miw1ODI5NTQ4NDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM3NjA1Njg5NiwxODkyMzU3Mzk1LC0xNz
+U2OTczOSwtMzA2NDEyMjUyLDU4Mjk1NDg0Nyw3MzA5OTgxMTZd
+fQ==
 -->
