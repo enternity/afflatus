@@ -70,8 +70,14 @@ PSQL_FE_MESSAGES = {
 
 > Cancellation
 
-|  int32 len| int32 protocol  |  payload |
-|---|---|---|
+|  'E'| int32 len  |  char code |  int32 secr|
+|---|---|---|---|
+
+> Handling Errors :
+
+|  int32 len| int32 cancel code  |  int32 pid |  int32 secret|
+|---|---|---|---|
+
 # Setup connection 
 
 # reference :
@@ -88,7 +94,7 @@ PSQL_FE_MESSAGES = {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQwODE2NzUsMjA1MjI0MDAzMiwxNz
-Q2MzM0MzA5LDE4OTIzNTczOTUsLTE3NTY5NzM5LC0zMDY0MTIy
-NTIsNTgyOTU0ODQ3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNjM2ODIyMTAwLDIwNTIyNDAwMzIsMTc0Nj
+MzNDMwOSwxODkyMzU3Mzk1LC0xNzU2OTczOSwtMzA2NDEyMjUy
+LDU4Mjk1NDg0Nyw3MzA5OTgxMTZdfQ==
 -->
