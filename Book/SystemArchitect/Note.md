@@ -16,7 +16,10 @@
 ## ISP : The Interface Segregation Principle
 
 ## DIP : The Dependency Inversion Principle
+
+1. _**Don't refer to violate concrete classes**_ : Refer to _abstract interface_ instead. 
+2. _**Don't derive from violate concrete classes**_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU1Nzg1NDAsMTc1MjMyNDUyOSwyMT
-EwOTQ1MjY1XX0=
+eyJoaXN0b3J5IjpbNjQ2NTU4NDYxLC0xMDU1NTc4NTQwLDE3NT
+IzMjQ1MjksMjExMDk0NTI2NV19
 -->
