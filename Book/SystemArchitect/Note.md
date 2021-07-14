@@ -19,9 +19,10 @@
 
 1. _**Don't refer to violate concrete classes**_ : Refer to _abstract interface_ instead. 
 2. _**Don't derive from violate concrete classes**_ : in statically typed languages (C/C++, Java, etc). _Inheritance_ is the strongest, and most rigid, of all the source code relationships; consequently,  it should be use with great care. In dynamic typed languages (Python, etc), inheritance is less of a problem, but it is still a dependency - and caution is always the wisest choice.
-3. _**Don't override concrete function**_ : often require source code dependencies. When override those functions, we do not eliminate those dependencies - indeed, we inherit them. To manage those dependencies, we should make the function abstra
+3. _**Don't override concrete function**_ : often require source code dependencies. When override those functions, we do not eliminate those dependencies - indeed, we inherit them. To manage those dependencies, we should make the function abstract and create multiple implementations. 
+4. _**Never mention the name of anything concrete and volatile**_ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDY4MDk0MCwtMTExMjk5NDgzMSw1OD
+eyJoaXN0b3J5IjpbMTM3Mjg2NDM2MiwtMTExMjk5NDgzMSw1OD
 A1NjcxMiwtMTA1NTU3ODU0MCwxNzUyMzI0NTI5LDIxMTA5NDUy
 NjVdfQ==
 -->
