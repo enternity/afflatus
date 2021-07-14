@@ -18,8 +18,8 @@
 ## DIP : The Dependency Inversion Principle
 
 1. _**Don't refer to violate concrete classes**_ : Refer to _abstract interface_ instead. 
-2. _**Don't derive from violate concrete classes**_ : in statically language (C/C++, Java, etc)
+2. _**Don't derive from violate concrete classes**_ : in statically language (C/C++, Java, etc). _Inheritance_ is the strongest, and most rigid, of all the source code relationships; consequently,  it should be use with great care. In dynamic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MjgzNjYwLC0xMDU1NTc4NTQwLDE3NT
-IzMjQ1MjksMjExMDk0NTI2NV19
+eyJoaXN0b3J5IjpbNTgwNTY3MTIsLTEwNTU1Nzg1NDAsMTc1Mj
+MyNDUyOSwyMTEwOTQ1MjY1XX0=
 -->
