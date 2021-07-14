@@ -18,8 +18,8 @@
 ## DIP : The Dependency Inversion Principle
 
 1. _**Don't refer to violate concrete classes**_ : Refer to _abstract interface_ instead. 
-2. _**Don't derive from violate concrete classes**_
+2. _**Don't derive from violate concrete classes**_ : in statically language (C/C++, Java, etc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2NTU4NDYxLC0xMDU1NTc4NTQwLDE3NT
+eyJoaXN0b3J5IjpbMzM2MjgzNjYwLC0xMDU1NTc4NTQwLDE3NT
 IzMjQ1MjksMjExMDk0NTI2NV19
 -->
