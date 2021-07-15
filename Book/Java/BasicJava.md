@@ -20,6 +20,10 @@ This due to the fact that the stack memory in Java is allocated per Thread. Ther
 StringBuilder build = new StringBuilder();
 ```
 At the above, we actually hold a strong reference to an object from the heap. The object on the heap it is not garbage collected while there is a strong reference pointing to it, or if it is strongly reachable through a chain of strong references.
+2. _**Weak Reference**_
+```java
+WeakReference<StringBuilder> reference = new WeakReference()<new StringBuilder()>;
+```
 
 # Minimize mutability
 - To make class immutable, we have 5 rules:
@@ -32,5 +36,6 @@ At the above, we actually hold a strong reference to an object from the heap. Th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjYyNTM1MCwtMTUzMjg4MDE4NV19
+eyJoaXN0b3J5IjpbLTE1MDM3NDMwNTQsLTE1MzI4ODAxODVdfQ
+==
 -->
