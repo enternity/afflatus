@@ -23,9 +23,9 @@
 4. _**Never mention the name of anything concrete and volatile**_ 
 
 # COMPONENT PRINCIPLES 
-
+## The Reuse / Release Equivalence Principle 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDIwOTc0NywxMzcyODY0MzYyLC0xMT
-EyOTk0ODMxLDU4MDU2NzEyLC0xMDU1NTc4NTQwLDE3NTIzMjQ1
-MjksMjExMDk0NTI2NV19
+eyJoaXN0b3J5IjpbLTUwODkzMDE3MiwxNzk0MjA5NzQ3LDEzNz
+I4NjQzNjIsLTExMTI5OTQ4MzEsNTgwNTY3MTIsLTEwNTU1Nzg1
+NDAsMTc1MjMyNDUyOSwyMTEwOTQ1MjY1XX0=
 -->
