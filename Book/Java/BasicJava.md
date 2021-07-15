@@ -26,7 +26,9 @@ WeakReference<StringBuilder> reference = new WeakReference()<new StringBuilder()
 ```
 In simple terms, a weak reference to an object from the heap is most likely to not survive after the next garbage collection process
 
-3. _**Soft Reference**
+3. _**Soft Reference**_
+
+These types of references are used for more memory-sensitive scenarios, since those are going to be garbage collected only when your application is running low on memory. Therefore, as long as there is no critical need to free up some space, the garbage collector will not touch softly reachable objects. Java guarantees that all soft referenced objects are cleaned up before it throws an `OutOfMemoryError`
 
 # Minimize mutability
 - To make class immutable, we have 5 rules:
@@ -39,6 +41,5 @@ In simple terms, a weak reference to an object from the heap is most likely to n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI3MjQzMzQsLTE1MzI4ODAxODVdfQ
-==
+eyJoaXN0b3J5IjpbLTkwNDg4OTc3NSwtMTUzMjg4MDE4NV19
 -->
