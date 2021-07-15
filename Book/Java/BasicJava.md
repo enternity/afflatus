@@ -67,7 +67,14 @@ if (one == oneInt) {
 
 > But when we do like this
 ```String oneInt = new Integer(1).toString().intern()```  we will have the same result as a example 1.
+## Garbage Collection Process 
+To go a bit deeper into the details, let’s mention a few things first:
 
+-   This process is triggered automatically by Java, and it is up to Java when and whether or not to start this process.
+    
+-   It is actually an expensive process. When the garbage collector runs, all threads in your application are paused (depending on the GC type, which will be discussed later).
+    
+-   This is actually a more complicated process than just garbage collecting and freeing up memory.
 # Minimize mutability
 - To make class immutable, we have 5 rules:
 1. Don't provide methods that modify objects state
@@ -79,6 +86,6 @@ if (one == oneInt) {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDc5NjMxMCwtMTAwNzI0OTE4OCwtMT
-Q0NjU4NDIxMywtMTUzMjg4MDE4NV19
+eyJoaXN0b3J5IjpbNDgxMzcwNzczLC0xMDA3MjQ5MTg4LC0xND
+Q2NTg0MjEzLC0xNTMyODgwMTg1XX0=
 -->
