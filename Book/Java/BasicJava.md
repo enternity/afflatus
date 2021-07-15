@@ -40,11 +40,18 @@ Used to schedule post-mortem cleanup actions, since we know for sure that object
 String myExName = "Idiot! You don't have gf";
 String myGirlFriendName = "Idiot! You don't have gf";
 
-if(myExName == myGirlFriendName) {
-     System.out.println("Yup, both are the sam")
+if (myExName == myGirlFriendName) {
+     System.out.println("Yup, both are the same");
+} else {
+    System.out.println("They are not the same");
 }
 ```
-> When we 
+> When we run above code, we will have 
+```Yup, both are the same```
+
+Strings are immutable, meaning that each time you do something with a string, another object is actually created on the heap. For strings, Java manages a string pool in memory. This means that Java stores and reuse strings whenever possible. This is mostly true for string literals
+
+2. Example
 
 # Minimize mutability
 - To make class immutable, we have 5 rules:
@@ -57,5 +64,6 @@ if(myExName == myGirlFriendName) {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjQzMzc2NCwtMTUzMjg4MDE4NV19
+eyJoaXN0b3J5IjpbLTE0NDY1ODQyMTMsLTE1MzI4ODAxODVdfQ
+==
 -->
