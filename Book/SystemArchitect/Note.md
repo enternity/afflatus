@@ -26,9 +26,11 @@
 ## The Reuse / Release Equivalence Principle 
 ## The Common Closure Principle 
 1. _Component_  should not have multiple reasons to change.
-2. 
+
+> __
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTU5ODIzNywxNzk0MjA5NzQ3LDEzNz
-I4NjQzNjIsLTExMTI5OTQ4MzEsNTgwNTY3MTIsLTEwNTU1Nzg1
-NDAsMTc1MjMyNDUyOSwyMTEwOTQ1MjY1XX0=
+eyJoaXN0b3J5IjpbLTU1NjMxMjY3MywxNzE5NTk4MjM3LDE3OT
+QyMDk3NDcsMTM3Mjg2NDM2MiwtMTExMjk5NDgzMSw1ODA1Njcx
+MiwtMTA1NTU3ODU0MCwxNzUyMzI0NTI5LDIxMTA5NDUyNjVdfQ
+==
 -->
