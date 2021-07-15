@@ -39,7 +39,12 @@ Used to schedule post-mortem cleanup actions, since we know for sure that object
 ```java
 String myExName = "Idiot! You don't have gf";
 String myGirlFriendName = "Idiot! You don't have gf";
+
+if(myExName == myGirlFriendName) {
+     System.out.println("Yup, both are the sam")
+}
 ```
+> When we 
 
 # Minimize mutability
 - To make class immutable, we have 5 rules:
@@ -52,6 +57,5 @@ String myGirlFriendName = "Idiot! You don't have gf";
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDkxMjA5NDksLTE1MzI4ODAxODVdfQ
-==
+eyJoaXN0b3J5IjpbMTkyMjQzMzc2NCwtMTUzMjg4MDE4NV19
 -->
