@@ -24,6 +24,9 @@ At the above, we actually hold a strong reference to an object from the heap. Th
 ```java
 WeakReference<StringBuilder> reference = new WeakReference()<new StringBuilder()>;
 ```
+In simple terms, a weak reference to an object from the heap is most likely to not survive after the next garbage collection process
+
+3. _**Soft Reference**
 
 # Minimize mutability
 - To make class immutable, we have 5 rules:
@@ -36,6 +39,6 @@ WeakReference<StringBuilder> reference = new WeakReference()<new StringBuilder()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM3NDMwNTQsLTE1MzI4ODAxODVdfQ
+eyJoaXN0b3J5IjpbLTE0ODI3MjQzMzQsLTE1MzI4ODAxODVdfQ
 ==
 -->
