@@ -30,6 +30,10 @@ In simple terms, a weak reference to an object from the heap is most likely to n
 
 These types of references are used for more memory-sensitive scenarios, since those are going to be garbage collected only when your application is running low on memory. Therefore, as long as there is no critical need to free up some space, the garbage collector will not touch softly reachable objects. Java guarantees that all soft referenced objects are cleaned up before it throws an `OutOfMemoryError`
 
+4. _**Phantom Reference**_
+
+Used to schedule post-mortem cleanup actions, since we know for sure that objects are no longer alive. Used only with a reference queue, since the `.get()` method of such references will always return `null`**.** These types of references are considered preferable to **finalizers.**
+
 # Minimize mutability
 - To make class immutable, we have 5 rules:
 1. Don't provide methods that modify objects state
@@ -41,5 +45,5 @@ These types of references are used for more memory-sensitive scenarios, since th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDg4OTc3NSwtMTUzMjg4MDE4NV19
+eyJoaXN0b3J5IjpbMTcyOTM1ODgwMSwtMTUzMjg4MDE4NV19
 -->
