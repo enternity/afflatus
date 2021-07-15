@@ -34,6 +34,12 @@ These types of references are used for more memory-sensitive scenarios, since th
 
 Used to schedule post-mortem cleanup actions, since we know for sure that objects are no longer alive. Used only with a reference queue, since the `.get()` method of such references will always return `null`**.** These types of references are considered preferable to **finalizers.**
 
+## How `Strings` are referenced
+1. Example 1 
+```java
+String myExName = "Idiot!"
+```
+
 # Minimize mutability
 - To make class immutable, we have 5 rules:
 1. Don't provide methods that modify objects state
@@ -45,5 +51,6 @@ Used to schedule post-mortem cleanup actions, since we know for sure that object
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTM1ODgwMSwtMTUzMjg4MDE4NV19
+eyJoaXN0b3J5IjpbLTE1MzA0MTkzOTYsLTE1MzI4ODAxODVdfQ
+==
 -->
