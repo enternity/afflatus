@@ -75,6 +75,32 @@ To go a bit deeper into the details, let’s mention a few things first:
 -   It is actually an expensive process. When the garbage collector runs, all threads in your application are paused (depending on the GC type, which will be discussed later).
     
 -   This is actually a more complicated process than just garbage collecting and freeing up memory.
+
+## **Tips and Tricks**
+
+-   To minimize the memory footprint, limit the scope of the variables as much as possible. Remember that each time the top scope from the stack is popped up, the references from that scope are lost, and this could make objects eligible for garbage collecting.
+    
+-   Explicitly refer to  `null` obsolete references. That will make objects those refer to eligible for garbage collecting.
+    
+-   Avoid finalizers. They slow down the process and they do not guarantee anything. Prefer phantom references for cleanup work.
+    
+-   Do not use strong references where weak or soft references apply. The most common memory pitfalls are caching scenarios,when data is held in memory even if it might not be needed.
+    
+-   JVisualVM also has the functionality to make a heap dump at a certain point, so you could analyze, per class, how much memory it occupies.
+    
+-   Configure your JVM based on your application requirements. Explicitly specify the heap size for the JVM when running the application. The memory allocation process is also expensive, so allocate a reasonable initial and maximum amount of memory for the heap. If you know it will not make sense to start with a small initial heap size from the beginning, the JVM will extend this memory space. Specifying the memory options with the following options:
+    
+    -   Initial heap size  `-Xms512m`  – set the initial heap size to 512 megabytes.
+        
+    -   Maximum heap size  `-Xmx1024m`  – set the maximum heap size to 1024 megabytes.
+        
+    -   Thread stack size  `-Xss1m`  – set the thread stack size to 1 megabytes.
+        
+    -   Young generation size  `-Xmn256m`  – set the young generation size to 256 megabytes.
+        
+-   If a Java application crashes with an `OutOfMemoryError`  and you need some extra info to detect the leak, run the process with the `–XX:HeapDumpOnOutOfMemory`  parameter, which will create a heap dump file when this error happens next time.
+    
+-   Use the `-verbose:gc`  option to get the garbage collection output. Each time a garbage collection takes place, an output will be generated.
 # Minimize mutability
 - To make class immutable, we have 5 rules:
 1. Don't provide methods that modify objects state
@@ -86,6 +112,6 @@ To go a bit deeper into the details, let’s mention a few things first:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxMzcwNzczLC0xMDA3MjQ5MTg4LC0xND
-Q2NTg0MjEzLC0xNTMyODgwMTg1XX0=
+eyJoaXN0b3J5IjpbLTE4MDA3MDE5MjYsNDgxMzcwNzczLC0xMD
+A3MjQ5MTg4LC0xNDQ2NTg0MjEzLC0xNTMyODgwMTg1XX0=
 -->
