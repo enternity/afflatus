@@ -51,7 +51,7 @@ if (myExName == myGirlFriendName) {
 
 Strings are immutable, meaning that each time you do something with a string, another object is actually created on the heap. For strings, Java manages a string pool in memory. This means that Java stores and reuse strings whenever possible. This is mostly true for string literals
 
-2. Example
+2. Example 2
 
 # Minimize mutability
 - To make class immutable, we have 5 rules:
@@ -64,6 +64,6 @@ Strings are immutable, meaning that each time you do something with a string, an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY1ODQyMTMsLTE1MzI4ODAxODVdfQ
-==
+eyJoaXN0b3J5IjpbLTIxMjMxNTczNzksLTE0NDY1ODQyMTMsLT
+E1MzI4ODAxODVdfQ==
 -->
