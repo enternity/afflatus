@@ -76,7 +76,7 @@ To go a bit deeper into the details, let’s mention a few things first:
     
 -   This is actually a more complicated process than just garbage collecting and freeing up memory.
 
-## **Tips and Tricks**
+### **Tips and Tricks**
 
 -   To minimize the memory footprint, limit the scope of the variables as much as possible. Remember that each time the top scope from the stack is popped up, the references from that scope are lost, and this could make objects eligible for garbage collecting.
     
@@ -112,6 +112,6 @@ To go a bit deeper into the details, let’s mention a few things first:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA3MDE5MjYsNDgxMzcwNzczLC0xMD
-A3MjQ5MTg4LC0xNDQ2NTg0MjEzLC0xNTMyODgwMTg1XX0=
+eyJoaXN0b3J5IjpbMTk4MjE2MTA3OSw0ODEzNzA3NzMsLTEwMD
+cyNDkxODgsLTE0NDY1ODQyMTMsLTE1MzI4ODAxODVdfQ==
 -->
