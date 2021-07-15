@@ -65,6 +65,9 @@ if (one == oneInt) {
 > When we run above code, we will have 
 ```They are not the same```
 
+> But when we do like this
+```String oneInt = new Integer(1).toString().intern()```  we will have the same result as a example 1.
+
 # Minimize mutability
 - To make class immutable, we have 5 rules:
 1. Don't provide methods that modify objects state
@@ -76,6 +79,6 @@ if (one == oneInt) {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcyNDkxODgsLTE0NDY1ODQyMTMsLT
-E1MzI4ODAxODVdfQ==
+eyJoaXN0b3J5IjpbLTg3NDc5NjMxMCwtMTAwNzI0OTE4OCwtMT
+Q0NjU4NDIxMywtMTUzMjg4MDE4NV19
 -->
