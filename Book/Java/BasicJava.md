@@ -16,6 +16,10 @@ This due to the fact that the stack memory in Java is allocated per Thread. Ther
 # Reference Type 
 1. _**Strong Reference**_ 
 
+```java
+StringBuilder build = new StringBuilder();
+```
+At the above, we actually hold a strong reference to an object from the heap. The object on the heap it is not garbage collected while there is a strong reference pointing to it, or if it is strongly reachable through a chain of strong references.
 
 # Minimize mutability
 - To make class immutable, we have 5 rules:
@@ -28,5 +32,5 @@ This due to the fact that the stack memory in Java is allocated per Thread. Ther
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjcyMzY3MiwtMTUzMjg4MDE4NV19
+eyJoaXN0b3J5IjpbLTk3MjYyNTM1MCwtMTUzMjg4MDE4NV19
 -->
