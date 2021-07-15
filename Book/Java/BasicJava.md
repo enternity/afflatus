@@ -37,7 +37,8 @@ Used to schedule post-mortem cleanup actions, since we know for sure that object
 ## How `Strings` are referenced
 1. Example 1 
 ```java
-String myExName = "Idiot!"
+String myExName = "Idiot! You don't have gf";
+String myGirlFriendName = "Idiot! You don't have gf";
 ```
 
 # Minimize mutability
@@ -51,6 +52,6 @@ String myExName = "Idiot!"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA0MTkzOTYsLTE1MzI4ODAxODVdfQ
+eyJoaXN0b3J5IjpbLTExNDkxMjA5NDksLTE1MzI4ODAxODVdfQ
 ==
 -->
