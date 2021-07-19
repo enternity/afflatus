@@ -120,9 +120,11 @@ To go a bit deeper into the details, let’s mention a few things first:
 
 > When compiling, compiler will throw error if we make a mistake when to try cast illegal class.
 
+> _**If we use raw types, we lose all the safety and expressiveness benefits of generics**_
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxODU5MTU0LDE5ODIxNjEwNzksNDgxMz
-cwNzczLC0xMDA3MjQ5MTg4LC0xNDQ2NTg0MjEzLC0xNTMyODgw
-MTg1XX0=
+eyJoaXN0b3J5IjpbMTUzMzA1NDk3NywxOTgyMTYxMDc5LDQ4MT
+M3MDc3MywtMTAwNzI0OTE4OCwtMTQ0NjU4NDIxMywtMTUzMjg4
+MDE4NV19
 -->
