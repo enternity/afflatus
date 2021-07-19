@@ -110,8 +110,10 @@ To go a bit deeper into the details, let’s mention a few things first:
 5. Ensure exclusive access to any mutable components
 
 
-
+# Generics problem
+## Don't use `RawType`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjE2MTA3OSw0ODEzNzA3NzMsLTEwMD
-cyNDkxODgsLTE0NDY1ODQyMTMsLTE1MzI4ODAxODVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjkzMTU3NTIsMTk4MjE2MTA3OSw0OD
+EzNzA3NzMsLTEwMDcyNDkxODgsLTE0NDY1ODQyMTMsLTE1MzI4
+ODAxODVdfQ==
 -->
