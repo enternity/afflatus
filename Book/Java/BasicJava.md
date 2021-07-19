@@ -116,11 +116,13 @@ To go a bit deeper into the details, let’s mention a few things first:
 
 - In short, if you like `List` . When you try to **cast** of element in this `List`, maybe will throw `CastClassException`
 - Instead of above example we should like the following :
-`List<>`
+`List<User> users = ...;`
+
+> When compiling, compiler will throw error if we make a mistake when to try cast illegal class.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMjkyOTcsMTk4MjE2MTA3OSw0ODEzNz
-A3NzMsLTEwMDcyNDkxODgsLTE0NDY1ODQyMTMsLTE1MzI4ODAx
-ODVdfQ==
+eyJoaXN0b3J5IjpbNDcxODU5MTU0LDE5ODIxNjEwNzksNDgxMz
+cwNzczLC0xMDA3MjQ5MTg4LC0xNDQ2NTg0MjEzLC0xNTMyODgw
+MTg1XX0=
 -->
