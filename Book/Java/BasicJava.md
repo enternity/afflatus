@@ -111,9 +111,10 @@ To go a bit deeper into the details, let’s mention a few things first:
 
 
 # Generics problem
-## Don't use `RawType`
+## Don't use `RawType` 
+In short, if you like `List` . When you try to **cast** of element in this `List`, maybe will throw `RunTimeException`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjkzMTU3NTIsMTk4MjE2MTA3OSw0OD
-EzNzA3NzMsLTEwMDcyNDkxODgsLTE0NDY1ODQyMTMsLTE1MzI4
-ODAxODVdfQ==
+eyJoaXN0b3J5IjpbLTUzMzA1MzAxNSwxOTgyMTYxMDc5LDQ4MT
+M3MDc3MywtMTAwNzI0OTE4OCwtMTQ0NjU4NDIxMywtMTUzMjg4
+MDE4NV19
 -->
