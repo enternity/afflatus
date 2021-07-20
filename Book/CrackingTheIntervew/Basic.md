@@ -10,7 +10,13 @@
 7. Technical Questions
 8. The Offer and Beyond
 
-# 
+# Must-have knowledge :
+
+|  Data |   |   |   
+|---|---|---|
+|   |   |   |   
+|   |   |   |   
+|   |   |   |   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Mzg3Njc4NywtMjA5ODc2NTI5Ml19
+eyJoaXN0b3J5IjpbLTY2MjIxODA0NCwtMjA5ODc2NTI5Ml19
 -->
