@@ -12,11 +12,12 @@
 
 # Must-have knowledge :
 
-|  Data |   |   |   
+|  Data Structures  | Algorithms  |  Concepts |   
 |---|---|---|
-|   |   |   |   
-|   |   |   |   
-|   |   |   |   
+| Linked Lists  | BFS  | Bit Manipulation  |   
+|  Tree, Tries & Graph | DFS  | Memory (Stack & Heap)  |   
+|  Stack & Queues  | Binary Search  |  Recursion |
+|Heaps||   |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjIxODA0NCwtMjA5ODc2NTI5Ml19
+eyJoaXN0b3J5IjpbMjAzOTk4MjE0MiwtMjA5ODc2NTI5Ml19
 -->
