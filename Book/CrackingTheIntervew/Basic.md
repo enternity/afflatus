@@ -9,6 +9,8 @@
 6. Big O
 7. Technical Questions
 8. The Offer and Beyond
+
+# 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg3NjUyOTJdfQ==
+eyJoaXN0b3J5IjpbMTg3Mzg3Njc4NywtMjA5ODc2NTI5Ml19
 -->
