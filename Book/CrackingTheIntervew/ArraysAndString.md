@@ -15,7 +15,7 @@ To resizable array approach :
 - Previous capacity increase : $n/8$ element copy
 - Previous capacity increase : $n/4$ element copy
 - Final capacity increase : $n/2$ element copy
-
+> Roughly : $\frac{N}{2} + \frac{N}{4} + \cdots + $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzI1MzI0NiwtMzI4MDg0MzU5XX0=
+eyJoaXN0b3J5IjpbMTAyNDk5MDE1MCwtMzI4MDg0MzU5XX0=
 -->
