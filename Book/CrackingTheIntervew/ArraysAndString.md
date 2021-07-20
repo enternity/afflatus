@@ -15,7 +15,8 @@ To resizable array approach :
 - Previous capacity increase : $n/8$ element copy
 - Previous capacity increase : $n/4$ element copy
 - Final capacity increase : $n/2$ element copy
-> Roughly : $\frac{N}{2} + \frac{N}{4} + \cdots + $
+> Roughly : $\frac{N}{2} + \frac{N}{4} + \cdots + 2 + 1 \simeq 1$
+> Inserting N elements takes $O(N)$ work total.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDk5MDE1MCwtMzI4MDg0MzU5XX0=
+eyJoaXN0b3J5IjpbLTE5MjE1ODU1MywtMzI4MDg0MzU5XX0=
 -->
