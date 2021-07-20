@@ -17,7 +17,9 @@
 | Linked Lists  | BFS  | Bit Manipulation  |   
 |  Tree, Tries & Graph | DFS  | Memory (Stack & Heap)  |   
 |  Stack & Queues  | Binary Search  |  Recursion |
-|Heaps||   |
+|Heaps|Merge Sort| Dynamic Programing  |
+|Vector/ ArrayLists|Quick Sort|Big O time & space|
+|Hash Tables|||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTk4MjE0MiwtMjA5ODc2NTI5Ml19
+eyJoaXN0b3J5IjpbMTE2OTMyNTQ4MywtMjA5ODc2NTI5Ml19
 -->
