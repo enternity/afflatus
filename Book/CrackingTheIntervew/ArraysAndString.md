@@ -41,7 +41,8 @@ To resizable array approach :
 the original string. You can assume the string has only uppercase and lowercase letters (a - z).
 7. Rotate Matrix: Given an image represented by an NxN matrix, where each pixel in the image is 4 bytes, write a method to rotate the image by 90 degrees. Can you do this in place?
 8. Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to 0.
+9. String Rotation:Assumeyou have a method isSubstringwhich checks if one word is a substring of another. Given two strings, sl and s2, write code to check if s2 is a rotation of sl using only one call to isSubstring (e.g.,"waterbottle" is a rotation of"erbottlewat").
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzU5MTE5NiwtMTMwNDI5ODk3MywtMT
+eyJoaXN0b3J5IjpbLTI2MjY2Nzc0NCwtMTMwNDI5ODk3MywtMT
 kyMTU4NTUzLC0zMjgwODQzNTldfQ==
 -->
