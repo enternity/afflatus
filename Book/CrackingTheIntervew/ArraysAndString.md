@@ -17,8 +17,11 @@ To resizable array approach :
 - Final capacity increase : $n/2$ element copy
 > Roughly : $\frac{N}{2} + \frac{N}{4} + \cdots + 2 + 1 \simeq 1$
 > Inserting N elements takes $O(N)$ work total.
-> 
+## StringBuilder
+
+## Interview Questions 
+1. Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NDE2MTc5LC0xOTIxNTg1NTMsLTMyOD
+eyJoaXN0b3J5IjpbNjQ5MzI0NjQ5LC0xOTIxNTg1NTMsLTMyOD
 A4NDM1OV19
 -->
