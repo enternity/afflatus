@@ -8,8 +8,14 @@ In simple implementation, we do the following :
 ## ArrayList & Resizable Array
 To resizable array approach :
 - First capacity increase : 1 element copy
-- Se capacity increase : 1 element copy
-- 
+- Second capacity increase : 2 element copy
+- Third capacity increase : 4 element copy
+....
+- Previous capacity increase : $n/16$ element copy
+- Previous capacity increase : $n/8$ element copy
+- Previous capacity increase : $n/4$ element copy
+- Final capacity increase : $n/2$ element copy
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjQ3MjI1MywtMzI4MDg0MzU5XX0=
+eyJoaXN0b3J5IjpbMTA4MzI1MzI0NiwtMzI4MDg0MzU5XX0=
 -->
