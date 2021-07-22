@@ -22,14 +22,20 @@
 	- Match by _**type**_
 	- Match by _**qualifier**_
 
-1. _Field Injection_ :
-	- Math by name
+1. _**Field Injection**_ :
+- _Match by name_
 	- This configuration will resolve dependencies using the **match-by-name** execution path. We must define the bean _namedFile_ in the _ApplicationContext_ application context.
 > Example
 ```java
 @Resource("student-A7")
 private StudentInfo studentInfo;
 ```
+- _Match by Type_ 
+
+> Example 
+> ```java
+@Resource  private File defaultFile;
+>```
 
 
 
@@ -37,7 +43,7 @@ private StudentInfo studentInfo;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MTY4NzAwLC0xNTYyNjU0Njk4LDEyMD
-Q2ODQ1MzksOTM4NDA1MDMzLC0yMDYyNTcxMzA0LDQxOTE0NDY4
-MSwyNDEzMzM0NTRdfQ==
+eyJoaXN0b3J5IjpbLTUyMTMxMDEyNSwtMTU2MjY1NDY5OCwxMj
+A0Njg0NTM5LDkzODQwNTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2
+ODEsMjQxMzMzNDU0XX0=
 -->
