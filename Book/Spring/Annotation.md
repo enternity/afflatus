@@ -17,15 +17,12 @@
 
 3. **Injection Annotations**
 
-|Annotation|Precedence|Definition|
-|---|---|---|
-|_@Resource_|1.  Match by Name<br/> 2.  Match by Type<br/>3.  Match by Qualifier|
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwNjA1NDMyLC0xNTYyNjU0Njk4LDEyMD
+eyJoaXN0b3J5IjpbNTQ1NDI2NDcwLC0xNTYyNjU0Njk4LDEyMD
 Q2ODQ1MzksOTM4NDA1MDMzLC0yMDYyNTcxMzA0LDQxOTE0NDY4
 MSwyNDEzMzM0NTRdfQ==
 -->
