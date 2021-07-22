@@ -41,9 +41,18 @@ private File defaultFile;
 - _Match by qualifier_ 
 
 Example from [baeldung.com](https://www.baeldung.com/spring-annotations-resource-inject-autowire)
-
 ```java
-
+@Configuration  public  class 
+ApplicationContextTestResourceQualifier { 
+@Bean(name="defaultFile")  public File defaultFile() { 
+    File defaultFile = new File("defaultFile.txt"); 
+    return defaultFile; 
+} 
+@Bean(name="namedFile")  public File namedFile() { 
+        File namedFile = new File("namedFile.txt"); 
+        return namedFile; 
+    } 
+}
 ```
 
 
@@ -52,7 +61,7 @@ Example from [baeldung.com](https://www.baeldung.com/spring-annotations-resource
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc0MTYzNjIsLTEwMzU0MzkyMDksLT
-E1NjI2NTQ2OTgsMTIwNDY4NDUzOSw5Mzg0MDUwMzMsLTIwNjI1
-NzEzMDQsNDE5MTQ0NjgxLDI0MTMzMzQ1NF19
+eyJoaXN0b3J5IjpbMTgwNjY3NzQ4MCwtMTAzNTQzOTIwOSwtMT
+U2MjY1NDY5OCwxMjA0Njg0NTM5LDkzODQwNTAzMywtMjA2MjU3
+MTMwNCw0MTkxNDQ2ODEsMjQxMzMzNDU0XX0=
 -->
