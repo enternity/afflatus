@@ -69,9 +69,11 @@ private File dependency2;
 - Just like _Field Injection_ but inject via setter function
 > Example
 ```java
-
+ protected void setDefaultFile(File defaultFile) {
+    this.defaultFile = defaultFile; 
+ }
 ```
-3. 
+#### _**@Inject**_ Annot
 
 
 
@@ -79,8 +81,8 @@ private File dependency2;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTcxODU4MCwtNzE0NjkxMjg3LC0xMD
-M1NDM5MjA5LC0xNTYyNjU0Njk4LDEyMDQ2ODQ1MzksOTM4NDA1
-MDMzLC0yMDYyNTcxMzA0LDQxOTE0NDY4MSwyNDEzMzM0NTRdfQ
-==
+eyJoaXN0b3J5IjpbLTE4MTIyMzcyMjcsLTcxNDY5MTI4NywtMT
+AzNTQzOTIwOSwtMTU2MjY1NDY5OCwxMjA0Njg0NTM5LDkzODQw
+NTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2ODEsMjQxMzMzNDU0XX
+0=
 -->
