@@ -65,13 +65,22 @@ private File dependency1;
 private File dependency2;
 ```
 
+2. _**Setter Injection**_
+- Just like _Field Injection_ but inject via setter function
+> Example
+```java
+
+```
+3. 
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDY5MTI4NywtMTAzNTQzOTIwOSwtMT
-U2MjY1NDY5OCwxMjA0Njg0NTM5LDkzODQwNTAzMywtMjA2MjU3
-MTMwNCw0MTkxNDQ2ODEsMjQxMzMzNDU0XX0=
+eyJoaXN0b3J5IjpbMTcxNTcxODU4MCwtNzE0NjkxMjg3LC0xMD
+M1NDM5MjA5LC0xNTYyNjU0Njk4LDEyMDQ2ODQ1MzksOTM4NDA1
+MDMzLC0yMDYyNTcxMzA0LDQxOTE0NDY4MSwyNDEzMzM0NTRdfQ
+==
 -->
