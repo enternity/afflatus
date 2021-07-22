@@ -75,11 +75,11 @@ private File dependency2;
 ```
 #### _**@Inject**_  Annotation :
 - This annotation has the following execution paths, listed by precedence:
-	- Match by _**name**_
 	- Match by _**type**_
 	- Match by _**qualifier**_
+	- Match by _**name**_
 
-
+> Do the same thing like _@Resource_ but precedence is different
 
 
 
@@ -87,7 +87,8 @@ private File dependency2;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3MzI1NTU0LC03MTQ2OTEyODcsLTEwMz
-U0MzkyMDksLTE1NjI2NTQ2OTgsMTIwNDY4NDUzOSw5Mzg0MDUw
-MzMsLTIwNjI1NzEzMDQsNDE5MTQ0NjgxLDI0MTMzMzQ1NF19
+eyJoaXN0b3J5IjpbLTE5Mzc5NTAwOTcsLTcxNDY5MTI4NywtMT
+AzNTQzOTIwOSwtMTU2MjY1NDY5OCwxMjA0Njg0NTM5LDkzODQw
+NTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2ODEsMjQxMzMzNDU0XX
+0=
 -->
