@@ -16,12 +16,16 @@
 | _@ComponentScan_  |  we can tell Spring where to search for these annotated classes as not all of them must become beans in this particular run. **Only the location of the configuration class matters, as component scanning starts from its package by default** | 
 
 3. **Injection Annotations**
-4.
+
+|Annotation|Definition|
+|---|---|
+|||
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTM5OTM1OCwxMjA0Njg0NTM5LDkzOD
-QwNTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2ODEsMjQxMzMzNDU0
-XX0=
+eyJoaXN0b3J5IjpbLTE1NjI2NTQ2OTgsMTIwNDY4NDUzOSw5Mz
+g0MDUwMzMsLTIwNjI1NzEzMDQsNDE5MTQ0NjgxLDI0MTMzMzQ1
+NF19
 -->
