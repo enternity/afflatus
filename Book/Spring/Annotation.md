@@ -33,9 +33,10 @@ private StudentInfo studentInfo;
 - _Match by Type_ 
 
 > Example 
-> ```java
-@Resource  private File defaultFile;
->```
+```java
+@Resource  
+private File defaultFile;
+```
 
 
 
@@ -43,7 +44,7 @@ private StudentInfo studentInfo;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTMxMDEyNSwtMTU2MjY1NDY5OCwxMj
-A0Njg0NTM5LDkzODQwNTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2
-ODEsMjQxMzMzNDU0XX0=
+eyJoaXN0b3J5IjpbLTEwMzU0MzkyMDksLTE1NjI2NTQ2OTgsMT
+IwNDY4NDUzOSw5Mzg0MDUwMzMsLTIwNjI1NzEzMDQsNDE5MTQ0
+NjgxLDI0MTMzMzQ1NF19
 -->
