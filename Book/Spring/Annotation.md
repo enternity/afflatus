@@ -73,7 +73,12 @@ private File dependency2;
     this.defaultFile = defaultFile; 
  }
 ```
-#### _**@Inject**_ Annot
+#### _**@Inject**_  Annotation :
+- This annotation has the following execution paths, listed by precedence:
+	- Match by _**name**_
+	- Match by _**type**_
+	- Match by _**qualifier**_
+
 
 
 
@@ -81,7 +86,7 @@ private File dependency2;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTIyMzcyMjcsLTcxNDY5MTI4NywtMT
+eyJoaXN0b3J5IjpbLTE5MTQwMTkwMDQsLTcxNDY5MTI4NywtMT
 AzNTQzOTIwOSwtMTU2MjY1NDY5OCwxMjA0Njg0NTM5LDkzODQw
 NTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2ODEsMjQxMzMzNDU0XX
 0=
