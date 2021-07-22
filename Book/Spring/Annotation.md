@@ -16,7 +16,7 @@
 | _@ComponentScan_  |  we can tell Spring where to search for these annotated classes as not all of them must become beans in this particular run. **Only the location of the configuration class matters, as component scanning starts from its package by default** | 
 
 ## **Injection Annotations**
-#### _**@Resource**_ **annotation** :
+#### _**@Resource**_ **annotation** : (Jakarta EE)
 - This annotation has the following execution paths, listed by precedence:
 	- Match by _**name**_
 	- Match by _**type**_
@@ -73,19 +73,19 @@ private File dependency2;
     this.defaultFile = defaultFile; 
  }
 ```
-#### _**@Inject**_  Annotation :
+#### _**@Inject**_  Annotation : (javax)
 - This annotation has the following execution paths, listed by precedence:
 	- Match by _**type**_
 	- Match by _**qualifier**_
 	- Match by _**name**_
 
 > Do the same thing like _@Resource_ but the precedence is different
-#### _**@Autowired**_ Annotation :
-- This is apart of Spring framework. Do the same thing like _@Resource, @Inject_ but the precedence if different 
+#### _**@Autowired**_ Annotation : (Spring Framework)
+- Do the same thing like _@Resource, @Inject_ but the precedence if different 
 - Listed in order of precedence:
 	- Match by Type
 	- Match by Qualifier
-3.  Match by Name
+	- Match by Name
 
 
 
@@ -93,8 +93,8 @@ private File dependency2;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDIyOTE0NiwtNzE0NjkxMjg3LC0xMD
-M1NDM5MjA5LC0xNTYyNjU0Njk4LDEyMDQ2ODQ1MzksOTM4NDA1
-MDMzLC0yMDYyNTcxMzA0LDQxOTE0NDY4MSwyNDEzMzM0NTRdfQ
-==
+eyJoaXN0b3J5IjpbLTE0ODg2MTgxNjYsLTcxNDY5MTI4NywtMT
+AzNTQzOTIwOSwtMTU2MjY1NDY5OCwxMjA0Njg0NTM5LDkzODQw
+NTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2ODEsMjQxMzMzNDU0XX
+0=
 -->
