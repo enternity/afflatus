@@ -6,6 +6,11 @@
 >-   session
 >-   application
 >-   websocket
+
+1. **Singleton Scope**
+- Create singleton instance when initialize Bean.
+2. **Prototype**
+- Will return a different instance every time it is requested from the container
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY0NTcyODJdfQ==
+eyJoaXN0b3J5IjpbLTkzOTM3MjI0Nl19
 -->
