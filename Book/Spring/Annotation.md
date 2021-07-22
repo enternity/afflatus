@@ -55,13 +55,23 @@ ApplicationContextTestResourceQualifier {
 }
 ```
 
+```java
+@Resource  
+@Qualifier("defaultFile")  
+private File dependency1; 
+
+@Resource 
+@Qualifier("namedFile")  
+private File dependency2;
+```
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjY3NzQ4MCwtMTAzNTQzOTIwOSwtMT
+eyJoaXN0b3J5IjpbLTcxNDY5MTI4NywtMTAzNTQzOTIwOSwtMT
 U2MjY1NDY5OCwxMjA0Njg0NTM5LDkzODQwNTAzMywtMjA2MjU3
 MTMwNCw0MTkxNDQ2ODEsMjQxMzMzNDU0XX0=
 -->
