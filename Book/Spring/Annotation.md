@@ -16,21 +16,26 @@
 | _@ComponentScan_  |  we can tell Spring where to search for these annotated classes as not all of them must become beans in this particular run. **Only the location of the configuration class matters, as component scanning starts from its package by default** | 
 
 ## **Injection Annotations**
-1. _**@Resource**_ **annotation** :
+#### _**@Resource**_ **annotation** :
 - This annotation has the following execution paths, listed by precedence:
 	- Match by _**name**_
 	- Match by _**type**_
 	- Match by _**qualifier**_
 
-- _Field Injection_ :
-	- This configuration will resolve dependencies using the **match-by-name** execution path. We must define the bean _namedFile_ in the _ApplicationContext_ application context.
+1. _Field Injection_ :
+> Example
+```java
+@Resource("beanName")
+private 
+```
+- This configuration will resolve dependencies using the **match-by-name** execution path. We must define the bean _namedFile_ in the _ApplicationContext_ application context.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg3MDkxOTMsLTE1NjI2NTQ2OTgsMT
-IwNDY4NDUzOSw5Mzg0MDUwMzMsLTIwNjI1NzEzMDQsNDE5MTQ0
-NjgxLDI0MTMzMzQ1NF19
+eyJoaXN0b3J5IjpbMTM2NjI4OTg5NSwtMTU2MjY1NDY5OCwxMj
+A0Njg0NTM5LDkzODQwNTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2
+ODEsMjQxMzMzNDU0XX0=
 -->
