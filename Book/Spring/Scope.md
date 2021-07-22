@@ -16,7 +16,8 @@
 2. **Prototype**
 - Will return a different instance every time it is requested from the container
 - Choosing an Instantiation Mode :
-	- _Object
+	- _Objects with writable state_ : the cost of create instance is lower than try to synchronized object.
+	- _Object with private state_ : we do not actually how state of object change, so we should use non-singleton.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzU1NjIzNSwtOTM5MzcyMjQ2XX0=
+eyJoaXN0b3J5IjpbLTEyNDEwMDA1NzQsLTkzOTM3MjI0Nl19
 -->
