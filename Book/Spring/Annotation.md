@@ -20,14 +20,17 @@
 - This annotation has the following execution paths, listed by precedence:
 	- Match by _**name**_
 	- Match by _**type**_
-	- Math
+	- Match by _**qualifier**_
+
+- _Field Injection_ :
+- 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzA0MDYzMCwtMTU2MjY1NDY5OCwxMj
-A0Njg0NTM5LDkzODQwNTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2
-ODEsMjQxMzMzNDU0XX0=
+eyJoaXN0b3J5IjpbOTEyNjg4MTc5LC0xNTYyNjU0Njk4LDEyMD
+Q2ODQ1MzksOTM4NDA1MDMzLC0yMDYyNTcxMzA0LDQxOTE0NDY4
+MSwyNDEzMzM0NTRdfQ==
 -->
