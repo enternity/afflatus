@@ -1,9 +1,9 @@
 # Annotation
--   _@Component_  is a generic stereotype for any Spring-managed component.
--   _@Service_  annotates classes at the service layer.
--   _@Repository_  annotates classes at the persistence layer, which will act as a database repository.
-- _@Configuration_ is configuration class and method with annotations _@Bean_ that are called directly by the Spring IoC
+-   _@Component_  is a _**generic**_ stereotype for any Spring-managed component.
+-   _@Service_  annotates classes at the _**service layer**_.
+-   _@Repository_  annotates classes at the _**persistence layer**_, which will act as a database repository.
+- _@Configuration_ is _**configuration class**_ and method with annotations _@Bean_ that are called directly by the Spring IoC container to instantiate the beans. The bean name will be the same as the name of the method used to create it
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTIzNzU0Niw0MTkxNDQ2ODEsMjQxMz
-MzNDU0XX0=
+eyJoaXN0b3J5IjpbLTIwNjI1NzEzMDQsNDE5MTQ0NjgxLDI0MT
+MzMzQ1NF19
 -->
