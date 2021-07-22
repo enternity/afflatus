@@ -23,14 +23,14 @@
 	- Match by _**qualifier**_
 
 - _Field Injection_ :
-- 
+	- This configuration will resolve dependencies using the **match-by-name** execution path. We must define the bean _namedFile_ in the _ApplicationContext_ application context.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNjg4MTc5LC0xNTYyNjU0Njk4LDEyMD
-Q2ODQ1MzksOTM4NDA1MDMzLC0yMDYyNTcxMzA0LDQxOTE0NDY4
-MSwyNDEzMzM0NTRdfQ==
+eyJoaXN0b3J5IjpbLTE5Nzg3MDkxOTMsLTE1NjI2NTQ2OTgsMT
+IwNDY4NDUzOSw5Mzg0MDUwMzMsLTIwNjI1NzEzMDQsNDE5MTQ0
+NjgxLDI0MTMzMzQ1NF19
 -->
