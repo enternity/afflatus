@@ -38,13 +38,21 @@ private StudentInfo studentInfo;
 private File defaultFile;
 ```
 
+- _Match by qualifier_ 
+
+Example from [baeldung.com](https://www.baeldung.com/spring-annotations-resource-inject-autowire)
+
+```java
+
+```
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU0MzkyMDksLTE1NjI2NTQ2OTgsMT
-IwNDY4NDUzOSw5Mzg0MDUwMzMsLTIwNjI1NzEzMDQsNDE5MTQ0
-NjgxLDI0MTMzMzQ1NF19
+eyJoaXN0b3J5IjpbLTE3MDc0MTYzNjIsLTEwMzU0MzkyMDksLT
+E1NjI2NTQ2OTgsMTIwNDY4NDUzOSw5Mzg0MDUwMzMsLTIwNjI1
+NzEzMDQsNDE5MTQ0NjgxLDI0MTMzMzQ1NF19
 -->
