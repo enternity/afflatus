@@ -92,13 +92,13 @@ private File dependency2;
 |Annotation|Definition|
 |---|---|
 |_@Primary_| to give higher preference to a bean when there are multiple beans of the same type.|
-|||
+|||o
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDA2Nzc3NSwtMTQ4ODYxODE2NiwtNz
-E0NjkxMjg3LC0xMDM1NDM5MjA5LC0xNTYyNjU0Njk4LDEyMDQ2
-ODQ1MzksOTM4NDA1MDMzLC0yMDYyNTcxMzA0LDQxOTE0NDY4MS
-wyNDEzMzM0NTRdfQ==
+eyJoaXN0b3J5IjpbLTEwOTExMzE5MTAsLTE0ODg2MTgxNjYsLT
+cxNDY5MTI4NywtMTAzNTQzOTIwOSwtMTU2MjY1NDY5OCwxMjA0
+Njg0NTM5LDkzODQwNTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2OD
+EsMjQxMzMzNDU0XX0=
 -->
