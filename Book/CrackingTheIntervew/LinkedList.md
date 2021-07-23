@@ -17,11 +17,11 @@ class Node {
 			while (tmp != null) {
 				tmp = tmp.next;
 			}
-			
+			tmp = node;
 		}
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzEzNjIyNl19
+eyJoaXN0b3J5IjpbLTE4NTI1NzMwNzNdfQ==
 -->
