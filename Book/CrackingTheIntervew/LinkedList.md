@@ -10,11 +10,18 @@ class Node {
 		if (node == null) {
 			throw new RunTimeException();
 		} else {
-			
+			Node tmp = this.next;
+			if (tmp == null) {
+				this.next = node;
+			} else {
+				while (tmp != null) {
+				
+				}
+			}	
 		}
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTkyMjY3OF19
+eyJoaXN0b3J5IjpbLTEzNjQwMDQ3ODZdfQ==
 -->
