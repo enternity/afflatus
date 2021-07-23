@@ -88,13 +88,16 @@ private File dependency2;
 	- Match by Name
 
 
-
+## Some annotations :
+|Annotation|Definition|
+|---|---|
+|_@Primary_|**we use _@Primary_  to give higher preference to a bean when there are multiple beans of the same type.|
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg2MTgxNjYsLTcxNDY5MTI4NywtMT
-AzNTQzOTIwOSwtMTU2MjY1NDY5OCwxMjA0Njg0NTM5LDkzODQw
-NTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2ODEsMjQxMzMzNDU0XX
-0=
+eyJoaXN0b3J5IjpbLTEyOTYxNDc2OTAsLTE0ODg2MTgxNjYsLT
+cxNDY5MTI4NywtMTAzNTQzOTIwOSwtMTU2MjY1NDY5OCwxMjA0
+Njg0NTM5LDkzODQwNTAzMywtMjA2MjU3MTMwNCw0MTkxNDQ2OD
+EsMjQxMzMzNDU0XX0=
 -->
