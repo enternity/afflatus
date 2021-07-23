@@ -21,6 +21,7 @@ To resizable array approach :
 
 ## Interview Questions 
 1. Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
+
 2. Given two strings, write a method to decide if one is a permutation of the other.
 3. Write a method to replace all spaces in a string with '%20'. You may assume that the string has sufficient space at the end to hold the additional characters,and that you are given the "true" length of the string. (Note: If implementing in Java,please use a character array so that you can perform this operation in place.)
 	EXAMPLE
@@ -43,6 +44,6 @@ the original string. You can assume the string has only uppercase and lowercase 
 8. Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to 0.
 9. String Rotation:Assumeyou have a method isSubstringwhich checks if one word is a substring of another. Given two strings, sl and s2, write code to check if s2 is a rotation of sl using only one call to isSubstring (e.g.,"waterbottle" is a rotation of"erbottlewat").
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjY2Nzc0NCwtMTMwNDI5ODk3MywtMT
-kyMTU4NTUzLC0zMjgwODQzNTldfQ==
+eyJoaXN0b3J5IjpbLTQ1Mjc2NTQ5MCwtMjYyNjY3NzQ0LC0xMz
+A0Mjk4OTczLC0xOTIxNTg1NTMsLTMyODA4NDM1OV19
 -->
