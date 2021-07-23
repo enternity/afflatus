@@ -6,22 +6,22 @@ class Node {
 	public Node(int value) {
 		this.value = value;
 	}
+	public Node getNext() {
+		return this.next;
+	}
 	public void appendNode(Node node) {
 		if (node == null) {
 			throw new RunTimeException();
 		} else {
 			Node tmp = this.next;
-			if (tmp == null) {
-				this.next = node;
-			} else {
-				while (tmp != null) {
-				
-				}
-			}	
+			while (tmp != null) {
+				tmp = tmp.next;
+			}
+			
 		}
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQwMDQ3ODZdfQ==
+eyJoaXN0b3J5IjpbMTY3MzEzNjIyNl19
 -->
