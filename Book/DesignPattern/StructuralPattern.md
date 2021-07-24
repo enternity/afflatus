@@ -8,7 +8,9 @@
 ## Decorator Pattern 
 1. **Problem** :
 > View on [refactoring.guru](https://refactoring.guru/design-patterns/decorator)
+
+2. **Solutio**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM1NTY2MTksMTgzNjUxMjQ2MCwtNz
-A2MzQ5NTM4XX0=
+eyJoaXN0b3J5IjpbMTA5NDc4MzY4LC0xNTUzNTU2NjE5LDE4Mz
+Y1MTI0NjAsLTcwNjM0OTUzOF19
 -->
