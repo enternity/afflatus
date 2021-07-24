@@ -1,0 +1,4 @@
+# STRUCTURAL DESIGN PATTERN 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQyNjA5OTgwOF19
+-->
