@@ -18,7 +18,7 @@
 
 |Pros|Cons|
 |---|---|
-|- Avoid tight coupling between the creator and the concrete products. <br/> - _Single Responsibility Principle_ <br/> - _Open-Close Principle_| - |
+|- Avoid tight coupling between the creator and the concrete products. <br/> - _Single Responsibility Principle_ <br/> - _Open-Close Principle_| - The code may become more complicated since you need to introduce a lot of new subclasses to implement the pattern.|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgzMjc3NjhdfQ==
+eyJoaXN0b3J5IjpbMTc3NjcwNTEwMV19
 -->
