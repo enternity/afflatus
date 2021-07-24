@@ -6,7 +6,8 @@
 
 
 ## Decorator Pattern 
-
+1. **Pro**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjUxMjQ2MCwtNzA2MzQ5NTM4XX0=
+eyJoaXN0b3J5IjpbMTU3MzE3NjM4NiwxODM2NTEyNDYwLC03MD
+YzNDk1MzhdfQ==
 -->
