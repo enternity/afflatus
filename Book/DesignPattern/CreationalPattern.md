@@ -11,7 +11,12 @@
 
 1. **Application** :
 - Use the Factory Method when you _**don’t know beforehand the exact types and dependencies**_ of the objects your code should work with.
-- 
+- Use the Factory Method when you want to _**provide users of your library or framework with a way to extend its internal components**_.
+- Use the Factory Method when you want to _**save system resources by reusing existing objects**_ instead of rebuilding them each time.
+
+> Example [here](https://refactoring.guru/design-patterns/factory-method/java/example)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM3Mjg3MjldfQ==
+eyJoaXN0b3J5IjpbLTIxMTQwNjk5NTZdfQ==
 -->
