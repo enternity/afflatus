@@ -6,6 +6,7 @@
 
 
 ## Decorator Pattern 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjM0OTUzOF19
+eyJoaXN0b3J5IjpbMTgzNjUxMjQ2MCwtNzA2MzQ5NTM4XX0=
 -->
