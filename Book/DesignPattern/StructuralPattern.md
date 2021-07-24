@@ -13,7 +13,8 @@
 <img src="https://refactoring.guru/images/patterns/diagrams/decorator/example-2x.png?id=4891323a27d5601a174e" />
 
 3. **Example** :
-```// The component interface defines operations that can be
+```java
+// The component interface defines operations that can be
 // altered by decorators.
 interface DataSource is
     method writeData(data)
@@ -132,6 +133,6 @@ class ApplicationConfigurator is
         salary = logger.load()
     // ...```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjM4MjQ4NSwtMTU1MzU1NjYxOSwxOD
-M2NTEyNDYwLC03MDYzNDk1MzhdfQ==
+eyJoaXN0b3J5IjpbNDY5NTQwNjM5LC0xNTUzNTU2NjE5LDE4Mz
+Y1MTI0NjAsLTcwNjM0OTUzOF19
 -->
