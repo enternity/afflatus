@@ -16,7 +16,9 @@
 
 > Example [here](https://refactoring.guru/design-patterns/factory-method/java/example)
 
-
+|Pros|Cons|
+|---|---|
+|- Avoid tight coupling between the creator and the concrete products. <br/> - _Single Responsibility Principle_ <br/> - _Open-Close Principle_| - |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQwNjk5NTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MDgzMjc3NjhdfQ==
 -->
