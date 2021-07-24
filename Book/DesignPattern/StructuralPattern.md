@@ -6,8 +6,9 @@
 
 
 ## Decorator Pattern 
-1. **Pro**
+1. **Problem** :
+> View on [refactoring.guru](https://refactoring.guru/design-patterns/decorator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzE3NjM4NiwxODM2NTEyNDYwLC03MD
-YzNDk1MzhdfQ==
+eyJoaXN0b3J5IjpbLTE1NTM1NTY2MTksMTgzNjUxMjQ2MCwtNz
+A2MzQ5NTM4XX0=
 -->
