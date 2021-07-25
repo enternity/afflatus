@@ -21,10 +21,14 @@ class BeanInstance implements InitializingBean, DisposableBean {
 ```
 ## Understand Order Of Initialization Mechanisms Resolution 
 1. The _**constructor**_ is called first to create bean.
+
 2. The _**dependencies**_ are injected (setters are called).
-3. Now that the beans exist and the dependencies were provided, the pre- initialization `BeanPostProcessor` infrastructure beans are consulted  
-    to see whether they want to call anything from this bean. These are Spring-specific infrastructure beans that perform bean modifications after they are created. The `@PostConstruct` annotation is registered by `CommonAnnotationBeanPostProcessor`, so this bean will call the method found annotated with `@PostConstruct`. This method is executed right after the bean has been constructed and before the class is put into service, before the actual initialization of the bean (before `afterPropertiesSet` and `init-method`).
+
+3. Now that the beans exist and the dependencies were provided, the pre- initialization `BeanPostProcessor` infrastructure beans are consulted  to see whether they want to call anything from this bean. These are Spring-specific infrastructure beans that perform bean modifications after they are created. The `@PostConstruct` annotation is registered by `CommonAnnotationBeanPostProcessor`, so this bean will call the method found annotated with `@PostConstruct`. _**This method is executed right after the bean has been constructed and before the class is put into service**_, before the actual initialization of the bean (before `afterPropertiesSet` and `init-method`).
+
+4.  The InitializingBean’s afterPropertiesSet is executed right after the dependencies are injected. The afterPropertiesSet() method is invoked by a BeanFactory after it has set all the bean properties supplied and has satisfied BeanFactoryAware and ApplicationContextAware.
+   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwOTI3NjA2LDMwODA5MDc2NCwtNTk3Mj
-U1NDQ4LDcwMTE4MTQ2NCwtMTgwOTYzODQzMl19
+eyJoaXN0b3J5IjpbMTQyNjYyNDc1NSwzMDgwOTA3NjQsLTU5Nz
+I1NTQ0OCw3MDExODE0NjQsLTE4MDk2Mzg0MzJdfQ==
 -->
