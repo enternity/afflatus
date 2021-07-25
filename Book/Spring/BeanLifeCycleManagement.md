@@ -6,7 +6,7 @@
 
 
 ## Life cycle of Bean
-
+> There are _**three**_ ways to declare initializa
 <img src="https://i.imgur.com/EUE39GW.png"/>
 
 ## Implementing the `IntializingBean` Interface, `DisposableBean`
@@ -19,6 +19,8 @@ class BeanInstance implements InitializingBean, DisposableBean {
 	public void destroy() {}
 }
 ```
+
+## 
 ## Understand Order Of Initialization Mechanisms Resolution 
 1. The _**constructor**_ is called first to create bean.
 
@@ -30,6 +32,7 @@ class BeanInstance implements InitializingBean, DisposableBean {
 5. The `init-method attribute` is _**executed last**_ because this is the actual initialization method of the bean.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDgwMTQ5NiwzMDgwOTA3NjQsLTU5Nz
-I1NTQ0OCw3MDExODE0NjQsLTE4MDk2Mzg0MzJdfQ==
+eyJoaXN0b3J5IjpbMTQwMzAwMTMxOSwxNTc0ODAxNDk2LDMwOD
+A5MDc2NCwtNTk3MjU1NDQ4LDcwMTE4MTQ2NCwtMTgwOTYzODQz
+Ml19
 -->
