@@ -8,6 +8,10 @@
 ## Life cycle of Bean
 
 <img src="https://i.imgur.com/EUE39GW.png"/>
+
+## Implementing the `IntializingBean` Interface, ``
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxMTgxNDY0LC0xODA5NjM4NDMyXX0=
+eyJoaXN0b3J5IjpbMTkyODA5MTgyMSw3MDExODE0NjQsLTE4MD
+k2Mzg0MzJdfQ==
 -->
