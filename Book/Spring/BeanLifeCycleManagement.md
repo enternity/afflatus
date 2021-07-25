@@ -19,8 +19,10 @@ class BeanInstance implements InitializingBean, DisposableBean {
 	public void destroy() {}
 }
 ```
+## Understand Order Of Initialization Mechanisms Resolution 
+1. The _**construct**_
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzI1NTQ0OCw3MDExODE0NjQsLTE4MD
-k2Mzg0MzJdfQ==
+eyJoaXN0b3J5IjpbNDA2NjgyMzI2LC01OTcyNTU0NDgsNzAxMT
+gxNDY0LC0xODA5NjM4NDMyXX0=
 -->
