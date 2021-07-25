@@ -20,9 +20,11 @@ class BeanInstance implements InitializingBean, DisposableBean {
 }
 ```
 ## Understand Order Of Initialization Mechanisms Resolution 
-1. The _**construct**_
+1. The _**constructor**_ is called first to create bean.
+2. The _**dependencies**_ are injected (setters are called).
+3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NjgyMzI2LC01OTcyNTU0NDgsNzAxMT
+eyJoaXN0b3J5IjpbMzA4MDkwNzY0LC01OTcyNTU0NDgsNzAxMT
 gxNDY0LC0xODA5NjM4NDMyXX0=
 -->
