@@ -37,10 +37,10 @@ class BeanInstance implements InitializingBean, DisposableBean {
 4.  The InitializingBean’s after `PropertiesSet` is _**executed right after**_ the dependencies are injected. The `afterPropertiesSet()` method is invoked by a BeanFactory after it has set all the bean properties supplied and has satisfied `BeanFactoryAware` and `ApplicationContextAware`.
 5. The `init-method attribute` is _**executed last**_ because this is the actual initialization method of the bean.
 
-## Understand Order Of Destric Mechanisms Resolution 
-> Do the same thing like In
+## Understand Order Of Destruction Mechanisms Resolution 
+> Do the same thing like **Initialization Mechanisms Resolution** (use `@PreDestroy` instead of `@PostConstruct`)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE1MjY0NjEsMTU3NDgwMTQ5NiwzMD
+eyJoaXN0b3J5IjpbLTEzODA3MjUzNzUsMTU3NDgwMTQ5NiwzMD
 gwOTA3NjQsLTU5NzI1NTQ0OCw3MDExODE0NjQsLTE4MDk2Mzg0
 MzJdfQ==
 -->
