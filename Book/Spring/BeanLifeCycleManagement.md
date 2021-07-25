@@ -19,9 +19,13 @@ class BeanInstance implements InitializingBean, DisposableBean {
 	public void destroy() {}
 }
 ```
-2. Annotation `@PostConstruct` with initialization and `@PreDestroy` with destruction.
+2. Annotation 
+- `@PostConstruct` with initialization.
+- `@PreDestroy` with destruction.
 
-3. Define method in `@Bean` annotation
+4. Define method in `@Bean` annotation :
+- `@Bean(initMethod="method")` with initialization.
+- `@Bean(destro)`
 ## Understand Order Of Initialization Mechanisms Resolution 
 1. The _**constructor**_ is called first to create bean.
 
@@ -33,7 +37,7 @@ class BeanInstance implements InitializingBean, DisposableBean {
 5. The `init-method attribute` is _**executed last**_ because this is the actual initialization method of the bean.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzYyNTc5NCwxNTc0ODAxNDk2LDMwOD
+eyJoaXN0b3J5IjpbMTE1OTg0Njg3NiwxNTc0ODAxNDk2LDMwOD
 A5MDc2NCwtNTk3MjU1NDQ4LDcwMTE4MTQ2NCwtMTgwOTYzODQz
 Ml19
 -->
