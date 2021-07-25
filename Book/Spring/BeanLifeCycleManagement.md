@@ -9,9 +9,9 @@
 
 <img src="https://i.imgur.com/EUE39GW.png"/>
 
-## Implementing the `IntializingBean` Interface, ``
+## Implementing the `IntializingBean` Interface, `DisposableBean`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODA5MTgyMSw3MDExODE0NjQsLTE4MD
-k2Mzg0MzJdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQ2MzY3MzksNzAxMTgxNDY0LC0xOD
+A5NjM4NDMyXX0=
 -->
