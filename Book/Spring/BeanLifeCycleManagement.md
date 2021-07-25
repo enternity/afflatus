@@ -27,9 +27,9 @@ class BeanInstance implements InitializingBean, DisposableBean {
 3. Now that the beans exist and the dependencies were provided, the pre- initialization `BeanPostProcessor` infrastructure beans are consulted  to see whether they want to call anything from this bean. These are Spring-specific infrastructure beans that perform bean modifications after they are created. The `@PostConstruct` annotation is registered by `CommonAnnotationBeanPostProcessor`, so this bean will call the method found annotated with `@PostConstruct`. _**This method is executed right after the bean has been constructed and before the class is put into service**_, before the actual initialization of the bean (before `afterPropertiesSet` and `init-method`).
 
 4.  The InitializingBean’s after `PropertiesSet` is _**executed right after**_ the dependencies are injected. The `afterPropertiesSet()` method is invoked by a BeanFactory after it has set all the bean properties supplied and has satisfied `BeanFactoryAware` and `ApplicationContextAware`.
-5. The init-method attribute is executed last because this is the actual initialization method of the bean.
+5. The `init-method attribute` is _**executed last**_ because this is the actual initialization method of the bean.
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MjUwMTIsMzA4MDkwNzY0LC01OTcyNT
-U0NDgsNzAxMTgxNDY0LC0xODA5NjM4NDMyXX0=
+eyJoaXN0b3J5IjpbMTU3NDgwMTQ5NiwzMDgwOTA3NjQsLTU5Nz
+I1NTQ0OCw3MDExODE0NjQsLTE4MDk2Mzg0MzJdfQ==
 -->
