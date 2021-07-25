@@ -22,9 +22,10 @@ class BeanInstance implements InitializingBean, DisposableBean {
 ## Understand Order Of Initialization Mechanisms Resolution 
 1. The _**constructor**_ is called first to create bean.
 2. The _**dependencies**_ are injected (setters are called).
-3. 
+3. 1.  Now that the beans exist and the dependencies were provided, the pre- initialization BeanPostProcessor infrastructure beans are consulted  
+    to see whether they want to call anything from this bean. These are Spring-specific infrastructure beans that perform bean modifications after they are created. The @PostConstruct annotation is registered by
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4MDkwNzY0LC01OTcyNTU0NDgsNzAxMT
-gxNDY0LC0xODA5NjM4NDMyXX0=
+eyJoaXN0b3J5IjpbLTcwODgzNjE5NCwzMDgwOTA3NjQsLTU5Nz
+I1NTQ0OCw3MDExODE0NjQsLTE4MDk2Mzg0MzJdfQ==
 -->
