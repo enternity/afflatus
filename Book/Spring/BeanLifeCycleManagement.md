@@ -11,9 +11,16 @@
 
 ## Implementing the `IntializingBean` Interface, `DisposableBean`
 
-`````
+```java
+class BeanInstance implements InitializingBean, DisposableBean {
+	@Override
+	public void afterPropertiesSet() {}
+	@Override
+	public void destroy() {}
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTc1Mzg3OSw3MDExODE0NjQsLTE4MD
+eyJoaXN0b3J5IjpbLTU5NzI1NTQ0OCw3MDExODE0NjQsLTE4MD
 k2Mzg0MzJdfQ==
 -->
