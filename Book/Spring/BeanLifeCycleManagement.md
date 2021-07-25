@@ -11,7 +11,9 @@
 
 ## Implementing the `IntializingBean` Interface, `DisposableBean`
 
+`````
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ2MzY3MzksNzAxMTgxNDY0LC0xOD
-A5NjM4NDMyXX0=
+eyJoaXN0b3J5IjpbMTIzNTc1Mzg3OSw3MDExODE0NjQsLTE4MD
+k2Mzg0MzJdfQ==
 -->
