@@ -5,7 +5,9 @@
 > Spring provides three mechanisms a bean can use to hook into each of these events and perform some additional processing: _**interface-based, method-based, and annotation-based mechanisms**_.
 
 
->
+## Life cycle of Bean
+
+<img src="https://i.imgur.com/EUE39GW.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NTEzMTk2LC0xODA5NjM4NDMyXX0=
+eyJoaXN0b3J5IjpbNzAxMTgxNDY0LC0xODA5NjM4NDMyXX0=
 -->
