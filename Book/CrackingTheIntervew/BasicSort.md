@@ -23,13 +23,13 @@ public class BubbleSort {
 	List<Integer> values = new ArrayList<>();
 	for (int i = 0; i < values.size() - 1; i++) {
 		for (int j = i + 1; j < values.size() - i - 1; j++) {
-			if (values.get(i) > values.get(j)) {
-				doSwap(values, i, j);
+			if (values.get(j) > values.get(j + 1)) {
+				doSwap(values, j, j + 1);
 			}
 		}
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM4NDY4MzZdfQ==
+eyJoaXN0b3J5IjpbLTE5MTgwMjY0MjJdfQ==
 -->
