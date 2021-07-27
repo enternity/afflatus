@@ -11,10 +11,10 @@ public class SelectionSort {
 			minValueIndex = j;
 			}
 		}
-		if ()
+		doSwap(values, index, minValueIndex);
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzAzMDQ4NF19
+eyJoaXN0b3J5IjpbNzkyMDc0NzFdfQ==
 -->
