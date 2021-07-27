@@ -56,20 +56,20 @@ public static void doMerge(List<Integer> values, int leftIndex, int rightIndex, 
         } else {  
             values.set(indexMergedArray, rightArrays.get(indexRight));  
             indexRight++;  
-  }  
+        }  
         indexMergedArray++;  
   }  
   
     while (indexLeft < sizeLeftArrays) {  
         values.set(indexMergedArray, leftArrays.get(indexLeft));  
-  indexMergedArray++;  
-  indexLeft++;  
+        indexMergedArray++;  
+        indexLeft++;  
   }  
   
     while (indexRight < sizeRightArrays) {  
         values.set(indexMergedArray, rightArrays.get(indexRight));  
-  indexMergedArray++;  
-  indexRight++;  
+        indexMergedArray++;  
+        indexRight++;  
   }  
 }  
   
@@ -84,6 +84,6 @@ public static void doMergeSort(List<Integer> values, int begin, int end) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzc0NjM3MiwtODU5MTc3Mzg5LC0xNT
+eyJoaXN0b3J5IjpbLTc5NzgyNjM2NCwtODU5MTc3Mzg5LC0xNT
 MzOTc2OTg0XX0=
 -->
