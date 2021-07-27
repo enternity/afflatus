@@ -20,9 +20,14 @@ public class SelectionSort {
 
 ```java
 public class BubbleSort {
-
+	List<Integer> values = new ArrayList<>();
+	for (int i = 0; i < values.size(); i++) {
+		for (int j = i + 1; j < values.size() - i - 1; j++) {
+		
+		}
+	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTc0NDI5NF19
+eyJoaXN0b3J5IjpbMTI0ODQ5ODQ0NF19
 -->
