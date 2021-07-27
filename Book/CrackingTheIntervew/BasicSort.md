@@ -21,13 +21,15 @@ public class SelectionSort {
 ```java
 public class BubbleSort {
 	List<Integer> values = new ArrayList<>();
-	for (int i = 0; i < values.size(); i++) {
+	for (int i = 0; i < values.size() - 1; i++) {
 		for (int j = i + 1; j < values.size() - i - 1; j++) {
-		
+			if (values.get(i) > values.get(j)) {
+				doSwap(values, i, j);
+			}
 		}
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODQ5ODQ0NF19
+eyJoaXN0b3J5IjpbLTEyNTM4NDY4MzZdfQ==
 -->
