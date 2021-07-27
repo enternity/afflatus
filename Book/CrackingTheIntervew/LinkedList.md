@@ -22,8 +22,9 @@ class Node {
 	}
 }
 ```
-1. 
+# Problem
+1. **Remove duplicates from an unsorted linked list**
+- Hint : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAyNzk0MDQsLTE4NTI1NzMwNzNdfQ
-==
+eyJoaXN0b3J5IjpbLTc1OTc5MTQ1NiwtMTg1MjU3MzA3M119
 -->
