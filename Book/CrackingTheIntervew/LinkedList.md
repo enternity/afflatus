@@ -24,7 +24,11 @@ class Node {
 ```
 # Problem
 1. **Remove duplicates from an unsorted linked list**
-- Hint : 
+- Solution 1 : two loops.
+- Solution 2 : sorted list and do remove.
+- Solution 3 : use hashing.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTc5MTQ1NiwtMTg1MjU3MzA3M119
+eyJoaXN0b3J5IjpbLTE5NjU0OTM0MTgsLTE4NTI1NzMwNzNdfQ
+==
 -->
