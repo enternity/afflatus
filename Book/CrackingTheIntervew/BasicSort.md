@@ -2,7 +2,7 @@
 
 1. **SELECTION SORT** :
 ```java
-public class SelectionSort {
+public doSelectionSort() {
 	List<Integer> values = new ArrayList<>();
 	for (int index = 0; index < values.size(); index ++) {
 		int minValueIndex = index;
@@ -19,7 +19,7 @@ public class SelectionSort {
 2. **BUBBLE SORT** :
 
 ```java
-public class BubbleSort {
+public doBubbleSort {
 	List<Integer> values = new ArrayList<>();
 	for (int i = 0; i < values.size() - 1; i++) {
 		for (int j = i + 1; j < values.size() - i - 1; j++) {
@@ -31,5 +31,5 @@ public class BubbleSort {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTgwMjY0MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwNjQxMDM4OTNdfQ==
 -->
