@@ -22,7 +22,7 @@ public void doSelectionSort() {
 public void doBubbleSort() {
 	List<Integer> values = new ArrayList<>();
 	for (int i = 0; i < values.size() - 1; i++) {
-		for (int j = i + 1; j < values.size() - i - 1; j++) {
+		for (int j = 0; j < values.size() - i - 1; j++) {
 			if (values.get(j) > values.get(j + 1)) {
 				doSwap(values, j, j + 1);
 			}
@@ -31,5 +31,5 @@ public void doBubbleSort() {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM5NzY5ODRdfQ==
+eyJoaXN0b3J5IjpbLTg1OTE3NzM4OSwtMTUzMzk3Njk4NF19
 -->
