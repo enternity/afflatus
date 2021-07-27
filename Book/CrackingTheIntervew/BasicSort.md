@@ -15,6 +15,14 @@ public class SelectionSort {
 	}
 }
 ```
+
+2. **BUBBLE SORT** :
+
+```java
+public class BubbleSort {
+
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMDc0NzFdfQ==
+eyJoaXN0b3J5IjpbLTk2NTc0NDI5NF19
 -->
