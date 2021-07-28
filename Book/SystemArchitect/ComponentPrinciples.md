@@ -4,12 +4,12 @@
 ## Component Cohesion
 
 1. _**The Reuse / Release Equivalence Principle**_
-> 
+> _The granule of reuse is the granule of release._
 #### The Common Closure Principle 
 
 
 > __
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNTM4NTQwLDk4ODA3Mzk3OCwxMjYwNz
+eyJoaXN0b3J5IjpbNDkzNzg2MTMzLDk4ODA3Mzk3OCwxMjYwNz
 U4NTI0XX0=
 -->
