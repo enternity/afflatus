@@ -2,11 +2,14 @@
 # COMPONENT PRINCIPLES 
 
 ## Component Cohesion
-### The Reuse / Release Equivalence Principle 
+
+1. _**The Reuse / Release Equivalence Principle**_
+> 
 #### The Common Closure Principle 
-1. _Component_  should not have multiple reasons to change.
+
 
 > __
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4MDczOTc4LDEyNjA3NTg1MjRdfQ==
+eyJoaXN0b3J5IjpbMzgyNTM4NTQwLDk4ODA3Mzk3OCwxMjYwNz
+U4NTI0XX0=
 -->
