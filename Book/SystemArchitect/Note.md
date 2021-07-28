@@ -16,7 +16,7 @@
 > if class  _A_  is a subtype of class  _B_, we should be able to replace  _B_ with _A_ without disrupting the behavior of our program.
 
 ## ISP : The Interface Segregation Principle
-
+> Clients should not be forced to depend upon interfaces that they do not use
 ## DIP : The Dependency Inversion Principle
 
 1. _**Don't refer to violate concrete classes**_ : Refer to _abstract interface_ instead. 
@@ -31,7 +31,7 @@
 
 > __
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODM5Mzg0OSwtNTU2MzEyNjczLDE3MT
+eyJoaXN0b3J5IjpbLTU0MTM2NTMxNiwtNTU2MzEyNjczLDE3MT
 k1OTgyMzcsMTc5NDIwOTc0NywxMzcyODY0MzYyLC0xMTEyOTk0
 ODMxLDU4MDU2NzEyLC0xMDU1NTc4NTQwLDE3NTIzMjQ1MjksMj
 ExMDk0NTI2NV19
