@@ -1,4 +1,4 @@
-> _SOLID_ principles tell us how to arrange the bricks into walls and rooms, then the component principles te
+> _SOLID_ principles tell us _**how to arrange the bricks**_ into walls and rooms, then the _Component Principles_ tell us _**how to arrange the rooms**_ into buildings. 
 # COMPONENT PRINCIPLES 
 ## The Reuse / Release Equivalence Principle 
 ## The Common Closure Principle 
@@ -6,5 +6,5 @@
 
 > __
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDc1MDk3M119
+eyJoaXN0b3J5IjpbMTI2MDc1ODUyNF19
 -->
