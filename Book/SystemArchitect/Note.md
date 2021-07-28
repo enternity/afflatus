@@ -10,6 +10,7 @@
 1. A Module should be responsible to one, and only one, actor.
 
 ## OCP : The Open-Closed Principle
+> E
 
 ## LSP : The Liskov Substitution Principle
 
@@ -29,8 +30,8 @@
 
 > __
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjMxMjY3MywxNzE5NTk4MjM3LDE3OT
-QyMDk3NDcsMTM3Mjg2NDM2MiwtMTExMjk5NDgzMSw1ODA1Njcx
-MiwtMTA1NTU3ODU0MCwxNzUyMzI0NTI5LDIxMTA5NDUyNjVdfQ
-==
+eyJoaXN0b3J5IjpbLTY2MjQ5MjA1OCwtNTU2MzEyNjczLDE3MT
+k1OTgyMzcsMTc5NDIwOTc0NywxMzcyODY0MzYyLC0xMTEyOTk0
+ODMxLDU4MDU2NzEyLC0xMDU1NTc4NTQwLDE3NTIzMjQ1MjksMj
+ExMDk0NTI2NV19
 -->
