@@ -13,6 +13,7 @@
 > Easier to append harder to modify
 
 ## LSP : The Liskov Substitution Principle
+> if class  _A_  is a subtype of class  _B_, we should be able to replace  _B_ with _A_ without disrupting the behavior of our program.
 
 ## ISP : The Interface Segregation Principle
 
@@ -30,8 +31,8 @@
 
 > __
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwMDMzNDAyLC01NTYzMTI2NzMsMTcxOT
-U5ODIzNywxNzk0MjA5NzQ3LDEzNzI4NjQzNjIsLTExMTI5OTQ4
-MzEsNTgwNTY3MTIsLTEwNTU1Nzg1NDAsMTc1MjMyNDUyOSwyMT
-EwOTQ1MjY1XX0=
+eyJoaXN0b3J5IjpbLTY2ODM5Mzg0OSwtNTU2MzEyNjczLDE3MT
+k1OTgyMzcsMTc5NDIwOTc0NywxMzcyODY0MzYyLC0xMTEyOTk0
+ODMxLDU4MDU2NzEyLC0xMDU1NTc4NTQwLDE3NTIzMjQ1MjksMj
+ExMDk0NTI2NV19
 -->
