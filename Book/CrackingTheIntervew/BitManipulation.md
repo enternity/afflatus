@@ -13,8 +13,8 @@
 |Operator| Syntax| Example|Describe|
 |:---|:---:|:---|:---|
 |Signed left shift|`>>`|1. `4 >> 2 = 2`  <br/> 2. `-2 >> 1` (2)|1. `0100 -> 0010`  (`4 /= 2`) <br/> 2. `1010 -> 1001` <br/> _**Keep bit signed**_|
-|Unsigned left shift|`>>>`| 
+|Unsigned left shift|`>>>`| `-4 >> 2`| `1100 -> 0011` <br/> _**Ignore big signed**_|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTIxNDc2MywtMzg2NDA3MDQ4LC05MD
+eyJoaXN0b3J5IjpbMTI3MDkzNjExNCwtMzg2NDA3MDQ4LC05MD
 MyNjgwMzBdfQ==
 -->
