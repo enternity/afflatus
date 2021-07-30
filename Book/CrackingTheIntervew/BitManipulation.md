@@ -10,10 +10,11 @@
 
  
 ## Bitwise Shift Operators
-|Operator| Syntax| Example|
-|:---|:---:|:---|
-|Signed left shift|'>>'|`4 >> 2 ` = `0100 -> 0010` |
+|Operator| Syntax| Example|Describe|
+|:---|:---:|:---|:---|
+|Signed left shift|`>>`||
+|Unsigned left shift|`>>>`|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzM2MjEzMSwtMzg2NDA3MDQ4LC05MD
-MyNjgwMzBdfQ==
+eyJoaXN0b3J5IjpbOTcwMTk2NTE3LC0zODY0MDcwNDgsLTkwMz
+I2ODAzMF19
 -->
