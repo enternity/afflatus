@@ -2,10 +2,10 @@
 
 | Operator  |  Syntax | Example| 
 |---|---|---|
-|  OR | "|"  |   
+|  OR | `|`  |   `1101 | 0110 = 1111` ()
 |   |   |   
 |   |   |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTQ2NzUxMl19
+eyJoaXN0b3J5IjpbLTY3NTE5NTk5MV19
 -->
