@@ -12,9 +12,9 @@
 ## Bitwise Shift Operators
 |Operator| Syntax| Example|Describe|
 |:---|:---:|:---|:---|
-|Signed left shift|`>>`||
+|Signed left shift|`>>`|`4 >> 2 = 2`(1) `-2 >> 1` (2)| `0100 -> 0010` , |
 |Unsigned left shift|`>>>`|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMTk2NTE3LC0zODY0MDcwNDgsLTkwMz
-I2ODAzMF19
+eyJoaXN0b3J5IjpbLTE4MDA5MjM0ODIsLTM4NjQwNzA0OCwtOT
+AzMjY4MDMwXX0=
 -->
