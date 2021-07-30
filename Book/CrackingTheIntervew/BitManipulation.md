@@ -12,7 +12,8 @@
 ## Bitwise Shift Operators
 |Operator| Syntax| Example|
 |:---|:---:|:---|
-|Signed left shift|'>>'|`1101 >> 2`|
+|Signed left shift|'>>'|`1101 >> 2 = `|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjQwNzA0OCwtOTAzMjY4MDMwXX0=
+eyJoaXN0b3J5IjpbMTA5MTQ2NTYzMywtMzg2NDA3MDQ4LC05MD
+MyNjgwMzBdfQ==
 -->
