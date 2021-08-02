@@ -54,8 +54,22 @@ env.setActiveProfiles("someProfile");
 ```
 > **Its value will be used to replace the  _@spring.profiles.active@_ placeholder in  _application.properties_:**  
 > ```javaspring.profiles.active=@spring.profiles.active@```
+
+In maven build
 ```xml
-<build>  <resources>  <resource>  <directory>src/main/resources</directory>  <filtering>true</filtering>  </resource>  </resources> ... </build>
+<build>  
+	<resources>  
+		<resource>  
+			<directory>src/main/resources
+			</directory>  
+			<filtering>true</filtering>  
+		</resource>  
+	</resources> 
+... 
+</build>
+```
+
+> and append a  _-P_  parameter to switch which Maven profile will be applied: `mvn clean package -Pprod`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTI2ODk3N119
+eyJoaXN0b3J5IjpbLTE1ODQ0MTIyNzldfQ==
 -->
