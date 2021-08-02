@@ -29,7 +29,11 @@ env.setActiveProfiles("someProfile");
 ```
 3. **Context Parameter in  _web.xml_** (skip this part)
 4. **JVM System Parameter**
-
+`-Dspring.profiles.active=dev`
+5. **Environment Variable**
+`export spring_profiles_active=dev` in Unix environment.
+6.  **Maven Profile**
+7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzc0NDc1NF19
+eyJoaXN0b3J5IjpbMjE2MDUwNzI4XX0=
 -->
