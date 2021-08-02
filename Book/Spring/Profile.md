@@ -10,7 +10,7 @@ public  class DevDatasourceConfig
 > Profile names can also be prefixed with a NOT operator
 
 ### How to set profile?
-1. **Programmatically via  _WebApplicationInitializer_  Interface** (refer [here](https://www.baeldung.com/spring-profiles#1-programmatically-via-webapplicationinitializer-interface))
+1. **Programmatically via  _WebApplicationInitializer_  Interface** (reference [here](https://www.baeldung.com/spring-profiles#1-programmatically-via-webapplicationinitializer-interface))
 ```java
 @Configuration  
 public  class MyWebApplicationInitializer implements WebApplicationInitializer { 
@@ -19,7 +19,17 @@ public  class MyWebApplicationInitializer implements WebApplicationInitializer {
 		} 
 }
 ```
-2. **Programmatically via  _ConfigurableEnvironment_** (reference: [here](https://www.baeldung.com/spring-profiles#2-programmatically-via-configurableenvironment)
+2. **Programmatically via  _ConfigurableEnvironment_** (reference: [here](https://www.baeldung.com/spring-profiles#2-programmatically-via-configurableenvironment))
+
+```java
+@Autowired  
+private ConfigurableEnvironment env; 
+... 
+env.setActiveProfiles("someProfile");
+```
+3. **Context Parameter in  _web.xml_** (skip this part)
+4. **JVM System Parameter**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMzNDgwNjJdfQ==
+eyJoaXN0b3J5IjpbMTQyMzc0NDc1NF19
 -->
