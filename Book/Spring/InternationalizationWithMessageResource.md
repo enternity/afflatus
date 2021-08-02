@@ -4,7 +4,9 @@
 
 > Spring provides three _MessageResource_ implementations.
 
-1. 
+1.  **ResourceBundleMessageSource**
+2.  **ReloadableResourceBundleMessageSource**
+3.  **StaticMessageSource**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTIwMjc1XX0=
+eyJoaXN0b3J5IjpbMTg1Mzk2NDI5OSwxNjc1MjAyNzVdfQ==
 -->
