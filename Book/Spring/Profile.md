@@ -33,7 +33,26 @@ env.setActiveProfiles("someProfile");
 5. **Environment Variable**
 `export spring_profiles_active=dev` in Unix environment.
 6.  **Maven Profile**
+```maven
+<profiles>  
+	<profile>  
+		<id>dev</id>  
+		<activation>  	
+		<activeByDefault>true</activeByDefault>  
+		</activation>  
+		<properties>  
+			<spring.profiles.active>dev</spring.profiles.active>  
+		</properties>  
+	</profile>  
+	<profile>  
+		<id>prod</id>  
+	<properties>  	
+		<spring.profiles.active>prod</spring.profiles.active>  
+		</properties>  
+		</profile>  
+	</profiles>
+```
 7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MDUwNzI4XX0=
+eyJoaXN0b3J5IjpbLTIxMjYyOTI3ODJdfQ==
 -->
