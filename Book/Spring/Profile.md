@@ -8,6 +8,9 @@ public  class DevDatasourceConfig
 ```
 
 > Profile names can also be prefixed with a NOT operator
+
+### How to set profile?
+1. **Programmatically via  _WebApplicationInitializer_  Interface** (document [here](https://www.baeldung.com/spring-profiles#1-programmatically-via-webapplicationinitializer-interface))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjMxOTEyNF19
+eyJoaXN0b3J5IjpbLTIwOTUxNjMzNzZdfQ==
 -->
