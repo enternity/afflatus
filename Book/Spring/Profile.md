@@ -33,7 +33,7 @@ env.setActiveProfiles("someProfile");
 5. **Environment Variable**
 `export spring_profiles_active=dev` in Unix environment.
 6.  **Maven Profile**
-```maven
+```xml
 <profiles>  
 	<profile>  
 		<id>dev</id>  
@@ -46,13 +46,16 @@ env.setActiveProfiles("someProfile");
 	</profile>  
 	<profile>  
 		<id>prod</id>  
-	<properties>  	
+		<properties>  	
 		<spring.profiles.active>prod</spring.profiles.active>  
 		</properties>  
-		</profile>  
-	</profiles>
+	</profile>  
+</profiles>
 ```
-7. 
+> **Its value will be used to replace the  _@spring.profiles.active@_ placeholder in  _application.properties_:**  
+> ```javaspring.profiles.active=@spring.profiles.active@```
+```xml
+<build>  <resources>  <resource>  <directory>src/main/resources</directory>  <filtering>true</filtering>  </resource>  </resources> ... </build>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYyOTI3ODJdfQ==
+eyJoaXN0b3J5IjpbMTQyNTI2ODk3N119
 -->
