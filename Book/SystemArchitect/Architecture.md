@@ -9,7 +9,9 @@ A software system is that hard to develop is not likely to have a long and healt
 ## DEPLOYMENT
 The higher the cost of deployment, the less useful the system is. A goal of a software architecture, then, should make a system can easily develop with _single action_
 ## OPERATION 
+## MAINTAINENCE
+## KEEP OPTIONS OPEN
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTc3MTYyNV19
+eyJoaXN0b3J5IjpbMTQ5NzU1NDg0XX0=
 -->
