@@ -7,7 +7,8 @@
 ## DEVELOPMENT 
 A software system is that hard to develop is not likely to have a long and healthy lifetime. So the architecture of a system should make that system easy to develop, for the team(s) who develop it.
 ## DEPLOYMENT
-Thi highet
+The higher the cost of deployment, the less useful the system is. A goal of a software architecture, then, should make a system can easily develop with _single action_
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjEzMjA0NF19
+eyJoaXN0b3J5IjpbNzk1NTU2NzU0XX0=
 -->
