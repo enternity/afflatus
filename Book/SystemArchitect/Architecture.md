@@ -5,7 +5,9 @@
 # COMPONENT OF ARCHITECTURE ?
 
 ## DEVELOPMENT 
-A software system is that hard to develop is not likely to have a long and healthy lifetime. So the architecture of a system should 
+A software system is that hard to develop is not likely to have a long and healthy lifetime. So the architecture of a system should make that system easy to develop, for the team(s) who develop it.
+## DEPLOYMENT
+Thi highet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjEzMDQxMl19
+eyJoaXN0b3J5IjpbMTcwMjEzMjA0NF19
 -->
