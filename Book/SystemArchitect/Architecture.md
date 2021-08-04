@@ -1,6 +1,6 @@
 # WHAT IS ARCHITECTURE?
 
-> The primary purp
+> The primary purpose of architecture is to support the life cycle of system. Good architecture makes the system easy to understand, easy to develop, easy to maintain, and easy to develop. The ultimate goal is minimize the lifetime cost of the system and maximize programer productivity. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzc1ODMwMV19
+eyJoaXN0b3J5IjpbLTIyOTQ0MjgxM119
 -->
