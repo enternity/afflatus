@@ -43,7 +43,11 @@ the original string. You can assume the string has only uppercase and lowercase 
 7. Rotate Matrix: Given an image represented by an NxN matrix, where each pixel in the image is 4 bytes, write a method to rotate the image by 90 degrees. Can you do this in place?
 8. Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to 0.
 9. String Rotation:Assumeyou have a method isSubstringwhich checks if one word is a substring of another. Given two strings, sl and s2, write code to check if s2 is a rotation of sl using only one call to isSubstring (e.g.,"waterbottle" is a rotation of"erbottlewat").
+
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk5NTcwMDgsLTI2MjY2Nzc0NCwtMT
-MwNDI5ODk3MywtMTkyMTU4NTUzLC0zMjgwODQzNTldfQ==
+eyJoaXN0b3J5IjpbLTQyNTE2MDMyNiwtMTUxOTk1NzAwOCwtMj
+YyNjY3NzQ0LC0xMzA0Mjk4OTczLC0xOTIxNTg1NTMsLTMyODA4
+NDM1OV19
 -->
