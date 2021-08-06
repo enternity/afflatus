@@ -47,9 +47,9 @@ the original string. You can assume the string has only uppercase and lowercase 
 
 |Problem| Algorithm|
 |---|---| 
-|||
+|Finding element with the apperent than $\frac{N}{2}$||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMDMwNjUyLC0xNTE5OTU3MDA4LC0yNj
-I2Njc3NDQsLTEzMDQyOTg5NzMsLTE5MjE1ODU1MywtMzI4MDg0
-MzU5XX0=
+eyJoaXN0b3J5IjpbMTM3ODU1MDc3NiwtMTUxOTk1NzAwOCwtMj
+YyNjY3NzQ0LC0xMzA0Mjk4OTczLC0xOTIxNTg1NTMsLTMyODA4
+NDM1OV19
 -->
