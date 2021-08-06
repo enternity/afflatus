@@ -47,9 +47,9 @@ the original string. You can assume the string has only uppercase and lowercase 
 
 |Problem| Algorithm|
 |---|---| 
-|Finding element with the apperent than $\frac{N}{2}$||
+|Finding element with the appearance more than $\frac{N}{2}$ time|link algorithm [here](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODU1MDc3NiwtMTUxOTk1NzAwOCwtMj
-YyNjY3NzQ0LC0xMzA0Mjk4OTczLC0xOTIxNTg1NTMsLTMyODA4
-NDM1OV19
+eyJoaXN0b3J5IjpbNTA1MTc2NDIsLTE1MTk5NTcwMDgsLTI2Mj
+Y2Nzc0NCwtMTMwNDI5ODk3MywtMTkyMTU4NTUzLC0zMjgwODQz
+NTldfQ==
 -->
