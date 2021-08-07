@@ -9,7 +9,8 @@
 |:---|:---|
 |Adapter|_**convert interfaces**_. Adapter let's two components _**working together**_, which wouldn't be working because of incompatible interfaces|
 |Decorator|_**adds new functionalities at runtime**_. It allows you to enrich the object, even after it's creation.|
-|Facade||
+|Facade|neither converts interfaces nor adds new functionality, instead, it just _**provides simpler interfaces**_.|
+|Proxy|_**act as real object**_ and can provide alternate behavior or forward request to original object.|
 
 ## Decorator Pattern 
 > View on: [**refactoring.guru**](https://refactoring.guru/design-patterns/decorator)
@@ -150,7 +151,7 @@ class ApplicationConfigurator is
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjI3NzI4NSwtMTExNzk3MjM2MCwxNj
-k0OTA2OTE3LDQ2OTU0MDYzOSwtMTU1MzU1NjYxOSwxODM2NTEy
-NDYwLC03MDYzNDk1MzhdfQ==
+eyJoaXN0b3J5IjpbLTEwODgyODUxMjgsMjA0NjI3NzI4NSwtMT
+ExNzk3MjM2MCwxNjk0OTA2OTE3LDQ2OTU0MDYzOSwtMTU1MzU1
+NjYxOSwxODM2NTEyNDYwLC03MDYzNDk1MzhdfQ==
 -->
