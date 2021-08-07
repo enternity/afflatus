@@ -134,9 +134,10 @@ class ApplicationConfigurator is
     // ...
   ```
 ## ADAPTER PATTERN
+> View on: [**refactoring.guru**](https://refactoring.guru/design-patterns/decorator)
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0ODY3MDM2LDQ2OTU0MDYzOSwtMTU1Mz
-U1NjYxOSwxODM2NTEyNDYwLC03MDYzNDk1MzhdfQ==
+eyJoaXN0b3J5IjpbLTE5NTc0ODEwNTksNDY5NTQwNjM5LC0xNT
+UzNTU2NjE5LDE4MzY1MTI0NjAsLTcwNjM0OTUzOF19
 -->
