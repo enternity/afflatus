@@ -131,10 +131,12 @@ class ApplicationConfigurator is
 
         logger = new SalaryManager(source)
         salary = logger.load()
-    // ...```
+    // ...
+  ```
+## ADAPTER PATTERN
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNzk1NzksNDY5NTQwNjM5LC0xNTUzNT
-U2NjE5LDE4MzY1MTI0NjAsLTcwNjM0OTUzOF19
+eyJoaXN0b3J5IjpbNjA0ODY3MDM2LDQ2OTU0MDYzOSwtMTU1Mz
+U1NjYxOSwxODM2NTEyNDYwLC03MDYzNDk1MzhdfQ==
 -->
