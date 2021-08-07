@@ -137,9 +137,14 @@ class ApplicationConfigurator is
 > View on: [**refactoring.guru**](https://refactoring.guru/design-patterns/adapter)
 
 > _**MAIN RESPONSIBILITY**_ :  that allows objects with _**incompatible interfaces to collaborate**_.
+
+1.  The adapter gets an interface, compatible with one of the existing objects.
+2.  Using this interface, the existing object can safely call the adapter’s methods.
+3.  Upon receiving a call, the adapter passes the request to the second object, but in a format and order that the second object expects.
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDkwNjkxNyw0Njk1NDA2MzksLTE1NT
-M1NTY2MTksMTgzNjUxMjQ2MCwtNzA2MzQ5NTM4XX0=
+eyJoaXN0b3J5IjpbLTExMTc5NzIzNjAsMTY5NDkwNjkxNyw0Nj
+k1NDA2MzksLTE1NTM1NTY2MTksMTgzNjUxMjQ2MCwtNzA2MzQ5
+NTM4XX0=
 -->
