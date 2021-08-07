@@ -45,11 +45,11 @@ the original string. You can assume the string has only uppercase and lowercase 
 9. String Rotation:Assumeyou have a method isSubstringwhich checks if one word is a substring of another. Given two strings, sl and s2, write code to check if s2 is a rotation of sl using only one call to isSubstring (e.g.,"waterbottle" is a rotation of"erbottlewat").
 
 
-|Problem| Algorithm|
-|---|---| 
-|Finding element with the appearance more than $\frac{N}{2}$ time|link algorithm [here](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)|
+|Problem| Algorithm|Solved|
+|:---|:---|:---| 
+|Finding element with the appearance more than $\frac{N}{2}$ time|link algorithm [here](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1MTc2NDIsLTE1MTk5NTcwMDgsLTI2Mj
-Y2Nzc0NCwtMTMwNDI5ODk3MywtMTkyMTU4NTUzLC0zMjgwODQz
-NTldfQ==
+eyJoaXN0b3J5IjpbMTQxOTIxNTkzMiw1MDUxNzY0MiwtMTUxOT
+k1NzAwOCwtMjYyNjY3NzQ0LC0xMzA0Mjk4OTczLC0xOTIxNTg1
+NTMsLTMyODA4NDM1OV19
 -->
