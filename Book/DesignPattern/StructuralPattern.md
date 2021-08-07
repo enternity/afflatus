@@ -134,10 +134,12 @@ class ApplicationConfigurator is
     // ...
   ```
 ## ADAPTER PATTERN
-> View on: [**refactoring.guru**](https://refactoring.guru/design-patterns/decorator)
+> View on: [**refactoring.guru**](https://refactoring.guru/design-patterns/adapter)
+
+> _**MAIN RESPONSIBILITY**_ :  that allows objects with _**incompatible interfaces to collaborate**_.
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc0ODEwNTksNDY5NTQwNjM5LC0xNT
-UzNTU2NjE5LDE4MzY1MTI0NjAsLTcwNjM0OTUzOF19
+eyJoaXN0b3J5IjpbMTY5NDkwNjkxNyw0Njk1NDA2MzksLTE1NT
+M1NTY2MTksMTgzNjUxMjQ2MCwtNzA2MzQ5NTM4XX0=
 -->
