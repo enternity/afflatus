@@ -5,6 +5,9 @@
 > Structural design patterns are _**Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Private Class Data, and Proxy**_.
 
 
+|Pattern|Intent|
+|:---:|---|
+
 ## Decorator Pattern 
 > View on: [**refactoring.guru**](https://refactoring.guru/design-patterns/decorator)
 
@@ -144,7 +147,7 @@ class ApplicationConfigurator is
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc5NzIzNjAsMTY5NDkwNjkxNyw0Nj
-k1NDA2MzksLTE1NTM1NTY2MTksMTgzNjUxMjQ2MCwtNzA2MzQ5
-NTM4XX0=
+eyJoaXN0b3J5IjpbMTYzNzYxMDM2OCwtMTExNzk3MjM2MCwxNj
+k0OTA2OTE3LDQ2OTU0MDYzOSwtMTU1MzU1NjYxOSwxODM2NTEy
+NDYwLC03MDYzNDk1MzhdfQ==
 -->
