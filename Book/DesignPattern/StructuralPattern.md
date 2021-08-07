@@ -6,7 +6,8 @@
 
 
 |Pattern|Intent|
-|:---:|---|
+|:---|:---:|
+|Adapter|_**convert interfaces**_. Adapter let's two components working together, which wouldn't be working because of incompatible interfaces|
 
 ## Decorator Pattern 
 > View on: [**refactoring.guru**](https://refactoring.guru/design-patterns/decorator)
@@ -147,7 +148,7 @@ class ApplicationConfigurator is
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzYxMDM2OCwtMTExNzk3MjM2MCwxNj
-k0OTA2OTE3LDQ2OTU0MDYzOSwtMTU1MzU1NjYxOSwxODM2NTEy
-NDYwLC03MDYzNDk1MzhdfQ==
+eyJoaXN0b3J5IjpbLTEyNzQ2NDY5MDAsLTExMTc5NzIzNjAsMT
+Y5NDkwNjkxNyw0Njk1NDA2MzksLTE1NTM1NTY2MTksMTgzNjUx
+MjQ2MCwtNzA2MzQ5NTM4XX0=
 -->
