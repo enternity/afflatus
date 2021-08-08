@@ -5,7 +5,13 @@
 ```sql
 SELECT * FROM studentinfo
 ```
-> However, when writing program code, it’s _**better to specify each column individually. The per‐ formance will be the same, but by being explicit you will always know what columns you are returning from the query. Likewise, such queries are easier to understand by
+> However, when writing program code, it’s _**better to specify each column individually**_. The performance will be the same, but by being explicit you will always know what columns you are returning from the query. Likewise, such queries are easier to understand by
+
+```sql
+SELECT name, grade, gender
+FROM studentinfo
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTg2ODg4NCwtMTE1MTIwOTgxNl19
+eyJoaXN0b3J5IjpbLTIwNTI0NDA1NzUsLTExNTEyMDk4MTZdfQ
+==
 -->
