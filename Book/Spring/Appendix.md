@@ -2,10 +2,11 @@
 2. Getting started 19
 3. Introducing IoC and DI in Spring 37
 4. Spring configuration in Detail and Spring boot 125
-5. Introducing Spring AOP
-6. Spring JDBC support
-7. Using Hibernate in Spring
-8. 
+5. Introducing Spring AOP 211
+6. Spring JDBC support 297
+7. Using Hibernate in Spring 355
+8. Data access in Spring with JPA2 393
+9. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODg0NTc3NF19
+eyJoaXN0b3J5IjpbLTE1MzYwMjY0MjJdfQ==
 -->
