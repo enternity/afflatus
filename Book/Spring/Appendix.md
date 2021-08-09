@@ -17,6 +17,20 @@
 17. Web socket 751
 18. Spring projects: Batch, Integration, XD and more 773
 19. 
+
+
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg5NjI0MjhdfQ==
+eyJoaXN0b3J5IjpbOTg5MTA4OTU5XX0=
 -->
