@@ -8,6 +8,10 @@
 8. Data access in Spring with JPA2 393
 9. Transaction Management 467
 10. Validation type conversion and Formatting 509
+11. Task scheduling 537
+12. Using Spring Remoting 615
+13. Spring testing 639
+14. Application 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzA4NDk3Nl19
+eyJoaXN0b3J5IjpbLTIyNjEwNjAwMV19
 -->
