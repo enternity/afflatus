@@ -7,6 +7,7 @@
 7. Using Hibernate in Spring 355
 8. Data access in Spring with JPA2 393
 9. Transaction Management 467
+10. Validation type conversion and Formatting 509
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDc3MzA0MF19
+eyJoaXN0b3J5IjpbLTc0MzA4NDk3Nl19
 -->
