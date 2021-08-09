@@ -7,7 +7,7 @@
 - [ ] Using Hibernate in Spring 355
 - [ ] Data access in Spring with JPA2 393
 - [ ] Transaction Management 467
-- [ ] _**(In progress)**_ Validation type conversion and Formatting 509
+- [ ] _**(514 - In progress)**_ Validation type conversion and Formatting 509
 - [ ] Task scheduling 537
 - [ ] Using Spring Remoting 615
 - [ ] Spring testing 639
@@ -20,5 +20,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg0MDU4NTRdfQ==
+eyJoaXN0b3J5IjpbLTIxMjkyNDMzOTUsLTIwMDg0MDU4NTRdfQ
+==
 -->
