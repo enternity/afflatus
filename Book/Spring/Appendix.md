@@ -11,7 +11,12 @@
 11. Task scheduling 537
 12. Using Spring Remoting 615
 13. Spring testing 639
-14. Application 
+14. Scripting support in Spring 639
+15. Application Monitoring 655
+16. Web Application 665
+17. Web socket 751
+18. Spring projects: Batch, Integration, XD and more 773
+19. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjEwNjAwMV19
+eyJoaXN0b3J5IjpbLTEwNTYwNzgzMzJdfQ==
 -->
