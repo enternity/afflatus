@@ -1,4 +1,4 @@
-1. Introduction 1
+1. Introduction 1  - [ ]
 2. Getting started 19
 3. Introducing IoC and DI in Spring 37
 4. Spring configuration in Detail and Spring boot 125
@@ -18,5 +18,5 @@
 18. Spring projects: Batch, Integration, XD and more 773
 19. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYwNzgzMzJdfQ==
+eyJoaXN0b3J5IjpbLTM3OTYwNDIxNV19
 -->
