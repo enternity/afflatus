@@ -54,9 +54,9 @@ the original string. You can assume the string has only uppercase and lowercase 
 
 |Link|Difficult| Completed|
 |:---|:---|:---:|
-|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy| - [ X ]|
+|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy| <input type="checkbox" disabled checked /> works|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDQzMTg5MywxMzI4NTcyMjkxLDE0MT
+eyJoaXN0b3J5IjpbLTUwMDU4NDc3MiwxMzI4NTcyMjkxLDE0MT
 kyMTU5MzIsNTA1MTc2NDIsLTE1MTk5NTcwMDgsLTI2MjY2Nzc0
 NCwtMTMwNDI5ODk3MywtMTkyMTU4NTUzLC0zMjgwODQzNTldfQ
 ==
