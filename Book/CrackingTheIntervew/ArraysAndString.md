@@ -56,9 +56,10 @@ the original string. You can assume the string has only uppercase and lowercase 
 |:---|:---|:---:|
 |[Remove duplicate from sort array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzcxODc1NSwxMzI4NTcyMjkxLDE0MT
-kyMTU5MzIsNTA1MTc2NDIsLTE1MTk5NTcwMDgsLTI2MjY2Nzc0
-NCwtMTMwNDI5ODk3MywtMTkyMTU4NTUzLC0zMjgwODQzNTldfQ
-==
+eyJoaXN0b3J5IjpbLTM1OTY4MzcwMSwtNjIzNzE4NzU1LDEzMj
+g1NzIyOTEsMTQxOTIxNTkzMiw1MDUxNzY0MiwtMTUxOTk1NzAw
+OCwtMjYyNjY3NzQ0LC0xMzA0Mjk4OTczLC0xOTIxNTg1NTMsLT
+MyODA4NDM1OV19
 -->
