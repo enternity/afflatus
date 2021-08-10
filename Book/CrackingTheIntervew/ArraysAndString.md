@@ -47,9 +47,10 @@ the original string. You can assume the string has only uppercase and lowercase 
 
 |Problem| Algorithm|Solved|
 |:---|:---|:---| 
-|Finding element with the appearance more than $\frac{N}{2}$ time|link algorithm [here](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)||
+|Finding element with the appearance more than $\frac{N}{2}$ time|https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/||
+|Prime number|https://www.geeksforgeeks.org/sieve-of-eratosthenes/||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTIxNTkzMiw1MDUxNzY0MiwtMTUxOT
-k1NzAwOCwtMjYyNjY3NzQ0LC0xMzA0Mjk4OTczLC0xOTIxNTg1
-NTMsLTMyODA4NDM1OV19
+eyJoaXN0b3J5IjpbMTMyODU3MjI5MSwxNDE5MjE1OTMyLDUwNT
+E3NjQyLC0xNTE5OTU3MDA4LC0yNjI2Njc3NDQsLTEzMDQyOTg5
+NzMsLTE5MjE1ODU1MywtMzI4MDg0MzU5XX0=
 -->
