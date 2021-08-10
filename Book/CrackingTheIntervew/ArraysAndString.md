@@ -50,9 +50,13 @@ the original string. You can assume the string has only uppercase and lowercase 
 |Finding element with the appearance more than $\frac{N}{2}$ time|https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/||
 |Prime number|https://www.geeksforgeeks.org/sieve-of-eratosthenes/||
 
-#
+# Leet code complete problem tag [Array](https://leetcode.com/problemset/all/?page=3&topicSlugs=array)
+
+|Link|Difficult| Completed|
+|---|---|---|
+||||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI4NzM4MzgsMTMyODU3MjI5MSwxND
+eyJoaXN0b3J5IjpbLTE2NDM0MTM3NzgsMTMyODU3MjI5MSwxND
 E5MjE1OTMyLDUwNTE3NjQyLC0xNTE5OTU3MDA4LC0yNjI2Njc3
 NDQsLTEzMDQyOTg5NzMsLTE5MjE1ODU1MywtMzI4MDg0MzU5XX
 0=
