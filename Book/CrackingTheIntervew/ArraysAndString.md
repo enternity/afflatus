@@ -53,11 +53,11 @@ the original string. You can assume the string has only uppercase and lowercase 
 # Leet code complete problem tag [Array](https://leetcode.com/problemset/all/?page=3&topicSlugs=array)
 
 |Link|Difficult| Completed|
-|---|---|---|
-||||
+|:---|:---|:---:|
+|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy| - [ X ]|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM0MTM3NzgsMTMyODU3MjI5MSwxND
-E5MjE1OTMyLDUwNTE3NjQyLC0xNTE5OTU3MDA4LC0yNjI2Njc3
-NDQsLTEzMDQyOTg5NzMsLTE5MjE1ODU1MywtMzI4MDg0MzU5XX
-0=
+eyJoaXN0b3J5IjpbLTk4NDQzMTg5MywxMzI4NTcyMjkxLDE0MT
+kyMTU5MzIsNTA1MTc2NDIsLTE1MTk5NTcwMDgsLTI2MjY2Nzc0
+NCwtMTMwNDI5ODk3MywtMTkyMTU4NTUzLC0zMjgwODQzNTldfQ
+==
 -->
