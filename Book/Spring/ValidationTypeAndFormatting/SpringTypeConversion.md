@@ -1,3 +1,4 @@
+> Official reference : https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/validation.html#core-convert
 # SPRING TYPE CONVERSION
 ## Implementing a Custom Converter
 ```java
@@ -16,6 +17,6 @@ class StringToDateTim implements Converter<String, DateTime> {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE1Njg2NjYsLTE4MDgzMzc4NTNdfQ
-==
+eyJoaXN0b3J5IjpbOTc5NTYzMTA0LC0xNjYxNTY4NjY2LC0xOD
+A4MzM3ODUzXX0=
 -->
