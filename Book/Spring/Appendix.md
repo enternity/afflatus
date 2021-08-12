@@ -3,7 +3,7 @@
 - [x] Introducing IoC and DI in Spring 37
 - [x] Spring configuration in Detail and Spring boot 125
 - [ ] _**(In progress)**_ Introducing Spring AOP 211
-- [ ] _****_ Spring JDBC support 297
+- [ ] _**(In progress)**_ Spring JDBC support 297
 - [ ] Using Hibernate in Spring 355
 - [ ] Data access in Spring with JPA2 393
 - [ ] Transaction Management 467
@@ -20,6 +20,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzM2NTYzOSwtMjEyOTI0MzM5NSwtMj
-AwODQwNTg1NF19
+eyJoaXN0b3J5IjpbLTExNjIyMDMzMjQsLTIxMjkyNDMzOTUsLT
+IwMDg0MDU4NTRdfQ==
 -->
