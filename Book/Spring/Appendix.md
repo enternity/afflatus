@@ -3,11 +3,11 @@
 - [x] Introducing IoC and DI in Spring 37
 - [x] Spring configuration in Detail and Spring boot 125
 - [ ] _**(In progress)**_ Introducing Spring AOP 211
-- [ ] Spring JDBC support 297
+- [ ] _****_ Spring JDBC support 297
 - [ ] Using Hibernate in Spring 355
 - [ ] Data access in Spring with JPA2 393
 - [ ] Transaction Management 467
-- [ ] _**(514 - In progress)**_ Validation type conversion and Formatting 509
+- [x] Validation type conversion and Formatting 509
 - [ ] Task scheduling 537
 - [ ] Using Spring Remoting 615
 - [ ] Spring testing 639
@@ -20,6 +20,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkyNDMzOTUsLTIwMDg0MDU4NTRdfQ
-==
+eyJoaXN0b3J5IjpbMTIyMzM2NTYzOSwtMjEyOTI0MzM5NSwtMj
+AwODQwNTg1NF19
 -->
