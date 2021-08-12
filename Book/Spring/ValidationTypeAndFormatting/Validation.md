@@ -1,3 +1,4 @@
+> https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/validation.html#validator
 # SPRING VALIDATION
 > We should use interface 
 ```java
@@ -11,5 +12,5 @@ public interface Validator {
 ```
 > And class `ValidationUtils` in `package org.springframework.validation;` to validate field.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODg3OTQ4MV19
+eyJoaXN0b3J5IjpbMjAzNTUzNDA5NCwxNzY4ODc5NDgxXX0=
 -->
