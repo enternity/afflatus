@@ -88,8 +88,9 @@ public enum BasicOperation implements Operation {
 #### Advice 3 : Use marker interfaces to define types
 1. Marker interfaces define a type that is implemented by instances of the marked class; marker annotations do not
 2. Another advantage of marker interfaces over marker annotations is that they can be targeted more precisely.
+3. The chief advantage of marker annotations over marker interfaces is that they are part of the larger annotation facility.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjcxMzAyOSwtMTc0OTQyMjExNiwtMT
+eyJoaXN0b3J5IjpbLTQ5NjIzNDM1NSwtMTc0OTQyMjExNiwtMT
 A2NTYwMjM1MiwtMzAzNzA5NDYwLC0xMzE5NjUwMjU0LDIxMjky
 MjM2MjMsLTEyODczNTg2NDksMTU1MzI2NDA5OCwtMjEzODQxMz
 c4M119
