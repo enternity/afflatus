@@ -17,10 +17,11 @@ $lcs(a_i, b_j) =
 
 # Leet code complete problem tag [Dynamic Programing](https://leetcode.com/problemset/all/?page=2&topicSlugs=dynamic-programming)
 
-|Link|Difficult| Completed|
-|:---|:---|:---:|
-|[Is subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|:white_check_mark:|
+|Link|Difficult| Completed| Source|
+|:---|:---:|:---:|:---:|
+|[Is subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/IsSubSequence_easy.py)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzkwODY0MjUsLTIwOTk0MzIyOCwtMT
-Q3NDgyNTc2LDEzMjAzMzQ0MDYsMTQzMTAyNTc1M119
+eyJoaXN0b3J5IjpbMTg1MTY0ODA1NiwtMTAzOTA4NjQyNSwtMj
+A5OTQzMjI4LC0xNDc0ODI1NzYsMTMyMDMzNDQwNiwxNDMxMDI1
+NzUzXX0=
 -->
