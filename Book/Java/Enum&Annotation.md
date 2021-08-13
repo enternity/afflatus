@@ -62,6 +62,7 @@ public interface Operation {
 
 public enum BasicOperation implements Operation {
 	PLUS("+") {
+		@Override
 		public double apply(double x, double y) {
 			return x + y;
 		}
@@ -79,6 +80,6 @@ public enum BasicOperation implements Operation {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc5ODYzOCwtMTI4NzM1ODY0OSwxNT
-UzMjY0MDk4LC0yMTM4NDEzNzgzXX0=
+eyJoaXN0b3J5IjpbOTYxNzc3MzU4LC0xMjg3MzU4NjQ5LDE1NT
+MyNjQwOTgsLTIxMzg0MTM3ODNdfQ==
 -->
