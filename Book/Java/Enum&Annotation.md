@@ -86,8 +86,9 @@ public enum BasicOperation implements Operation {
 #### Advice 1 : Prefer annotations instead of naming patterns
 #### Advice 2 : Consistently use the `@Override` annotation
 1. Marker interfaces define a type that is implemented by instances of the marked class; marker annotations do not
+2. Another advantage of marker interfaces over marker annotations is that they can be targeted more precisely.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU2MDIzNTIsLTMwMzcwOTQ2MCwtMT
-MxOTY1MDI1NCwyMTI5MjIzNjIzLC0xMjg3MzU4NjQ5LDE1NTMy
-NjQwOTgsLTIxMzg0MTM3ODNdfQ==
+eyJoaXN0b3J5IjpbLTE3NDk0MjIxMTYsLTEwNjU2MDIzNTIsLT
+MwMzcwOTQ2MCwtMTMxOTY1MDI1NCwyMTI5MjIzNjIzLC0xMjg3
+MzU4NjQ5LDE1NTMyNjQwOTgsLTIxMzg0MTM3ODNdfQ==
 -->
