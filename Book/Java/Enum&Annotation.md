@@ -4,7 +4,7 @@
 2. Enum constants make readable string output.
 3. Provide compile-time type safety.
 4. Enum is singleton.
-5. **To associate data with enum constants, declare instance fields and write a constructor that takes the data and stores it in the fields.**
+5. To associate data with enum constants, declare instance fields and write a constructor that takes the data and stores it in the fields.
 6. Some behaviors associated with enum constants may need to be used only from within the class or package in which the enum is defined. Such behaviors are best implemented as private or package-private methods.
 7. Declare abstract method if each enum have specific behavior.
 Example :
@@ -23,6 +23,6 @@ public enum Operation {
 9. Don't use switch case or if else if behavior of function change follow enum respectively. Switches on enums are good for augmenting enum types with constant-specific behavior.
 10. Use enums any time you need a set of constants whose members are known at compile time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDM1MzY1MiwxNTUzMjY0MDk4LC0yMT
-M4NDEzNzgzXX0=
+eyJoaXN0b3J5IjpbNzkyMzMxMTg4LDE1NTMyNjQwOTgsLTIxMz
+g0MTM3ODNdfQ==
 -->
