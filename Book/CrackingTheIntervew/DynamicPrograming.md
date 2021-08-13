@@ -6,9 +6,9 @@
 
 
 # Long common sequence
-> We have formula :
+> With string $a = (a_0,a_1, \ldots, a_x)$ and $b= (b_0,b_1, \ldots, b_x)$
 
-$lcs(a_i, b_j) =   =
+$lcs(a_i, b_j) =  
   \begin{cases}
  n/2 & \quad  \text{if } n \text{ is even}\\
   -(n+1)/2 & \quad  \text{if } n \text{ is odd}
@@ -20,6 +20,6 @@ $lcs(a_i, b_j) =   =
 |:---|:---|:---:|
 |[Is subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|:white_check_mark:|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM4MzA2MjMsLTIwOTk0MzIyOCwtMT
-Q3NDgyNTc2LDEzMjAzMzQ0MDYsMTQzMTAyNTc1M119
+eyJoaXN0b3J5IjpbLTI3MDk5NzkzMCwtMjA5OTQzMjI4LC0xND
+c0ODI1NzYsMTMyMDMzNDQwNiwxNDMxMDI1NzUzXX0=
 -->
