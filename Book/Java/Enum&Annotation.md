@@ -4,7 +4,7 @@
 2. Enum constants make readable string output.
 3. Provide compile-time type safety.
 4. Enum is singleton.
-5. 
+5. **To associate data with enum constants, declare instance fields and write a constructor that takes the data and stores it in the fields.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTEzMTExMV19
+eyJoaXN0b3J5IjpbMTE0NjAwNjIzMF19
 -->
