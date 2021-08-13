@@ -22,7 +22,18 @@ public enum Operation {
 8. Enum types have an automatically generated valueOf(String) method that translates a constant’s name into the constant itself.
 9. Don't use switch case or if else if behavior of function change follow enum respectively. Switches on enums are good for augmenting enum types with constant-specific behavior.
 10. Use enums any time you need a set of constants whose members are known at compile time. 
+
+#### Advice 2: Use instance field instead of ordinals
+```java
+// Abuse of ordinal to derive an associated value - DON'T DO THIS
+
+ public enum Ensemble {
+	 SOLO,   DUET,   TRIO, QUARTET, QUINTET,
+     SEXTET, SEPTET, OCTET, NONET,  DECTET; 
+
+	public int numberOfMusicians() { return ordinal() + 1; } }
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMzMxMTg4LDE1NTMyNjQwOTgsLTIxMz
-g0MTM3ODNdfQ==
+eyJoaXN0b3J5IjpbLTU0MDU4Njg1MiwxNTUzMjY0MDk4LC0yMT
+M4NDEzNzgzXX0=
 -->
