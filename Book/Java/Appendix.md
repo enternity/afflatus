@@ -5,7 +5,7 @@
 - [ ] Method common to all objects 37
 - [ ] Classes and Interfaces 73
 - [ ] Generic 117
-- [ ] _Enum and Annotation 157
+- [ ] _**(In Progress)**_ Enum and Annotation 157
 - [ ] Lambda and Stream 193
 - [ ] Method 227
 - [ ] General Programin 261
@@ -14,5 +14,5 @@
 - [ ] Serialization 339
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDk0NjcwNCwtMTc5MDI0NTY4NV19
+eyJoaXN0b3J5IjpbLTYxMjA1MDU2MCwtMTc5MDI0NTY4NV19
 -->
