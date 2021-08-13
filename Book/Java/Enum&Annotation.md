@@ -60,9 +60,22 @@ public interface Operation {
 	double apply(double x, double y);
 }
 
-
+public enum BasicOperation implements Operation {
+	PLUS("+") {
+		public double apply(double x, double y) {
+			return x + y;
+		}
+	}
+	// ....
+	private final String symbol;
+	BasicOperation(String symbol) {
+		this.symbol = symbol;
+	}
+	
+	@Ov
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTcxODkwMzMsLTEyODczNTg2NDksMT
-U1MzI2NDA5OCwtMjEzODQxMzc4M119
+eyJoaXN0b3J5IjpbLTg5NjkwMDM5NywtMTI4NzM1ODY0OSwxNT
+UzMjY0MDk4LC0yMTM4NDEzNzgzXX0=
 -->
