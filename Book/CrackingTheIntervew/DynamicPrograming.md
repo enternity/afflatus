@@ -5,7 +5,10 @@
 |Optimal substructure property|https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/|
 
 
+# Long common sequence
+> We have formula :
 
+$$
 
 # Leet code complete problem tag [Dynamic Programing](https://leetcode.com/problemset/all/?page=2&topicSlugs=dynamic-programming)
 
@@ -13,6 +16,6 @@
 |:---|:---|:---:|
 |[Is subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|:white_check_mark:|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk0MzIyOCwtMTQ3NDgyNTc2LDEzMj
-AzMzQ0MDYsMTQzMTAyNTc1M119
+eyJoaXN0b3J5IjpbMTU0NTk0MjE3LC0yMDk5NDMyMjgsLTE0Nz
+Q4MjU3NiwxMzIwMzM0NDA2LDE0MzEwMjU3NTNdfQ==
 -->
