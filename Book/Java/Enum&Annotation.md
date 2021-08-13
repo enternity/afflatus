@@ -6,6 +6,15 @@
 4. Enum is singleton.
 5. **To associate data with enum constants, declare instance fields and write a constructor that takes the data and stores it in the fields.**
 6. Some behaviors associated with enum constants may need to be used only from within the class or package in which the enum is defined. Such behaviors are best implemented as private or package-private methods.
+7. Declare abstract method if each enum have specific behavior.
+Example :
+```java
+public enum Operation {  
+PLUS {publicdoubleapply(doublex,doubley){returnx+y;}}, MINUS {public double apply(double x, double y){return x - y;}}, TIMES {public double apply(double x, double y){return x * y;}}, DIVIDE{public double apply(double x, double y){return x / y;}};
+
+ public abstract double apply(double x, double y);
+   }
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY5MDM1ODldfQ==
+eyJoaXN0b3J5IjpbLTY2NjMyMzAxNV19
 -->
