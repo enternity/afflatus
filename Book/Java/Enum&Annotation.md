@@ -84,7 +84,9 @@ public enum BasicOperation implements Operation {
 # ANNOTATION
 
 #### Advice 1 : Prefer annotations instead of naming patterns
+#### Advice 2 :
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk2NTAyNTQsMjEyOTIyMzYyMywtMT
-I4NzM1ODY0OSwxNTUzMjY0MDk4LC0yMTM4NDEzNzgzXX0=
+eyJoaXN0b3J5IjpbMTM4NDcxNDU3NiwtMTMxOTY1MDI1NCwyMT
+I5MjIzNjIzLC0xMjg3MzU4NjQ5LDE1NTMyNjQwOTgsLTIxMzg0
+MTM3ODNdfQ==
 -->
