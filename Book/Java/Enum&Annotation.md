@@ -25,15 +25,29 @@ public enum Operation {
 
 #### Advice 2: Use instance field instead of ordinals
 ```java
-// Abuse of ordinal to derive an associated value - DON'T DO THIS
+// Abuse of ordinal to derive an associated value 
+// DON'T DO THIS
 
  public enum Ensemble {
 	 SOLO,   DUET,   TRIO, QUARTET, QUINTET,
      SEXTET, SEPTET, OCTET, NONET,  DECTET; 
+     
+	 public int numberOfMusicians() { return ordinal() + 1; }
+}
+```
+1. Never derive a value associated with an enum from its ordinal; store it in an instance field instead
+```java
+public enum Ensemble {
+	SOLO(1), DUET(2), TRIO(3), QUARTET(4), QUINTET(5),
+       SEXTET(6), SEPTET(7), OCTET(8), DOUBLE_QUARTET(8),
+       NONET(9), DECTET(10), TRIPLE_QUARTET(12); 
 
-	public int numberOfMusicians() { return ordinal() + 1; } }
+	private final int numberOfMusicians;  
+Ensemble(int size) { this.numberOfMusicians = size; } public int numberOfMusicians() { return numberOfMusicians; }
+
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDU4Njg1MiwxNTUzMjY0MDk4LC0yMT
-M4NDEzNzgzXX0=
+eyJoaXN0b3J5IjpbLTE4NTc3NjQ2OTcsMTU1MzI2NDA5OCwtMj
+EzODQxMzc4M119
 -->
