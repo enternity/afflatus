@@ -11,7 +11,8 @@
 $lcs(a_i, b_j) =  
   \begin{cases}
  0 & \quad  \text{if } i \text{ or} j \text{ equal }0\\
-  lcs(a_{i-1}, b_{j-1}) & \qua \text{if } 
+  lcs(a_{i-1}, b_{j-1}) & \quad \text{if } a_i=b_j \\
+  \max{(lcs(a_i), lcs(b_j))}
   \end{cases}$
 
 # Leet code complete problem tag [Dynamic Programing](https://leetcode.com/problemset/all/?page=2&topicSlugs=dynamic-programming)
@@ -20,6 +21,6 @@ $lcs(a_i, b_j) =
 |:---|:---|:---:|
 |[Is subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|:white_check_mark:|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTY3MTQyLC0yMDk5NDMyMjgsLTE0Nz
+eyJoaXN0b3J5IjpbNzQ5Mjc1NjYyLC0yMDk5NDMyMjgsLTE0Nz
 Q4MjU3NiwxMzIwMzM0NDA2LDE0MzEwMjU3NTNdfQ==
 -->
