@@ -20,6 +20,8 @@ public enum Operation {
 ```
 
 8. Enum types have an automatically generated valueOf(String) method that translates a constant’s name into the constant itself.
+9. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzg0MTM3ODNdfQ==
+eyJoaXN0b3J5IjpbLTE2NzIxNDI3MDIsLTIxMzg0MTM3ODNdfQ
+==
 -->
