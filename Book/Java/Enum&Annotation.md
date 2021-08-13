@@ -82,7 +82,9 @@ public enum BasicOperation implements Operation {
 1. While you cannot write an extensible enum type, you can emulate it by writing an interface to accompany a basic enum type that implements the interface
 
 # ANNOTATION
+
+#### Adi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTIyMzYyMywtMTI4NzM1ODY0OSwxNT
-UzMjY0MDk4LC0yMTM4NDEzNzgzXX0=
+eyJoaXN0b3J5IjpbLTk1Nzc5MzYwMywyMTI5MjIzNjIzLC0xMj
+g3MzU4NjQ5LDE1NTMyNjQwOTgsLTIxMzg0MTM3ODNdfQ==
 -->
