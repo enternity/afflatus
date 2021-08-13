@@ -72,10 +72,13 @@ public enum BasicOperation implements Operation {
 		this.symbol = symbol;
 	}
 	
-	@Ov
+	@Override
+	public String toString() {
+		return this.symbol;
+	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjkwMDM5NywtMTI4NzM1ODY0OSwxNT
+eyJoaXN0b3J5IjpbLTE0Mjc5ODYzOCwtMTI4NzM1ODY0OSwxNT
 UzMjY0MDk4LC0yMTM4NDEzNzgzXX0=
 -->
