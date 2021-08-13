@@ -1,5 +1,6 @@
 |Article| Link|
 |:--|:--|
+|_**(In-progress)**_ Understanding dynamic programing|https://towardsdatascience.com/understanding-dynamic-programming-75238de0db0d|
 |**Must Read** Dynamic Programing Pattern|https://patterns.eecs.berkeley.edu/?page_id=416|
 |Overlapping subproblems property in DP|https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/|
 |Optimal substructure property|https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/|
@@ -21,7 +22,7 @@ $lcs(a_i, b_j) =
 |:---|:---:|:---:|:---:|
 |[Is subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/IsSubSequence_easy.py)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTY0ODA1NiwtMTAzOTA4NjQyNSwtMj
-A5OTQzMjI4LC0xNDc0ODI1NzYsMTMyMDMzNDQwNiwxNDMxMDI1
-NzUzXX0=
+eyJoaXN0b3J5IjpbLTc4NTYwMzczOSwxODUxNjQ4MDU2LC0xMD
+M5MDg2NDI1LC0yMDk5NDMyMjgsLTE0NzQ4MjU3NiwxMzIwMzM0
+NDA2LDE0MzEwMjU3NTNdfQ==
 -->
