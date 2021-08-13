@@ -51,7 +51,9 @@ public enum Ensemble {
 	}
 }
 ```
+
+#### Advice 3 : use 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzQ0MDY0NywxNTUzMjY0MDk4LC0yMT
+eyJoaXN0b3J5IjpbMTU4MDE3NzY3OSwxNTUzMjY0MDk4LC0yMT
 M4NDEzNzgzXX0=
 -->
