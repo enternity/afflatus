@@ -52,8 +52,9 @@ public enum Ensemble {
 }
 ```
 
-#### Advice 3 : use 
+#### Advice 3 : Use EnumSet instead of bit fields
+#### Advice 4 : Use EnumMap instead of ordinal indexing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDE3NzY3OSwxNTUzMjY0MDk4LC0yMT
-M4NDEzNzgzXX0=
+eyJoaXN0b3J5IjpbLTEyODczNTg2NDksMTU1MzI2NDA5OCwtMj
+EzODQxMzc4M119
 -->
