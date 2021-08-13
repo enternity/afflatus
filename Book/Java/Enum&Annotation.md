@@ -20,7 +20,9 @@ public enum Operation {
 ```
 
 8. Enum types have an automatically generated valueOf(String) method that translates a constant’s name into the constant itself.
-9. Don't use switch case or if else if behavior of function change follow enum respectively. Switches on enums are good for augmenting enum types with constant-specific behavior
+9. Don't use switch case or if else if behavior of function change follow enum respectively. Switches on enums are good for augmenting enum types with constant-specific behavior.
+10. Use enums any time you need a set of constants whose members are known at compile time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzI2NDA5OCwtMjEzODQxMzc4M119
+eyJoaXN0b3J5IjpbMTkwMDM1MzY1MiwxNTUzMjY0MDk4LC0yMT
+M4NDEzNzgzXX0=
 -->
