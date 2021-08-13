@@ -6,18 +6,13 @@
 - [ ] Classes and Interfaces 73
 - [ ] Generic 117
 - [ ] Enum and Annotation 157
-- [ ] 
-- [ ] Data access in Spring with JPA2 393
-- [ ] Transaction Management 467
-- [ ] Validation type conversion and Formatting 509
-- [ ] Task scheduling 537
-- [ ] Using Spring Remoting 615
-- [ ] Spring testing 639
-- [ ] Scripting support in Spring 639
-- [ ] Application Monitoring 655
-- [ ] Web Application 665
-- [ ] Web socket 751
-- [ ] Spring projects: Batch, Integration, XD and more 773
+- [ ] Lambda and Stream 193
+- [ ] Method 227
+- [ ] General Programin 261
+- [ ] Exception 293
+- [ ] Concurrency 311
+- [ ] Serialization 339
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDExNTAxOV19
+eyJoaXN0b3J5IjpbLTE3OTAyNDU2ODVdfQ==
 -->
