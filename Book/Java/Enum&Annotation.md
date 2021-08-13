@@ -55,7 +55,14 @@ public enum Ensemble {
 #### Advice 3 : Use EnumSet instead of bit fields (STILL CONFUSE)
 #### Advice 4 : Use EnumMap instead of ordinal indexing  (STILL CONFUSE)
 #### Advice 5 : Emulate extensible enums with interfaces
+```java
+public interface Operation {
+	double apply(double x, double y);
+}
+
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE2MjIxMzYsLTEyODczNTg2NDksMT
+eyJoaXN0b3J5IjpbLTIwNTcxODkwMzMsLTEyODczNTg2NDksMT
 U1MzI2NDA5OCwtMjEzODQxMzc4M119
 -->
