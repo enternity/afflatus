@@ -18,6 +18,8 @@ public enum Operation {
 	public abstract double apply(double x, double y);
 }
 ```
+
+8. Enum types have an automatically generated valueOf(String) method that translates a constant’s name into the constant itself.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDEyNjI5MjddfQ==
+eyJoaXN0b3J5IjpbLTIxMzg0MTM3ODNdfQ==
 -->
