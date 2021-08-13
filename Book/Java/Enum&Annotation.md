@@ -10,11 +10,14 @@
 Example :
 ```java
 public enum Operation {  
-PLUS {publicdoubleapply(doublex,doubley){returnx+y;}}, MINUS {public double apply(double x, double y){return x - y;}}, TIMES {public double apply(double x, double y){return x * y;}}, DIVIDE{public double apply(double x, double y){return x / y;}};
+	PLUS {publicdoubleapply(doublex,doubley){returnx+y;}}, 
+	MINUS {public double apply(double x, double y){return x - y;}}, 
+	TIMES {public double apply(double x, double y){return x * y;}}, 
+	DIVIDE{public double apply(double x, double y){return x / y;}};
 
- public abstract double apply(double x, double y);
-   }
+	public abstract double apply(double x, double y);
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjMyMzAxNV19
+eyJoaXN0b3J5IjpbLTE3MDEyNjI5MjddfQ==
 -->
