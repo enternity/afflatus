@@ -79,7 +79,8 @@ public enum BasicOperation implements Operation {
 	}
 }
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNzc3MzU4LC0xMjg3MzU4NjQ5LDE1NT
-MyNjQwOTgsLTIxMzg0MTM3ODNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTEzMDkxODgsLTEyODczNTg2NDksMT
+U1MzI2NDA5OCwtMjEzODQxMzc4M119
 -->
