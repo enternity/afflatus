@@ -9,12 +9,7 @@
 # Long common sequence
 > With string $a = (a_0,a_1, \ldots, a_x)$ and $b= (b_0,b_1, \ldots, b_x)$
 
-$lcs(a_i, b_j) =  
-  \begin{cases}
- 0 & \quad  \text{if } i \text{ or} j \text{ equal }0\\
-  lcs(a_{i-1}, b_{j-1}) & \quad \text{if } a_i=b_j \\
-  \max{(lcs(a_{i-1},b_j), lcs(a_i, b_{j-1}))} & \quad \text{if } a_i \neq b_j
-  \end{cases}$
+<img src=""/>
 
 # Leet code complete problem tag [Dynamic Programing](https://leetcode.com/problemset/all/?page=2&topicSlugs=dynamic-programming)
 
@@ -22,7 +17,7 @@ $lcs(a_i, b_j) =
 |:---|:---:|:---:|:---:|
 |[Is subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/IsSubSequence_easy.py)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTYwMzczOSwxODUxNjQ4MDU2LC0xMD
-M5MDg2NDI1LC0yMDk5NDMyMjgsLTE0NzQ4MjU3NiwxMzIwMzM0
-NDA2LDE0MzEwMjU3NTNdfQ==
+eyJoaXN0b3J5IjpbMTcwNDgyNjY4NiwtNzg1NjAzNzM5LDE4NT
+E2NDgwNTYsLTEwMzkwODY0MjUsLTIwOTk0MzIyOCwtMTQ3NDgy
+NTc2LDEzMjAzMzQ0MDYsMTQzMTAyNTc1M119
 -->
