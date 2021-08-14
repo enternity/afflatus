@@ -9,7 +9,9 @@
 # Long common sequence
 > With string $a = (a_0,a_1, \ldots, a_x)$ and $b= (b_0,b_1, \ldots, b_x)$
 
-<img src=""/>
+$\text{With }a = (a_0, a_1,\ldots, a_x) \text{ and }b= (a_0, a_1,\ldots, b_y)$
+
+<img src="https://i.imgur.com/JkVGayV.png"/>
 
 # Leet code complete problem tag [Dynamic Programing](https://leetcode.com/problemset/all/?page=2&topicSlugs=dynamic-programming)
 
@@ -17,7 +19,7 @@
 |:---|:---:|:---:|:---:|
 |[Is subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/IsSubSequence_easy.py)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDgyNjY4NiwtNzg1NjAzNzM5LDE4NT
+eyJoaXN0b3J5IjpbMTc5OTE2MDIxMSwtNzg1NjAzNzM5LDE4NT
 E2NDgwNTYsLTEwMzkwODY0MjUsLTIwOTk0MzIyOCwtMTQ3NDgy
 NTc2LDEzMjAzMzQ0MDYsMTQzMTAyNTc1M119
 -->
