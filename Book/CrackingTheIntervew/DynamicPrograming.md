@@ -17,9 +17,10 @@
 |[Counting Bit](https://leetcode.com/problems/counting-bits/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_CountingBit_easy.py)|
 |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_Fibonacci_easy.py)|
 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_MinCostClimbingStairs_easy.py)|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjk5MjAzNzQsMzc3MTg5NDAxLDU1MD
-Q5NTMwMiwxMDgyNjE4NjU2LC03ODU2MDM3MzksMTg1MTY0ODA1
-NiwtMTAzOTA4NjQyNSwtMjA5OTQzMjI4LC0xNDc0ODI1NzYsMT
-MyMDMzNDQwNiwxNDMxMDI1NzUzXX0=
+eyJoaXN0b3J5IjpbLTE5OTkwMTEyOCwtMTM2OTkyMDM3NCwzNz
+cxODk0MDEsNTUwNDk1MzAyLDEwODI2MTg2NTYsLTc4NTYwMzcz
+OSwxODUxNjQ4MDU2LC0xMDM5MDg2NDI1LC0yMDk5NDMyMjgsLT
+E0NzQ4MjU3NiwxMzIwMzM0NDA2LDE0MzEwMjU3NTNdfQ==
 -->
