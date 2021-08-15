@@ -18,9 +18,11 @@
 |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_Fibonacci_easy.py)|
 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_MinCostClimbingStairs_easy.py)|
 |[Triple Fibonacci](https://leetcode.com/problems/n-th-tribonacci-number/submissions/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_TrippleFibonacci_easy.py)|
+||||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA4NDM2NjAsLTEzNjk5MjAzNzQsMz
-c3MTg5NDAxLDU1MDQ5NTMwMiwxMDgyNjE4NjU2LC03ODU2MDM3
-MzksMTg1MTY0ODA1NiwtMTAzOTA4NjQyNSwtMjA5OTQzMjI4LC
-0xNDc0ODI1NzYsMTMyMDMzNDQwNiwxNDMxMDI1NzUzXX0=
+eyJoaXN0b3J5IjpbMTk5MzA2ODQ1MCwtMTM0MDg0MzY2MCwtMT
+M2OTkyMDM3NCwzNzcxODk0MDEsNTUwNDk1MzAyLDEwODI2MTg2
+NTYsLTc4NTYwMzczOSwxODUxNjQ4MDU2LC0xMDM5MDg2NDI1LC
+0yMDk5NDMyMjgsLTE0NzQ4MjU3NiwxMzIwMzM0NDA2LDE0MzEw
+MjU3NTNdfQ==
 -->
