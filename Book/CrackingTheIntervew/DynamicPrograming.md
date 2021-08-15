@@ -16,9 +16,9 @@
 |[Is subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/IsSubSequence_easy.py)|
 |[Counting Bit](https://leetcode.com/problems/counting-bits/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_CountingBit_easy.py)|
 |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_Fibonacci_easy.py)|
-||||
+|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_MinCostClimbingStairs_easy.py)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjk3MjgzNzcsMzc3MTg5NDAxLDU1MD
+eyJoaXN0b3J5IjpbLTEzNjk5MjAzNzQsMzc3MTg5NDAxLDU1MD
 Q5NTMwMiwxMDgyNjE4NjU2LC03ODU2MDM3MzksMTg1MTY0ODA1
 NiwtMTAzOTA4NjQyNSwtMjA5OTQzMjI4LC0xNDc0ODI1NzYsMT
 MyMDMzNDQwNiwxNDMxMDI1NzUzXX0=
