@@ -16,9 +16,10 @@
 |[Is subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/IsSubSequence_easy.py)|
 |[Counting Bit](https://leetcode.com/problems/counting-bits/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_CountingBit_easy.py)|
 |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_Fibonacci_easy.py)|
+||||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3MTg5NDAxLDU1MDQ5NTMwMiwxMDgyNj
-E4NjU2LC03ODU2MDM3MzksMTg1MTY0ODA1NiwtMTAzOTA4NjQy
-NSwtMjA5OTQzMjI4LC0xNDc0ODI1NzYsMTMyMDMzNDQwNiwxND
-MxMDI1NzUzXX0=
+eyJoaXN0b3J5IjpbLTEzNjk3MjgzNzcsMzc3MTg5NDAxLDU1MD
+Q5NTMwMiwxMDgyNjE4NjU2LC03ODU2MDM3MzksMTg1MTY0ODA1
+NiwtMTAzOTA4NjQyNSwtMjA5OTQzMjI4LC0xNDc0ODI1NzYsMT
+MyMDMzNDQwNiwxNDMxMDI1NzUzXX0=
 -->
