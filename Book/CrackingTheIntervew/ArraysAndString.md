@@ -56,11 +56,12 @@ the original string. You can assume the string has only uppercase and lowercase 
 |:---|:---:|:---:|:---:|
 |[Remove duplicate from sort array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|:white_check_mark:|
 |[Is anagram](https://leetcode.com/problems/valid-anagram/submissions/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/String_IsAnagram_easy.py)|
-|[Is palindrome]()|||
+|[Is palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|:white_check_mark:| |[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/2Pointers_isPalindrome_easy.py)|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTgyOTc3NiwtNDczNjg1NTAwLDU1MT
-Q4OTA2NywtNjIzNzE4NzU1LDEzMjg1NzIyOTEsMTQxOTIxNTkz
-Miw1MDUxNzY0MiwtMTUxOTk1NzAwOCwtMjYyNjY3NzQ0LC0xMz
-A0Mjk4OTczLC0xOTIxNTg1NTMsLTMyODA4NDM1OV19
+eyJoaXN0b3J5IjpbLTI4MzA2MDc3NCwxODg1ODI5Nzc2LC00Nz
+M2ODU1MDAsNTUxNDg5MDY3LC02MjM3MTg3NTUsMTMyODU3MjI5
+MSwxNDE5MjE1OTMyLDUwNTE3NjQyLC0xNTE5OTU3MDA4LC0yNj
+I2Njc3NDQsLTEzMDQyOTg5NzMsLTE5MjE1ODU1MywtMzI4MDg0
+MzU5XX0=
 -->
