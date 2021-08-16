@@ -19,10 +19,11 @@
 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_MinCostClimbingStairs_easy.py)|
 |[Triple Fibonacci](https://leetcode.com/problems/n-th-tribonacci-number/submissions/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_TrippleFibonacci_easy.py)|
 |[Jump game](https://leetcode.com/problems/jump-game/)|Medium|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/Greedy_JumpGame_medium.py)|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDM4NTAyNywtMTM0MDg0MzY2MCwtMT
-M2OTkyMDM3NCwzNzcxODk0MDEsNTUwNDk1MzAyLDEwODI2MTg2
-NTYsLTc4NTYwMzczOSwxODUxNjQ4MDU2LC0xMDM5MDg2NDI1LC
-0yMDk5NDMyMjgsLTE0NzQ4MjU3NiwxMzIwMzM0NDA2LDE0MzEw
-MjU3NTNdfQ==
+eyJoaXN0b3J5IjpbMTA0MjA1MTgyNSwxOTc0Mzg1MDI3LC0xMz
+QwODQzNjYwLC0xMzY5OTIwMzc0LDM3NzE4OTQwMSw1NTA0OTUz
+MDIsMTA4MjYxODY1NiwtNzg1NjAzNzM5LDE4NTE2NDgwNTYsLT
+EwMzkwODY0MjUsLTIwOTk0MzIyOCwtMTQ3NDgyNTc2LDEzMjAz
+MzQ0MDYsMTQzMTAyNTc1M119
 -->

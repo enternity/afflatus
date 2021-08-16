@@ -52,14 +52,14 @@ the original string. You can assume the string has only uppercase and lowercase 
 
 # Leet code complete problem tag [Array](https://leetcode.com/problemset/all/?page=3&topicSlugs=array)
 
-|Link|Difficult| Completed|
-|:---|:---|:---:|
+|Link|Difficult| Completed| Source|
+|:---|:---:|:---:|:---:|
 |[Remove duplicate from sort array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|:white_check_mark:|
-
+|[Is anagram](https://leetcode.com/problems/valid-anagram/submissions/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/String_IsAnagram_easy.py)|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNDg5MDY3LC02MjM3MTg3NTUsMTMyOD
-U3MjI5MSwxNDE5MjE1OTMyLDUwNTE3NjQyLC0xNTE5OTU3MDA4
-LC0yNjI2Njc3NDQsLTEzMDQyOTg5NzMsLTE5MjE1ODU1MywtMz
-I4MDg0MzU5XX0=
+eyJoaXN0b3J5IjpbLTQ3MzY4NTUwMCw1NTE0ODkwNjcsLTYyMz
+cxODc1NSwxMzI4NTcyMjkxLDE0MTkyMTU5MzIsNTA1MTc2NDIs
+LTE1MTk5NTcwMDgsLTI2MjY2Nzc0NCwtMTMwNDI5ODk3MywtMT
+kyMTU4NTUzLC0zMjgwODQzNTldfQ==
 -->
