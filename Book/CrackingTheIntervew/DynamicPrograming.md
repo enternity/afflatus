@@ -19,12 +19,12 @@
 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_MinCostClimbingStairs_easy.py)|
 |[Triple Fibonacci](https://leetcode.com/problems/n-th-tribonacci-number/submissions/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_TrippleFibonacci_easy.py)|
 |[Jump game](https://leetcode.com/problems/jump-game/)|Medium|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/Greedy_JumpGame_medium.py)|
-|[House Robber](https://leetcode.com/problems/house-robber/)|Medium|:white_check_mark:|[here](:white_check_mark:)|
-|||||
+|[House Robber](https://leetcode.com/problems/house-robber/)|Medium|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_HouseRobber_medium.py)|
+|[Min Num total](https://leetcode.com/problems/triangle/)|Medium|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_MinNumTotal_medium.py)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIyNzE2NzUsMjA4Mzg2MDc0MSwxOT
-c0Mzg1MDI3LC0xMzQwODQzNjYwLC0xMzY5OTIwMzc0LDM3NzE4
-OTQwMSw1NTA0OTUzMDIsMTA4MjYxODY1NiwtNzg1NjAzNzM5LD
-E4NTE2NDgwNTYsLTEwMzkwODY0MjUsLTIwOTk0MzIyOCwtMTQ3
-NDgyNTc2LDEzMjAzMzQ0MDYsMTQzMTAyNTc1M119
+eyJoaXN0b3J5IjpbLTczNzMxNDYxNCwyMDgzODYwNzQxLDE5Nz
+QzODUwMjcsLTEzNDA4NDM2NjAsLTEzNjk5MjAzNzQsMzc3MTg5
+NDAxLDU1MDQ5NTMwMiwxMDgyNjE4NjU2LC03ODU2MDM3MzksMT
+g1MTY0ODA1NiwtMTAzOTA4NjQyNSwtMjA5OTQzMjI4LC0xNDc0
+ODI1NzYsMTMyMDMzNDQwNiwxNDMxMDI1NzUzXX0=
 -->
