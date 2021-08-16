@@ -19,9 +19,9 @@
 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_MinCostClimbingStairs_easy.py)|
 |[Triple Fibonacci](https://leetcode.com/problems/n-th-tribonacci-number/submissions/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_TrippleFibonacci_easy.py)|
 |[Jump game](https://leetcode.com/problems/jump-game/)|Medium|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/Greedy_JumpGame_medium.py)|
-|[House Robber](https://leetcode.com/problems/house-robber/)|Medium|:white_check_mark:||
+|[House Robber](https://leetcode.com/problems/house-robber/)|Medium|:white_check_mark:|[here](:white_check_mark:)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjY4Nzc2OCwxOTc0Mzg1MDI3LC0xMz
+eyJoaXN0b3J5IjpbMjA4Mzg2MDc0MSwxOTc0Mzg1MDI3LC0xMz
 QwODQzNjYwLC0xMzY5OTIwMzc0LDM3NzE4OTQwMSw1NTA0OTUz
 MDIsMTA4MjYxODY1NiwtNzg1NjAzNzM5LDE4NTE2NDgwNTYsLT
 EwMzkwODY0MjUsLTIwOTk0MzIyOCwtMTQ3NDgyNTc2LDEzMjAz
