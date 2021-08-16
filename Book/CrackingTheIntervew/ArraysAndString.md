@@ -56,10 +56,11 @@ the original string. You can assume the string has only uppercase and lowercase 
 |:---|:---:|:---:|:---:|
 |[Remove duplicate from sort array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|:white_check_mark:|
 |[Is anagram](https://leetcode.com/problems/valid-anagram/submissions/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/String_IsAnagram_easy.py)|
+|[Is palindrome]()|||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzY4NTUwMCw1NTE0ODkwNjcsLTYyMz
-cxODc1NSwxMzI4NTcyMjkxLDE0MTkyMTU5MzIsNTA1MTc2NDIs
-LTE1MTk5NTcwMDgsLTI2MjY2Nzc0NCwtMTMwNDI5ODk3MywtMT
-kyMTU4NTUzLC0zMjgwODQzNTldfQ==
+eyJoaXN0b3J5IjpbMTg4NTgyOTc3NiwtNDczNjg1NTAwLDU1MT
+Q4OTA2NywtNjIzNzE4NzU1LDEzMjg1NzIyOTEsMTQxOTIxNTkz
+Miw1MDUxNzY0MiwtMTUxOTk1NzAwOCwtMjYyNjY3NzQ0LC0xMz
+A0Mjk4OTczLC0xOTIxNTg1NTMsLTMyODA4NDM1OV19
 -->
