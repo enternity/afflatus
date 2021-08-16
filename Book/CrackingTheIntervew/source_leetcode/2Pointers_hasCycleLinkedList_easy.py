@@ -10,6 +10,7 @@ class Solution:
             return False
         slow = head
         fast = head.next
+        # floyd algorithm
         while slow != fast:
             if not fast or not fast.next:
                 return False
