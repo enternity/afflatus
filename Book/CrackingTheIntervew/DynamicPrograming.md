@@ -21,10 +21,12 @@
 |[Jump game](https://leetcode.com/problems/jump-game/)|Medium|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/Greedy_JumpGame_medium.py)|
 |[House Robber](https://leetcode.com/problems/house-robber/)|Medium|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_HouseRobber_medium.py)|
 |[Min Num total](https://leetcode.com/problems/triangle/)|Medium|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_MinNumTotal_medium.py)|
+|[Long Increasing Sequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/DP_LongIncreaseSequence_meidum.py)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzMxNDYxNCwyMDgzODYwNzQxLDE5Nz
-QzODUwMjcsLTEzNDA4NDM2NjAsLTEzNjk5MjAzNzQsMzc3MTg5
-NDAxLDU1MDQ5NTMwMiwxMDgyNjE4NjU2LC03ODU2MDM3MzksMT
-g1MTY0ODA1NiwtMTAzOTA4NjQyNSwtMjA5OTQzMjI4LC0xNDc0
-ODI1NzYsMTMyMDMzNDQwNiwxNDMxMDI1NzUzXX0=
+eyJoaXN0b3J5IjpbMjE1ODEwNjE3LC03MzczMTQ2MTQsMjA4Mz
+g2MDc0MSwxOTc0Mzg1MDI3LC0xMzQwODQzNjYwLC0xMzY5OTIw
+Mzc0LDM3NzE4OTQwMSw1NTA0OTUzMDIsMTA4MjYxODY1NiwtNz
+g1NjAzNzM5LDE4NTE2NDgwNTYsLTEwMzkwODY0MjUsLTIwOTk0
+MzIyOCwtMTQ3NDgyNTc2LDEzMjAzMzQ0MDYsMTQzMTAyNTc1M1
+19
 -->
