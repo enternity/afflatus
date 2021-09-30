@@ -85,7 +85,7 @@ Dự đoán giá trị. Trong ví dụ này, là một neuron màu blue và tín
 $$\color{#21CBD6}s=W^{(3)}a^{(3)}$$
 ## Forward Propagation and Evaluation 
 
-<center><img src="https://miro.medium.com/max/1400/1*51X_xj8p-jO8-plMfsyajg.png"></center>
+<center><img src="https://i.imgur.com/3H3CVKl.png"></center>
 
 Đánh giá giữa $s$ và $y$ dựa vào ***cost function***. Có thể đơn ginả như *MSE* hay phức tạp như *cross-entropy*.
 $$C = cost(s,y)$$
@@ -127,11 +127,12 @@ end
 - $w,b$ là ma trận đại diện cho trọng số và biases. Tính toán đạo hàm $C$ trên $w,b$.
 - Dừng điều kiện khi gặp 1 *cost-function* là cực tiểu.
 
-<center><img src="https://miro.medium.com/max/1400/1*CxdjKFrE-Vww0KmI-3Z5sA.png"><br><i>Visualize backpropagation in Neuron Network</i></center>
+<center><img src="https://i.imgur.com/0tEPi9w.png"><br><i>Visualize backpropagation in Neuron Network</i></center>
 
 Trọng số $w_{22}^{(2)}$ liên kết với $a_2^2$ và $z_2^2$. Tính toán đạo hàm yêu cầu chain rule thông qua $z_2^3, a_2^3$
 
 $$\color{#21CBD6}\frac{\partial C}{\partial w_{22}^{(2)}}=\frac{\partial C}{\partial z_2^{(3)}}\cdot \frac{\partial z_2^{(3)}}{\partial w_{22}^{(2)}} = \frac{\partial C}{\partial a_2^{(3)}}\cdot\frac{\partial a_2^{(3)}}{\partial z_2^{(3)}}\cdot a_2^{(2)}=\frac{\partial C}{\partial a_2^{(3)}}\cdot f'(z_2^{(3)})\cdot a_2^{(2)}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzA5NTA3LDEzMzIzMTgyNzNdfQ==
+eyJoaXN0b3J5IjpbMTQxOTczNzY0NCwxMzg3MDk1MDcsMTMzMj
+MxODI3M119
 -->
