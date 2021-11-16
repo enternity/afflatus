@@ -12,10 +12,10 @@
 ## SUBJECTS:
 |**Topic**|**Target**|
 |:---:|:---|
-|_**[Clean Code]()**_||
+|_**[Clean Code](https://www.google.com/search?q=clean+code+pdf&oq=clean+code+pd)**_||
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODIyNTM0NSwxNjk1MDk4NDc4LDE0NT
+eyJoaXN0b3J5IjpbMTk1Mjc4MzYxOCwxNjk1MDk4NDc4LDE0NT
 AzMzI0MSwxNDU2NzgyNjc0XX0=
 -->
