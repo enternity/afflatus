@@ -16,10 +16,11 @@
 |_**[Algorithm & Data Structure](https://www.google.com/search?q=clean+code+pdf&oq=clean+code+pdf)**_|_Understand basic algorithms and data structure. Can solve **medium** problem on leetcode_ :kissing:|
 |_**Head first Design Pattern**_|_Understand some design pattern_|
 |_**SQL CookBook**_|_Deep understand SQL query & optimizing_|
-|_**Effective Java**_||
+|_**Effective Java**_|_Deep knowledge with Java style code, JVM, ecosystem, ..._|
+|_**Microservice Patterns**_|_Deep understand about microservice_|
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjIwNjk4MiwxNjk1MDk4NDc4LDE0NT
-AzMzI0MSwxNDU2NzgyNjc0XX0=
+eyJoaXN0b3J5IjpbOTMxMzgyNDY1LDE2OTUwOTg0NzgsMTQ1MD
+MzMjQxLDE0NTY3ODI2NzRdfQ==
 -->
