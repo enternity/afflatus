@@ -12,10 +12,11 @@
 ## SUBJECTS:
 |**Topic**|**Target**|
 |:---:|:---|
-|_**[Clean Code](https://www.google.com/search?q=clean+code+pdf&oq=clean+code+pd)**_||
+|_**[Clean Code](https://www.google.com/search?q=clean+code+pdf&oq=clean+code+pd)**_|_How to reviewer review my code without blame on me_|
+|_**Algorithm**_||
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Mjc4MzYxOCwxNjk1MDk4NDc4LDE0NT
-AzMzI0MSwxNDU2NzgyNjc0XX0=
+eyJoaXN0b3J5IjpbLTE4NTE5OTM5NzAsMTY5NTA5ODQ3OCwxND
+UwMzMyNDEsMTQ1Njc4MjY3NF19
 -->
