@@ -8,6 +8,10 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |_Microservice_   | _Algorithms_  |  _Clean Code & Design Pattern_ | _Java_  |  _SQL_ |_Review week & Advance topic in the week_|_Do what I want_|
 
+> **MUST BE**
+> ------
+> _**2 CONFERENCES EVERY  WEEK**_
+> _**1 RANDOM TOPIC CONFERENCE**_
 
 ## SUBJECTS:
 |**Topic**|**Target**|
@@ -21,6 +25,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzQ4NzkyNywxNjk1MDk4NDc4LDE0NT
-AzMzI0MSwxNDU2NzgyNjc0XX0=
+eyJoaXN0b3J5IjpbLTE4NDc0MTY0NjIsMTY5NTA5ODQ3OCwxND
+UwMzMyNDEsMTQ1Njc4MjY3NF19
 -->
