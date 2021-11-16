@@ -6,7 +6,7 @@
 
 |  Mon |  Tue | Wed  |  Thu |  Fri | Sat| Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|_Microservice_   | _Algorithms_  |   |   |   |
+|_Microservice_   | _Algorithms_  |  _Clean Code & Design Pattern_ | _Java_  |  _SQL_ |
 
 
 ## SUBJECTS:
@@ -21,6 +21,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjgxNTUxMjIsMTY5NTA5ODQ3OCwxND
-UwMzMyNDEsMTQ1Njc4MjY3NF19
+eyJoaXN0b3J5IjpbNTczNDExOTQ2LDE2OTUwOTg0NzgsMTQ1MD
+MzMjQxLDE0NTY3ODI2NzRdfQ==
 -->
