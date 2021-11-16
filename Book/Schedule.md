@@ -11,13 +11,15 @@
 
 ## SUBJECTS:
 |**Topic**|**Target**|
-|:---:|:---|
+|:---|:---|
 |_**[Clean Code](https://www.google.com/search?q=clean+code+pdf&oq=clean+code+pd)**_|_How to reviewer review my code without blame on me_ :joy:|
 |_**[Algorithm & Data Structure](https://www.google.com/search?q=clean+code+pdf&oq=clean+code+pdf)**_|_Understand basic algorithms and data structure. Can solve **medium** problem on leetcode_ :kissing:|
-|_**Head first **_||
+|_**Head first Design Pattern**_|_Understand some design pattern_|
+|_**SQL CookBook**_|_Deep understand SQL query & optimizing_|
+|_**Effective Java**_||
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTEyNzc4OCwxNjk1MDk4NDc4LDE0NT
+eyJoaXN0b3J5IjpbLTc4NjIwNjk4MiwxNjk1MDk4NDc4LDE0NT
 AzMzI0MSwxNDU2NzgyNjc0XX0=
 -->
