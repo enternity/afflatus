@@ -1,6 +1,6 @@
 # SCHEDULE
 > **EVERY DAY**
-> - 
+> -------
 > - **30 - 45 MINS FOR READING NON-TECH BOOK**
 > - **30 - 45 MINS FOR LEARNING ENGLISH: WRTING & SPEAKING**
 
@@ -9,6 +9,11 @@
 |   |   |   |   |   |
 
 
+## SUBJECTS:
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDMzMjQxLDE0NTY3ODI2NzRdfQ==
+eyJoaXN0b3J5IjpbMTY5NTA5ODQ3OCwxNDUwMzMyNDEsMTQ1Nj
+c4MjY3NF19
 -->
