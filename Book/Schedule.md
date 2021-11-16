@@ -1,10 +1,9 @@
 # SCHEDULE
-|  Mon |  Tue | Wed  |   |   |
+|  Mon |  Tue | Wed  |  Thu |  Fri |
 |:---:|:---:|:---:|---|---|
 |   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI0MjMwNzddfQ==
+eyJoaXN0b3J5IjpbMTQ3NTIyNDE5N119
 -->
