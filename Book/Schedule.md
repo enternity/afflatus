@@ -6,7 +6,7 @@
 
 |  Mon |  Tue | Wed  |  Thu |  Fri | Sat| Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|   |   |   |   |   |
+|_Microservice_   | _Algorithms_  |   |   |   |
 
 
 ## SUBJECTS:
@@ -21,6 +21,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMzgyNDY1LDE2OTUwOTg0NzgsMTQ1MD
-MzMjQxLDE0NTY3ODI2NzRdfQ==
+eyJoaXN0b3J5IjpbLTE2MjgxNTUxMjIsMTY5NTA5ODQ3OCwxND
+UwMzMyNDEsMTQ1Njc4MjY3NF19
 -->
