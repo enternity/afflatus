@@ -1,6 +1,6 @@
 > Reference from : https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf
 
-- [ ] Clean Code: 
+- [x] Clean Code: 
 - [ ] Meaningful Names
 - [ ] Functions
 - [ ] Comments
@@ -20,5 +20,6 @@
 - [ ] Smell and Heuristics
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTQ2Mjk2NiwxNDk4MDY4MjMzXX0=
+eyJoaXN0b3J5IjpbLTE2NzM3MzY0ODIsMTM5MTQ2Mjk2NiwxND
+k4MDY4MjMzXX0=
 -->
