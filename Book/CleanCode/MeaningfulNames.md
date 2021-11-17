@@ -10,7 +10,8 @@
 ### Avoid Encodings
 - No need [Hungarian Notation](https://en.wikipedia.org/wiki/Hungarian_notation) which is the past.
 - Also no need member prefixes.
-- We also don't need prefix for intef
+- We also don't need prefix for interfaces or abstract classes. Ex: ```IShapeFactory, or CShapeFactory```. 
+### Avoid Metal Mapping
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzOTEzMjQ3LC00MTk2Njk1ODhdfQ==
+eyJoaXN0b3J5IjpbLTEyMDYxMjczOSwtNDE5NjY5NTg4XX0=
 -->
