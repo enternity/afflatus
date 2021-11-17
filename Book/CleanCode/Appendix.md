@@ -1,4 +1,4 @@
-> Reference from https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997
+> Reference from : https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf
 
 - [ ] Introduction 1
 - [ ] Creating and Destroy Objects 5
@@ -14,5 +14,5 @@
 - [ ] Serialization 339
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODA2ODIzM119
+eyJoaXN0b3J5IjpbLTIwNjAwNjY2NDIsMTQ5ODA2ODIzM119
 -->
