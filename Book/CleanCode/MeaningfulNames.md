@@ -25,7 +25,10 @@
 - Avoid using the same word for two purposes.
 - Add meaningful context.
 ### Use Solution Domain Names.
-- Use computer science(CS) term, algorithm names, pattern names, math
+- Use computer science(CS) term, algorithm names, pattern names, math terms, and so forth.
+- Choosing technical names for those things is usually the most appropriate course
+### Use Problem Domain Names
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIyNTYyMDksLTQxOTY2OTU4OF19
+eyJoaXN0b3J5IjpbLTIxNjA5MDk3MSwtNDE5NjY5NTg4XX0=
 -->
