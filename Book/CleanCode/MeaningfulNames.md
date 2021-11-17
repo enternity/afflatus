@@ -8,8 +8,9 @@
 - When ever you write functions, classes. It's must be can called by name. Ex: ```generateRandomDate()``` instead of ```grd()```
 ### Use Searchable Names
 ### Avoid Encodings
-- Don't need [Hungarian Notation](https://en.wikipedia.org/wiki/Hungarian_notation) which is the past.
-- 
+- No need [Hungarian Notation](https://en.wikipedia.org/wiki/Hungarian_notation) which is the past.
+- Also no need member prefixes.
+- We also don't need prefix for intef
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjgxNTYxOSwtNDE5NjY5NTg4XX0=
+eyJoaXN0b3J5IjpbMzQzOTEzMjQ3LC00MTk2Njk1ODhdfQ==
 -->
