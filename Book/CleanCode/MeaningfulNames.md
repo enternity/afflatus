@@ -30,6 +30,8 @@
 ### Use Problem Domain Names
 - The code that has more to do with problem domain concepts should have names drawn from the problem domain.
 ### Add Meaningful Context
+### Don’t Add Gratuitous Context
+- In an imaginary application called “Gas Station Deluxe,” it is a bad idea to prefix every class with GSD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MjM5ODk0LC00MTk2Njk1ODhdfQ==
+eyJoaXN0b3J5IjpbNTcyMjc2ODA0LC00MTk2Njk1ODhdfQ==
 -->
