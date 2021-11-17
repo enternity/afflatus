@@ -14,7 +14,7 @@
 ### Avoid Metal Mapping
 - Clarity is a king. Professionals use their powers for good and write code that others can understand.
 ### Class Names.
-- Classes and Objects should have noun or noun phrase names like Customer, WikiPage, Account. 
+- Classes and Objects should have noun or noun phrase names like Customer, WikiPage, Account. Avoid words like Manager, Processor, Data and Info in the name of a class. A class name shouldn't be a verb.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc2OTMyNjcsLTQxOTY2OTU4OF19
+eyJoaXN0b3J5IjpbLTE4MzY3MzkzMjgsLTQxOTY2OTU4OF19
 -->
