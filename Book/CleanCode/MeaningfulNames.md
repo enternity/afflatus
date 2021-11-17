@@ -5,7 +5,9 @@
 - If names must be different, then they should also mean something different.
 - Distinguish names in such a way that the reader knows what the differences offer.
 ### Use Pronounceable Names
-- When ever you write functions, classes. It's must be can called by name. Ex: generateRandomDate() instead of ``grd()```
+- When ever you write functions, classes. It's must be can called by name. Ex: ```generateRandomDate()``` instead of ```grd()```
+### Use Searchable Names
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1NjU1NjU4XX0=
+eyJoaXN0b3J5IjpbLTQxOTY2OTU4OF19
 -->
