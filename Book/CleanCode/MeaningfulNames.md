@@ -12,6 +12,9 @@
 - Also no need member prefixes.
 - We also don't need prefix for interfaces or abstract classes. Ex: ```IShapeFactory, or CShapeFactory```. 
 ### Avoid Metal Mapping
+- Clarity is a king. Professionals use their powers for good and write code that others can understand.
+### Class Names.
+- Classes and Objects should have noun or noun phrase names like Customer, WikiPage, Account. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYxMjczOSwtNDE5NjY5NTg4XX0=
+eyJoaXN0b3J5IjpbLTEzMTc2OTMyNjcsLTQxOTY2OTU4OF19
 -->
