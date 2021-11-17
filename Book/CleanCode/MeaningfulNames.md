@@ -21,6 +21,9 @@
 ### Pick One Word Per Concept
 - Pick one word for one abstract concept and stick with it.
 - A consistent lexicon is a great boon to the programers who must use your code.
+### Don't Pun
+- Avoid using the same word for two purposes.
+- Add meaningful context.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODY5ODA4NywtNDE5NjY5NTg4XX0=
+eyJoaXN0b3J5IjpbMTk4MTg3MzM4OSwtNDE5NjY5NTg4XX0=
 -->
