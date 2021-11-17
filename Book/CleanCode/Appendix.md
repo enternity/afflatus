@@ -5,14 +5,17 @@
 - [ ] Functions
 - [ ] Comments
 - [ ] Formatting
-- [ ] Object d
-- [ ] _**(203 - In Progress)**_ Lambda and Stream 193
+- [ ] Objects and Data Structures
+- [ ] Error Handling
 - [ ] Method 227
-- [ ] General Programin 261
-- [ ] Exception 293
-- [ ] Concurrency 311
-- [ ] Serialization 339
+- [ ] Boundaries
+- [ ] Unit Tests
+- [ ] Classes
+- [ ] Systems
+- [ ] Emergence
+- [ ] Concurrency
+- [ ] Successive Refinement
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2Nzc5NDQ5LDE0OTgwNjgyMzNdfQ==
+eyJoaXN0b3J5IjpbNTY3NDg3ODQwLDE0OTgwNjgyMzNdfQ==
 -->
