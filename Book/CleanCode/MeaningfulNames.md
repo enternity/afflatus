@@ -24,6 +24,8 @@
 ### Don't Pun
 - Avoid using the same word for two purposes.
 - Add meaningful context.
+### Use Solution Domain Names.
+- Use computer science(CS) term, algorithm names, pattern names, math
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTg3MzM4OSwtNDE5NjY5NTg4XX0=
+eyJoaXN0b3J5IjpbLTE4NTIyNTYyMDksLTQxOTY2OTU4OF19
 -->
