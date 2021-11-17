@@ -7,7 +7,7 @@
 ### Use Pronounceable Names
 - When ever you write functions, classes. It's must be can called by name. Ex: ```generateRandomDate()``` instead of ```grd()```
 ### Use Searchable Names
-
+### Avoid Encodings
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTY2OTU4OF19
+eyJoaXN0b3J5IjpbMTg5NzQzNTA1NiwtNDE5NjY5NTg4XX0=
 -->
