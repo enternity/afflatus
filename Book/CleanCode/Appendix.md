@@ -15,7 +15,10 @@
 - [ ] Emergence
 - [ ] Concurrency
 - [ ] Successive Refinement
+- [ ] JUnit Internals
+- [ ] Refactoring SerialDate
+- [ ] Smell and Heuristics
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3NDg3ODQwLDE0OTgwNjgyMzNdfQ==
+eyJoaXN0b3J5IjpbMTM5MTQ2Mjk2NiwxNDk4MDY4MjMzXX0=
 -->
