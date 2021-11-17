@@ -18,7 +18,9 @@
 ### Method Names.
 - Method name should have verb or verb phrase
 - When constructors are overloaded, use static factory methods with names that describe the arguments
-- 
+### Pick One Word Per Concept
+- Pick one word for one abstract concept and stick with it.
+- A consistent lexicon is a great boon to the programers who must use your code.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjUxNTIzOCwtNDE5NjY5NTg4XX0=
+eyJoaXN0b3J5IjpbLTc1ODY5ODA4NywtNDE5NjY5NTg4XX0=
 -->
