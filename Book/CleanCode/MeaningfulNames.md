@@ -15,6 +15,10 @@
 - Clarity is a king. Professionals use their powers for good and write code that others can understand.
 ### Class Names.
 - Classes and Objects should have noun or noun phrase names like Customer, WikiPage, Account. Avoid words like Manager, Processor, Data and Info in the name of a class. A class name shouldn't be a verb.
+### Method Names.
+- Method name should have verb or verb phrase
+- When constructors are overloaded, use static factory methods with names that describe the arguments
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY3MzkzMjgsLTQxOTY2OTU4OF19
+eyJoaXN0b3J5IjpbLTY2MjUxNTIzOCwtNDE5NjY5NTg4XX0=
 -->
