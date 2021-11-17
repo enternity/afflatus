@@ -8,6 +8,8 @@
 - When ever you write functions, classes. It's must be can called by name. Ex: ```generateRandomDate()``` instead of ```grd()```
 ### Use Searchable Names
 ### Avoid Encodings
+- Don't need [Hungarian Notation](https://en.wikipedia.org/wiki/Hungarian_notation) which is the past.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzQzNTA1NiwtNDE5NjY5NTg4XX0=
+eyJoaXN0b3J5IjpbLTQyNjgxNTYxOSwtNDE5NjY5NTg4XX0=
 -->
