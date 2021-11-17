@@ -24,11 +24,12 @@
 ### Don't Pun
 - Avoid using the same word for two purposes.
 - Add meaningful context.
-### Use Solution Domain Names.
+### Use Solution Domain Names
 - Use computer science(CS) term, algorithm names, pattern names, math terms, and so forth.
 - Choosing technical names for those things is usually the most appropriate course
 ### Use Problem Domain Names
-
+- The code that has more to do with problem domain concepts should have names drawn from the problem domain.
+### Add Meaningful Context
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjA5MDk3MSwtNDE5NjY5NTg4XX0=
+eyJoaXN0b3J5IjpbNTM3MjM5ODk0LC00MTk2Njk1ODhdfQ==
 -->
