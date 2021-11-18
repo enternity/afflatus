@@ -32,6 +32,7 @@
 ### Add Meaningful Context
 ### Don’t Add Gratuitous Context
 - In an imaginary application called “Gas Station Deluxe,” it is a bad idea to prefix every class with GSD.
+- The names accountAddress and customerAddress are fine names for instances of the class Address but could be poor names for classes. Address is a fine name for a class. If I need to differentiate between MAC addresses, port addresses, and Web addresses, I might consider PostalAddress, MAC, and URI. The resulting names are more precise, which is the point of all naming.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMjc2ODA0LC00MTk2Njk1ODhdfQ==
+eyJoaXN0b3J5IjpbLTYzNDU2NzQ2MywtNDE5NjY5NTg4XX0=
 -->
