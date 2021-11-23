@@ -58,10 +58,11 @@ the original string. You can assume the string has only uppercase and lowercase 
 |[Is anagram](https://leetcode.com/problems/valid-anagram/submissions/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/String_IsAnagram_easy.py)|
 |[Is palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|:white_check_mark:| |[here](https://github.com/tdnhduc/afflatus/blob/master/Book/CrackingTheIntervew/source_leetcode/2Pointers_isPalindrome_easy.py)|
 |[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Easy|:white_check_mark:|[here](https://github.com/tdnhduc/afflatus/commit/78b7acacd2fa3a35c1a9fc3c193e3c06635beb00)
+|||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTM1MTEwOSw4NzMzMTg3MjMsLTI4Mz
-A2MDc3NCwxODg1ODI5Nzc2LC00NzM2ODU1MDAsNTUxNDg5MDY3
-LC02MjM3MTg3NTUsMTMyODU3MjI5MSwxNDE5MjE1OTMyLDUwNT
-E3NjQyLC0xNTE5OTU3MDA4LC0yNjI2Njc3NDQsLTEzMDQyOTg5
-NzMsLTE5MjE1ODU1MywtMzI4MDg0MzU5XX0=
+eyJoaXN0b3J5IjpbMTA3MjIxMzE3LDE2MTUzNTExMDksODczMz
+E4NzIzLC0yODMwNjA3NzQsMTg4NTgyOTc3NiwtNDczNjg1NTAw
+LDU1MTQ4OTA2NywtNjIzNzE4NzU1LDEzMjg1NzIyOTEsMTQxOT
+IxNTkzMiw1MDUxNzY0MiwtMTUxOTk1NzAwOCwtMjYyNjY3NzQ0
+LC0xMzA0Mjk4OTczLC0xOTIxNTg1NTMsLTMyODA4NDM1OV19
 -->
