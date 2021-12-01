@@ -2,7 +2,7 @@
 
 - [x] Clean Code: 
 - [x] Meaningful Names
-- [ ] Functions
+- [ ] Functions (76)
 - [ ] Comments
 - [ ] Formatting
 - [ ] Objects and Data Structures
