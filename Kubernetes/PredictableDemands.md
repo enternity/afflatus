@@ -6,8 +6,7 @@
 2. **Burstable** 
 	- Pod that has requests and limits defined, buy they are not equal (and limit is larger than requests as expected). pods that willing to consume more resources up to its limit when available. These pod are likely to be killed if no Best-Effort Pods remain in case the node is under incompressible.
 3. **Guaranteed**
-	- Pod that has an equal amount of request a
+	- Pod that has an equal amount of request and limit resources. These are the highest priority Pods.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAwMTk1MjAsLTE5NjAyNzkyNzNdfQ
-==
+eyJoaXN0b3J5IjpbODkzODQxNzI4LC0xOTYwMjc5MjczXX0=
 -->
