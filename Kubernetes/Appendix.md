@@ -9,6 +9,15 @@
 	- [x] Health Probe
 	- [x] Managed Life Cycle
 	- [x] Automated Placement
+- [x] **Behavioral Patterns**
+	- [x] Batch Job
+	- [x] Periodic Job
+	- [x] Daemon Service
+	- [x] Singleton Service
+	- [x] Stateful Service
+	- [x] Service Discovery
+	- [x] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2OTcxNTE3LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExNTQxODc4MTksLTIwODg3NDY2MTJdfQ
+==
 -->
