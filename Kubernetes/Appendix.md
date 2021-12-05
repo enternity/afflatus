@@ -26,8 +26,12 @@
 	- [x] Environment Variables
 	- [x] Configuration Resource
 	- [x] Immutable Configuration
-	- [x] Confi
+	- [x] Configuration Template
+- [x] **Advanced Patterns**
+	- [x] Controller
+	- [x] Operator
+	- [x] Elastic Scale
+	- [x] Image Builder
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk5OTM5MTMsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbNzcxOTMzNzYzLC0yMDg4NzQ2NjEyXX0=
 -->
