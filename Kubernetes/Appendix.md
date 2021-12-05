@@ -7,7 +7,8 @@
 	- [x] Predictable Demands
 	- [x] Declarative Deployment
 	- [x] Health Probe
-	- [x] Managed Life 
+	- [x] Managed Life Cycle
+	- [x] Automated Placement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDc3OTk4NSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNTE2OTcxNTE3LC0yMDg4NzQ2NjEyXX0=
 -->
