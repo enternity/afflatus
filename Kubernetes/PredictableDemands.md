@@ -2,8 +2,8 @@
 > Depending on whether you specify the requests, the limits, or both, the platform offers a different kind of Quality of Service (QoS).
 
 1. **Best Effort**
-	- Pods that does not have any requests and limits set 
+	- Pods that does not have any requests and limits set for its containers. Such a Pod is considered as the lowest priority and is most likely killed first when the node where the Pod is placed runs out of impressible resources (CPU, memory).
+2. **Burstable**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc4Mjc1MzYsLTE5NjAyNzkyNzNdfQ
-==
+eyJoaXN0b3J5IjpbNDY3MzU2MTcyLC0xOTYwMjc5MjczXX0=
 -->
