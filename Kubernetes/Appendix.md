@@ -1,37 +1,38 @@
 - [x] **Introduction** 
 	- [x] The path of cloud native
-	- [x] Distributed Primitives (containers, pods, services, labels)
-	- [x] Discussion
-	- [x] More information 
-- [x] **Foundational Patterns**
-	- [x] Predictable Demands
-	- [x] Declarative Deployment
-	- [x] Health Probe
-	- [x] Managed Life Cycle
-	- [x] Automated Placement
-- [x] **Behavioral Patterns**
-	- [x] Batch Job
-	- [x] Periodic Job
-	- [x] Daemon Service
-	- [x] Singleton Service
-	- [x] Stateful Service
-	- [x] Service Discovery
-	- [x] Self Awareness
-- [x] **Structural Patterns**
-	- [x] Init containers
-	- [x] Sidecar
-	- [x] Adapter
-	- [x] Ambassador
-- [x] **Configuration Patterns**
-	- [x] Environment Variables
-	- [x] Configuration Resource
-	- [x] Immutable Configuration
-	- [x] Configuration Template
-- [x] **Advanced Patterns**
-	- [x] Controller
-	- [x] Operator
-	- [x] Elastic Scale
-	- [x] Image Builder
+	- [ ] Distributed Primitives (containers, pods, services, labels)
+	- [ ] Discussion
+	- [ ] More information 
+- [ ] **Foundational Patterns**
+	- [ ] Predictable Demands
+	- [ ] Declarative Deployment
+	- [ ] Health Probe
+	- [ ] Managed Life Cycle
+	- [ ] Automated Placement
+- [ ] **Behavioral Patterns**
+	- [ ] Batch Job
+	- [ ] Periodic Job
+	- [ ] Daemon Service
+	- [ ] Singleton Service
+	- [ ] Stateful Service
+	- [ ] Service Discovery
+	- [ ] Self Awareness
+- [ ] **Structural Patterns**
+	- [ ] Init containers
+	- [ ] Sidecar
+	- [ ] Adapter
+	- [ ] Ambassador
+- [ ] **Configuration Patterns**
+	- [ ] Environment Variables
+	- [ ] Configuration Resource
+	- [ ] Immutable Configuration
+	- [ ] Configuration Template
+- [ ] **Advanced Patterns**
+	- [ ] Controller
+	- [ ] Operator
+	- [ ] Elastic Scale
+	- [ ] Image Builder
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxOTMzNzYzLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTI5MzkwMDIyMSw3NzE5MzM3NjMsLTIwOD
+g3NDY2MTJdfQ==
 -->
