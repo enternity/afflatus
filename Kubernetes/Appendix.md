@@ -16,8 +16,18 @@
 	- [x] Singleton Service
 	- [x] Stateful Service
 	- [x] Service Discovery
-	- [x] 
+	- [x] Self Awareness
+- [x] **Structural Patterns**
+	- [x] Init containers
+	- [x] Sidecar
+	- [x] Adapter
+	- [x] Ambassador
+- [x] **Configuration Patterns**
+	- [x] Environment Variables
+	- [x] Configuration Resource
+	- [x] Immutable Configuration
+	- [x] Confi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQxODc4MTksLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTEwODk5OTM5MTMsLTIwODg3NDY2MTJdfQ
 ==
 -->
