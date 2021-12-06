@@ -8,7 +8,7 @@
 	- Predecessor : is a pattern that motivates the need for this patterns.
 	- Successor : A pattern that solves an issue that has been introduces by this patterns.
 	- Alternative : provides an alternative solution to this pattern.
-	- Generalization : 
+	- Generalization : is a general solution to a problem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDM4MjYxOF19
+eyJoaXN0b3J5IjpbMjI1OTcwNTI5XX0=
 -->
