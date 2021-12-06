@@ -5,7 +5,10 @@
 	- Drawbacks : the drawbacks of the patterns, including the unresolved forces.
 	- Issues : the new problems that have been introduced by applying the pattern
 3. Related patterns :
-4. 
+	- Predecessor : is a pattern that motivates the need for this patterns.
+	- Successor : A pattern that solves an issue that has been introduces by this patterns.
+	- Alternative : provides an alternative solution to this pattern.
+	- Generalization : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Mjk2NDkzMl19
+eyJoaXN0b3J5IjpbMTE5NDM4MjYxOF19
 -->
