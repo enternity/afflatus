@@ -10,11 +10,7 @@
 	- Alternative : provides an alternative solution to this pattern.
 	- Generalization : is a general solution to a problem.
 
-asd
-asd
-asd
-as
-das
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTQ0ODg0OSwyMjU5NzA1MjldfQ==
+eyJoaXN0b3J5IjpbMTQ3OTMxOTgzLC00NTE0NDg4NDksMjI1OT
+cwNTI5XX0=
 -->
