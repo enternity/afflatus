@@ -9,6 +9,12 @@
 	- Successor : A pattern that solves an issue that has been introduces by this patterns.
 	- Alternative : provides an alternative solution to this pattern.
 	- Generalization : is a general solution to a problem.
+
+asd
+asd
+asd
+as
+das
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1OTcwNTI5XX0=
+eyJoaXN0b3J5IjpbLTQ1MTQ0ODg0OSwyMjU5NzA1MjldfQ==
 -->
