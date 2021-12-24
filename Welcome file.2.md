@@ -1,9 +1,3 @@
-
-
-drwxr-xr-x   26 admin  staff   832B Dec 24 07:37 bc-notification-forwarder
-drwxr-xr-x   13 admin  staff   416B Dec 24 07:37 bc-order
-drwxr-xr-x   15 admin  staff   480B Dec 23 18:28 bc-ripple-lib
-drwxr-xr-x   13 admin  staff   416B Dec 24 07:37 bc-submit-transaction
 drwxr-xr-x    9 admin  staff   288B Dec 24 07:37 bill-approve-service
 drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 blockchain-gas-station
 drwxr-xr-x   20 admin  staff   640B Dec 24 07:37 blockchain-libs
@@ -132,5 +126,5 @@ drwxr-xr-x   15 admin  staff   480B Dec 24 07:37 user-auth-service
 drwxr-xr-x   12 admin  staff   384B Dec 24 07:37 user-role-management
 drwxr-xr-x   23 admin  staff   736B Dec 24 07:37 wallet-management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDc4ODA4OV19
+eyJoaXN0b3J5IjpbLTE3MjE4ODg0MDBdfQ==
 -->
