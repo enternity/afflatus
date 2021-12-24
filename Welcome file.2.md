@@ -1,10 +1,3 @@
-drwxr-xr-x   11 admin  staff   352B Dec 24 07:37 fee
-drwxr-xr-x    3 admin  staff    96B Dec 23 18:28 fts-orderysystem
-drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 fts-user
-drwxr-xr-x    6 admin  staff   192B Dec 23 18:30 go-ethereum
-drwxr-xr-x    5 admin  staff   160B Dec 23 18:28 grafana-template
-drwxr-xr-x   13 admin  staff   416B Dec 23 18:28 health-check-probe
-drwxr-xr-x    8 admin  staff   256B Dec 24 07:37 help-center
 drwxr-xr-x   20 admin  staff   640B Dec 23 18:28 ilt-merchant-admin-web
 drwxr-xr-x   21 admin  staff   672B Dec 23 18:28 ilt-merchant-web
 drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 ilt-payment-wallet-app
@@ -109,5 +102,5 @@ drwxr-xr-x   15 admin  staff   480B Dec 24 07:37 user-auth-service
 drwxr-xr-x   12 admin  staff   384B Dec 24 07:37 user-role-management
 drwxr-xr-x   23 admin  staff   736B Dec 24 07:37 wallet-management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzcwMDM1OSwtMTcyMTg4ODQwMF19
+eyJoaXN0b3J5IjpbMzQ2MzE5Njc2LC0xNzIxODg4NDAwXX0=
 -->
