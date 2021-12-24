@@ -1,13 +1,3 @@
-
-drwxr-xr-x   17 admin  staff   544B Dec 23 18:28 configuration-service
-drwxr-xr-x   16 admin  staff   512B Dec 24 07:37 core-order
-drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 database-cluster
-drwxr-xr-x   12 admin  staff   384B Dec 24 07:37 databaseservice
-drwxr-xr-x    8 admin  staff   256B Dec 23 18:28 databaseservice-admin
-drwxr-xr-x   20 admin  staff   640B Dec 24 07:37 deployment-support
-drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 docker-compose
-drwxr-xr-x    7 admin  staff   224B Dec 23 18:28 document
-drwxr-xr-x   17 admin  staff   544B Dec 24 07:37 fas
 drwxr-xr-x   11 admin  staff   352B Dec 24 07:37 fee
 drwxr-xr-x    3 admin  staff    96B Dec 23 18:28 fts-orderysystem
 drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 fts-user
@@ -119,5 +109,5 @@ drwxr-xr-x   15 admin  staff   480B Dec 24 07:37 user-auth-service
 drwxr-xr-x   12 admin  staff   384B Dec 24 07:37 user-role-management
 drwxr-xr-x   23 admin  staff   736B Dec 24 07:37 wallet-management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDU0NjYxMSwtMTcyMTg4ODQwMF19
+eyJoaXN0b3J5IjpbLTM5NzcwMDM1OSwtMTcyMTg4ODQwMF19
 -->
