@@ -1,9 +1,3 @@
-drwxr-xr-x   13 admin  staff   416B Dec 24 07:37 otp-service
-drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 payement-report-service
-drwxr-xr-x   13 admin  staff   416B Dec 24 07:37 payment-deposit-service
-drwxr-xr-x    7 admin  staff   224B Dec 23 18:28 payment-document
-drwxr-xr-x   15 admin  staff   480B Dec 24 07:37 payment-gateway
-drwxr-xr-x    7 admin  staff   224B Dec 24 07:37 payment-paypal-service
 drwxr-xr-x   15 admin  staff   480B Dec 24 07:37 payment-report-etl-service
 drwxr-xr-x  201 admin  staff   6.3K Dec 23 18:28 payment-service-configuration-data
 drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 registry
@@ -85,5 +79,6 @@ drwxr-xr-x   15 admin  staff   480B Dec 24 07:37 user-auth-service
 drwxr-xr-x   12 admin  staff   384B Dec 24 07:37 user-role-management
 drwxr-xr-x   23 admin  staff   736B Dec 24 07:37 wallet-management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTY5MjM1NywtMTcyMTg4ODQwMF19
+eyJoaXN0b3J5IjpbLTE5MjA3MTU3MTMsLTE3MjE4ODg0MDBdfQ
+==
 -->
