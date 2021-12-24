@@ -1,4 +1,3 @@
-drwxr-xr-x   13 admin  staff   416B Dec 23 18:30 central-log
 drwxr-xr-x   30 admin  staff   960B Dec 24 07:37 common-libs
 drwxr-xr-x   23 admin  staff   736B Dec 23 18:28 common-service-configuration-data
 drwxr-xr-x   17 admin  staff   544B Dec 23 18:28 configuration-service
@@ -121,5 +120,5 @@ drwxr-xr-x   15 admin  staff   480B Dec 24 07:37 user-auth-service
 drwxr-xr-x   12 admin  staff   384B Dec 24 07:37 user-role-management
 drwxr-xr-x   23 admin  staff   736B Dec 24 07:37 wallet-management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzE3NTMwOCwtMTcyMTg4ODQwMF19
+eyJoaXN0b3J5IjpbODgzNzYwNjk0LC0xNzIxODg4NDAwXX0=
 -->
