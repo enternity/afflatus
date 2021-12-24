@@ -1,6 +1,3 @@
-drwxr-xr-x    7 admin  staff   224B Dec 24 07:37 risk-management
-drwxr-xr-x   12 admin  staff   384B Dec 23 18:28 service-contracts
-drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 solana-blockchain-lib
 drwxr-xr-x   13 admin  staff   416B Dec 24 07:37 synchronizing-cluster
 drwxr-xr-x   15 admin  staff   480B Dec 23 18:29 tron-eventquery
 drwxr-xr-x   15 admin  staff   480B Dec 24 07:37 user-auth-service
@@ -76,5 +73,6 @@ drwxr-xr-x   15 admin  staff   480B Dec 24 07:37 user-auth-service
 drwxr-xr-x   12 admin  staff   384B Dec 24 07:37 user-role-management
 drwxr-xr-x   23 admin  staff   736B Dec 24 07:37 wallet-management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDE0Nzc0OCwtMTcyMTg4ODQwMF19
+eyJoaXN0b3J5IjpbLTE3MTM2MTkyNTYsMTU4MDE0Nzc0OCwtMT
+cyMTg4ODQwMF19
 -->
