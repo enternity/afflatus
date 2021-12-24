@@ -1,13 +1,3 @@
-drwxr-xr-x   20 admin  staff   640B Dec 23 18:28 ilt-merchant-admin-web
-drwxr-xr-x   21 admin  staff   672B Dec 23 18:28 ilt-merchant-web
-drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 ilt-payment-wallet-app
-drwxr-xr-x   16 admin  staff   512B Dec 23 18:29 initial-project
-drwxr-xr-x    7 admin  staff   224B Dec 23 18:28 java-tron-protocol
-drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 load-balancer
-drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 load-testing
-drwxr-xr-x   13 admin  staff   416B Dec 24 07:37 merchant-fee-bill-service
-drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 merchant-initializer-service
-drwxr-xr-x   11 admin  staff   352B Dec 24 07:37 merchant-onboarding-service
 drwxr-xr-x   17 admin  staff   544B Dec 24 07:37 merchant-store-management-service
 drwxr-xr-x   16 admin  staff   512B Dec 23 18:28 messenger
 drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 monitor
@@ -102,5 +92,5 @@ drwxr-xr-x   15 admin  staff   480B Dec 24 07:37 user-auth-service
 drwxr-xr-x   12 admin  staff   384B Dec 24 07:37 user-role-management
 drwxr-xr-x   23 admin  staff   736B Dec 24 07:37 wallet-management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MzE5Njc2LC0xNzIxODg4NDAwXX0=
+eyJoaXN0b3J5IjpbMTQyNTgyMzExMywtMTcyMTg4ODQwMF19
 -->
