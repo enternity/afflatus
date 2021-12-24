@@ -1,6 +1,3 @@
-drwxr-xr-x   17 admin  staff   544B Dec 24 07:37 merchant-store-management-service
-drwxr-xr-x   16 admin  staff   512B Dec 23 18:28 messenger
-drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 monitor
 drwxr-xr-x    9 admin  staff   288B Dec 24 07:37 news-management
 drwxr-xr-x    4 admin  staff   128B Dec 23 18:28 node-cluster-contact
 drwxr-xr-x   21 admin  staff   672B Dec 23 18:28 notification
@@ -92,5 +89,5 @@ drwxr-xr-x   15 admin  staff   480B Dec 24 07:37 user-auth-service
 drwxr-xr-x   12 admin  staff   384B Dec 24 07:37 user-role-management
 drwxr-xr-x   23 admin  staff   736B Dec 24 07:37 wallet-management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTgyMzExMywtMTcyMTg4ODQwMF19
+eyJoaXN0b3J5IjpbLTQ1ODU2MzE0LC0xNzIxODg4NDAwXX0=
 -->
