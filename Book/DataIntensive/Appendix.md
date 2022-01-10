@@ -6,9 +6,14 @@
 2. **Data Models and Query Languages**
 3. **Storage and Retrieval**
 4. **Encoding and Evolution**
-## Parse 2: **Distributed Data**
-6. **Replication**
-7. **Pa**
+## Part 2: Distributed Data
+5. **Replication**
+6. **Partitioning**
+7. **Transactions**
+8. **The trouble with Distributed systems**
+9. **Consistency and Consensus** 
+## Part 3: Derived Data
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTkyMzEyOF19
+eyJoaXN0b3J5IjpbMTkyODI5MzU1Ml19
 -->
