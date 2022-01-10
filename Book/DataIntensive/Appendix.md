@@ -13,7 +13,10 @@
 8. **The trouble with Distributed systems**
 9. **Consistency and Consensus** 
 ## Part 3: Derived Data
+10. **Batch Processing**
+11. **Stream processing**
+12. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODI5MzU1Ml19
+eyJoaXN0b3J5IjpbMTU5NjUxNzk2MF19
 -->
