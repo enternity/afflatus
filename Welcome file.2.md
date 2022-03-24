@@ -3,8 +3,8 @@
  - Tác giả **[Martin Kleppmann](https://martin.kleppmann.com/ "Home")** đã giới thiệu tổng quan về khái niệm distributed locking và mục đích sử dụng nó.  Bên canh đó tác giả đã phân tích các vấn đề hạn chế của một hiện thực của distributed locking là Redis Lock.
  - Trong bài viết tác giả đưa ra các lưu ý khi sử dụng distributed locking:
 	 - Nếu sử dụng trong việc tối ưu hoá thời gian thực hiện có thể dùng Redis single node.
-	 - Nếu cần 
+	 - Nếu sử dụng trong việc tính chính xác có thể dùng một hệ thống có thuật toán đồng thuận như ZooKeeper. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMzOTIxNiwtMTQwNzc4MTExMiwtMj
-A4ODc0NjYxMiwxNTgwMTQ3NzQ4LC0xNzIxODg4NDAwXX0=
+eyJoaXN0b3J5IjpbMjI0NzkyMTkzLC0xNDA3NzgxMTEyLC0yMD
+g4NzQ2NjEyLDE1ODAxNDc3NDgsLTE3MjE4ODg0MDBdfQ==
 -->
