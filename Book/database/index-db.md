@@ -57,8 +57,8 @@ Given that creating an index requires additional disk space (277,778 blocks extr
 
 Since indices are only used to speed up the searching for a matching field within the records, it stands to reason that indexing fields used only for output would be simply a waste of disk space and processing time when doing an insert or delete operation, and thus should be avoided. Also given the nature of a binary search, the cardinality or uniqueness of the data is important. Indexing on a field with a cardinality of 2 would split the data in half, whereas a cardinality of 1,000 would return approximately 1,000 records. With such a low cardinality the effectiveness is reduced to a linear sort, and the query optimizer will avoid using the index if the cardinality is less than 30% of the record number, effectively making the index a waste of space.
 
-![img](images/database/index/analyticsvidhya-type-of-index.PNG)
+![img](./images/database/index/analyticsvidhya-type-of-index.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDQ4NTUzMiwtMjAwMjMyNDYzMyw2OD
+eyJoaXN0b3J5IjpbLTk4NzU2NjE0OSwtMjAwMjMyNDYzMyw2OD
 UxODkwMjJdfQ==
 -->
