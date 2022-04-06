@@ -56,6 +56,9 @@ Now a search using the  _firstName_  field can utilize the index to increase per
 Given that creating an index requires additional disk space (277,778 blocks extra from the above example, a ~28% increase), and that too many indices can cause issues arising from the file systems size limits, careful thought must be used to select the correct fields to index.
 
 Since indices are only used to speed up the searching for a matching field within the records, it stands to reason that indexing fields used only for output would be simply a waste of disk space and processing time when doing an insert or delete operation, and thus should be avoided. Also given the nature of a binary search, the cardinality or uniqueness of the data is important. Indexing on a field with a cardinality of 2 would split the data in half, whereas a cardinality of 1,000 would return approximately 1,000 records. With such a low cardinality the effectiveness is reduced to a linear sort, and the query optimizer will avoid using the index if the cardinality is less than 30% of the record number, effectively making the index a waste of space.
+
+![img](images/database/index/analyticsvidhya-type-of-index.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIzMjQ2MzMsNjg1MTg5MDIyXX0=
+eyJoaXN0b3J5IjpbMTI2NDQ4NTUzMiwtMjAwMjMyNDYzMyw2OD
+UxODkwMjJdfQ==
 -->
