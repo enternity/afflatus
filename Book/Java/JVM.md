@@ -210,12 +210,6 @@ I have already published on”[Understanding Java Memory Model](https://medium.c
 -   How JVM Works — JVM Architecture? (https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)
 -   Diffrenence between AppClassloader and SystemClassloader (https://stackoverflow.com/questions/34650568/diffrenence-between-appclassloader-and-systemclassloader)
 
-Chào bạn,
-Khi tôi viết những dòng này là lúc tôi đang ngại lắm, nhưng ráng được. Lời đầu tiên xin được chúc bạn đã tốt nghiệp, lời thứ hai chúc bạn thuận lợi trên con đường sắp tới - nơi chắc chắn có tôi đồng hành. Chúng ta đã học chung từ lớp tám tới giờ cơ mà bây giờ mới lần đầu tôi tặng quà bạn, tôi thật thiếu xót. Nhưng chắc chắn sau này sẽ khác. Văn viết tôi hơi dở, cũng không biết nên nói như thế nào, chỉ biết rằng tôi hy vọng sẽ vẫn còn mối quan hệ tối đẹp và có thể upgrade lên gói premium chẳng hạn. Chữ xấu mà còn dài nữa, tôi xin hết tại đây.
-
-Love you 2504 =))))
-
-Đức Nguyễn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNjkyMzk2XX0=
+eyJoaXN0b3J5IjpbODg0Nzk3NjA3LDgyMDY5MjM5Nl19
 -->
