@@ -211,7 +211,7 @@ I have already published on”[Understanding Java Memory Model](https://medium.c
 -   Diffrenence between AppClassloader and SystemClassloader (https://stackoverflow.com/questions/34650568/diffrenence-between-appclassloader-and-systemclassloader)
 
 Chào bạn,
-Khi tôi viết những dòng này là lúc tôi đang ngại lắm, nhưng ráng được. Lời đầu tiên xin được chúc bạn đã tốt nghiệp, lời thứ hai chúc bạn thuận lợi trên con đường sắp tới - nơi chắc chắn có tôi đồng hnafh
+Khi tôi viết những dòng này là lúc tôi đang ngại lắm, nhưng ráng được. Lời đầu tiên xin được chúc bạn đã tốt nghiệp, lời thứ hai chúc bạn thuận lợi trên con đường sắp tới - nơi chắc chắn có tôi đồng hành. Đây là lần đầu tiên tôi tự viết thư tay
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzYxMzA5MF19
+eyJoaXN0b3J5IjpbLTEzMDgxNjA2OTFdfQ==
 -->
