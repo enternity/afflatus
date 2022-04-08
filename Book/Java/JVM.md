@@ -209,6 +209,9 @@ I have already published on”[Understanding Java Memory Model](https://medium.c
 -   The JVM Architecture Explained (https://dzone.com/articles/jvm-architecture-explained)
 -   How JVM Works — JVM Architecture? (https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)
 -   Diffrenence between AppClassloader and SystemClassloader (https://stackoverflow.com/questions/34650568/diffrenence-between-appclassloader-and-systemclassloader)
+
+Chào bạn,
+Khi tôi viết những dòng này là lúc tôi đang ngại lắm, nhưng ráng được. Lời đầu tiên xin được chúc bạn đã tốt nghiệp, lời thứ hai chúc bạn thuận lợi trên con đường sắp tới - nơi chắc chắn có tôi đồng hnafh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTc3NTk0M119
+eyJoaXN0b3J5IjpbMTc5NzYxMzA5MF19
 -->
