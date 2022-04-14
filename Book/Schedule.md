@@ -6,7 +6,7 @@
 
 |  Mon |  Tue | Wed  |  Thu |  Fri | Sat| Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|_LeetCode & Cracking The Interview(_Book_)_   | _Data Intensive_  |  _Clean Code & Design Pattern_ | _Java_  |  _SQL_ |_Review week & Advance topic in the week_|_Do what I want_|
+|_LeetCode & Cracking The Interview(_Book_)_   | _Data Intensive_  |  _Clean Code & Design Pattern_ | _Java or Other Language_  |  _SQL_ |_Review week & Advance topic in the week_|_Do what I want_|
 
 > **MUST BE**
 > ------
@@ -25,7 +25,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Mjk2ODU4NywtMTg0NzQxNjQ2MiwtMT
+eyJoaXN0b3J5IjpbMTc5OTU0NzUwNCwtMTg0NzQxNjQ2MiwtMT
 g0NzQxNjQ2MiwxNjk1MDk4NDc4LDE0NTAzMzI0MSwxNDU2Nzgy
 Njc0XX0=
 -->
