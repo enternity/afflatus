@@ -40,7 +40,8 @@
 1. Three primitive types are supported: int, long and double.
 2. Stream pipelines are evaluated lazily: evaluation doesn’t start until the terminal operation is invoked, and data elements that aren’t required in order to complete the terminal operation are never computed. This lazy evaluation is what makes it possible to work with infinite streams. Note that a stream pipeline without a terminal operation is a silent no-op, so don’t forget to include one.
 ### Prefer Collection to Stream as a return type 
+### Use caution when making streams parallel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDc0NjU2LDM3NjExNzk1NiwzMzUyND
-ExMDIsLTUyMzYyMjE2NV19
+eyJoaXN0b3J5IjpbMjUyMjQ5Njk2LDE4OTA3NDY1NiwzNzYxMT
+c5NTYsMzM1MjQxMTAyLC01MjM2MjIxNjVdfQ==
 -->
