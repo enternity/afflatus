@@ -30,14 +30,16 @@
  map.merge(key, 1, (count, incr) -> count + incr);
 ```
 
-``````
-
+```java
+ map.merge(key, 1, Integer::sum)
+```
+3. ***Favor the use of standard functional interfaces.***
 
 # Stream
 ### Use streams judiciously
 1. Three primitive types are supported: int, long and double.
 2. Stream pipelines are evaluated lazily: evaluation doesn’t start until the terminal operation is invoked, and data elements that aren’t required in order to complete the terminal operation are never computed. This lazy evaluation is what makes it possible to work with infinite streams. Note that a stream pipeline without a terminal operation is a silent no-op, so don’t forget to include one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDQ4MTM0LDMzNTI0MTEwMiwtNTIzNj
+eyJoaXN0b3J5IjpbMzc2MTE3OTU2LDMzNTI0MTEwMiwtNTIzNj
 IyMTY1XX0=
 -->
