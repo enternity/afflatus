@@ -6,7 +6,7 @@
 - [ ] Classes and Interfaces 73
 - [ ] Generic 117
 - [ ] _**(In Progress)**_ Enum and Annotation 157
-- [ ] _**(203 - In Progress)**_ Lambda and Stream 193
+- [x]  Lambda and Stream 193
 - [ ] Method 227
 - [ ] General Programin 261
 - [ ] Exception 293
@@ -14,5 +14,6 @@
 - [ ] Serialization 339
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODA2ODIzMywtMTc5MDI0NTY4NV19
+eyJoaXN0b3J5IjpbLTYzMjI0NTU0OCwxNDk4MDY4MjMzLC0xNz
+kwMjQ1Njg1XX0=
 -->
