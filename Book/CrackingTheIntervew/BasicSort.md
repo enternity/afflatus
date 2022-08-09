@@ -11,6 +11,7 @@
 |**Tree Sort**|$n\log{n}$|$n$|Worst-case is $n\log{n}$ when it's balanced tree|
 # Code 
 1. **Quick sort**
+> Idea: It picks an element as a pivot and partitions the given array around the picked pivot. There are many different versions of quickSort that pick pivot in different ways.
 ```python
 def partition(arr, low, high):
 	i = low - 1 # index of smaller element
@@ -30,6 +31,7 @@ def quickSort(arr, low, high):
 # example : quickSort(arr, 0, len(arr) - 1)
 ```
 2. **Merge Sort**:
+> Idea: So, in this algorithm, the array is **initially divided into two equal** halves and then they are combined in a sorted manner. We can think of it as a recursive algorithm that continuously splits the array in half until it cannot be further divided. This means that if the array becomes empty or has only one element left, the dividing will stop, i.e. it is the base case to stop the recursion. If the array has multiple elements, we split the array into halves and recursively invoke the merge sort on each of the halves. Finally, when both the halves are sorted, the merge operation is applied. Merge operation is the process of taking two smaller sorted arrays and combining them to eventually make a larger one.
 ```python
 def merge(arr, l, m, r):
 	n1 = m - l + 1
@@ -95,6 +97,6 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODQ1OTYyMCwtNzk3ODI2MzY0LC04NT
-kxNzczODksLTE1MzM5NzY5ODRdfQ==
+eyJoaXN0b3J5IjpbLTExNzE5NTg2OTUsLTc5NzgyNjM2NCwtOD
+U5MTc3Mzg5LC0xNTMzOTc2OTg0XX0=
 -->
