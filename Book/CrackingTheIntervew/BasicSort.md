@@ -5,7 +5,7 @@
 |    **Quick sort**   | $n\log{n}$ | $\log{n}$ ||
 | **Merge Sort**| $n\log{n}$| $n$|Best-Average-Worst is the same|
 | **Heap Sort** |$n\log{n}$|$1$||
-|**Insertion Sort**|$n^2$|1|Worst-case when array is inverse|
+|**Insertion Sort**|$n^2$|1|Worst-case when array is inverse, best case O(n)|
 |**Selection Sort**|$n^2$|1||
 |**Bubble Sort**|$n^2$|1|Few code|
 |**Tree Sort**|$n\log{n}$|$n$|Worst-case is $n\log{n}$ when it's balanced tree|
@@ -95,6 +95,6 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM1ODE1MTIsLTc5NzgyNjM2NCwtOD
-U5MTc3Mzg5LC0xNTMzOTc2OTg0XX0=
+eyJoaXN0b3J5IjpbLTQyODQ1OTYyMCwtNzk3ODI2MzY0LC04NT
+kxNzczODksLTE1MzM5NzY5ODRdfQ==
 -->
