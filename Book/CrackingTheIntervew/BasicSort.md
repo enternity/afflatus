@@ -1,89 +1,100 @@
-# SOME SORT ALGORITHM
 
-1. **SELECTION SORT** :
-```java
-public void doSelectionSort() {
-	List<Integer> values = new ArrayList<>();
-	for (int index = 0; index < values.size(); index ++) {
-		int minValueIndex = index;
-		for (int j = index + 1; j < values.size(); j++) {
-		if (values.get(j) < values.get(minValueIndex)) {
-			minValueIndex = j;
-			}
-		}
-		doSwap(values, index, minValueIndex);
-	}
-}
-```
+# Compare Sort Methods :
+| Names        | Average           |  Memory |Note|
+|:------------- |:-------------:| -----:|:-------------|
+|    **Quick sort**   | $n\log{n}$ | $\log{n}$ ||
+| **Merge Sort**| $n\log{n}$| $n$|Best-Average-Worst is the same|
+| **Heap Sort** |$n\log{n}$|$1$||
+|**Insertion Sort**|$n^2$|1|Worst-case when array is inverse|
+|**Selection Sort**|$n^2$|1||
+|**Bubble Sort**|$n^2$|1|Few code|
+|**Tree Sort**|$n\log{n}$|$n$|Worst-case is $n\log{n}$ when it's balanced tree|
+# Code 
+1. **Quick sort**
+```python
+def partition(arr, low, high):
+	i = low - 1 # index of smaller element
+	pivot = arr[high]
+	for j in range(low, high):
+	if arr[j] <= pivot:
+		i += 1
+		arr[i],arr[j] = arr[j],arr[i]
+	arr[i+1], arr[high] = arr[high], arr[i+1]
+	return i+1
 
-2. **BUBBLE SORT** :
-
-```java
-public void doBubbleSort() {
-	List<Integer> values = new ArrayList<>();
-	for (int i = 0; i < values.size() - 1; i++) {
-		for (int j = 0; j < values.size() - i - 1; j++) {
-			if (values.get(j) > values.get(j + 1)) {
-				doSwap(values, j, j + 1);
-			}
-		}
-	}
-}
+def quickSort(arr, low, high):
+	if low < high:
+		pi = partition(arr, low, high)
+		quickSort(arr, low, pi - 1)
+		quickSort(arr, pi + 1, high)
+# example : quickSort(arr, 0, len(arr) - 1)
 ```
-3. **MERGE SORT**
-```java
-public static void doMerge(List<Integer> values, int leftIndex, int rightIndex, int middleIndex) {  
-    List<Integer> leftArrays = new ArrayList<>();  
-    List<Integer> rightArrays = new ArrayList<>();  
-    // copy value to left arrays  
-    for (int i = leftIndex; i <= middleIndex; i++) {  
-        leftArrays.add(values.get(i));  
-    }  
-      // copy value to right arrays  
-    for (int i = middleIndex + 1; i <= rightIndex; i++) {  
-        rightArrays.add(values.get(i));  
-  }  
-  
-    int sizeLeftArrays = leftArrays.size();  
-    int sizeRightArrays = rightArrays.size();  
-    int indexLeft = 0;  
-    int indexRight = 0;  
-    int indexMergedArray = leftIndex;  
-    while (indexLeft < sizeLeftArrays && indexRight < sizeRightArrays) {  
-        if (leftArrays.get(indexLeft) <= rightArrays.get(indexRight)) {  
-            values.set(indexMergedArray, leftArrays.get(indexLeft));  
-            indexLeft++;  
-        } else {  
-            values.set(indexMergedArray, rightArrays.get(indexRight));  
-            indexRight++;  
-        }  
-        indexMergedArray++;  
-  }  
-  
-    while (indexLeft < sizeLeftArrays) {  
-        values.set(indexMergedArray, leftArrays.get(indexLeft));  
-        indexMergedArray++;  
-        indexLeft++;  
-  }  
-  
-    while (indexRight < sizeRightArrays) {  
-        values.set(indexMergedArray, rightArrays.get(indexRight));  
-        indexMergedArray++;  
-        indexRight++;  
-  }  
-}  
-  
-public static void doMergeSort(List<Integer> values, int begin, int end) {  
-    if (begin >= end) {  
-        return;  
-  }  
-    int middle = begin + (end - begin) / 2;  
-	doMergeSort(values, begin, middle);  
-	doMergeSort(values, middle + 1, end);  
-	doMerge(values, begin, end, middle);  
-}
+2. **Merge Sort**:
+```python
+def merge(arr, l, m, r):
+	n1 = m - l + 1
+	n2 = r - m
+	# Create temp arrays
+	L = [0] * n1
+	R = [0] * n2 
+	# Copy data to temp arrays
+	for i in range(n1):
+		L[i] = arr[l+i]
+	for j in range(0, n2):
+		R[j] = arr[m + 1 + j]
+	# Merge back into array
+	i = 0
+	j = 0
+	k = l
+	while i < n1 and j < n2:
+		if L[i] <= R[j]:
+			arr[k] = L[i]
+			i += 1
+		else:
+			arr[k] = R[j]
+			j += 1
+		k += 1
+	while i < n1:
+		arr[k] = L[i]
+		i += 1
+		k += 1
+	while j < n2:
+		arr[k] = R[j]
+		j += 1
+		k += 1
+def mergeSort(arr, l, r):
+	if l < r:
+		m = (l + (r - 1)) // 2
+		mergeSort(arr, l, m)
+		mergeSort(arr, m + 1, r)
+		merge(arr, l, m, r)
+# example : mergeSort(arr, 0, len(arr) - 1)
 ```
+3. **Heap Sort**
+```python
+def heapify(arr, n, i):
+	largest = i
+	l = 2 * i + 1
+	r = 2 * i + 2
+	if l < n and arr[i] < arr[l]:
+		largest = l
+	if r < n and arr[largest] < arr[r]:
+		largest = r
+	if largest != i:
+		arr[i], arr[largest] = arr[largest], arr[i]
+		heapify(arr, n, largest)
+def heapSort(arr):
+	n = len(arr)
+	for i in range(n//2 - 1, -1, -1):
+		heapify(arr, n, i)
+	for i in range(n - 1, 0, -1):
+		arr[i], arr[0] = arr[0], arr[i]
+		heapify(arr, i, 0)
+# source : https://www.geeksforgeeks.org/python-program-for-heap-sort/
+```
+4. **Insertion Sort**:
+> continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzgyNjM2NCwtODU5MTc3Mzg5LC0xNT
-MzOTc2OTg0XX0=
+eyJoaXN0b3J5IjpbLTE3OTM1ODE1MTIsLTc5NzgyNjM2NCwtOD
+U5MTc3Mzg5LC0xNTMzOTc2OTg0XX0=
 -->
