@@ -1,5 +1,6 @@
 # Questions 
-1. 
+1. Describe how you could use single array to implement three stacks?
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc2NDUzN119
+eyJoaXN0b3J5IjpbLTQ4MTcxMDc2N119
 -->
