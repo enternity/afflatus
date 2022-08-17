@@ -141,9 +141,9 @@ To go a bit deeper into the details, let’s mention a few things first:
 	> _**Local inner class**_ : declare inside block or method
 	> _**Member inner class**_ : declare as a non-static class in outer class
 	> _**Anonymous inner class**_	: is a class which doesn't have name to reference and initialized at the same place where its get created.
-> _**Static ne**_
+> _**Static nested class**_ : that is declared inside another class as a member and make as static. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUwMDIwMTUsMTIxMzIwODU4NiwxNT
+eyJoaXN0b3J5IjpbLTE5NTk4Njg2MTcsMTIxMzIwODU4NiwxNT
 MzMDU0OTc3LDE5ODIxNjEwNzksNDgxMzcwNzczLC0xMDA3MjQ5
 MTg4LC0xNDQ2NTg0MjEzLC0xNTMyODgwMTg1XX0=
 -->
