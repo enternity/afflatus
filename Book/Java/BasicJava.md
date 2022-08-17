@@ -124,9 +124,12 @@ To go a bit deeper into the details, let’s mention a few things first:
 
 # Overloading vs Overriding
 1. Overloading is a term used to describe when two methods have the same name but differ type in the type or number of arguments.
-2. Overriding, hower
+2. Overriding, however, occurs when a methods share the same name and function signature as another methods in its super class
+# Collections Framework
+1. ArrayList is a dynamic resizing array. 
+2. Vector similar with 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDA4MDMyNSwxNTMzMDU0OTc3LDE5OD
+eyJoaXN0b3J5IjpbMTY3MTMzMDA4MSwxNTMzMDU0OTc3LDE5OD
 IxNjEwNzksNDgxMzcwNzczLC0xMDA3MjQ5MTg4LC0xNDQ2NTg0
 MjEzLC0xNTMyODgwMTg1XX0=
 -->
