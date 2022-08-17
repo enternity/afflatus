@@ -136,9 +136,10 @@ To go a bit deeper into the details, let’s mention a few things first:
 > Ans: _When class A has private constructor, this private constructor only accessible only those have access private A's methods. A's inner classes and if A is an inner class of some class S. Other inner class S have access to private constructor. 
 > So, A can be inherited by its own inner class or S's inner classes_
 2. **What is the different of Nested class and Inner class?**
-> Ans: __
+> Ans: 
+> _**Nested class**: refers to define one class inside another class_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwODY5NjQ5LDE1MzMwNTQ5NzcsMTk4Mj
-E2MTA3OSw0ODEzNzA3NzMsLTEwMDcyNDkxODgsLTE0NDY1ODQy
-MTMsLTE1MzI4ODAxODVdfQ==
+eyJoaXN0b3J5IjpbMTIxMzIwODU4NiwxNTMzMDU0OTc3LDE5OD
+IxNjEwNzksNDgxMzcwNzczLC0xMDA3MjQ5MTg4LC0xNDQ2NTg0
+MjEzLC0xNTMyODgwMTg1XX0=
 -->
