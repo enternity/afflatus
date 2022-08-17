@@ -132,9 +132,9 @@ To go a bit deeper into the details, let’s mention a few things first:
 4. HashMap : hash map
 
 # Private Constructor: In terms of inheritance, what is the effect of keeping a constructor private?
-When class A have private constructor 
+When class A has private constructor, this private constructor only accessible only those have access private A's methods. A's inner classes and if A is a inner class of some class S. other inner class S have accs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDk4MTg5NCwxNTMzMDU0OTc3LDE5OD
+eyJoaXN0b3J5IjpbMTEzNjg5OTA5MiwxNTMzMDU0OTc3LDE5OD
 IxNjEwNzksNDgxMzcwNzczLC0xMDA3MjQ5MTg4LC0xNDQ2NTg0
 MjEzLC0xNTMyODgwMTg1XX0=
 -->
