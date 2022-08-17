@@ -147,15 +147,16 @@ To go a bit deeper into the details, let’s mention a few things first:
 
 
 |   |  HashMap | LinkedHashMap  | TreeMap |
-|---|:---|:---|:---|
+|:---|:---|:---|:---|
 |  Implement interface |  `Map` | `Map`  | `Map`, `NavigableMap`, `SortedMap`  |
 |  DataStructure | Hash Table  | Double-linked list bucket  | Red-Black tree  | 
 |  Iteration order | No guarantee  | Order in which keys were insert into the map  | iterated according to the natural ordering of its key or ordering of `Comparator`  | 
-|Performance| `O(1)` for get, set, contains, remove, etc.||`O(logn)` for all operations|
+|Performance| `O(1)` for get, set, contains, remove, etc.|`O(1)` for get, set, contains, remove, etc.|`O(logn)` time cost for those operations|
+|Null values/keys|permits null value, null key| p||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUwMTQ3NTcsLTE3OTQ1NzMwNDQsMj
-MyNDk0Njc5LDEyMTMyMDg1ODYsMTUzMzA1NDk3NywxOTgyMTYx
-MDc5LDQ4MTM3MDc3MywtMTAwNzI0OTE4OCwtMTQ0NjU4NDIxMy
-wtMTUzMjg4MDE4NV19
+eyJoaXN0b3J5IjpbNTQwMDYwNjEyLC0xNzk0NTczMDQ0LDIzMj
+Q5NDY3OSwxMjEzMjA4NTg2LDE1MzMwNTQ5NzcsMTk4MjE2MTA3
+OSw0ODEzNzA3NzMsLTEwMDcyNDkxODgsLTE0NDY1ODQyMTMsLT
+E1MzI4ODAxODVdfQ==
 -->
