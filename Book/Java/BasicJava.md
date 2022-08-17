@@ -122,9 +122,11 @@ To go a bit deeper into the details, let’s mention a few things first:
 
 > _**If we use raw types, we lose all the safety and expressiveness benefits of generics**_
 
-
+# Overloading vs Overriding
+1. Overloading is a term used to describe when two methods have the same name but differ type in the type or number of arguments.
+2. Overriding, hower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzA1NDk3NywxOTgyMTYxMDc5LDQ4MT
-M3MDc3MywtMTAwNzI0OTE4OCwtMTQ0NjU4NDIxMywtMTUzMjg4
-MDE4NV19
+eyJoaXN0b3J5IjpbLTI1NDA4MDMyNSwxNTMzMDU0OTc3LDE5OD
+IxNjEwNzksNDgxMzcwNzczLC0xMDA3MjQ5MTg4LC0xNDQ2NTg0
+MjEzLC0xNTMyODgwMTg1XX0=
 -->
