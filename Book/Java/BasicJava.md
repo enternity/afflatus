@@ -137,9 +137,9 @@ To go a bit deeper into the details, let’s mention a few things first:
 > So, A can be inherited by its own inner class or S's inner classes_
 2. **What is the different of the difference between inner class and nested static class?**
 > Ans: 
-> _**Inner class**: refers to define one class inside another class_
+> _**Inner class**: Any class which is not a top level class or declared inside another class is known as nested class and _
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0MTU3MDgzLDEyMTMyMDg1ODYsMTUzMz
+eyJoaXN0b3J5IjpbMTE4NjY5OTkwLDEyMTMyMDg1ODYsMTUzMz
 A1NDk3NywxOTgyMTYxMDc5LDQ4MTM3MDc3MywtMTAwNzI0OTE4
 OCwtMTQ0NjU4NDIxMywtMTUzMjg4MDE4NV19
 -->
