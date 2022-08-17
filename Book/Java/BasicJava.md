@@ -144,10 +144,10 @@ To go a bit deeper into the details, let’s mention a few things first:
 
 > _**Static nested class**_ : that is declared inside another class as a member and make as static. The main benefit of static nested class is don't need create instance of Outer class to create instance of nested static class. 
 3. **What is the different of HashMap, TreeMap, LinkedHashMap**
-> Ans: First `HashMap` and `LinkedHashMap classes implement interface Map. Whereas TreeMap class implement Map, NavigableMap, SortedMap interface
+> Ans: First `HashMap` and `LinkedHashMap` classes implement interface `Map`. Whereas `TreeMap` class implement `Map`, `NavigableMap`, `SortedMap` interface.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDEyNTkzOSwtMTc5NDU3MzA0NCwyMz
-I0OTQ2NzksMTIxMzIwODU4NiwxNTMzMDU0OTc3LDE5ODIxNjEw
-NzksNDgxMzcwNzczLC0xMDA3MjQ5MTg4LC0xNDQ2NTg0MjEzLC
-0xNTMyODgwMTg1XX0=
+eyJoaXN0b3J5IjpbNzQ5Mjc0MDIzLC0xNzk0NTczMDQ0LDIzMj
+Q5NDY3OSwxMjEzMjA4NTg2LDE1MzMwNTQ5NzcsMTk4MjE2MTA3
+OSw0ODEzNzA3NzMsLTEwMDcyNDkxODgsLTE0NDY1ODQyMTMsLT
+E1MzI4ODAxODVdfQ==
 -->
