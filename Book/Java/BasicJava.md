@@ -150,11 +150,11 @@ To go a bit deeper into the details, let’s mention a few things first:
 |---|:---|:---|:---|
 |  Implement interface |  `Map` | `Map`  | `Map`, `NavigableMap`, `SortedMap`  |
 |  DataStructure | Hash Table  | Double-linked list bucket  | Red-Black tree  | 
-|  Iteration order | No guarantee  | iterated according order  |   |   |
+|  Iteration order | No guarantee  | Order in which key  | iterated according to the natural ordering of its key or ordering of `Comparator`  | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNTAyNzI4LC0xNzk0NTczMDQ0LDIzMj
-Q5NDY3OSwxMjEzMjA4NTg2LDE1MzMwNTQ5NzcsMTk4MjE2MTA3
-OSw0ODEzNzA3NzMsLTEwMDcyNDkxODgsLTE0NDY1ODQyMTMsLT
-E1MzI4ODAxODVdfQ==
+eyJoaXN0b3J5IjpbLTE0Njk5NDI0OTgsLTE3OTQ1NzMwNDQsMj
+MyNDk0Njc5LDEyMTMyMDg1ODYsMTUzMzA1NDk3NywxOTgyMTYx
+MDc5LDQ4MTM3MDc3MywtMTAwNzI0OTE4OCwtMTQ0NjU4NDIxMy
+wtMTUzMjg4MDE4NV19
 -->
