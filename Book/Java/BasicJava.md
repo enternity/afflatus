@@ -148,12 +148,12 @@ To go a bit deeper into the details, let’s mention a few things first:
 
 |   |  HashMap | LinkedHashMap  | TreeMap |
 |---|:---|:---|:---|
-|  Interface |   |   |   |   |
-|   |   |   |   |   |
+|  Implement interface |  `Map` | `Map`  | `Map`, `NavigableMap`, `SortedMap`  |
+|  Iteration order | No guarantee  |   |   |   |
 |   |   |   |   |   |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxMTI0ODY2LC0xNzk0NTczMDQ0LDIzMj
+eyJoaXN0b3J5IjpbMjEyMDgzNTAxLC0xNzk0NTczMDQ0LDIzMj
 Q5NDY3OSwxMjEzMjA4NTg2LDE1MzMwNTQ5NzcsMTk4MjE2MTA3
 OSw0ODEzNzA3NzMsLTEwMDcyNDkxODgsLTE0NDY1ODQyMTMsLT
 E1MzI4ODAxODVdfQ==
