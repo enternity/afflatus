@@ -141,9 +141,9 @@ To go a bit deeper into the details, let’s mention a few things first:
 	> _**Local inner class**_ : declare inside block or method
 	> _**Member inner class**_ : declare as a non-static class in outer class
 	> _**Anonymous inner class**_	: is a class which doesn't have name to reference and initialized at the same place where its get created.
-> _**Static nested class**_ : that is declared inside another class as a member and make as static. 
+> _**Static nested class**_ : that is declared inside another class as a member and make as static. The main benefit of static nested class is don't need create instance of Outer class to create instance of nested static class. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk4Njg2MTcsMTIxMzIwODU4NiwxNT
-MzMDU0OTc3LDE5ODIxNjEwNzksNDgxMzcwNzczLC0xMDA3MjQ5
-MTg4LC0xNDQ2NTg0MjEzLC0xNTMyODgwMTg1XX0=
+eyJoaXN0b3J5IjpbMjMyNDk0Njc5LDEyMTMyMDg1ODYsMTUzMz
+A1NDk3NywxOTgyMTYxMDc5LDQ4MTM3MDc3MywtMTAwNzI0OTE4
+OCwtMTQ0NjU4NDIxMywtMTUzMjg4MDE4NV19
 -->
