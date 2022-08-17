@@ -135,11 +135,11 @@ To go a bit deeper into the details, let’s mention a few things first:
 1. **Private Constructor: In terms of inheritance, what is the effect of keeping a constructor private?**
 > Ans: _When class A has private constructor, this private constructor only accessible only those have access private A's methods. A's inner classes and if A is an inner class of some class S. Other inner class S have access to private constructor. 
 > So, A can be inherited by its own inner class or S's inner classes_
-2. **What is the different of Nested class and Inner class?**
+2. **What is the different of the difference between inner class and nested static class?**
 > Ans: 
 > _**Nested class**: refers to define one class inside another class_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzIwODU4NiwxNTMzMDU0OTc3LDE5OD
-IxNjEwNzksNDgxMzcwNzczLC0xMDA3MjQ5MTg4LC0xNDQ2NTg0
-MjEzLC0xNTMyODgwMTg1XX0=
+eyJoaXN0b3J5IjpbLTE2NDkwOTgwMTgsMTIxMzIwODU4NiwxNT
+MzMDU0OTc3LDE5ODIxNjEwNzksNDgxMzcwNzczLC0xMDA3MjQ5
+MTg4LC0xNDQ2NTg0MjEzLC0xNTMyODgwMTg1XX0=
 -->
