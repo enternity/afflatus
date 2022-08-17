@@ -152,12 +152,12 @@ To go a bit deeper into the details, let’s mention a few things first:
 |  DataStructure | Hash Table  | Double-linked list bucket  | Red-Black tree  | 
 |  Iteration order | No guarantee  | Order in which keys were insert into the map  | iterated according to the natural ordering of its key or ordering of `Comparator`  | 
 |Performance| `O(1)` for get, set, contains, remove, etc.|`O(1)` for get, set, contains, remove, etc.|`O(logn)` time cost for those operations|
-|Null values/keys|permits null value, null key| permits null value, null key|permit null values, not null keys by default, or if `Comparator` support compare null key|
+|Null values/keys|permits null value, null key (only one key)| permits null value, null key|permit null values, not null keys by default, or if `Comparator` support compare null key|
 |When to use|critical performance, ordering key is not a matter|When ordering insert keys is required|keys need to be ordered using their natural ordering or by a `Comparator` |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDg3MjQ5MCwtMTc5NDU3MzA0NCwyMz
-I0OTQ2NzksMTIxMzIwODU4NiwxNTMzMDU0OTc3LDE5ODIxNjEw
-NzksNDgxMzcwNzczLC0xMDA3MjQ5MTg4LC0xNDQ2NTg0MjEzLC
-0xNTMyODgwMTg1XX0=
+eyJoaXN0b3J5IjpbLTU4NjIxODY3OCwxNDAwODcyNDkwLC0xNz
+k0NTczMDQ0LDIzMjQ5NDY3OSwxMjEzMjA4NTg2LDE1MzMwNTQ5
+NzcsMTk4MjE2MTA3OSw0ODEzNzA3NzMsLTEwMDcyNDkxODgsLT
+E0NDY1ODQyMTMsLTE1MzI4ODAxODVdfQ==
 -->
