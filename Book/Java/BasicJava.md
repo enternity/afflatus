@@ -131,10 +131,12 @@ To go a bit deeper into the details, let’s mention a few things first:
 3. LinkedList : linked list.
 4. HashMap : hash map
 
-# Private Constructor: In terms of inheritance, what is the effect of keeping a constructor private?
-When class A has private constructor, this private constructor only accessible only those have access private A's methods. A's inner classes and if A is a inner class of some class S. other inner class S have accs
+# Some questions
+1. **Private Constructor: In terms of inheritance, what is the effect of keeping a constructor private?**
+> Ans: _When class A has private constructor, this private constructor only accessible only those have access private A's methods. A's inner classes and if A is a inner class of some class S. other inner class S have access to private constructor. 
+> So, A can be inherited by its own inner class or S's inner classes_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjg5OTA5MiwxNTMzMDU0OTc3LDE5OD
+eyJoaXN0b3J5IjpbMTY3MTA1NTc0MywxNTMzMDU0OTc3LDE5OD
 IxNjEwNzksNDgxMzcwNzczLC0xMDA3MjQ5MTg4LC0xNDQ2NTg0
 MjEzLC0xNTMyODgwMTg1XX0=
 -->
