@@ -140,9 +140,10 @@ To go a bit deeper into the details, let’s mention a few things first:
 > _**Inner class**: Any class which is not a top level class or declared inside another class is known as nested class. Class which declared non-static known as inner class. There are three type of Inner class :_
 	> _**Local inner class**_ : declare inside block or method
 	> _**Member inner class**_ : declare as a non-static class in outer class
-	> _**Anonymous inner class**_	: is 
+	> _**Anonymous inner class**_	: is a class which doesn't have name to reference and initialized at the same place where its get created.
+> _**Static ne**_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTE1MzA1NiwxMjEzMjA4NTg2LDE1Mz
-MwNTQ5NzcsMTk4MjE2MTA3OSw0ODEzNzA3NzMsLTEwMDcyNDkx
-ODgsLTE0NDY1ODQyMTMsLTE1MzI4ODAxODVdfQ==
+eyJoaXN0b3J5IjpbLTE2NTUwMDIwMTUsMTIxMzIwODU4NiwxNT
+MzMDU0OTc3LDE5ODIxNjEwNzksNDgxMzcwNzczLC0xMDA3MjQ5
+MTg4LC0xNDQ2NTg0MjEzLC0xNTMyODgwMTg1XX0=
 -->
