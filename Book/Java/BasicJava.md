@@ -143,10 +143,11 @@ To go a bit deeper into the details, let’s mention a few things first:
 > _**Anonymous inner class**_	: is a class which doesn't have name to reference and initialized at the same place where its get created.
 
 > _**Static nested class**_ : that is declared inside another class as a member and make as static. The main benefit of static nested class is don't need create instance of Outer class to create instance of nested static class. 
-3. **What is the different of HashMap, TreeMap, Link**
+3. **What is the different of HashMap, TreeMap, LinkedHashMap**
+> Ans: First HashMap and LinkedHashMap is a implement of interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODE5MDA4OSwyMzI0OTQ2NzksMTIxMz
-IwODU4NiwxNTMzMDU0OTc3LDE5ODIxNjEwNzksNDgxMzcwNzcz
-LC0xMDA3MjQ5MTg4LC0xNDQ2NTg0MjEzLC0xNTMyODgwMTg1XX
-0=
+eyJoaXN0b3J5IjpbLTE3OTQ1NzMwNDQsMjMyNDk0Njc5LDEyMT
+MyMDg1ODYsMTUzMzA1NDk3NywxOTgyMTYxMDc5LDQ4MTM3MDc3
+MywtMTAwNzI0OTE4OCwtMTQ0NjU4NDIxMywtMTUzMjg4MDE4NV
+19
 -->
