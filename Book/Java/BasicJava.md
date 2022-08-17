@@ -127,9 +127,11 @@ To go a bit deeper into the details, let’s mention a few things first:
 2. Overriding, however, occurs when a methods share the same name and function signature as another methods in its super class
 # Collections Framework
 1. ArrayList is a dynamic resizing array. 
-2. Vector similar with 
+2. Vector similar with ArrayList, except that it is synchronized. 
+3. LinkedList : linked list.
+4. HashMap 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTMzMDA4MSwxNTMzMDU0OTc3LDE5OD
+eyJoaXN0b3J5IjpbMTk5MTA4MDY0NCwxNTMzMDU0OTc3LDE5OD
 IxNjEwNzksNDgxMzcwNzczLC0xMDA3MjQ5MTg4LC0xNDQ2NTg0
 MjEzLC0xNTMyODgwMTg1XX0=
 -->
