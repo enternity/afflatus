@@ -14,6 +14,13 @@
 
 2. **Interaction Model**
 - Interaction model are for handling time i.e. for process execution, message delivery, clock drifts etc.
+- _**Synchronous Distributed Systems**_
+	- _Main feature_ :
+		- Lower and upper bounds on execution time of processes can be set.
+		- Transmitted messages are received within a known bounded time.
+		- Drift rates between local clocks have a known bound.
+	- Im
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDUzMzkzMSwxMjM3MjMyOTkyXX0=
+eyJoaXN0b3J5IjpbLTE4NjY0NTYyMTcsMTQyMDUzMzkzMSwxMj
+M3MjMyOTkyXX0=
 -->
