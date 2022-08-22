@@ -23,7 +23,10 @@
 		- There is a notion of global physical time
 		- Only synchronous distributed systems have a predictable behavior in terms of timing. 
 		- It is possible and safe to use timeouts in order to detect failures of a process or communication link
+	- It is difficult and costly to implement synchronous distributed systems.
+- _**Asynchronous Distributed Systems**_
+	- _Main feature_: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTc2NzY3MSwxNDIwNTMzOTMxLDEyMz
-cyMzI5OTJdfQ==
+eyJoaXN0b3J5IjpbLTIwNzU4OTI0NzAsMTQyMDUzMzkzMSwxMj
+M3MjMyOTkyXX0=
 -->
