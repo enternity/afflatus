@@ -25,8 +25,14 @@
 		- It is possible and safe to use timeouts in order to detect failures of a process or communication link
 	- It is difficult and costly to implement synchronous distributed systems.
 - _**Asynchronous Distributed Systems**_
-	- _Main feature_: 
+	- _Main feature_:
+		- No bound on process execution time.
+		- No bound on message transmission delays.
+		- No bounds on drift rates between local clocks.
+	- 
+	- _Important consequences_:
+		- I
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU4OTI0NzAsMTQyMDUzMzkzMSwxMj
+eyJoaXN0b3J5IjpbLTE3Mjg4MDM3NjcsMTQyMDUzMzkzMSwxMj
 M3MjMyOTkyXX0=
 -->
