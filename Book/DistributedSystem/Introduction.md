@@ -24,15 +24,19 @@
 		- Only synchronous distributed systems have a predictable behavior in terms of timing. 
 		- It is possible and safe to use timeouts in order to detect failures of a process or communication link
 	- It is difficult and costly to implement synchronous distributed systems.
-- _**Asynchronous Distributed Systems**_
+- _**Asynchronous Distributed Systems (ADS)**_
 	- _Main feature_:
 		- No bound on process execution time.
 		- No bound on message transmission delays.
 		- No bounds on drift rates between local clocks.
 	- 
 	- _Important consequences_:
-		- I
+		- In an asynchronous distributed system there is no global physical time. Reasoning can be only in terms of logical time.
+		- ADS are unpredictable in terms of timing.
+		- No timeouts can be used
+		- In practice timeouts are used
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg4MDM3NjcsMTQyMDUzMzkzMSwxMj
+eyJoaXN0b3J5IjpbLTE5MzcwOTI0MzgsMTQyMDUzMzkzMSwxMj
 M3MjMyOTkyXX0=
 -->
