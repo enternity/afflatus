@@ -40,7 +40,11 @@
 - Can occur both in processes and communication channels.
 - Needed in order to build systems with predictable behavior in case of faults.
 - Such a system will function according to the predictions, only as long as the real faults behave as defined by the "fault model"
+
+## Properties
+## Safety
+- _"There are no bad reachable configurations"_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjU4MjY0NiwxNDIwNTMzOTMxLDEyMz
-cyMzI5OTJdfQ==
+eyJoaXN0b3J5IjpbLTIwOTkxMzYzNzAsMTQyMDUzMzkzMSwxMj
+M3MjMyOTkyXX0=
 -->
