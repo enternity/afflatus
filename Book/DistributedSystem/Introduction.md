@@ -19,8 +19,11 @@
 		- Lower and upper bounds on execution time of processes can be set.
 		- Transmitted messages are received within a known bounded time.
 		- Drift rates between local clocks have a known bound.
-	- Im
+	- _Important consequences_:
+		- There is a notion of global physical time
+		- Only synchronous distributed systems have a predictable behavior in terms of timing. 
+		- It is possible and safe to use timeouts in order to detect failures of a process or communication link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY0NTYyMTcsMTQyMDUzMzkzMSwxMj
-M3MjMyOTkyXX0=
+eyJoaXN0b3J5IjpbMjE0NTc2NzY3MSwxNDIwNTMzOTMxLDEyMz
+cyMzI5OTJdfQ==
 -->
