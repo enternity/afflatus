@@ -38,8 +38,9 @@
 		- However, additional measures have to be applied in order to avoid duplicated messages, duplicated execution of operations, etc.
 3. **Fault Models**:
 - Can occur both in processes and communication channels.
-- Needed in order to build systems wi
+- Needed in order to build systems with predictable behavior in case of faults.
+- Such a system will function according to the predictions, only as long as the real faults behave as defined by the "fault model"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjEzMzMzOTEsMTQyMDUzMzkzMSwxMj
-M3MjMyOTkyXX0=
+eyJoaXN0b3J5IjpbMTA5MjU4MjY0NiwxNDIwNTMzOTMxLDEyMz
+cyMzI5OTJdfQ==
 -->
