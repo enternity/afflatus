@@ -34,9 +34,12 @@
 		- In an asynchronous distributed system there is no global physical time. Reasoning can be only in terms of logical time.
 		- ADS are unpredictable in terms of timing.
 		- No timeouts can be used
-		- In practice timeouts are used
-		- 
+		- In practice timeouts are used with asynchronous systems for failure detection.
+		- However, additional measures have to be applied in order to avoid duplicated messages, duplicated execution of operations, etc.
+3. **Fault Models**:
+- Can occur both in processes and communication channels.
+- Needed in order to build systems wi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzcwOTI0MzgsMTQyMDUzMzkzMSwxMj
+eyJoaXN0b3J5IjpbLTEwMjEzMzMzOTEsMTQyMDUzMzkzMSwxMj
 M3MjMyOTkyXX0=
 -->
