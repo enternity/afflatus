@@ -13,7 +13,7 @@
 <img src="https://i.imgur.com/jgu31t5.png" />
 
 2. **Interaction Model**
-- Interaction model are for handling time i.e. for process executi
+- Interaction model are for handling time i.e. for process execution, message delivery, clock drifts etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjY2ODQxNywxMjM3MjMyOTkyXX0=
+eyJoaXN0b3J5IjpbMTQyMDUzMzkzMSwxMjM3MjMyOTkyXX0=
 -->
