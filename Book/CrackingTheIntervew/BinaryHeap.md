@@ -9,6 +9,10 @@
 |---|---|---|
 |**`Arr[(2 * i) + 1]`**|**Returns the left child node**|
 |**`Arr[(2 * i) + 2]`**|**Returns the right child node**|
+## Applications of Heaps:
+1. Heap sort: `O(nlogn)`
+2. Priority Queue
+3. Graph algorithms : the priority queues are especially used in Graph algorithms like D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5ODE0NjQyXX0=
+eyJoaXN0b3J5IjpbMTQ5NjEzMTg1Myw0MDk4MTQ2NDJdfQ==
 -->
