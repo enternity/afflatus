@@ -19,7 +19,10 @@
 	- Merge K sorted arrays.
 ## Operations on Min Heap:
 1. `getMini()` : `O(1)`
-2. e 
+2. `extractMin()` : Removes the minimum element from Min Heap. Time complexity is `O(logn)` as this operation need to maintain the heap property after removing root.
+3. `decreaseKey()` : Decreases value of key. `O(logn)`.
+4. `insert()` : `O(logn)`
+5. `` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTg3NDAwOCw0MDk4MTQ2NDJdfQ==
+eyJoaXN0b3J5IjpbMTUzNjMxMjc1Miw0MDk4MTQ2NDJdfQ==
 -->
