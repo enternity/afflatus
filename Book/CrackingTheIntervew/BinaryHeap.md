@@ -5,9 +5,10 @@
 ## How is Binary Heap represented?
 - The root element will be at `Arr[0]`
 
-|`ARr`||
+|`Arr[(i - 1) /2 ]`|Returns the parent node|
 |---|---|---|
-|||
+|**`Arr[(2 * i) + 1]`|Returns the left child node|
+|`Arr[(2 * i) + 2]`|Returns the right child node|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODI4MjExMV19
+eyJoaXN0b3J5IjpbLTMwMDEyMjcwMl19
 -->
