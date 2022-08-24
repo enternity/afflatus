@@ -22,7 +22,8 @@
 2. `extractMin()` : Removes the minimum element from Min Heap. Time complexity is `O(logn)` as this operation need to maintain the heap property after removing root.
 3. `decreaseKey()` : Decreases value of key. `O(logn)`.
 4. `insert()` : `O(logn)`
-5. `delete()` : `O(logn)` 
+5. `delete()` : `O(logn)`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTU4NzQ4MCw0MDk4MTQ2NDJdfQ==
+eyJoaXN0b3J5IjpbLTExMjAyOTMzNDgsMjA1OTU4NzQ4MCw0MD
+k4MTQ2NDJdfQ==
 -->
