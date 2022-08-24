@@ -12,7 +12,14 @@
 ## Applications of Heaps:
 1. Heap sort: `O(nlogn)`
 2. Priority Queue
-3. Graph algorithms : the priority queues are especially used in Graph algorithms like D
+3. Graph algorithms : the priority queues are especially used in Graph algorithms like Dijkstra,...
+4. Some problem can be efficiently solved using Heaps:
+	- K'th largest element in an array.
+	- Sort an almost sorted array.
+	- Merge K sorted arrays.
+## Operations on Min Heap:
+1. `getMini()` : `O(1)`
+2. e 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjEzMTg1Myw0MDk4MTQ2NDJdfQ==
+eyJoaXN0b3J5IjpbLTk5NTg3NDAwOCw0MDk4MTQ2NDJdfQ==
 -->
