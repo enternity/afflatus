@@ -1,3 +1,5 @@
+https://docs.google.com/spreadsheets/d/1E4ya3vgAJZ554pahSsmJYVwYJZJvK5_Y4SEa-mmJ9gU/edit#gid=0
+
 1.  Simple graph algorithms like bfs and dfs
 2.  Union - find
 3.  How to implement / use maps ( or dictionaries ) and set data structures.
@@ -8,5 +10,5 @@
 8.  Sorting and binary search ( a lot of easy Medium level problems are based these )
 9.  Use of priority queues as min or max heap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg4OTMxNTNdfQ==
+eyJoaXN0b3J5IjpbLTcxMDk2ODM4NSwtMTIwODg5MzE1M119
 -->
