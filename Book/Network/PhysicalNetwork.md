@@ -62,8 +62,12 @@
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/tcp1-2.png"/>
 
 > In this example we see that A sends acknowledgement number1001, which means that it has received data bytes till byte number 1000 and expects to receive 1001 next, hence B next sends data bytes starting from 1001. Similarly, since B has received data bytes till byte number 13001 after the first data transfer from A to B, therefore B sends acknowledgement number 13002, the byte number that it expects to receive from A next.
+
+2. **Flow Control** :
+- Limit s the rate at which a sender transfers data. This is done to ensure reliable delivery.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODkzNTIzOSw1ODg0NDI3NTksNzM1Mz
+eyJoaXN0b3J5IjpbMjExMjM1OTE3MCw1ODg0NDI3NTksNzM1Mz
 k2MzcxLC0xMTQyNjcxNjYyLC0xOTQ5OTAxMDU0LC03Nzk0Mzk0
 OTUsNDk0MDg0NTU2LDE2OTgyOTY2NjksMTI0MDgzOTgzNywtOT
 YzMzIwOTk4LDE3MDcyNTU0MTksLTEzMTU3MTgzNjAsLTE0MDk4
