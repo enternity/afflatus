@@ -1,4 +1,5 @@
 # Number type of sort:
+https://en.wikipedia.org/wiki/Category:Sorting_algorithms
 
 ### Simple sorts[[edit](https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&action=edit&section=9 "Edit section: Simple sorts")]
 
@@ -143,7 +144,7 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjUzNjY5MCwtMTM1MTMxODU5NiwyNj
-M2OTk3NzIsMTU4ODI4OTgwMiwtMTE3MTk1ODY5NSwtNzk3ODI2
-MzY0LC04NTkxNzczODksLTE1MzM5NzY5ODRdfQ==
+eyJoaXN0b3J5IjpbLTExMzAyNjY3MzAsLTEzNTEzMTg1OTYsMj
+YzNjk5NzcyLDE1ODgyODk4MDIsLTExNzE5NTg2OTUsLTc5Nzgy
+NjM2NCwtODU5MTc3Mzg5LC0xNTMzOTc2OTg0XX0=
 -->
