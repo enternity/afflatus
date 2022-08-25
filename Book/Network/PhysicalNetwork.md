@@ -12,9 +12,11 @@
 - Data Link Layer is divided into two sublayers:
 	- Logical Link Control (LLC)
 	- Media Access Control (MAC)
-- `Package from Network layer -> dived into frames`
+- DDL encapsulates Sender and Receiver's MAC address in the header. 
+- The functions of the Data Link Layer are:
+	- _Framing_ : provides a way for a sender to transmit a set of bits that are meaningful 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMzg3Mzk3LC05NjMzMjA5OTgsMTcwNz
-I1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2MzY5OV19
+eyJoaXN0b3J5IjpbMTA3MzM5OTg5NCwtOTYzMzIwOTk4LDE3MD
+cyNTU0MTksLTEzMTU3MTgzNjAsLTE0MDk4NjM2OTldfQ==
 -->
