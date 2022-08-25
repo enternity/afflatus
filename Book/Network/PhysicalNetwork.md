@@ -54,10 +54,12 @@
 <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20220511230638/OSImodelakhilabhilash01.png"/>
 #  TCP in a nutshell :
 ## Features of TCP/IP 
-1. **Segment **
+1. **Segment Numbering System**
+- TCP keeps track of the segments being transmitted or being received by assigning numbers ti each and every single one of them.
+- A specific `ByteNumber` is assigned to data bytes that are to be transferred while segments are assigned `sequence number`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI2ODAxMzEsLTExNDI2NzE2NjIsLT
-E5NDk5MDEwNTQsLTc3OTQzOTQ5NSw0OTQwODQ1NTYsMTY5ODI5
-NjY2OSwxMjQwODM5ODM3LC05NjMzMjA5OTgsMTcwNzI1NTQxOS
-wtMTMxNTcxODM2MCwtMTQwOTg2MzY5OV19
+eyJoaXN0b3J5IjpbLTY1ODIzODY2OSwtMTE0MjY3MTY2MiwtMT
+k0OTkwMTA1NCwtNzc5NDM5NDk1LDQ5NDA4NDU1NiwxNjk4Mjk2
+NjY5LDEyNDA4Mzk4MzcsLTk2MzMyMDk5OCwxNzA3MjU1NDE5LC
+0xMzE1NzE4MzYwLC0xNDA5ODYzNjk5XX0=
 -->
