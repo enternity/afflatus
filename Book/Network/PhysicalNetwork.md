@@ -9,10 +9,9 @@
 	- _Transmission mode_ : defines the way in which the data flows between the two connected devices. Transmission modes possible are : `Simplex, Half-Duplex, Full-Duplex.` [Transmission mode](https://www.geeksforgeeks.org/difference-between-simplex-half-duplex-and-full-duplex-transmission-modes/#:~:text=Simplex%20mode%20is%20a%20uni,two%2Dway%20directional%20communication%20simultaneously.)
 2. **Data Link Layer**
 - It is responsible for the `node-to-node` delivery of the message. The main function of this layer is to make sure data transfer is `error-free` from one node to another, over the physical layer. When a package arrives in a network, it is the responsibility of DDL to transmit it to the Host using its MAC address.
-
-
+- Data Link Layer
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzMyMDk5OCwxNzA3MjU1NDE5LC0xMz
-E1NzE4MzYwLC0xNDA5ODYzNjk5XX0=
+eyJoaXN0b3J5IjpbMTU1MDQ3NTY4NCwtOTYzMzIwOTk4LDE3MD
+cyNTU0MTksLTEzMTU3MTgzNjAsLTE0MDk4NjM2OTldfQ==
 -->
