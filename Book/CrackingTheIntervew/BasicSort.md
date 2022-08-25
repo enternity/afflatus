@@ -1,4 +1,5 @@
 # Number type of sort:
+
 ### Simple sorts[[edit](https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&action=edit&section=9 "Edit section: Simple sorts")]
 
 Two of the simplest sorts are **insertion sort and selection sort**, both of which are efficient on small data, due to low overhead, but not efficient on large data. Insertion sort is generally faster than selection sort in practice, due to fewer comparisons and good performance on almost-sorted data, and thus is preferred in practice, but selection sort uses fewer writes, and thus is used when write performance is a limiting factor.
@@ -142,7 +143,7 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTEzMTg1OTYsMjYzNjk5NzcyLDE1OD
-gyODk4MDIsLTExNzE5NTg2OTUsLTc5NzgyNjM2NCwtODU5MTc3
-Mzg5LC0xNTMzOTc2OTg0XX0=
+eyJoaXN0b3J5IjpbLTMzNjUzNjY5MCwtMTM1MTMxODU5NiwyNj
+M2OTk3NzIsMTU4ODI4OTgwMiwtMTE3MTk1ODY5NSwtNzk3ODI2
+MzY0LC04NTkxNzczODksLTE1MzM5NzY5ODRdfQ==
 -->
