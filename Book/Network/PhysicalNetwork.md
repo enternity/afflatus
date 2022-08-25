@@ -40,11 +40,13 @@
 		- **Connectionless Service** : it is a one-phase process and includes Data Transfer. The receiver does not acknowledge receipt of a packet. Much faster communication between devices.
 5. **Session Layer** :
 	- Session establishment, maintenance, and termination.
-	- Synchronization : Add checkpoints which are considered synchronization points into data. helps to identify the error so that data is re-synchronized p
-
+	- Synchronization : Add checkpoints which are considered synchronization points into data. helps to identify the error so that data is re-synchronized properly.
+	- Dialog Controller : Allows two systems to start communication with each other in half-duplex or full-duplex.
+6. **Presentation **
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NDE0MjEsLTc3OTQzOTQ5NSw0OTQwOD
-Q1NTYsMTY5ODI5NjY2OSwxMjQwODM5ODM3LC05NjMzMjA5OTgs
-MTcwNzI1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2MzY5OV19
+eyJoaXN0b3J5IjpbMTM3NjE2OTAyNywtNzc5NDM5NDk1LDQ5ND
+A4NDU1NiwxNjk4Mjk2NjY5LDEyNDA4Mzk4MzcsLTk2MzMyMDk5
+OCwxNzA3MjU1NDE5LC0xMzE1NzE4MzYwLC0xNDA5ODYzNjk5XX
+0=
 -->
