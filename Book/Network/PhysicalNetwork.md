@@ -32,12 +32,16 @@
 	- _**Segmentation and Reassembly**_: accepts the message from the session layer, and breaks the message into smaller units. Each of the segments produced has a header associated with it. At the destination station reassembles the message.
 	- _**Service Point Addressing**_ : Make sure the message is delivered to the correct process.
 	- The services provided by the transport layer:
-		- 
+		- **Connection-Oriented Service**
+			- Connection establishment.
+			- Data transfer.
+			- Termination / Disconnection.
+			> The receiving device sends an acknowledgment, back to the source after packet or group packets is received. This type of t
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjYzMzQ2MSwtNzc5NDM5NDk1LDQ5ND
-A4NDU1NiwxNjk4Mjk2NjY5LDEyNDA4Mzk4MzcsLTk2MzMyMDk5
-OCwxNzA3MjU1NDE5LC0xMzE1NzE4MzYwLC0xNDA5ODYzNjk5XX
-0=
+eyJoaXN0b3J5IjpbLTIwNzkyNzQ2MTAsLTc3OTQzOTQ5NSw0OT
+QwODQ1NTYsMTY5ODI5NjY2OSwxMjQwODM5ODM3LC05NjMzMjA5
+OTgsMTcwNzI1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2MzY5OV
+19
 -->
