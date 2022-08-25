@@ -16,9 +16,11 @@
 - The functions of the Data Link Layer are:
 	- _Framing_ : provides a way for a sender to transmit a set of bits that are meaningful to the receiver.
 	- _Physical addressing_ : After creating frames, DDL adds physical address (MAC) of the sender and/or receiver in the header of each frame.
-	- _Error control_ : provides the mechanism of error 
+	- _Error control_ : provides the mechanism of error control in which it detects and retransmits damaged or lost frames.
+	- _Flow control_ : coordinates the amount of data that can be sent before receiving ack.
+	- _Access Control_ : When a single communication channel is shared by multiple devices, the MAC sub-layer of the data link layer hel[s to determine which
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Nzg2NzUxNywtOTYzMzIwOTk4LDE3MD
-cyNTU0MTksLTEzMTU3MTgzNjAsLTE0MDk4NjM2OTldfQ==
+eyJoaXN0b3J5IjpbLTIwOTEyMDYwMTUsLTk2MzMyMDk5OCwxNz
+A3MjU1NDE5LC0xMzE1NzE4MzYwLC0xNDA5ODYzNjk5XX0=
 -->
