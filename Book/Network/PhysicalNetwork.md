@@ -38,11 +38,13 @@
 			- Termination / Disconnection.
 			> The receiving device sends an acknowledgment, back to the source after packet or group packets is received. More reliable & secure.
 		- **Connectionless Service** : it is a one-phase process and includes Data Transfer. The receiver does not acknowledge receipt of a packet. Much faster communication between devices.
-		- 
+5. **Session Layer** :
+	- Session establishment, maintenance, and termination.
+	- Synchronization : Add checkpoints which are considered synchronization points into data. helps to identify the error so that data is re-synchronized p
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3NzMzNDAsLTc3OTQzOTQ5NSw0OTQwOD
+eyJoaXN0b3J5IjpbNTk1NDE0MjEsLTc3OTQzOTQ5NSw0OTQwOD
 Q1NTYsMTY5ODI5NjY2OSwxMjQwODM5ODM3LC05NjMzMjA5OTgs
 MTcwNzI1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2MzY5OV19
 -->
