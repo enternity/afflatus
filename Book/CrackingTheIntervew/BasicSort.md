@@ -14,8 +14,21 @@ Bubble sort, and variants such as the  [Shellsort](https://en.wikipedia.org/wiki
 See also:  [External sorting](https://en.wikipedia.org/wiki/External_sorting "External sorting")
 
 _Distribution sort_  refers to any sorting algorithm where data is distributed from their input to multiple intermediate structures which are then gathered and placed on the output. For example, both  [bucket sort](https://en.wikipedia.org/wiki/Bucket_sort "Bucket sort")  and  [flashsort](https://en.wikipedia.org/wiki/Flashsort "Flashsort")  are distribution based sorting algorithms. Distribution sorting algorithms can be used on a single processor, or they can be a  [distributed algorithm](https://en.wikipedia.org/wiki/Distributed_algorithm "Distributed algorithm"), where individual subsets are separately sorted on different processors, then combined. This allows  [external sorting](https://en.wikipedia.org/wiki/External_sorting "External sorting")  of data too large to fit into a single computer's memory.
-# Schwartzian transform
+
+## Schwartzian transform
 In [computer programming](https://en.wikipedia.org/wiki/Computer_programming "Computer programming"), the **Schwartzian transform** is a technique used to improve the efficiency of [sorting](https://en.wikipedia.org/wiki/Sorting "Sorting") a list of items. This [idiom](https://en.wikipedia.org/wiki/Programming_idiom "Programming idiom")[[1]](https://en.wikipedia.org/wiki/Schwartzian_transform#cite_note-1) is appropriate for [comparison-based sorting](https://en.wikipedia.org/wiki/Comparison_sort "Comparison sort") when the ordering is actually based on the ordering of a certain property (the _key_) of the elements, where computing that property is an intensive operation that should be performed a minimal number of times. The Schwartzian transform is notable in that it does not use named temporary arrays.
+
+##  External sorting
+**External sorting** is a class of [sorting](https://en.wikipedia.org/wiki/Sorting "Sorting")  [algorithms](https://en.wikipedia.org/wiki/Algorithm "Algorithm") that can handle massive amounts of [data](https://en.wikipedia.org/wiki/Data "Data"). External sorting is required when the data being sorted do not fit into the [main memory](https://en.wikipedia.org/wiki/Main_memory "Main memory") of a computing device (usually [RAM](https://en.wikipedia.org/wiki/RAM "RAM")) and instead they must reside in the slower [external memory](https://en.wikipedia.org/wiki/Auxiliary_memory "Auxiliary memory"), usually a [disk drive](https://en.wikipedia.org/wiki/Disk_drive "Disk drive"). Thus, external sorting algorithms are [external memory algorithms](https://en.wikipedia.org/wiki/External_memory_algorithm "External memory algorithm") and thus applicable in the [external memory](https://en.wikipedia.org/wiki/External_memory_model "External memory model")  [model of computation](https://en.wikipedia.org/wiki/Model_of_computation "Model of computation").
+
+## K-sorted sequence
+In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), a **nearly-sorted sequence**, also known as **roughly-sorted sequence** and as **{\displaystyle k}![k](https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40)-sorted sequence** is a sequence which is almost ordered. By almost ordered, it is meant that no element of the sequence is very far away from where it would be if the sequence were perfectly ordered. It is still possible that no element of the sequence is at the place where it should be if the sequence were perfectly ordered.
+
+## Partial sorting
+
+In  [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"),  **partial sorting**  is a  [relaxed](https://en.wikipedia.org/wiki/Relaxation_(approximation) "Relaxation (approximation)")  variant of the  [sorting](https://en.wikipedia.org/wiki/Sorting_algorithm "Sorting algorithm")  problem. Total sorting is the problem of returning a list of items such that its elements all appear in order, while partial sorting is returning a list of the  _k_  smallest (or  _k_  largest) elements in order. The other elements (above the  _k_  smallest ones) may also be sorted, as in an in-place partial sort, or may be discarded, which is common in streaming partial sorts. A common practical example of partial sorting is computing the "Top 100" of some list.
+
+In terms of indices, in a partially sorted list, for every index  _i_  from 1 to  _k,_  the  _i_-th element is in the same place as it would be in the fully sorted list: element  _i_  of the partially sorted list contains  [order statistic](https://en.wikipedia.org/wiki/Order_statistic "Order statistic")  _i_  of the input list.
 
 # Compare Sort Methods :
 | Names        | Average           |  Memory |Note|
@@ -115,6 +128,6 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzYwMzI4NCwtMTE3MTk1ODY5NSwtNz
-k3ODI2MzY0LC04NTkxNzczODksLTE1MzM5NzY5ODRdfQ==
+eyJoaXN0b3J5IjpbMjM2MDY4NzMzLC0xMTcxOTU4Njk1LC03OT
+c4MjYzNjQsLTg1OTE3NzM4OSwtMTUzMzk3Njk4NF19
 -->
