@@ -58,9 +58,12 @@
 - TCP keeps track of the segments being transmitted or being received by assigning numbers ti each and every single one of them.
 - A specific `ByteNumber` is assigned to data bytes that are to be transferred while segments are assigned `sequence number`.
 - `Acknowledgment Numbers` are assigned to received segments.
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/tcp1-2.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4NDQyNzU5LDczNTM5NjM3MSwtMTE0Mj
-Y3MTY2MiwtMTk0OTkwMTA1NCwtNzc5NDM5NDk1LDQ5NDA4NDU1
-NiwxNjk4Mjk2NjY5LDEyNDA4Mzk4MzcsLTk2MzMyMDk5OCwxNz
-A3MjU1NDE5LC0xMzE1NzE4MzYwLC0xNDA5ODYzNjk5XX0=
+eyJoaXN0b3J5IjpbLTg2NzkyMzcyLDU4ODQ0Mjc1OSw3MzUzOT
+YzNzEsLTExNDI2NzE2NjIsLTE5NDk5MDEwNTQsLTc3OTQzOTQ5
+NSw0OTQwODQ1NTYsMTY5ODI5NjY2OSwxMjQwODM5ODM3LC05Nj
+MzMjA5OTgsMTcwNzI1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2
+MzY5OV19
 -->
