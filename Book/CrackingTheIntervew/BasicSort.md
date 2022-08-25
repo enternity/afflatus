@@ -1,10 +1,10 @@
 # Number type of sort:
 ### Simple sorts[[edit](https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&action=edit&section=9 "Edit section: Simple sorts")]
 
-Two of the simplest sorts are insertion sort and selection sort, both of which are efficient on small data, due to low overhead, but not efficient on large data. Insertion sort is generally faster than selection sort in practice, due to fewer comparisons and good performance on almost-sorted data, and thus is preferred in practice, but selection sort uses fewer writes, and thus is used when write performance is a limiting factor.
+Two of the simplest sorts are **insertion sort and selection sort**, both of which are efficient on small data, due to low overhead, but not efficient on large data. Insertion sort is generally faster than selection sort in practice, due to fewer comparisons and good performance on almost-sorted data, and thus is preferred in practice, but selection sort uses fewer writes, and thus is used when write performance is a limiting factor.
 ### Efficient sorts[[edit](https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&action=edit&section=12 "Edit section: Efficient sorts")]
 
-Practical general sorting algorithms are almost always based on an algorithm with average time complexity (and generally worst-case complexity) O(_n_  log  _n_), of which the most common are heapsort, merge sort, and quicksort. Each has advantages and drawbacks, with the most significant being that simple implementation of merge sort uses O(_n_) additional space, and simple implementation of quicksort has O(_n_2) worst-case complexity. These problems can be solved or ameliorated at the cost of a more complex algorithm
+Practical general sorting algorithms are almost always based on an algorithm with average time complexity (and generally worst-case complexity) O(_n_  log  _n_), of which the most common are **heapsort, merge sort, and quicksort**. Each has advantages and drawbacks, with the most significant being that simple implementation of merge sort uses O(_n_) additional space, and simple implementation of quicksort has O(_n_2) worst-case complexity. These problems can be solved or ameliorated at the cost of a more complex algorithm
 ### Bubble sort and variants[[edit](https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&action=edit&section=17 "Edit section: Bubble sort and variants")]
 
 Bubble sort, and variants such as the  [Shellsort](https://en.wikipedia.org/wiki/Shellsort "Shellsort")  and  [cocktail sort](https://en.wikipedia.org/wiki/Cocktail_sort "Cocktail sort"), are simple, highly inefficient sorting algorithms. They are frequently seen in introductory texts due to ease of analysis, but they are rarely used in practice.
@@ -142,7 +142,7 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNjk5NzcyLDE1ODgyODk4MDIsLTExNz
-E5NTg2OTUsLTc5NzgyNjM2NCwtODU5MTc3Mzg5LC0xNTMzOTc2
-OTg0XX0=
+eyJoaXN0b3J5IjpbLTEzNTEzMTg1OTYsMjYzNjk5NzcyLDE1OD
+gyODk4MDIsLTExNzE5NTg2OTUsLTc5NzgyNjM2NCwtODU5MTc3
+Mzg5LC0xNTMzOTc2OTg0XX0=
 -->
