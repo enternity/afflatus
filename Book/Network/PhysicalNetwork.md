@@ -47,10 +47,15 @@
 	- Translation: I.e ASCII, EBCDIC.
 	- Encryption / Decryption : data encryption translates the data into another form or code.
 	- Compression : reduces the number of bits that need to be transmitted on the network.
+7. **Application Layer**
+- Produced data.
+
+> **OSI model in a nutshell**
+<img src= "https://media.geeksforgeeks.org/wp-content/uploads/20220511230638/OSImodelakhilabhilash01.png"/>
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk5MDEwNTQsLTc3OTQzOTQ5NSw0OT
-QwODQ1NTYsMTY5ODI5NjY2OSwxMjQwODM5ODM3LC05NjMzMjA5
-OTgsMTcwNzI1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2MzY5OV
-19
+eyJoaXN0b3J5IjpbLTExNDI2NzE2NjIsLTE5NDk5MDEwNTQsLT
+c3OTQzOTQ5NSw0OTQwODQ1NTYsMTY5ODI5NjY2OSwxMjQwODM5
+ODM3LC05NjMzMjA5OTgsMTcwNzI1NTQxOSwtMTMxNTcxODM2MC
+wtMTQwOTg2MzY5OV19
 -->
