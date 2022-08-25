@@ -33,7 +33,8 @@ In terms of indices, in a partially sorted list, for every index  _i_  from 1 to
 ## Selection algorithm
 In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), a **selection algorithm** is an [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") for finding the _k_th smallest number in a [list](https://en.wikipedia.org/wiki/List_(abstract_data_type) "List (abstract data type)") or [array](https://en.wikipedia.org/wiki/Array_data_structure "Array data structure"); such a number is called the _k_th _[order statistic](https://en.wikipedia.org/wiki/Order_statistic "Order statistic")_. This includes the cases of finding the [minimum](https://en.wikipedia.org/wiki/Minimum "Minimum"), [maximum](https://en.wikipedia.org/wiki/Maximum "Maximum"), and [median](https://en.wikipedia.org/wiki/Median "Median") elements. There are O(_n_)-time (worst-case linear time) selection algorithms, and sublinear performance is possible for structured data; in the extreme, O(1) for an array of sorted data. Selection is a subproblem of more complex problems like the [nearest neighbor](https://en.wikipedia.org/wiki/Nearest_neighbor_problem "Nearest neighbor problem") and [shortest path](https://en.wikipedia.org/wiki/Shortest_path "Shortest path") problems. Many selection algorithms are derived by generalizing a [sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm "Sorting algorithm"), and conversely some sorting algorithms can be derived as repeated application of selection.
 
-
+## Random_permutation
+If a computer has access to purely random numbers, it is capable of generating a "perfect shuffle", a [random permutation](https://en.wikipedia.org/wiki/Random_permutation "Random permutation") of the cards; beware that this terminology (an algorithm that perfectly randomizes the deck) differs from "a perfectly executed single shuffle", notably a perfectly interleaving [faro shuffle](https://en.wikipedia.org/wiki/Faro_shuffle "Faro shuffle"). The [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle "Fisher–Yates shuffle"), popularized by [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth "Donald Knuth"), is simple (a few lines of code) and efficient ([O](https://en.wikipedia.org/wiki/Big_O_notation "Big O notation")(_n_) on an _n_-card deck, assuming constant time for fundamental steps) algorithm for doing this. Shuffling can be seen as the opposite of [sorting](https://en.wikipedia.org/wiki/Sorting_algorithm "Sorting algorithm").
 
 # Compare Sort Methods :
 | Names        | Average           |  Memory |Note|
@@ -133,6 +134,6 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0ODU4NTI3LC0xMTcxOTU4Njk1LC03OT
-c4MjYzNjQsLTg1OTE3NzM4OSwtMTUzMzk3Njk4NF19
+eyJoaXN0b3J5IjpbMTU4ODI4OTgwMiwtMTE3MTk1ODY5NSwtNz
+k3ODI2MzY0LC04NTkxNzczODksLTE1MzM5NzY5ODRdfQ==
 -->
