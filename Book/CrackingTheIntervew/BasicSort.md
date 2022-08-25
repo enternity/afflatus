@@ -39,6 +39,9 @@ If a computer has access to purely random numbers, it is capable of generating a
 ## BogoSort
 
 In [computer science](https://en.wikipedia.org/wiki/Computer_science), **bogosort**[[1]](https://en.wikipedia.org/wiki/Bogosort#cite_note-Fun07-1)[[2]](https://en.wikipedia.org/wiki/Bogosort#cite_note-KSFS-2) (also known as **permutation sort**, **stupid sort**,[[3]](https://en.wikipedia.org/wiki/Bogosort#cite_note-3) or **slowsort**[[4]](https://en.wikipedia.org/wiki/Bogosort#cite_note-Naish86-4)) is a [sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm "Sorting algorithm") based on the [generate and test](https://en.wikipedia.org/wiki/Generate_and_test "Generate and test") paradigm. The function successively generates [permutations](https://en.wikipedia.org/wiki/Permutation "Permutation") of its input until it finds one that is sorted. It is not considered useful for sorting, but may be used for educational purposes, to contrast it with more efficient algorithms.
+
+## Bead Sort
+
 # Compare Sort Methods :
 | Names        | Average           |  Memory |Note|
 |:------------- |:-------------:| -----:|:-------------|
@@ -137,7 +140,7 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MDAyNDE0LDE1ODgyODk4MDIsLTExNz
+eyJoaXN0b3J5IjpbLTgxNDQ2MTQ4LDE1ODgyODk4MDIsLTExNz
 E5NTg2OTUsLTc5NzgyNjM2NCwtODU5MTc3Mzg5LC0xNTMzOTc2
 OTg0XX0=
 -->
