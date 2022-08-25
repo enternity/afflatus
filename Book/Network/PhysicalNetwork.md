@@ -52,10 +52,12 @@
 
 > **OSI model in a nutshell**
 <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20220511230638/OSImodelakhilabhilash01.png"/>
-# Different TCP  and UDP protocol
+#  TCP in a nutshell :
+## Features of TCP/IP 
+1. **Segment **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI2NzE2NjIsLTE5NDk5MDEwNTQsLT
-c3OTQzOTQ5NSw0OTQwODQ1NTYsMTY5ODI5NjY2OSwxMjQwODM5
-ODM3LC05NjMzMjA5OTgsMTcwNzI1NTQxOSwtMTMxNTcxODM2MC
-wtMTQwOTg2MzY5OV19
+eyJoaXN0b3J5IjpbLTE5NzI2ODAxMzEsLTExNDI2NzE2NjIsLT
+E5NDk5MDEwNTQsLTc3OTQzOTQ5NSw0OTQwODQ1NTYsMTY5ODI5
+NjY2OSwxMjQwODM5ODM3LC05NjMzMjA5OTgsMTcwNzI1NTQxOS
+wtMTMxNTcxODM2MCwtMTQwOTg2MzY5OV19
 -->
