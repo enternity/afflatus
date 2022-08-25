@@ -56,10 +56,10 @@
 ## Features of TCP/IP 
 1. **Segment Numbering System**
 - TCP keeps track of the segments being transmitted or being received by assigning numbers ti each and every single one of them.
-- A specific `ByteNumber` is assigned to data bytes that are to be transferred while segments are assigned `sequence number`
+- A specific `ByteNumber` is assigned to data bytes that are to be transferred while segments are assigned `sequence number`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODIzODY2OSwtMTE0MjY3MTY2MiwtMT
-k0OTkwMTA1NCwtNzc5NDM5NDk1LDQ5NDA4NDU1NiwxNjk4Mjk2
-NjY5LDEyNDA4Mzk4MzcsLTk2MzMyMDk5OCwxNzA3MjU1NDE5LC
-0xMzE1NzE4MzYwLC0xNDA5ODYzNjk5XX0=
+eyJoaXN0b3J5IjpbNzM1Mzk2MzcxLC0xMTQyNjcxNjYyLC0xOT
+Q5OTAxMDU0LC03Nzk0Mzk0OTUsNDk0MDg0NTU2LDE2OTgyOTY2
+NjksMTI0MDgzOTgzNywtOTYzMzIwOTk4LDE3MDcyNTU0MTksLT
+EzMTU3MTgzNjAsLTE0MDk4NjM2OTldfQ==
 -->
