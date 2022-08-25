@@ -1,3 +1,21 @@
+# Number type of sort:
+### Simple sorts[[edit](https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&action=edit&section=9 "Edit section: Simple sorts")]
+
+Two of the simplest sorts are insertion sort and selection sort, both of which are efficient on small data, due to low overhead, but not efficient on large data. Insertion sort is generally faster than selection sort in practice, due to fewer comparisons and good performance on almost-sorted data, and thus is preferred in practice, but selection sort uses fewer writes, and thus is used when write performance is a limiting factor.
+### Efficient sorts[[edit](https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&action=edit&section=12 "Edit section: Efficient sorts")]
+
+Practical general sorting algorithms are almost always based on an algorithm with average time complexity (and generally worst-case complexity) O(_n_  log  _n_), of which the most common are heapsort, merge sort, and quicksort. Each has advantages and drawbacks, with the most significant being that simple implementation of merge sort uses O(_n_) additional space, and simple implementation of quicksort has O(_n_2) worst-case complexity. These problems can be solved or ameliorated at the cost of a more complex algorithm
+### Bubble sort and variants[[edit](https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&action=edit&section=17 "Edit section: Bubble sort and variants")]
+
+Bubble sort, and variants such as the  [Shellsort](https://en.wikipedia.org/wiki/Shellsort "Shellsort")  and  [cocktail sort](https://en.wikipedia.org/wiki/Cocktail_sort "Cocktail sort"), are simple, highly inefficient sorting algorithms. They are frequently seen in introductory texts due to ease of analysis, but they are rarely used in practice.
+
+### Distribution sorts[[edit](https://en.wikipedia.org/w/index.php?title=Sorting_algorithm&action=edit&section=21 "Edit section: Distribution sorts")]
+
+See also:  [External sorting](https://en.wikipedia.org/wiki/External_sorting "External sorting")
+
+_Distribution sort_  refers to any sorting algorithm where data is distributed from their input to multiple intermediate structures which are then gathered and placed on the output. For example, both  [bucket sort](https://en.wikipedia.org/wiki/Bucket_sort "Bucket sort")  and  [flashsort](https://en.wikipedia.org/wiki/Flashsort "Flashsort")  are distribution based sorting algorithms. Distribution sorting algorithms can be used on a single processor, or they can be a  [distributed algorithm](https://en.wikipedia.org/wiki/Distributed_algorithm "Distributed algorithm"), where individual subsets are separately sorted on different processors, then combined. This allows  [external sorting](https://en.wikipedia.org/wiki/External_sorting "External sorting")  of data too large to fit into a single computer's memory.
+# Schwartzian transform
+In [computer programming](https://en.wikipedia.org/wiki/Computer_programming "Computer programming"), the **Schwartzian transform** is a technique used to improve the efficiency of [sorting](https://en.wikipedia.org/wiki/Sorting "Sorting") a list of items. This [idiom](https://en.wikipedia.org/wiki/Programming_idiom "Programming idiom")[[1]](https://en.wikipedia.org/wiki/Schwartzian_transform#cite_note-1) is appropriate for [comparison-based sorting](https://en.wikipedia.org/wiki/Comparison_sort "Comparison sort") when the ordering is actually based on the ordering of a certain property (the _key_) of the elements, where computing that property is an intensive operation that should be performed a minimal number of times. The Schwartzian transform is notable in that it does not use named temporary arrays.
 
 # Compare Sort Methods :
 | Names        | Average           |  Memory |Note|
@@ -97,6 +115,6 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE5NTg2OTUsLTc5NzgyNjM2NCwtOD
-U5MTc3Mzg5LC0xNTMzOTc2OTg0XX0=
+eyJoaXN0b3J5IjpbMTQ1NzYwMzI4NCwtMTE3MTk1ODY5NSwtNz
+k3ODI2MzY0LC04NTkxNzczODksLTE1MzM5NzY5ODRdfQ==
 -->
