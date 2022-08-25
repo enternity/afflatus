@@ -36,6 +36,9 @@ In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer s
 ## Random_permutation
 If a computer has access to purely random numbers, it is capable of generating a "perfect shuffle", a [random permutation](https://en.wikipedia.org/wiki/Random_permutation "Random permutation") of the cards; beware that this terminology (an algorithm that perfectly randomizes the deck) differs from "a perfectly executed single shuffle", notably a perfectly interleaving [faro shuffle](https://en.wikipedia.org/wiki/Faro_shuffle "Faro shuffle"). The [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle "Fisher–Yates shuffle"), popularized by [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth "Donald Knuth"), is simple (a few lines of code) and efficient ([O](https://en.wikipedia.org/wiki/Big_O_notation "Big O notation")(_n_) on an _n_-card deck, assuming constant time for fundamental steps) algorithm for doing this. Shuffling can be seen as the opposite of [sorting](https://en.wikipedia.org/wiki/Sorting_algorithm "Sorting algorithm").
 
+## BogoSort
+
+In [computer science](https://en.wikipedia.org/wiki/Computer_science), **bogosort**[[1]](https://en.wikipedia.org/wiki/Bogosort#cite_note-Fun07-1)[[2]](https://en.wikipedia.org/wiki/Bogosort#cite_note-KSFS-2) (also known as **permutation sort**, **stupid sort**,[[3]](https://en.wikipedia.org/wiki/Bogosort#cite_note-3) or **slowsort**[[4]](https://en.wikipedia.org/wiki/Bogosort#cite_note-Naish86-4)) is a [sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm "Sorting algorithm") based on the [generate and test](https://en.wikipedia.org/wiki/Generate_and_test "Generate and test") paradigm. The function successively generates [permutations](https://en.wikipedia.org/wiki/Permutation "Permutation") of its input until it finds one that is sorted. It is not considered useful for sorting, but may be used for educational purposes, to contrast it with more efficient algorithms.
 # Compare Sort Methods :
 | Names        | Average           |  Memory |Note|
 |:------------- |:-------------:| -----:|:-------------|
@@ -134,6 +137,7 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODI4OTgwMiwtMTE3MTk1ODY5NSwtNz
-k3ODI2MzY0LC04NTkxNzczODksLTE1MzM5NzY5ODRdfQ==
+eyJoaXN0b3J5IjpbNTI2MDAyNDE0LDE1ODgyODk4MDIsLTExNz
+E5NTg2OTUsLTc5NzgyNjM2NCwtODU5MTc3Mzg5LC0xNTMzOTc2
+OTg0XX0=
 -->
