@@ -6,11 +6,11 @@
 	- _Bit synchronization_ : the physical layer provides the synchronization of the bits by providing a clock. (???)
 	- _Bit rate control_ : defines the transmission rate. example: the number of bits sent per second.
 	- _Physical topologies_ :  specifices the way in which the different, devices/nodes are arranged in a network. i.e bus, star, or mesh topology.
-	- __
+	- _Transmission mode_ : defines the way in which the data flows between 
 
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTQ1NDg4OCwxNzA3MjU1NDE5LC0xMz
-E1NzE4MzYwLC0xNDA5ODYzNjk5XX0=
+eyJoaXN0b3J5IjpbMzA4OTE4MjkxLDE3MDcyNTU0MTksLTEzMT
+U3MTgzNjAsLTE0MDk4NjM2OTldfQ==
 -->
