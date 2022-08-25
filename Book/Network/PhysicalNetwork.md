@@ -67,9 +67,14 @@
 - Limit s the rate at which a sender transfers data. This is done to ensure reliable delivery.
 - The receiver continually hints the sender on how much data can be received.
 3. **Error control** :
-- Implements an error control machanism
+- Implements an error control mechanism.
+- Error control is byte-oriented.
+- Segments are checked for error detection.
+4. **Congestion Control**
+- The level of congestion in the network.
+- Congestion level is determined by the amount of data sent by a sender.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc5MzY2OTIsNTg4NDQyNzU5LDczNT
+eyJoaXN0b3J5IjpbLTIxMDQ1NTAxNTYsNTg4NDQyNzU5LDczNT
 M5NjM3MSwtMTE0MjY3MTY2MiwtMTk0OTkwMTA1NCwtNzc5NDM5
 NDk1LDQ5NDA4NDU1NiwxNjk4Mjk2NjY5LDEyNDA4Mzk4MzcsLT
 k2MzMyMDk5OCwxNzA3MjU1NDE5LC0xMzE1NzE4MzYwLC0xNDA5
