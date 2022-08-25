@@ -25,12 +25,11 @@
 	- _Routing_ : Determine which route is suitable from source to destination.
 	- _Logical Addressing_ : Identify each device on internet work uniquely, the network layer defines an addressing scheme.
 
-> **Segment in Network layer is referred to as Packet*
->*Network layer is implemented by networking devices such as routers*
+
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODI5NjY2OSwxMjQwODM5ODM3LC05Nj
-MzMjA5OTgsMTcwNzI1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2
-MzY5OV19
+eyJoaXN0b3J5IjpbNDkwNzU5MTcwLDE2OTgyOTY2NjksMTI0MD
+gzOTgzNywtOTYzMzIwOTk4LDE3MDcyNTU0MTksLTEzMTU3MTgz
+NjAsLTE0MDk4NjM2OTldfQ==
 -->
