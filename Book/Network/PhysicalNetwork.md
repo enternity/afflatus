@@ -26,11 +26,11 @@
 
 4. **Transport Layer**
 - Provides services to the application layer and takes services from the network layer. It is responsible for the End to End delivery of the complete message. The transport layer also provides the acknowledgment of the successful data transmission and re-transmits the data if an error is found.
-- _**At sender's side**_ : formatted data from the upper layers, performs **Segmentation**, also  implement **F**
+- _**At sender's side**_ : formatted data from the upper layers, performs **Segmentation**, also  implement **Flow & Error control** to ensure proper data transmission. It also adds Source and Destination port numbers in its header and forwards the segmented data to the Network Layer.
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NDAxNTAyLDE2OTgyOTY2NjksMTI0MD
+eyJoaXN0b3J5IjpbNDk0MDg0NTU2LDE2OTgyOTY2NjksMTI0MD
 gzOTgzNywtOTYzMzIwOTk4LDE3MDcyNTU0MTksLTEzMTU3MTgz
 NjAsLTE0MDk4NjM2OTldfQ==
 -->
