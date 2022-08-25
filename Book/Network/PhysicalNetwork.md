@@ -20,11 +20,14 @@
 	- _Flow control_ : coordinates the amount of data that can be sent before receiving ack.
 	- _Access Control_ : When a single communication channel is shared by multiple devices, the MAC sub-layer of the data link layer helps to determine which device has control over the channel at a given time.
 3. **Network Layer**
-- The network layer works for the transmission of data from one host to the other located in different networks. Takes care p
+- The network layer works for the transmission of data from one host to the other located in different networks. Takes care of package routing. The sender & receiver's IP addresses are placed in the header by the network layer.
+- The functions of the Network layer are:
+	- _Routing_ : Determine which route is suitable from source to destination.
+	- _Logical Addressing_ : Identify each device on internet work uniquely, the network layer d
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA2NDIzNzUsMTI0MDgzOTgzNywtOT
-YzMzIwOTk4LDE3MDcyNTU0MTksLTEzMTU3MTgzNjAsLTE0MDk4
-NjM2OTldfQ==
+eyJoaXN0b3J5IjpbLTY3OTI3NzA1NiwxMjQwODM5ODM3LC05Nj
+MzMjA5OTgsMTcwNzI1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2
+MzY5OV19
 -->
