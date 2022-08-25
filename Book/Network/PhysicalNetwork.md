@@ -36,12 +36,13 @@
 			- Connection establishment.
 			- Data transfer.
 			- Termination / Disconnection.
-			> The receiving device sends an acknowledgment, back to the source after packet or group packets is received. This type of t
+			> The receiving device sends an acknowledgment, back to the source after packet or group packets is received. More reliable & secure.
+		- **Connectionless Service** : it is a one-phase process and includes Data Transfer. The receiver does not acknowledge receipt of a packet. Much faster communication between devices.
+		- 
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkyNzQ2MTAsLTc3OTQzOTQ5NSw0OT
-QwODQ1NTYsMTY5ODI5NjY2OSwxMjQwODM5ODM3LC05NjMzMjA5
-OTgsMTcwNzI1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2MzY5OV
-19
+eyJoaXN0b3J5IjpbOTc3NzMzNDAsLTc3OTQzOTQ5NSw0OTQwOD
+Q1NTYsMTY5ODI5NjY2OSwxMjQwODM5ODM3LC05NjMzMjA5OTgs
+MTcwNzI1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2MzY5OV19
 -->
