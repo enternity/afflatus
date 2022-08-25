@@ -30,6 +30,11 @@ In  [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer 
 
 In terms of indices, in a partially sorted list, for every index  _i_  from 1 to  _k,_  the  _i_-th element is in the same place as it would be in the fully sorted list: element  _i_  of the partially sorted list contains  [order statistic](https://en.wikipedia.org/wiki/Order_statistic "Order statistic")  _i_  of the input list.
 
+## Selection algorithm
+In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"), a **selection algorithm** is an [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") for finding the _k_th smallest number in a [list](https://en.wikipedia.org/wiki/List_(abstract_data_type) "List (abstract data type)") or [array](https://en.wikipedia.org/wiki/Array_data_structure "Array data structure"); such a number is called the _k_th _[order statistic](https://en.wikipedia.org/wiki/Order_statistic "Order statistic")_. This includes the cases of finding the [minimum](https://en.wikipedia.org/wiki/Minimum "Minimum"), [maximum](https://en.wikipedia.org/wiki/Maximum "Maximum"), and [median](https://en.wikipedia.org/wiki/Median "Median") elements. There are O(_n_)-time (worst-case linear time) selection algorithms, and sublinear performance is possible for structured data; in the extreme, O(1) for an array of sorted data. Selection is a subproblem of more complex problems like the [nearest neighbor](https://en.wikipedia.org/wiki/Nearest_neighbor_problem "Nearest neighbor problem") and [shortest path](https://en.wikipedia.org/wiki/Shortest_path "Shortest path") problems. Many selection algorithms are derived by generalizing a [sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm "Sorting algorithm"), and conversely some sorting algorithms can be derived as repeated application of selection.
+
+
+
 # Compare Sort Methods :
 | Names        | Average           |  Memory |Note|
 |:------------- |:-------------:| -----:|:-------------|
@@ -128,6 +133,6 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2MDY4NzMzLC0xMTcxOTU4Njk1LC03OT
+eyJoaXN0b3J5IjpbMjk0ODU4NTI3LC0xMTcxOTU4Njk1LC03OT
 c4MjYzNjQsLTg1OTE3NzM4OSwtMTUzMzk3Njk4NF19
 -->
