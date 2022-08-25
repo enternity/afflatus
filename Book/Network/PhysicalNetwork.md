@@ -45,11 +45,12 @@
 6. **Presentation Layer**
 - The data from the application layer is extracted here and manipulated as per the required format the required format to transmit over the network.
 	- Translation: I.e ASCII, EBCDIC.
-	- Encryption / Decryption : 
+	- Encryption / Decryption : data encryption translates the data into another form or code.
+	- Compression : reduces the number of bits that need to be transmitted on the network.
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDQwNTQ4MywtNzc5NDM5NDk1LDQ5ND
-A4NDU1NiwxNjk4Mjk2NjY5LDEyNDA4Mzk4MzcsLTk2MzMyMDk5
-OCwxNzA3MjU1NDE5LC0xMzE1NzE4MzYwLC0xNDA5ODYzNjk5XX
-0=
+eyJoaXN0b3J5IjpbLTE5NDk5MDEwNTQsLTc3OTQzOTQ5NSw0OT
+QwODQ1NTYsMTY5ODI5NjY2OSwxMjQwODM5ODM3LC05NjMzMjA5
+OTgsMTcwNzI1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2MzY5OV
+19
 -->
