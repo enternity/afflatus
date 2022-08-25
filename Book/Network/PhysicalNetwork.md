@@ -25,11 +25,12 @@
 	- _Logical Addressing_ : Identify each device on internet work uniquely, the network layer defines an addressing scheme.
 
 4. **Transport Layer**
-- Provides services to the application layer and takes services from the network layer. It is responsible for the End to End delivery of the complete message.
+- Provides services to the application layer and takes services from the network layer. It is responsible for the End to End delivery of the complete message. The transport layer also provides the acknowledgment of the successful data transmission and re-transmits the data if an error is found.
+- _**At sender's side**_ : formatted data from the upper layers, performs **Segmentation**, also  implement **F**
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzcxNDY4NCwxNjk4Mjk2NjY5LDEyND
-A4Mzk4MzcsLTk2MzMyMDk5OCwxNzA3MjU1NDE5LC0xMzE1NzE4
-MzYwLC0xNDA5ODYzNjk5XX0=
+eyJoaXN0b3J5IjpbNTU1NDAxNTAyLDE2OTgyOTY2NjksMTI0MD
+gzOTgzNywtOTYzMzIwOTk4LDE3MDcyNTU0MTksLTEzMTU3MTgz
+NjAsLTE0MDk4NjM2OTldfQ==
 -->
