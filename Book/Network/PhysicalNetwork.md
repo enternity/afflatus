@@ -20,9 +20,11 @@
 	- _Flow control_ : coordinates the amount of data that can be sent before receiving ack.
 	- _Access Control_ : When a single communication channel is shared by multiple devices, the MAC sub-layer of the data link layer helps to determine which device has control over the channel at a given time.
 3. **Network Layer**
+- The network layer works for the transmission of data from one host to the other located in different networks. Takes care p
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDgzOTgzNywtOTYzMzIwOTk4LDE3MD
-cyNTU0MTksLTEzMTU3MTgzNjAsLTE0MDk4NjM2OTldfQ==
+eyJoaXN0b3J5IjpbLTEzNzA2NDIzNzUsMTI0MDgzOTgzNywtOT
+YzMzIwOTk4LDE3MDcyNTU0MTksLTEzMTU3MTgzNjAsLTE0MDk4
+NjM2OTldfQ==
 -->
