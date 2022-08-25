@@ -65,11 +65,13 @@
 
 2. **Flow Control** :
 - Limit s the rate at which a sender transfers data. This is done to ensure reliable delivery.
-- 
+- The receiver continually hints the sender on how much data can be received.
+3. **Error control** :
+- Implements an error control machanism
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjM1OTE3MCw1ODg0NDI3NTksNzM1Mz
-k2MzcxLC0xMTQyNjcxNjYyLC0xOTQ5OTAxMDU0LC03Nzk0Mzk0
-OTUsNDk0MDg0NTU2LDE2OTgyOTY2NjksMTI0MDgzOTgzNywtOT
-YzMzIwOTk4LDE3MDcyNTU0MTksLTEzMTU3MTgzNjAsLTE0MDk4
-NjM2OTldfQ==
+eyJoaXN0b3J5IjpbLTE2NDc5MzY2OTIsNTg4NDQyNzU5LDczNT
+M5NjM3MSwtMTE0MjY3MTY2MiwtMTk0OTkwMTA1NCwtNzc5NDM5
+NDk1LDQ5NDA4NDU1NiwxNjk4Mjk2NjY5LDEyNDA4Mzk4MzcsLT
+k2MzMyMDk5OCwxNzA3MjU1NDE5LC0xMzE1NzE4MzYwLC0xNDA5
+ODYzNjk5XX0=
 -->
