@@ -14,9 +14,11 @@
 	- Media Access Control (MAC)
 - DDL encapsulates Sender and Receiver's MAC address in the header. 
 - The functions of the Data Link Layer are:
-	- _Framing_ : provides a way for a sender to transmit a set of bits that are meaningful 
+	- _Framing_ : provides a way for a sender to transmit a set of bits that are meaningful to the receiver.
+	- _Physical addressing_ : After creating frames, DDL adds physical address (MAC) of the sender and/or receiver in the header of each frame.
+	- _Error control_ : provides the mechanism of error 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzM5OTg5NCwtOTYzMzIwOTk4LDE3MD
+eyJoaXN0b3J5IjpbMTM1Nzg2NzUxNywtOTYzMzIwOTk4LDE3MD
 cyNTU0MTksLTEzMTU3MTgzNjAsLTE0MDk4NjM2OTldfQ==
 -->
