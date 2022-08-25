@@ -6,11 +6,11 @@
 	- _Bit synchronization_ : the physical layer provides the synchronization of the bits by providing a clock. (???)
 	- _Bit rate control_ : defines the transmission rate. example: the number of bits sent per second.
 	- _Physical topologies_ :  specifices the way in which the different, devices/nodes are arranged in a network. i.e bus, star, or mesh topology.
-	- _Transmission mode_ : defines the way in which the data flows between the two connected devices. Transmission modes possible are : `Simplex, Half-Duplex, Full-Duplex.
-
+	- _Transmission mode_ : defines the way in which the data flows between the two connected devices. Transmission modes possible are : `Simplex, Half-Duplex, Full-Duplex.` [Transmission mode](https://www.geeksforgeeks.org/difference-between-simplex-half-duplex-and-full-duplex-transmission-modes/#:~:text=Simplex%20mode%20is%20a%20uni,two%2Dway%20directional%20communication%20simultaneously.)
+2
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjU4ODQ2MSwxNzA3MjU1NDE5LC0xMz
-E1NzE4MzYwLC0xNDA5ODYzNjk5XX0=
+eyJoaXN0b3J5IjpbLTEwNzkyNzAxMjksMTcwNzI1NTQxOSwtMT
+MxNTcxODM2MCwtMTQwOTg2MzY5OV19
 -->
