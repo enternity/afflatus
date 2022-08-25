@@ -41,6 +41,8 @@ If a computer has access to purely random numbers, it is capable of generating a
 In [computer science](https://en.wikipedia.org/wiki/Computer_science), **bogosort**[[1]](https://en.wikipedia.org/wiki/Bogosort#cite_note-Fun07-1)[[2]](https://en.wikipedia.org/wiki/Bogosort#cite_note-KSFS-2) (also known as **permutation sort**, **stupid sort**,[[3]](https://en.wikipedia.org/wiki/Bogosort#cite_note-3) or **slowsort**[[4]](https://en.wikipedia.org/wiki/Bogosort#cite_note-Naish86-4)) is a [sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm "Sorting algorithm") based on the [generate and test](https://en.wikipedia.org/wiki/Generate_and_test "Generate and test") paradigm. The function successively generates [permutations](https://en.wikipedia.org/wiki/Permutation "Permutation") of its input until it finds one that is sorted. It is not considered useful for sorting, but may be used for educational purposes, to contrast it with more efficient algorithms.
 
 ## Bead Sort
+**Bead sort**, also called **gravity sort**, is a [natural](https://en.wikipedia.org/wiki/Natural_computing "Natural computing")  [sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm "Sorting algorithm"), developed by [Joshua J. Arulanandham](https://en.wikipedia.org/w/index.php?title=Joshua_J._Arulanandham&action=edit&redlink=1 "Joshua J. Arulanandham (page does not exist)"), [Cristian S. Calude](https://en.wikipedia.org/wiki/Cristian_S._Calude "Cristian S. Calude") and [Michael J. Dinneen](https://en.wikipedia.org/wiki/Michael_J._Dinneen "Michael J. Dinneen") in 2002, and published in _The Bulletin of the  [European Association for Theoretical Computer Science](https://en.wikipedia.org/wiki/European_Association_for_Theoretical_Computer_Science "European Association for Theoretical Computer Science")_.[[1]](https://en.wikipedia.org/wiki/Bead_sort#cite_note-bead-sort-paper-1) Both [digital](https://en.wikipedia.org/wiki/Digital_data "Digital data") and [analog](https://en.wikipedia.org/wiki/Analog_computer "Analog computer") hardware [implementations](https://en.wikipedia.org/wiki/Implementation "Implementation") of bead sort can achieve a sorting time of _[O](https://en.wikipedia.org/wiki/Big_O_Notation "Big O Notation")_(_n_); however, the implementation of this algorithm tends to be significantly slower in [software](https://en.wikipedia.org/wiki/Software "Software") and can only be used to sort lists of [positive integers](https://en.wikipedia.org/wiki/Positive_integer "Positive integer"). Also, it would seem that even in the best case, the algorithm requires _[O](https://en.wikipedia.org/wiki/Big_O_Notation "Big O Notation")_(_n2_) space.
+
 
 # Compare Sort Methods :
 | Names        | Average           |  Memory |Note|
@@ -140,7 +142,7 @@ def heapSort(arr):
 4. **Insertion Sort**:
 > continue ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDQ2MTQ4LDE1ODgyODk4MDIsLTExNz
+eyJoaXN0b3J5IjpbMjYzNjk5NzcyLDE1ODgyODk4MDIsLTExNz
 E5NTg2OTUsLTc5NzgyNjM2NCwtODU5MTc3Mzg5LC0xNTMzOTc2
 OTg0XX0=
 -->
