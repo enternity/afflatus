@@ -23,11 +23,14 @@
 - The network layer works for the transmission of data from one host to the other located in different networks. Takes care of package routing. The sender & receiver's IP addresses are placed in the header by the network layer.
 - The functions of the Network layer are:
 	- _Routing_ : Determine which route is suitable from source to destination.
-	- _Logical Addressing_ : Identify each device on internet work uniquely, the network layer d
+	- _Logical Addressing_ : Identify each device on internet work uniquely, the network layer defines an addressing scheme.
+
+> **Segment in Network layer is referred to as Packet*
+>*Network layer is implemented by networking devices such as routers*
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTI3NzA1NiwxMjQwODM5ODM3LC05Nj
+eyJoaXN0b3J5IjpbMTY5ODI5NjY2OSwxMjQwODM5ODM3LC05Nj
 MzMjA5OTgsMTcwNzI1NTQxOSwtMTMxNTcxODM2MCwtMTQwOTg2
 MzY5OV19
 -->
