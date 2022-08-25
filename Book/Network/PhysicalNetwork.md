@@ -42,10 +42,12 @@
 	- Session establishment, maintenance, and termination.
 	- Synchronization : Add checkpoints which are considered synchronization points into data. helps to identify the error so that data is re-synchronized properly.
 	- Dialog Controller : Allows two systems to start communication with each other in half-duplex or full-duplex.
-6. **Presentation **
+6. **Presentation Layer**
+- The data from the application layer is extracted here and manipulated as per the required format the required format to transmit over the network.
+	- Translation: I.e ASCII, EBCDIC
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjE2OTAyNywtNzc5NDM5NDk1LDQ5ND
+eyJoaXN0b3J5IjpbMTI3MzA5MjUzOSwtNzc5NDM5NDk1LDQ5ND
 A4NDU1NiwxNjk4Mjk2NjY5LDEyNDA4Mzk4MzcsLTk2MzMyMDk5
 OCwxNzA3MjU1NDE5LC0xMzE1NzE4MzYwLC0xNDA5ODYzNjk5XX
 0=
