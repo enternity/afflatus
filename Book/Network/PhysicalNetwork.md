@@ -1,5 +1,4 @@
 # Mô hình OSI
-## Hardware Layer :
 1. **Physical Layer**
 - It is responsible for the actual physical connection between devices. It is responsible for transmitting individual bits from one node to the next. When receiving data, this layer will get the signal received and convert it into 0s and 1s and send them to the Data Link layer, which is put the frame back together.
 - The functions of the physical layer are as follows:
@@ -25,11 +24,12 @@
 	- _Routing_ : Determine which route is suitable from source to destination.
 	- _Logical Addressing_ : Identify each device on internet work uniquely, the network layer defines an addressing scheme.
 
-
+4. **Transport Layer**
+- Provides services to the application layer and takes services from the network layer. It is responsible for the End to End delivery of the complete message.
 
 # Different TCP  and UDP protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNzU5MTcwLDE2OTgyOTY2NjksMTI0MD
-gzOTgzNywtOTYzMzIwOTk4LDE3MDcyNTU0MTksLTEzMTU3MTgz
-NjAsLTE0MDk4NjM2OTldfQ==
+eyJoaXN0b3J5IjpbMTEyNzcxNDY4NCwxNjk4Mjk2NjY5LDEyND
+A4Mzk4MzcsLTk2MzMyMDk5OCwxNzA3MjU1NDE5LC0xMzE1NzE4
+MzYwLC0xNDA5ODYzNjk5XX0=
 -->
