@@ -73,6 +73,8 @@
 4. **Congestion Control**
 - The level of congestion in the network.
 - Congestion level is determined by the amount of data sent by a sender.
+
+# Differences between 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQ1NTAxNTZdfQ==
+eyJoaXN0b3J5IjpbMTM1ODc5OTI0OSwtMjEwNDU1MDE1Nl19
 -->
