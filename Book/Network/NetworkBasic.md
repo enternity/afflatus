@@ -77,13 +77,13 @@
 # Differences between 
 
 
+|  Basis | TCP  | UDP  | 
+|:---|:---|:---|
+|  Type of service | Connection-oriented protocol. Must be establish connection before transmitting data, close connection after transmitting the data  | Datagram-oriented protocol. No overhead for opening a connection  |  
+|   |   |   |  
 |   |   |   | 
-|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc1ODg2NDYsMTM1ODc5OTI0OSwtMj
-EwNDU1MDE1Nl19
+eyJoaXN0b3J5IjpbODU3MDY2MTA5LDEzNTg3OTkyNDksLTIxMD
+Q1NTAxNTZdfQ==
 -->
