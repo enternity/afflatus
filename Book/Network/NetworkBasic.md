@@ -81,9 +81,10 @@
 |:---|:---|:---|
 |  Type of service | Connection-oriented protocol. Must be establish connection before transmitting data, close connection after transmitting the data  | Datagram-oriented protocol. No overhead for opening, maintain, terminate connection  |  
 | Reliability  |  guarantees the delivery of data | no guaranteed   |  
-| Error checking mechanism  | provides extensive error-checking mechanis  |   | 
+| Error checking mechanism  | provides extensive error-checking mechanisms. Because it provides flow control and acknowledge of data  |  Base on checksum | 
+|Acknowledgment|An acknowledgement segment is present|No acknowledg|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTE5MDc2MywxMzU4Nzk5MjQ5LC0yMT
-A0NTUwMTU2XX0=
+eyJoaXN0b3J5IjpbLTE5MDY1OTk0MjYsMTM1ODc5OTI0OSwtMj
+EwNDU1MDE1Nl19
 -->
