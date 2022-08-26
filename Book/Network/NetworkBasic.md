@@ -85,9 +85,9 @@
 |Acknowledgment|An acknowledgement segment is present|No acknowledgment segment|
 |Speed|Slower than UDP|Faster, simple than TCP|
 |Re-transmission|Supported|No supported|
-|Header Length|TCP has a ||
+|Header Length|TCP has a ||	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjQzMDY3LDEzNTg3OTkyNDksLTIxMD
-Q1NTAxNTZdfQ==
+eyJoaXN0b3J5IjpbNjUxNjYzNDY5LC00MTI0MzA2NywxMzU4Nz
+k5MjQ5LC0yMTA0NTUwMTU2XX0=
 -->
