@@ -79,11 +79,11 @@
 
 |  Basis | TCP  | UDP  | 
 |:---|:---|:---|
-|  Type of service | Connection-oriented protocol. Must be establish connection before transmitting data, close connection after transmitting the data  | Datagram-oriented protocol. No overhead for opening a connection  |  
-|   |   |   |  
-|   |   |   | 
+|  Type of service | Connection-oriented protocol. Must be establish connection before transmitting data, close connection after transmitting the data  | Datagram-oriented protocol. No overhead for opening, maintain, terminate connection  |  
+| Reliability  |  guarantees the delivery of data | no guaranteed   |  
+| Error checking mechanism  | provides extensive error-checking mechanis  |   | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3MDY2MTA5LDEzNTg3OTkyNDksLTIxMD
-Q1NTAxNTZdfQ==
+eyJoaXN0b3J5IjpbLTMyMTE5MDc2MywxMzU4Nzk5MjQ5LC0yMT
+A0NTUwMTU2XX0=
 -->
