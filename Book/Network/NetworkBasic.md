@@ -82,9 +82,12 @@
 |  Type of service | Connection-oriented protocol. Must be establish connection before transmitting data, close connection after transmitting the data  | Datagram-oriented protocol. No overhead for opening, maintain, terminate connection  |  
 | Reliability  |  guarantees the delivery of data | no guaranteed   |  
 | Error checking mechanism  | provides extensive error-checking mechanisms. Because it provides flow control and acknowledge of data  |  Base on checksum | 
-|Acknowledgment|An acknowledgement segment is present|No acknowledg|
+|Acknowledgment|An acknowledgement segment is present|No acknowledgment segment|
+|Speed|Slower than UDP|Faster, simple than TCP|
+|Re-transmission|Supported|No supported|
+|Header Length|TCP has a ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY1OTk0MjYsMTM1ODc5OTI0OSwtMj
-EwNDU1MDE1Nl19
+eyJoaXN0b3J5IjpbLTQxMjQzMDY3LDEzNTg3OTkyNDksLTIxMD
+Q1NTAxNTZdfQ==
 -->
