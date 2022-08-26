@@ -1,4 +1,4 @@
-# Mô hình OSI
+# OSI Model
 1. **Physical Layer**
 - It is responsible for the actual physical connection between devices. It is responsible for transmitting individual bits from one node to the next. When receiving data, this layer will get the signal received and convert it into 0s and 1s and send them to the Data Link layer, which is put the frame back together.
 - The functions of the physical layer are as follows:
@@ -88,8 +88,11 @@
 |Header Length|20-60 bytes variable length header|8 bytes fixed-length header|	
 |Handshaking|3-times handshake : SYN, ACK, SYNC-ACK|No handshake|
 |Broadcasting (_is a technique that allows sending UDP datagram from a single source to all computers in a LAN_)|No supported|Supported|
+|Protocols|HTTP, HTTPS, FTP, SMTP and telnet|DNS, DHCP, TFTP, SNMP, RIP, VoIP|
+|Stream Type|byte stream|message stream|
+|Overhead|low but higher than UDP|very low|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTc1MzQ1NCwtNDEyNDMwNjcsMTM1OD
+eyJoaXN0b3J5IjpbMTkwMTkwMjU2NywtNDEyNDMwNjcsMTM1OD
 c5OTI0OSwtMjEwNDU1MDE1Nl19
 -->
