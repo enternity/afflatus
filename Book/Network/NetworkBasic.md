@@ -87,9 +87,9 @@
 |Re-transmission|Supported|No supported|
 |Header Length|20-60 bytes variable length header|8 bytes fixed-length header|	
 |Handshaking|3-times handshake : SYN, ACK, SYNC-ACK|No handshake|
-|Broadcasting|No supported|Supported|
+|Broadcasting (_is a technique that allows sending UDP datagram from a single source to all computers in a LAN_)|No supported|Supported|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjQ4NjQ2MiwtNDEyNDMwNjcsMTM1OD
+eyJoaXN0b3J5IjpbMTk3MTc1MzQ1NCwtNDEyNDMwNjcsMTM1OD
 c5OTI0OSwtMjEwNDU1MDE1Nl19
 -->
