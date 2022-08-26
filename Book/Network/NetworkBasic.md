@@ -85,9 +85,11 @@
 |Acknowledgment|An acknowledgement segment is present|No acknowledgment segment|
 |Speed|Slower than UDP|Faster, simple than TCP|
 |Re-transmission|Supported|No supported|
-|Header Length|TCP has a ||	
+|Header Length|20-60 bytes variable length header|8 bytes fixed-length header|	
+|Handshaking|3-times handshake : SYN, ACK, SYNC-ACK|No handshake|
+|Broadcasting|No supported|Supported|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNjYzNDY5LC00MTI0MzA2NywxMzU4Nz
-k5MjQ5LC0yMTA0NTUwMTU2XX0=
+eyJoaXN0b3J5IjpbLTQ5NjQ4NjQ2MiwtNDEyNDMwNjcsMTM1OD
+c5OTI0OSwtMjEwNDU1MDE1Nl19
 -->
