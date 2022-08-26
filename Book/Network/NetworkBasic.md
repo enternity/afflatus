@@ -58,6 +58,7 @@
 - TCP keeps track of the segments being transmitted or being received by assigning numbers ti each and every single one of them.
 - A specific `ByteNumber` is assigned to data bytes that are to be transferred while segments are assigned `sequence number`.
 - `Acknowledgment Numbers` are assigned to received segments.
+- The _sequence number_ is a counter used to keep track of every byte sent outward by a host. If a TCP packet contains 1400 bytes of data, then the sequence number will be increased by 1400 after the packet is transmitted.
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/tcp1-2.png"/>
 
@@ -93,6 +94,6 @@
 |Overhead|low but higher than UDP|very low|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTkwMjU2NywtNDEyNDMwNjcsMTM1OD
-c5OTI0OSwtMjEwNDU1MDE1Nl19
+eyJoaXN0b3J5IjpbMzAzMTQ5NzQ0LDE5MDE5MDI1NjcsLTQxMj
+QzMDY3LDEzNTg3OTkyNDksLTIxMDQ1NTAxNTZdfQ==
 -->
