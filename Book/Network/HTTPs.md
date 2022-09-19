@@ -8,6 +8,11 @@
 1. **Encryption** : hides the data being transferred from third parties.
 2. **Authentication** : ensures that the parties exchanging information are who the claim to be.
 3. **Integrity** : verifies that the data has not been forged or tampered with.
+
+# How does TLS work?
+
+<img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/3wZIhjRIjfVSmCbVqkBKzb/4a7aa34324108c725dc25fc9e7c4ea4a/tls-ssl-handshake.png">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzY3Mjk1MiwxNjEyNDA2Mjc5XX0=
+eyJoaXN0b3J5IjpbMzgyNzY5MTI3LC00ODM2NzI5NTIsMTYxMj
+QwNjI3OV19
 -->
