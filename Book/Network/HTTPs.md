@@ -7,7 +7,7 @@
 # What does TLS do?
 1. **Encryption** : hides the data being transferred from third parties.
 2. **Authentication** : ensures that the parties exchanging information are who the claim to be.
-3. **Integrity** : verifies that the data h
+3. **Integrity** : verifies that the data has not been forged or tampered with.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4NDAyNTI3LDE2MTI0MDYyNzldfQ==
+eyJoaXN0b3J5IjpbLTQ4MzY3Mjk1MiwxNjEyNDA2Mjc5XX0=
 -->
