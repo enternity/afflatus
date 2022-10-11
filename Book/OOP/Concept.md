@@ -10,8 +10,8 @@
 ## Polymorphism
 - This is property is allow one command create execute many different ways.
 1. **Overloading** : nhiều thuộc tính, phương thức cùng tên nhưng khác nhau về tham số. Khi được gọi dựa vào tham số được truyền vào, phương thức tương ứng sẽ được thực hiện.
-2. **Overrding** : hai phương thức cùng tên, cùng tham số, cùng kiểu trả về nhưng thằng con viết lại và dùng theo cách 
+2. **Overrding** : hai phương thức cùng tên, cùng tham số, cùng kiểu trả về nhưng thằng con viết lại và dùng theo cách của nó.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg4NzI2NTEsMTQ4Nzg2MTU1NCwxOD
+eyJoaXN0b3J5IjpbLTIxMjE5MTQ3OTEsMTQ4Nzg2MTU1NCwxOD
 Q2OTY4OTAwXX0=
 -->
