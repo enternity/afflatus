@@ -4,6 +4,10 @@
 
 ## Abstraction 
 - This is the process of creating reusable objects that are designed to standardize common business logic. An important part of abstraction is the way that the objects are used. This helps to standardize the logic and makes it easier to maintain across various programs.
+
+## Inheritance
+- This property is allow we create new class based on existed class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Nzg2MTU1NCwxODQ2OTY4OTAwXX0=
+eyJoaXN0b3J5IjpbNjM2NzMzMjEzLDE0ODc4NjE1NTQsMTg0Nj
+k2ODkwMF19
 -->
