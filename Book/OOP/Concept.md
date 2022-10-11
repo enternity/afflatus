@@ -1,6 +1,7 @@
 # Definition of OOP Concepts.
-## Abstraction
+## Encapsulation
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1Nzc2MTY0XX0=
+eyJoaXN0b3J5IjpbMTg0Njk2ODkwMF19
 -->
