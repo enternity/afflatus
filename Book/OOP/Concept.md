@@ -3,7 +3,7 @@
 - That is emphasizes the encapsulation of data and functionality within objects. Objects are defined with specific functionality that governs the intercations between the objects. Encapsulation is the process by which programmers isolate within the object.
 
 ## Abstraction 
-- This is the process of creating reusable objects that are designed to standardize common business logic. An important part of abstraction is the way that the objects are used.
+- This is the process of creating reusable objects that are designed to standardize common business logic. An important part of abstraction is the way that the objects are used. This helps to standardize the logic and makes it easier to maintain across various programs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDk1NTA5NCwxODQ2OTY4OTAwXX0=
+eyJoaXN0b3J5IjpbMTQ4Nzg2MTU1NCwxODQ2OTY4OTAwXX0=
 -->
