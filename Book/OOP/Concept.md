@@ -6,8 +6,11 @@
 - This is the process of creating reusable objects that are designed to standardize common business logic. An important part of abstraction is the way that the objects are used. This helps to standardize the logic and makes it easier to maintain across various programs.
 
 ## Inheritance
-- This property is allow we create new class based on existed class
+- This property is allow we create new class based on existed class.
+## Polymorphism
+- This is property is allow one command create execute many different ways.
+1. **Overloading** : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2NzMzMjEzLDE0ODc4NjE1NTQsMTg0Nj
-k2ODkwMF19
+eyJoaXN0b3J5IjpbLTIwNDM1Mzg2NDIsMTQ4Nzg2MTU1NCwxOD
+Q2OTY4OTAwXX0=
 -->
