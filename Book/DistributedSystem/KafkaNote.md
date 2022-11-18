@@ -11,8 +11,8 @@
 1. Fundamental Kafka Consumer
 2. Kafka Consumer Group protocol :  https://developer.confluent.io/learn-kafka/architecture/consumer-group-protocol/
 3. Rebalancing protocol : https://www.confluent.io/online-talks/everything-you-always-wanted-to-know-about-kafkas-rebalance-protocol-but-were-afraid-to-ask-on-demand/
-4. 
+4. O
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ0ODI0NDAsLTE2NzIwOTUyMiwxNT
-QxODM2NDY1XX0=
+eyJoaXN0b3J5IjpbLTYwOTYzOTQ0MywtMTY3MjA5NTIyLDE1ND
+E4MzY0NjVdfQ==
 -->
