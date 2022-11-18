@@ -5,10 +5,12 @@
 1. Fundamental Kafka Producer.
 2. Advanced configuration Kafka Producer : https://www.conduktor.io/kafka/idempotent-kafka-producer
 3. **Network** (especially for Java (zero copy,...))
+4. Kafka Producer transaction
 
 # Consumer
 1. Fundamental Kafka Consumer
-2. 
+2. Kafka Consumer Group 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIwOTUyMiwxNTQxODM2NDY1XX0=
+eyJoaXN0b3J5IjpbMTAwNzUxNDU0OSwtMTY3MjA5NTIyLDE1ND
+E4MzY0NjVdfQ==
 -->
