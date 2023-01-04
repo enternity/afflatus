@@ -10,8 +10,8 @@
 ## Shared memory
 - A region of memory that is shared by cooperating processes can then exchange information by reading and writing data to the shared region.
 ## Message passing
-- Communication takes place by means of messages exchanged between the c
+- Communication takes place by means of messages exchanged between the cooperating processes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3MjMzNDE3LC05OTgzODI1MDksLTIwOD
-g3NDY2MTIsLTEzODExODA4OTUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTU3NjE1NTA5MiwtOTk4MzgyNTA5LC0yMD
+g4NzQ2NjEyLC0xMzgxMTgwODk1LDczMDk5ODExNl19
 -->
