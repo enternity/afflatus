@@ -6,7 +6,12 @@
 -	With long-running background tasks.
 ## Android
 - Applications can run in the background. If an application requires processing while in the background, the application must use a **service**, a separate application component that runs on behalf of the background process. Consider a streaming audio application: if the application moves to the background, the service continues to send audio files to the audio device driver on behalf of the background application. In fact, the service will continue to run even if the background application is suspended. Services do not have a user interface and have a small memory footprint, thus providing an efiicient technique for multitasking in a mobile environment.
+# Interprocess Communication (IPC)
+## Shared memory
+- A region of memory that is shared by cooperating processes can then exchange information by reading and writing data to the shared region.
+## Message passing
+- Communication takes place by means of messages exchanged between the c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODM4MjUwOSwtMjA4ODc0NjYxMiwtMT
-M4MTE4MDg5NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzQ3MjMzNDE3LC05OTgzODI1MDksLTIwOD
+g3NDY2MTIsLTEzODExODA4OTUsNzMwOTk4MTE2XX0=
 -->
