@@ -47,7 +47,7 @@ if (myExName == myGirlFriendName) {
 }
 ```
 > When we run above code, we will have 
-```Yup, both are the same```
+ `Yup, both are the same`
 
 Strings are immutable, meaning that each time you do something with a string, another object is actually created on the heap. For strings, Java manages a string pool in memory. This means that Java stores and reuse strings whenever possible. This is mostly true for string literals
 
@@ -63,10 +63,10 @@ if (one == oneInt) {
 }
 ```
 > When we run above code, we will have 
-```They are not the same```
+`They are not the same
 
 > But when we do like this
-```String oneInt = new Integer(1).toString().intern()```  we will have the same result as a example 1.
+`String oneInt = new Integer(1).toString().intern()`  we will have the same result as a example 1.
 ## Garbage Collection Process 
 To go a bit deeper into the details, let’s mention a few things first:
 
